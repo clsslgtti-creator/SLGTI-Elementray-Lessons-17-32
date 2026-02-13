@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "m'o'torbike",
+        "word_text": "g'ear'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Start the m'o'torbike before others arrive.",
+        "sentence_text": "Shift the g'ear' slowly when driving.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "r'oa'd",
+        "word_text": "st'eer'ing",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He never parks new vehicles on the r'oa'd.",
+        "sentence_text": "Turn the st'eer'ing wheel to the left.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sp'o'ke",
+        "word_text": "engin'eer'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "They always check the front sp'o'ke carefully.",
+        "sentence_text": "An experienced engin'eer' checked the blueprints.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "c'o'ne",
+        "word_text": "cl'ear'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The instructor is placing the safety c'o'ne near the gate right now.",
+        "sentence_text": "Keep the mirror clean and cl'ear'.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
@@ -96,211 +96,122 @@
     },
     "tables": [
       [
-        ["A: What are you doing?!"],
-        ["B: I’m ___________________ ."],
-        ["A: That’s strange! Do you USUALLY  _____________________ ?"],
-        ["B: No, I NEVER _____________ , but I’m _________________ TODAY."],
-        ["A: Why are you doing THAT?!"],
-        ["B: Because my ________________ is broken."],
-        ["A: I’m sorry to hear that."]
-      ]
+        ["I", "can/ can’t (cannot) sing"],
+        ["He", null],
+        ["She", null],
+        ["It", null],
+        ["We", null],
+        ["You", null],
+        ["They", null]
+      ],
+      [["Can you sing?"], ["Yes, I can."], ["No, I can’t."]]
     ],
     "example_dialogues": [
       {
         "id": "e_1",
         "img": "assets/img/a_2_ex_1.png",
-        "text_a": "What are you doing?",
-        "text_b": "I am boiling water on a clay stove.",
-        "text_c": "That’s strange. Do you usually boil water on a clay stove?",
-        "text_d": "No, I never boil water on a clay stove, but I am boiling water on a clay stove today.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because the gas cylinder is empty.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_ex_1_b.mp3",
-        "audio_c": "assets/audio/a_2_ex_1_c.mp3",
-        "audio_d": "assets/audio/a_2_ex_1_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_ex_1_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "text_a": "Can you use a commercial potato peeler?",
+        "text_b": "No, I can’t. But I can use a commercial dishwasher.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_1_b.mp3"
       },
       {
         "id": "e_2",
         "img": "assets/img/a_2_ex_2.png",
-        "text_a": "What are you doing?",
-        "text_b": "I am sleeping on the roof tonight.",
-        "text_c": "That’s strange. Do you usually sleep on the roof?",
-        "text_d": "No, I never sleep on the roof, but I am sleeping on the roof tonight.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because it is too hot inside.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_ex_2_b.mp3",
-        "audio_c": "assets/audio/a_2_ex_2_c.mp3",
-        "audio_d": "assets/audio/a_2_ex_2_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_ex_2_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "text_a": "Can you sew a saree blouse?",
+        "text_b": "No, I can’t. But I can sew a pillow case.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_2_b.mp3"
       },
       {
         "id": "e_3",
         "img": "assets/img/a_2_ex_3.png",
-        "text_a": "What are you doing?",
-        "text_b": "I am reading with a candle.",
-        "text_c": "That’s strange. Do you usually read with a candle?",
-        "text_d": "No, I never read with a candle, but I am reading with a candle today.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because there is a power cut.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_ex_3_b.mp3",
-        "audio_c": "assets/audio/a_2_ex_3_c.mp3",
-        "audio_d": "assets/audio/a_2_ex_3_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_ex_3_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "text_a": "Can you repair a horse carriage?",
+        "text_b": "No, I can’t. But I can repair a bullock cart.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_3_b.mp3"
       }
     ],
     "keywords": [
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "frying pappadam on the balcony"
+        "word": "wheat flour string hoppers / red rice kiribath"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_2.jpeg",
-        "word": "phone as a hotspot"
+        "image": "assets/img/a_2_d_2.png",
+        "word": "an electric truck / an electric three-wheeler"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "fixing my bike in the living room"
+        "word": "a wall-mounted fan / a built-in dishwasher"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "carrying groceries in a bucket"
+        "word": "croissants / French baguettes"
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_5.png",
-        "word": "standing in line at the petrol shed"
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "the saxophone / the rabana"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "working  upstairs"
+        "word": "Hindi / Japanese"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "What are you doing?",
-        "text_b": "I’m frying pappadam on the balcony.",
-        "text_c": "That’s strange. Do you usually fry pappadam on the balcony?",
-        "text_d": "No, I never fry pappadam on the balcony, but I am frying pappadam on the balcony today.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because the kitchen is wet.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3",
-        "audio_c": "assets/audio/a_2_d_1_c.mp3",
-        "audio_d": "assets/audio/a_2_d_1_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_d_1_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "text_a": "Can you cook wheat flour string hoppers?",
+        "text_b": "No, I can’t. But I can cook red rice kiribath.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "What are you doing?",
-        "text_b": "I’m using my phone as a hotspot.",
-        "text_c": "That’s strange. Do you usually use your phone as a hotspot?",
-        "text_d": "No, I never use my phone as a hotspot, but I am using my phone as a hotspot today.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because the Wi-Fi isn’t working.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_d_2_b.mp3",
-        "audio_c": "assets/audio/a_2_d_2_c.mp3",
-        "audio_d": "assets/audio/a_2_d_2_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_d_2_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Can you drive an electric truck?",
+        "text_b": "No, I can’t. But I can drive an electric three-wheeler.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "What are you doing?",
-        "text_b": "I’m fixing my bike in the living room.",
-        "text_c": "That’s strange. Do you usually fix your bike in the living room?",
-        "text_d": "No, I never fix my bike in the living room, but I am fixing my bike in the living room today.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because it’s raining outside.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3",
-        "audio_c": "assets/audio/a_2_d_3_c.mp3",
-        "audio_d": "assets/audio/a_2_d_3_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_d_3_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "text_a": "Can you fix a wall-mounted fan?",
+        "text_b": "No, I can’t. But I can fix a built-in dishwasher.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "What are you doing?",
-        "text_b": "I’m carrying groceries in a bucket.",
-        "text_c": "That’s strange. Do you usually carry groceries in a bucket?",
-        "text_d": "No, I never carry groceries in a bucket, but I am carrying groceries in a bucket today.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because my shopping bag is torn.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "audio_c": "assets/audio/a_2_d_4_c.mp3",
-        "audio_d": "assets/audio/a_2_d_4_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_d_4_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "text_a": "Can you bake croissants?",
+        "text_b": "No, I can’t. But I can bake French baguettes.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
-        "text_a": "What are you doing?",
-        "text_b": "I’m standing in line at the petrol shed.",
-        "text_c": "That’s strange. Do you usually stand in line at the petrol shed?",
-        "text_d": "No, I never stand in line at the petrol shed, but I am standing in line at the petrol shed today.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because there’s a fuel shortage.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "audio_c": "assets/audio/a_2_d_5_c.mp3",
-        "audio_d": "assets/audio/a_2_d_5_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_d_5_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Can you play the saxophone?",
+        "text_b": "No, I can’t. But I can play the rabana.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "What are you doing?",
-        "text_b": "I’m working upstairs.",
-        "text_c": "That’s strange. Do you usually work upstairs?",
-        "text_d": "No, I never work upstairs, but I am working upstairs today.",
-        "text_e": "Why are you doing that?",
-        "text_f": "Because the ground floor is flooded.",
-        "text_g": "I’m sorry to hear that.",
-        "audio_a": "assets/audio/a_2_x_a.mp3",
-        "audio_b": "assets/audio/a_2_d_6_b.mp3",
-        "audio_c": "assets/audio/a_2_d_6_c.mp3",
-        "audio_d": "assets/audio/a_2_d_6_d.mp3",
-        "audio_e": "assets/audio/a_2_x_e.mp3",
-        "audio_f": "assets/audio/a_2_d_6_f.mp3",
-        "audio_g": "assets/audio/a_2_x_g.mp3"
+        "text_a": "Can you speak Hindi?",
+        "text_b": "No, I can’t. But I can speak Japanese.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }
     ]
   },
@@ -309,7 +220,7 @@
     "instructions": {
       "activity_a": {
         "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_3_i_d.mp3"
+        "audio": "assets/audio/a_3_i_f.mp3"
       },
       "activity_b": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
@@ -318,154 +229,190 @@
     },
     "content": {
       "activity_a": {
-        "bg_image": "assets/img/game/bg-6.jpg",
-        "examples": [
-          {
-            "id": "e_1",
-            "sentence": "Amal __________ the spark plugs every day.",
-            "options": ["is tighten", "is tighten", "tightens", "tighten"],
-            "answer": "tightens",
-            "image": "assets/img/a_3_1.png"
-          }
-        ],
+        "bg_image": "assets/img/game/bg-8.jpg",
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The mechanics __________ the engine mounts every morning at around 8 a.m.",
-            "options": ["is adjusting", "adjusts", "adjust", "adjusting"],
-            "answer": "adjust",
-            "image": "assets/img/a_3_1.png"
+            "sentence": "Can you remove and refit a car tyre safely, using the proper tools?",
+            "audio": "assets/audio/a_3_b_g_1.mp3",
+            "options": [
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+            ],
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_2",
-            "sentence": "The trainees __________ the oil filters every afternoon.",
-            "options": ["removes", "is remove", "are removes", "remove"],
-            "answer": "remove",
-            "image": "assets/img/a_3_1.png"
+            "sentence": "Can you identify common engine parts, like the alternator and radiator?",
+            "audio": "assets/audio/a_3_b_g_2.mp3",
+            "options": [
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+            ],
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_3",
-            "sentence": "Kasun often __________ the brake pads before a test drive.",
-            "options": ["checks now", "is checking", "check", "checks"],
-            "answer": "checks",
-            "image": "assets/img/a_3_1.png"
+            "sentence": "Can you use diagnostic tools to check for engine faults?",
+            "audio": "assets/audio/a_3_b_g_3.mp3",
+            "options": [
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+            ],
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_4",
-            "sentence": "Sunil always __________ off the workshop lights before closing.",
-            "options": ["switching", "is switches", "switches now", "switches"],
-            "answer": "switches",
-            "image": "assets/img/a_3_1.png"
+            "sentence": "Can you adjust the air pressure in tires according to the manufacturer’s recommendation?",
+            "audio": "assets/audio/a_3_b_g_4.mp3",
+            "options": [
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+            ],
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_5",
-            "sentence": "Right now, Amal __________ the gear alignment.",
-            "options": ["checks", "is check", "is checking", "are checking"],
-            "answer": "is checking",
-            "image": "assets/img/a_3_1.png"
+            "sentence": "Can you check and replace spark plugs in a petrol engine?",
+            "audio": "assets/audio/a_3_b_g_5.mp3",
+            "options": [
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+            ],
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_6",
-            "sentence": "Today, the mechanic __________ the fuel injectors.",
-            "options": ["repairs", "repair", "repairing", "is repairing"],
-            "answer": "is repairing",
-            "image": "assets/img/a_3_1.png"
+            "sentence": "Can you test and replace blown fuses or bulbs in the lighting system?",
+            "audio": "assets/audio/a_3_b_g_6.mp3",
+            "options": [
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+            ],
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_7",
-            "sentence": "At the moment, the trainees __________ the wheel alignment.",
+            "sentence": "Can you work safely under a vehicle on a hoist or pit?",
+            "audio": "assets/audio/a_3_b_g_7.mp3",
             "options": [
-              "adjust",
-              "adjust now",
-              "is adjusting",
-              "are adjusting"
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "are adjusting",
-            "image": "assets/img/a_3_1.png"
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_8",
-            "sentence": "This week, the mechanics __________ the suspension system.",
+            "sentence": "Can you mix paint and use a spray gun for minor touch-ups?",
+            "audio": "assets/audio/a_3_b_g_8.mp3",
             "options": [
-              "are prepares",
-              "prepares",
-              "is repairing",
-              "are repairing"
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "are repairing",
-            "image": "assets/img/a_3_1.png"
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_9",
-            "sentence": "Right now, Suraj __________ the exhaust pipe.",
-            "options": ["cleaning", "cleans", "is cleans", "is cleaning"],
-            "answer": "is cleaning",
-            "image": "assets/img/a_3_1.png"
+            "sentence": "Can you prepare a simple job card or service report in English?",
+            "audio": "assets/audio/a_3_b_g_9.mp3",
+            "options": [
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+            ],
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           },
           {
             "id": "g_b_10",
-            "sentence": "The mechanics __________ new gaskets every morning.",
-            "options": ["are replacing", "is replacing", "replaces", "replace"],
-            "answer": "replace",
-            "image": "assets/img/a_3_1.png"
+            "sentence": "Can you work with a team to complete a full vehicle service on time?",
+            "audio": "assets/audio/a_3_b_g_10.mp3",
+            "options": [
+              "Yes, I can. Actually I can do it very well.",
+              "Yes, I can. Not very well, but I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+            ],
+            "answer": "Yes, I can. Actually I can do it very well.",
+            "image": "assets/img/a_3.jpeg"
           }
         ]
       },
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "Amal tightens the spark plugs every day.",
+          "text": "Can you remove and refit a car tyre safely, using the proper tools?",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "The mechanics adjust the engine mounts every morning at around 8 a.m.",
+          "text": "Can you identify common engine parts, like the alternator and radiator?",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "The trainees remove the oil filters every afternoon.",
+          "text": "Can you use diagnostic tools to check for engine faults?",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "Kasun often checks the brake pads before a test drive.",
+          "text": "Can you adjust the air pressure in tires according to the manufacturer’s recommendation?",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Sunil always switches the workshop lights off before closing.",
+          "text": "Can you check and replace spark plugs in a petrol engine?",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "Right now, Amal is checking the gear alignment.",
+          "text": "Can you test and replace blown fuses or bulbs in the lighting system?",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Today, the mechanic is repairing the fuel injectors.",
+          "text": "Can you work safely under a vehicle on a hoist or pit?",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "At the moment, the trainees are aligning the wheel alignment.",
+          "text": "Can you mix paint and use a spray gun for minor touch-ups?",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "This week, the mechanics are repairing the suspension system.",
+          "text": "Can you prepare a simple job card or service report in English?",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Right now, Suraj is cleaning the exhaust pipe.",
+          "text": "Can you work with a team to complete a full vehicle service on time?",
           "audio": "assets/audio/a_3_b_g_10.mp3"
-        },
-        {
-          "id": "n_3_11",
-          "text": "The mechanics replace new gaskets every morning.",
-          "audio": "assets/audio/a_3_b_g_11.mp3"
         }
       ]
     }
@@ -496,52 +443,52 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why is Ruwan boiling water outside?",
-            "answer": "His gas cylinder is empty, and there is a power cut",
+            "question": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
+            "answer": "No, I can’t. But I am sure I can learn quickly.",
             "options": [
-              "His gas cylinder is empty but the neighbours lent him another cooker",
-              "His gas cylinder is empty, and there is a power cut",
-              "He prefers using a kerosene stove"
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well.",
+              "No, I can’t. But I am sure I can learn quickly."
             ]
           },
           {
             "id": "l_4_2",
-            "question": "What are the people in the neighbourhood doing?",
-            "answer": "Standing outside and talking",
+            "question": "Can you work under vehicles and in noisy garages?",
+            "answer": "Yes, I can. Actually, I can do it quite well.",
             "options": [
-              "Attending a village meeting",
-              "Watching TV and relaxing",
-              "Standing outside and talking"
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well.",
+              "I can do it, but not very well. But I am willing to learn."
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why does Amma want the water boiled?",
-            "answer": "She wants to make tea",
+            "question": "Can you handle automatic transmission repairs or complex electronic systems?",
+            "answer": "No, I can’t. No, not at all, but I I am sure I can learn in no time under good guidance.",
             "options": [
-              "She wants to make tea",
-              "She wants to drink tea herself",
-              "She needs hot water for guests"
+              "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well.",
+              "I can do it, but not very well. But I am willing to learn."
             ]
           },
           {
             "id": "l_4_4",
-            "question": "How does Ruwan feel about the situation at the end?",
-            "answer": "He feels relaxed and calm",
+            "question": "Can you help with engine overhauls and brake system repairs?",
+            "answer": "I can do it, but not very well. But I am willing to learn.",
             "options": [
-              "He is annoyed",
-              "He feels relaxed and calm",
-              "He wants to buy a new stove immediately"
+              "I can do it, but not very well. But I am willing to learn.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well."
             ]
           },
           {
             "id": "l_4_5",
-            "question": "What does Anusha say about the weather?",
-            "answer": "It is nice and better than standing in the rain",
+            "question": "Can you manage checking engine systems and wiring in different types of vehicles?",
+            "answer": "Yes, I can. Actually, I can do it quite well.",
             "options": [
-              "It is raining heavily",
-              "It is nice but she has to stand in the rain",
-              "It is nice and better than standing in the rain"
+              "Yes, I can. Actually, I can do it quite well.",
+              "I can do it, but not very well. But I am willing to learn.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance."
             ]
           }
         ]
@@ -549,327 +496,157 @@
       "activity_b": [
         {
           "id": "t_3_1",
-          "text": "Hey, what are you doing?",
+          "text": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
           "audio": "assets/audio/t_3_1.mp3"
         },
         {
           "id": "t_3_2",
-          "text": "Why are you sitting outside like this?",
+          "text": "No, I can’t. But I am sure I can learn quickly.",
           "audio": "assets/audio/t_3_2.mp3"
         },
         {
           "id": "t_3_3",
-          "text": "Ah, long story.",
+          "text": "Can you work under vehicles and in noisy garages?",
           "audio": "assets/audio/t_3_3.mp3"
         },
         {
           "id": "t_3_4",
-          "text": "I’m boiling water on this rusty old kerosene stove.",
+          "text": "Yes, I can. Actually, I can do it quite well.",
           "audio": "assets/audio/t_3_4.mp3"
         },
         {
           "id": "t_3_5",
-          "text": "Seriously?",
+          "text": "Can you handle automatic transmission repairs or complex electronic systems?",
           "audio": "assets/audio/t_3_5.mp3"
         },
         {
           "id": "t_3_6",
-          "text": "That’s annoying.",
+          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
           "audio": "assets/audio/t_3_6.mp3"
         },
         {
           "id": "t_3_7",
-          "text": "Do you usually boil water like this?",
+          "text": "Can you help with engine overhauls and brake system repairs?",
           "audio": "assets/audio/t_3_7.mp3"
         },
         {
           "id": "t_3_8",
-          "text": "No, I don’t.",
+          "text": "I can do it, but not very well. But I am willing to learn.",
           "audio": "assets/audio/t_3_8.mp3"
         },
         {
           "id": "t_3_9",
-          "text": "I normally use a gas cooker or the electric kettle, but today everything is upside down.",
+          "text": "Can you manage checking engine systems and wiring in different types of vehicles?",
           "audio": "assets/audio/t_3_9.mp3"
         },
         {
           "id": "t_3_10",
-          "text": "What happened?",
+          "text": "Yes, I can. Actually, I can do it quite well.",
           "audio": "assets/audio/t_3_10.mp3"
-        },
-        {
-          "id": "t_3_11",
-          "text": "Power cut?",
-          "audio": "assets/audio/t_3_11.mp3"
-        },
-        {
-          "id": "t_3_12",
-          "text": "Yeah.",
-          "audio": "assets/audio/t_3_12.mp3"
-        },
-        {
-          "id": "t_3_13",
-          "text": "The power just went off again.",
-          "audio": "assets/audio/t_3_13.mp3"
-        },
-        {
-          "id": "t_3_14",
-          "text": "And not just a normal one.",
-          "audio": "assets/audio/t_3_14.mp3"
-        },
-        {
-          "id": "t_3_15",
-          "text": "The whole neighbourhood is out.",
-          "audio": "assets/audio/t_3_15.mp3"
-        },
-        {
-          "id": "t_3_16",
-          "text": "Even the shops nearby are dark.",
-          "audio": "assets/audio/t_3_16.mp3"
-        },
-        {
-          "id": "t_3_17",
-          "text": "I checked the street; half the people are outside like it’s a village meeting.",
-          "audio": "assets/audio/t_3_17.mp3"
-        },
-        {
-          "id": "t_3_18",
-          "text": "Ha, typical Sri Lankan situation.",
-          "audio": "assets/audio/t_3_18.mp3"
-        },
-        {
-          "id": "t_3_19",
-          "text": "Everyone comes out and starts talking!",
-          "audio": "assets/audio/t_3_19.mp3"
-        },
-        {
-          "id": "t_3_20",
-          "text": "Exactly.",
-          "audio": "assets/audio/t_3_20.mp3"
-        },
-        {
-          "id": "t_3_21",
-          "text": "My uncle from next door is already discussing politics with the vegetable seller. ****",
-          "audio": "assets/audio/t_3_21.mp3"
-        },
-        {
-          "id": "t_3_22",
-          "text": "They’ve been shouting for twenty minutes. ****",
-          "audio": "assets/audio/t_3_22.mp3"
-        },
-        {
-          "id": "t_3_23",
-          "text": "So why are you boiling water now?",
-          "audio": "assets/audio/t_3_23.mp3"
-        },
-        {
-          "id": "t_3_24",
-          "text": "Amma wants to make tea.",
-          "audio": "assets/audio/t_3_24.mp3"
-        },
-        {
-          "id": "t_3_25",
-          "text": "You know how she is—whatever happens, tea must be made.",
-          "audio": "assets/audio/t_3_25.mp3"
-        },
-        {
-          "id": "t_3_26",
-          "text": "That sounds like every Sri Lankan mother.",
-          "audio": "assets/audio/t_3_26.mp3"
-        },
-        {
-          "id": "t_3_27",
-          "text": "And to make things worse, the gas cylinder is also empty.",
-          "audio": "assets/audio/t_3_27.mp3"
-        },
-        {
-          "id": "t_3_28",
-          "text": "So I had to drag out this old stove from the storeroom.",
-          "audio": "assets/audio/t_3_28.mp3"
-        },
-        {
-          "id": "t_3_29",
-          "text": "I didn’t even know it still worked.",
-          "audio": "assets/audio/t_3_29.mp3"
-        },
-        {
-          "id": "t_3_30",
-          "text": "Poor thing.",
-          "audio": "assets/audio/t_3_30.mp3"
-        },
-        {
-          "id": "t_3_31",
-          "text": "At least the weather is nice.",
-          "audio": "assets/audio/t_3_31.mp3"
-        },
-        {
-          "id": "t_3_32",
-          "text": "It’s better than standing in the rain.",
-          "audio": "assets/audio/t_3_32.mp3"
-        },
-        {
-          "id": "t_3_33",
-          "text": "True.",
-          "audio": "assets/audio/t_3_33.mp3"
-        },
-        {
-          "id": "t_3_34",
-          "text": "Actually, this feels a bit relaxing.",
-          "audio": "assets/audio/t_3_34.mp3"
-        },
-        {
-          "id": "t_3_35",
-          "text": "No TV, no Wi-Fi, no noise.",
-          "audio": "assets/audio/t_3_35.mp3"
-        },
-        {
-          "id": "t_3_36",
-          "text": "Maybe the power cut is telling you to slow down.",
-          "audio": "assets/audio/t_3_36.mp3"
-        },
-        {
-          "id": "t_3_37",
-          "text": "Maybe!",
-          "audio": "assets/audio/t_3_37.mp3"
-        },
-        {
-          "id": "t_3_38",
-          "text": "But once the water boils, I'm making a nice hot cup of tea for both of us.",
-          "audio": "assets/audio/t_3_38.mp3"
-        },
-        {
-          "id": "t_3_39",
-          "text": "Eyy, good idea.",
-          "audio": "assets/audio/t_3_39.mp3"
-        },
-        {
-          "id": "t_3_40",
-          "text": "At least something positive came out of this drama.",
-          "audio": "assets/audio/t_3_40.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_3_1",
-          "text": "Hey, what are you doing?",
+          "text": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
           "audio": "assets/audio/t_3_1.mp3"
         },
         {
+          "id": "t_3_2",
+          "text": "No, I can’t. But I am sure I can learn quickly.",
+          "audio": "assets/audio/t_3_2.mp3"
+        },
+        {
+          "id": "t_3_3",
+          "text": "Can you work under vehicles and in noisy garages?",
+          "audio": "assets/audio/t_3_3.mp3"
+        },
+        {
+          "id": "t_3_4",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_3_4.mp3"
+        },
+        {
+          "id": "t_3_5",
+          "text": "Can you handle automatic transmission repairs or complex electronic systems?",
+          "audio": "assets/audio/t_3_5.mp3"
+        },
+        {
           "id": "t_3_6",
-          "text": "That’s annoying.",
+          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
           "audio": "assets/audio/t_3_6.mp3"
         },
         {
+          "id": "t_3_7",
+          "text": "Can you help with engine overhauls and brake system repairs?",
+          "audio": "assets/audio/t_3_7.mp3"
+        },
+        {
+          "id": "t_3_8",
+          "text": "I can do it, but not very well. But I am willing to learn.",
+          "audio": "assets/audio/t_3_8.mp3"
+        },
+        {
           "id": "t_3_9",
-          "text": "I normally use a gas cooker or the electric kettle, but today everything is upside down.",
+          "text": "Can you manage checking engine systems and wiring in different types of vehicles?",
           "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_3_13",
-          "text": "The power just went off again.",
-          "audio": "assets/audio/t_3_13.mp3"
-        },
-        {
-          "id": "t_3_15",
-          "text": "The whole neighbourhood is out.",
-          "audio": "assets/audio/t_3_15.mp3"
-        },
-        {
-          "id": "t_3_17",
-          "text": "I checked the street; half the people are outside like it’s a village meeting.",
-          "audio": "assets/audio/t_3_17.mp3"
-        },
-        {
-          "id": "t_3_21",
-          "text": "My uncle from next door is already discussing politics with the vegetable seller.",
-          "audio": "assets/audio/t_3_21.mp3"
-        },
-        {
-          "id": "t_3_24",
-          "text": "Amma wants to make tea.",
-          "audio": "assets/audio/t_3_24.mp3"
-        },
-        {
-          "id": "t_3_27",
-          "text": "And to make things worse, the gas cylinder is also empty.",
-          "audio": "assets/audio/t_3_27.mp3"
-        },
-        {
-          "id": "t_3_29",
-          "text": "I didn’t even know it still worked.",
-          "audio": "assets/audio/t_3_29.mp3"
-        },
-        {
-          "id": "t_3_34",
-          "text": "Actually, this feels a bit relaxing.",
-          "audio": "assets/audio/t_3_34.mp3"
-        },
-        {
-          "id": "t_3_38",
-          "text": "But once the water boils, I'm making a nice hot cup of tea for both of us.",
-          "audio": "assets/audio/t_3_38.mp3"
+          "id": "t_3_10",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_3_10.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_3_1",
-          "text": "Hey, what are you doing?",
+          "text": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
           "audio": "assets/audio/t_3_1.mp3"
         },
         {
+          "id": "t_3_2",
+          "text": "No, I can’t. But I am sure I can learn quickly.",
+          "audio": "assets/audio/t_3_2.mp3"
+        },
+        {
+          "id": "t_3_3",
+          "text": "Can you work under vehicles and in noisy garages?",
+          "audio": "assets/audio/t_3_3.mp3"
+        },
+        {
+          "id": "t_3_4",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_3_4.mp3"
+        },
+        {
+          "id": "t_3_5",
+          "text": "Can you handle automatic transmission repairs or complex electronic systems?",
+          "audio": "assets/audio/t_3_5.mp3"
+        },
+        {
           "id": "t_3_6",
-          "text": "That’s annoying.",
+          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
           "audio": "assets/audio/t_3_6.mp3"
         },
         {
+          "id": "t_3_7",
+          "text": "Can you help with engine overhauls and brake system repairs?",
+          "audio": "assets/audio/t_3_7.mp3"
+        },
+        {
+          "id": "t_3_8",
+          "text": "I can do it, but not very well. But I am willing to learn.",
+          "audio": "assets/audio/t_3_8.mp3"
+        },
+        {
           "id": "t_3_9",
-          "text": "I normally use a gas cooker or the electric kettle, but today everything is upside down.",
+          "text": "Can you manage checking engine systems and wiring in different types of vehicles?",
           "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_3_13",
-          "text": "The power just went off again.",
-          "audio": "assets/audio/t_3_13.mp3"
-        },
-        {
-          "id": "t_3_15",
-          "text": "The whole neighbourhood is out.",
-          "audio": "assets/audio/t_3_15.mp3"
-        },
-        {
-          "id": "t_3_17",
-          "text": "I checked the street; half the people are outside like it’s a village meeting.",
-          "audio": "assets/audio/t_3_17.mp3"
-        },
-        {
-          "id": "t_3_21",
-          "text": "My uncle from next door is already discussing politics with the vegetable seller.",
-          "audio": "assets/audio/t_3_21.mp3"
-        },
-        {
-          "id": "t_3_24",
-          "text": "Amma wants to make tea.",
-          "audio": "assets/audio/t_3_24.mp3"
-        },
-        {
-          "id": "t_3_27",
-          "text": "And to make things worse, the gas cylinder is also empty.",
-          "audio": "assets/audio/t_3_27.mp3"
-        },
-        {
-          "id": "t_3_29",
-          "text": "I didn’t even know it still worked.",
-          "audio": "assets/audio/t_3_29.mp3"
-        },
-        {
-          "id": "t_3_34",
-          "text": "Actually, this feels a bit relaxing.",
-          "audio": "assets/audio/t_3_34.mp3"
-        },
-        {
-          "id": "t_3_38",
-          "text": "But once the water boils, I'm making a nice hot cup of tea for both of us.",
-          "audio": "assets/audio/t_3_38.mp3"
+          "id": "t_3_10",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_3_10.mp3"
         }
       ]
     }
@@ -895,13 +672,13 @@
     "content": [
       {
         "id": "v_1",
-        "audio": "assets/videos/1B.mp4",
-        "instrction": "instrction_b"
+        "audio": "assets/videos/1A.mp4",
+        "instrction": "instrction_a"
       },
       {
         "id": "v_2",
-        "audio": "assets/videos/2B.mp4",
-        "instrction": "instrction_b"
+        "audio": "assets/videos/2A.mp4",
+        "instrction": "instrction_a"
       }
     ]
   }
