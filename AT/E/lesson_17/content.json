@@ -219,7 +219,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "text": "Read the questions and choose an answer according to your level of skill. \nප්‍රශ්න කියවන්න සහ ඔබේ කුසලතා මට්ටමට අනුව පිළිතුරක් තෝරන්න.\nகேள்விகளைப் படியுங்கள் மற்றும் உங்கள் திறன் நிலைக்கு ஏற்ப பதிலைத் தேர்ந்தெடுங்கள்.",
         "audio": "assets/audio/a_3_i_f.mp3"
       },
       "activity_b": {
@@ -241,7 +241,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -254,7 +253,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -267,7 +265,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -280,7 +277,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -293,7 +289,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -306,7 +301,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -319,7 +313,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -332,7 +325,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -345,7 +337,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           },
           {
@@ -358,7 +349,6 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "answer": "Yes, I can. Actually I can do it very well.",
             "image": "assets/img/a_3.jpeg"
           }
         ]

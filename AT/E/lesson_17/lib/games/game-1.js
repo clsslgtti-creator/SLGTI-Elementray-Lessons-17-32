@@ -66,6 +66,8 @@ export const normalizeExamples = (rawExamples = [], fallbackOptions) => {
       const options = sanitizeOptions(item?.options, defaultOptions);
       const answerCandidate =
         typeof item?.answer === "string" ? item.answer.trim() : "";
+      const hasAnswer = answerCandidate.length > 0;
+      const acceptAnyAnswer = !hasAnswer;
       const answer = options.includes(answerCandidate)
         ? answerCandidate
         : options[0];
@@ -79,6 +81,7 @@ export const normalizeExamples = (rawExamples = [], fallbackOptions) => {
         audioKey,
         image,
         options,
+        acceptAnyAnswer,
       };
     })
     .filter(Boolean);
@@ -124,6 +127,8 @@ export const normalizeQuestions = (rawQuestions = [], fallbackOptions) => {
       const options = sanitizeOptions(item?.options, defaultOptions);
       const answerCandidate =
         typeof item?.answer === "string" ? item.answer.trim() : "";
+      const hasAnswer = answerCandidate.length > 0;
+      const acceptAnyAnswer = !hasAnswer;
       const answer = options.includes(answerCandidate)
         ? answerCandidate
         : options[0];
@@ -137,6 +142,7 @@ export const normalizeQuestions = (rawQuestions = [], fallbackOptions) => {
         audioKey,
         image,
         options,
+        acceptAnyAnswer,
       };
     })
     .filter(Boolean);
@@ -280,6 +286,8 @@ export const createGameScene = (config) => {
         const entryOptions = sanitizeOptions(entry.options, fallbackOptions);
         const answerCandidate =
           typeof entry.answer === "string" ? entry.answer.trim() : "";
+        const hasAnswer = answerCandidate.length > 0;
+        const acceptAnyAnswer = Boolean(entry?.acceptAnyAnswer) || !hasAnswer;
         const answer = entryOptions.includes(answerCandidate)
           ? answerCandidate
           : entryOptions[0];
@@ -294,6 +302,7 @@ export const createGameScene = (config) => {
           image: imageSrc,
           imageKey: imageSrc ? `sentence_image_${identifier}` : null,
           answer,
+          acceptAnyAnswer,
           options: entryOptions,
         };
       })
@@ -1840,8 +1849,11 @@ export const createGameScene = (config) => {
       this.updateTimerText("Time: 20.0s");
 
       const current = this.questions[this.questionIndex];
+      const acceptsAny = Boolean(current?.acceptAnyAnswer);
       const isCorrect =
-        current && selected.toLowerCase() === current.answer.toLowerCase();
+        Boolean(current) &&
+        (acceptsAny ||
+          selected.toLowerCase() === current.answer.toLowerCase());
       if (isCorrect) {
         this.score += 1;
         this.updateScore();
@@ -1884,7 +1896,7 @@ export const createGameScene = (config) => {
       this.playFeedbackSound("timeout");
       const current = this.questions[this.questionIndex];
       this.showFeedback("timeout", "Time's up!");
-      if (current) {
+      if (current && !current.acceptAnyAnswer) {
         const correctButton = this.optionButtons.find(
           (btn) => btn.value.toLowerCase() === current.answer.toLowerCase()
         );
