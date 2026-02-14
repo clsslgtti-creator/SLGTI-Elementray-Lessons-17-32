@@ -42,17 +42,17 @@
       {
         "id": "p_2",
         "word_text": "g'ear'box",
-        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "The technician adjusted the g'ear'box on the concrete mixer.",
-        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
         "word_text": "engin'eer'",
-        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "The engin'eer' inspected the rusty bridge.",
-        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
