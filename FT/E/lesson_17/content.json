@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "ear",
+        "word_text": "'ear'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Wear a hairnet to cover your ears properly.",
+        "sentence_text": "Wear a hairnet to cover your 'ear's properly.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "clear",
+        "word_text": "cl'ear'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Keep the kitchen clear of dirt.",
+        "sentence_text": "Keep the kitchen cl'ear' of dirt.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "near",
+        "word_text": "n'ear'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Don’t keep frozen meats near other food in the freezer.",
+        "sentence_text": "Don’t keep frozen meats n'ear' other food in the freezer.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "engineer",
+        "word_text": "engin'eer'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The food engineer inspected the freezer.",
+        "sentence_text": "The food engin'eer' inspected the freezer.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -241,7 +241,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_2",
@@ -253,7 +253,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_3",
@@ -265,7 +265,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_4",
@@ -277,7 +277,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_5",
@@ -289,7 +289,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_6",
@@ -301,7 +301,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_7",
@@ -313,7 +313,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_8",
@@ -325,7 +325,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_9",
@@ -337,7 +337,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_10",
@@ -349,7 +349,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           }
         ]
       },

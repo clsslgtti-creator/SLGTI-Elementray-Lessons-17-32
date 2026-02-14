@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "gear",
+        "word_text": "g'ear'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The gears in the motor must be clear of dust.",
+        "sentence_text": "The g'ear's in the motor must be cl'ear' of dust.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "engineer",
+        "word_text": "engin'eer'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The electrical engineer repaired the fuse board.",
+        "sentence_text": "The electrical engin'eer' repaired the fuse board.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "ear",
+        "word_text": "'ear'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Always wear earplugs when drilling.",
+        "sentence_text": "Always wear 'ear'plugs when drilling.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "interfere",
+        "word_text": "interf'ere'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "Do not interfere with live wires.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
@@ -241,7 +241,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_2",
@@ -253,7 +253,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_3",
@@ -265,7 +265,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_4",
@@ -277,7 +277,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_5",
@@ -289,7 +289,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_6",
@@ -301,7 +301,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_7",
@@ -313,7 +313,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_8",
@@ -325,7 +325,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_9",
@@ -337,7 +337,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_10",
@@ -349,7 +349,7 @@
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. No, not at all, but I am sure I can learn in no time."
             ],
-            "image": "assets/img/a_3.jpeg"
+            "image": "assets/img/a_3.png"
           }
         ]
       },

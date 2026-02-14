@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "engineer",
+        "word_text": "engin'eer'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The engineer repaired the machine shafts.",
+        "sentence_text": "The engin'eer' repaired the machine shafts.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "gear",
+        "word_text": "g'ear'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Oil the gear before the test run.",
+        "sentence_text": "Oil the g'ear' before the test run.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "rear",
+        "word_text": "r'ear'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The rear wheels are in mint condition.",
+        "sentence_text": "The r'ear' wheels are in mint condition.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "clear",
+        "word_text": "cl'ear'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Keep the workshop clear of dirt.",
+        "sentence_text": "Keep the workshop cl'ear' of dirt.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },

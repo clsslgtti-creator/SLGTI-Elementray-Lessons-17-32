@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "engineer",
+        "word_text": "engin'eer'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The software engineer fixed the system error.",
+        "sentence_text": "The software engin'eer' fixed the system error.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "ear",
+        "word_text": "'ear'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "You can hear the alarm through your earphones.",
+        "sentence_text": "You can hear the alarm through your 'ear'phones.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "appear",
+        "word_text": "app'ear'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The project goals appear on the screen.",
+        "sentence_text": "The project goals app'ear' on the screen.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "near",
+        "word_text": "n'ear'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The help desk is near the entrance.",
+        "sentence_text": "The help desk is n'ear' the entrance.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
