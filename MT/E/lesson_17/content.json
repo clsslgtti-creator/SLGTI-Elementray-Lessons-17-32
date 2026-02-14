@@ -432,211 +432,211 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_4_1",
-            "question": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
+            "id": "l_9_1",
+            "question": "Can you use CNC machines and automated systems?",
             "answer": "No, I can’t. But I am sure I can learn quickly.",
             "options": [
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well.",
-              "No, I can’t. But I am sure I can learn quickly."
-            ]
-          },
-          {
-            "id": "l_4_2",
-            "question": "Can you work under vehicles and in noisy garages?",
-            "answer": "Yes, I can. Actually, I can do it quite well.",
-            "options": [
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well.",
-              "I can do it, but not very well. But I am willing to learn."
-            ]
-          },
-          {
-            "id": "l_4_3",
-            "question": "Can you handle automatic transmission repairs or complex electronic systems?",
-            "answer": "No, I can’t. No, not at all, but I I am sure I can learn in no time under good guidance.",
-            "options": [
-              "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well.",
-              "I can do it, but not very well. But I am willing to learn."
-            ]
-          },
-          {
-            "id": "l_4_4",
-            "question": "Can you help with engine overhauls and brake system repairs?",
-            "answer": "I can do it, but not very well. But I am willing to learn.",
-            "options": [
-              "I can do it, but not very well. But I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "Yes, I can. Actually, I can do it quite well."
             ]
           },
           {
-            "id": "l_4_5",
-            "question": "Can you manage checking engine systems and wiring in different types of vehicles?",
+            "id": "l_9_2",
+            "question": "Can you handle hydraulic system repairs or industrial machine maintenance?",
+            "answer": "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
+            "options": [
+              "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "I can do it, but not very well. But I am willing to learn."
+            ]
+          },
+          {
+            "id": "l_9_3",
+            "question": "Can you work with heavy equipment or oily surfaces?",
+            "answer": "Yes, I am. Actually, I am very good at it.",
+            "options": [
+              "Yes, I am. Actually, I am very good at it.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "I can do it, but not very well. But I am willing to learn."
+            ]
+          },
+          {
+            "id": "l_9_4",
+            "question": "Can you assemble and repair machines in workshops or factories?",
             "answer": "Yes, I can. Actually, I can do it quite well.",
             "options": [
               "Yes, I can. Actually, I can do it quite well.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "I can do it, but not very well. But I am willing to learn."
+            ]
+          },
+          {
+            "id": "l_9_5",
+            "question": "Can you help with lathe and milling operations on very tiny metal components?",
+            "answer": "I can do it, but not very well. But I am willing to learn.",
+            "options": [
               "I can do it, but not very well. But I am willing to learn.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance."
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "No, I can’t. But I am sure I can learn quickly."
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_7_1",
-          "text": "Can you use cloud-based systems and network servers?",
-          "audio": "assets/audio/t_7_1.mp3"
+          "id": "t_8_1",
+          "text": "Can you use CNC machines and automated systems?",
+          "audio": "assets/audio/t_8_1.mp3"
         },
         {
-          "id": "t_7_2",
+          "id": "t_8_2",
           "text": "No, I can’t. But I am sure I can learn quickly.",
-          "audio": "assets/audio/t_7_2.mp3"
+          "audio": "assets/audio/t_8_2.mp3"
         },
         {
-          "id": "t_7_3",
-          "text": "Can you handle advanced cybersecurity or large-scale database administration?",
-          "audio": "assets/audio/t_7_3.mp3"
+          "id": "t_8_3",
+          "text": "Can you handle hydraulic system repairs or industrial machine maintenance?",
+          "audio": "assets/audio/t_8_3.mp3"
         },
         {
-          "id": "t_7_4",
+          "id": "t_8_4",
           "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
-          "audio": "assets/audio/t_7_4.mp3"
+          "audio": "assets/audio/t_8_4.mp3"
         },
         {
-          "id": "t_7_5",
-          "text": "Can you install and maintain computer systems in offices?",
-          "audio": "assets/audio/t_7_5.mp3"
+          "id": "t_8_5",
+          "text": "Can you work with heavy equipment or oily surfaces?",
+          "audio": "assets/audio/t_8_5.mp3"
         },
         {
-          "id": "t_7_6",
-          "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_7_6.mp3"
-        },
-        {
-          "id": "t_7_7",
-          "text": "Can you work long hours at the computer or in server rooms configuring computers?",
-          "audio": "assets/audio/t_7_7.mp3"
-        },
-        {
-          "id": "t_7_8",
+          "id": "t_8_6",
           "text": "Yes, I am. Actually, I am very good at it.",
-          "audio": "assets/audio/t_7_8.mp3"
+          "audio": "assets/audio/t_8_6.mp3"
         },
         {
-          "id": "t_7_9",
-          "text": "Can you do network cable installations and software troubleshooting?",
-          "audio": "assets/audio/t_7_9.mp3"
+          "id": "t_8_7",
+          "text": "Can you assemble and repair machines in workshops or factories?",
+          "audio": "assets/audio/t_8_7.mp3"
         },
         {
-          "id": "t_7_10",
+          "id": "t_8_8",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_8_8.mp3"
+        },
+        {
+          "id": "t_8_9",
+          "text": "Can you help with lathe and milling operations on very tiny metal components?",
+          "audio": "assets/audio/t_8_9.mp3"
+        },
+        {
+          "id": "t_8_10",
           "text": "I can do it, but not very well. But I am willing to learn.",
-          "audio": "assets/audio/t_7_10.mp3"
+          "audio": "assets/audio/t_8_10.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_7_1",
-          "text": "Can you use cloud-based systems and network servers?",
-          "audio": "assets/audio/t_7_1.mp3"
+          "id": "t_8_1",
+          "text": "Can you use CNC machines and automated systems?",
+          "audio": "assets/audio/t_8_1.mp3"
         },
         {
-          "id": "t_7_2",
+          "id": "t_8_2",
           "text": "No, I can’t. But I am sure I can learn quickly.",
-          "audio": "assets/audio/t_7_2.mp3"
+          "audio": "assets/audio/t_8_2.mp3"
         },
         {
-          "id": "t_7_3",
-          "text": "Can you handle advanced cybersecurity or large-scale database administration?",
-          "audio": "assets/audio/t_7_3.mp3"
+          "id": "t_8_3",
+          "text": "Can you handle hydraulic system repairs or industrial machine maintenance?",
+          "audio": "assets/audio/t_8_3.mp3"
         },
         {
-          "id": "t_7_4",
+          "id": "t_8_4",
           "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
-          "audio": "assets/audio/t_7_4.mp3"
+          "audio": "assets/audio/t_8_4.mp3"
         },
         {
-          "id": "t_7_5",
-          "text": "Can you install and maintain computer systems in offices?",
-          "audio": "assets/audio/t_7_5.mp3"
+          "id": "t_8_5",
+          "text": "Can you work with heavy equipment or oily surfaces?",
+          "audio": "assets/audio/t_8_5.mp3"
         },
         {
-          "id": "t_7_6",
-          "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_7_6.mp3"
-        },
-        {
-          "id": "t_7_7",
-          "text": "Can you work long hours at the computer or in server rooms configuring computers?",
-          "audio": "assets/audio/t_7_7.mp3"
-        },
-        {
-          "id": "t_7_8",
+          "id": "t_8_6",
           "text": "Yes, I am. Actually, I am very good at it.",
-          "audio": "assets/audio/t_7_8.mp3"
+          "audio": "assets/audio/t_8_6.mp3"
         },
         {
-          "id": "t_7_9",
-          "text": "Can you do network cable installations and software troubleshooting?",
-          "audio": "assets/audio/t_7_9.mp3"
+          "id": "t_8_7",
+          "text": "Can you assemble and repair machines in workshops or factories?",
+          "audio": "assets/audio/t_8_7.mp3"
         },
         {
-          "id": "t_7_10",
+          "id": "t_8_8",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_8_8.mp3"
+        },
+        {
+          "id": "t_8_9",
+          "text": "Can you help with lathe and milling operations on very tiny metal components?",
+          "audio": "assets/audio/t_8_9.mp3"
+        },
+        {
+          "id": "t_8_10",
           "text": "I can do it, but not very well. But I am willing to learn.",
-          "audio": "assets/audio/t_7_10.mp3"
+          "audio": "assets/audio/t_8_10.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_7_1",
-          "text": "Can you use cloud-based systems and network servers?",
-          "audio": "assets/audio/t_7_1.mp3"
+          "id": "t_8_1",
+          "text": "Can you use CNC machines and automated systems?",
+          "audio": "assets/audio/t_8_1.mp3"
         },
         {
-          "id": "t_7_2",
+          "id": "t_8_2",
           "text": "No, I can’t. But I am sure I can learn quickly.",
-          "audio": "assets/audio/t_7_2.mp3"
+          "audio": "assets/audio/t_8_2.mp3"
         },
         {
-          "id": "t_7_3",
-          "text": "Can you handle advanced cybersecurity or large-scale database administration?",
-          "audio": "assets/audio/t_7_3.mp3"
+          "id": "t_8_3",
+          "text": "Can you handle hydraulic system repairs or industrial machine maintenance?",
+          "audio": "assets/audio/t_8_3.mp3"
         },
         {
-          "id": "t_7_4",
+          "id": "t_8_4",
           "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
-          "audio": "assets/audio/t_7_4.mp3"
+          "audio": "assets/audio/t_8_4.mp3"
         },
         {
-          "id": "t_7_5",
-          "text": "Can you install and maintain computer systems in offices?",
-          "audio": "assets/audio/t_7_5.mp3"
+          "id": "t_8_5",
+          "text": "Can you work with heavy equipment or oily surfaces?",
+          "audio": "assets/audio/t_8_5.mp3"
         },
         {
-          "id": "t_7_6",
-          "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_7_6.mp3"
-        },
-        {
-          "id": "t_7_7",
-          "text": "Can you work long hours at the computer or in server rooms configuring computers?",
-          "audio": "assets/audio/t_7_7.mp3"
-        },
-        {
-          "id": "t_7_8",
+          "id": "t_8_6",
           "text": "Yes, I am. Actually, I am very good at it.",
-          "audio": "assets/audio/t_7_8.mp3"
+          "audio": "assets/audio/t_8_6.mp3"
         },
         {
-          "id": "t_7_9",
-          "text": "Can you do network cable installations and software troubleshooting?",
-          "audio": "assets/audio/t_7_9.mp3"
+          "id": "t_8_7",
+          "text": "Can you assemble and repair machines in workshops or factories?",
+          "audio": "assets/audio/t_8_7.mp3"
         },
         {
-          "id": "t_7_10",
+          "id": "t_8_8",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_8_8.mp3"
+        },
+        {
+          "id": "t_8_9",
+          "text": "Can you help with lathe and milling operations on very tiny metal components?",
+          "audio": "assets/audio/t_8_9.mp3"
+        },
+        {
+          "id": "t_8_10",
           "text": "I can do it, but not very well. But I am willing to learn.",
-          "audio": "assets/audio/t_7_10.mp3"
+          "audio": "assets/audio/t_8_10.mp3"
         }
       ]
     }
