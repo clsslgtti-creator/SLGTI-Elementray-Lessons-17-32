@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "g'ear'",
+        "word_text": "gear",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Shift the g'ear' slowly when driving.",
+        "sentence_text": "The gears in the motor must be clear of dust.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "st'eer'ing",
+        "word_text": "engineer",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Turn the st'eer'ing wheel to the left.",
+        "sentence_text": "The electrical engineer repaired the fuse board.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "engin'eer'",
+        "word_text": "ear",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "An experienced engin'eer' checked the blueprints.",
+        "sentence_text": "Always wear earplugs when drilling.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "cl'ear'",
+        "word_text": "interfere",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Keep the mirror clean and cl'ear'.",
+        "sentence_text": "Do not interfere with live wires.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
@@ -233,7 +233,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Can you remove and refit a car tyre safely, using the proper tools?",
+            "sentence": "Can you identify live, neutral, and earth wires correctly?",
             "audio": "assets/audio/a_3_b_g_1.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -245,7 +245,7 @@
           },
           {
             "id": "g_b_2",
-            "sentence": "Can you identify common engine parts, like the alternator and radiator?",
+            "sentence": "Can you read and follow an electrical wiring diagram?",
             "audio": "assets/audio/a_3_b_g_2.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -257,7 +257,7 @@
           },
           {
             "id": "g_b_3",
-            "sentence": "Can you use diagnostic tools to check for engine faults?",
+            "sentence": "Can you fix or replace faulty light fittings or bulb holders?",
             "audio": "assets/audio/a_3_b_g_3.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -269,7 +269,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "Can you adjust the air pressure in tires according to the manufacturer’s recommendation?",
+            "sentence": "Can you install circuit breakers or fuse boxes safely?",
             "audio": "assets/audio/a_3_b_g_4.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -281,7 +281,7 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "Can you check and replace spark plugs in a petrol engine?",
+            "sentence": "Can you connect and test electric fans or water heaters?",
             "audio": "assets/audio/a_3_b_g_5.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -293,7 +293,7 @@
           },
           {
             "id": "g_b_6",
-            "sentence": "Can you test and replace blown fuses or bulbs in the lighting system?",
+            "sentence": "Can you carry out insulation resistance tests on cables?",
             "audio": "assets/audio/a_3_b_g_6.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -305,7 +305,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "Can you work safely under a vehicle on a hoist or pit?",
+            "sentence": "Can you follow safety procedures before starting electrical work?",
             "audio": "assets/audio/a_3_b_g_7.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -317,7 +317,7 @@
           },
           {
             "id": "g_b_8",
-            "sentence": "Can you mix paint and use a spray gun for minor touch-ups?",
+            "sentence": "Can you repair or replace damaged extension cords?",
             "audio": "assets/audio/a_3_b_g_8.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -329,7 +329,7 @@
           },
           {
             "id": "g_b_9",
-            "sentence": "Can you prepare a simple job card or service report in English?",
+            "sentence": "Can you prepare a simple report on a wiring job in English?",
             "audio": "assets/audio/a_3_b_g_9.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -341,7 +341,7 @@
           },
           {
             "id": "g_b_10",
-            "sentence": "Can you work with a team to complete a full vehicle service on time?",
+            "sentence": "Can you work with a team to complete wiring in a small building or workshop?",
             "audio": "assets/audio/a_3_b_g_10.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -356,52 +356,52 @@
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "Can you remove and refit a car tyre safely, using the proper tools?",
+          "text": "Can you identify live, neutral, and earth wires correctly?",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "Can you identify common engine parts, like the alternator and radiator?",
+          "text": "Can you read and follow an electrical wiring diagram?",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Can you use diagnostic tools to check for engine faults?",
+          "text": "Can you fix or replace faulty light fittings or bulb holders?",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "Can you adjust the air pressure in tires according to the manufacturer’s recommendation?",
+          "text": "Can you install circuit breakers or fuse boxes safely?",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Can you check and replace spark plugs in a petrol engine?",
+          "text": "Can you connect and test electric fans or water heaters?",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "Can you test and replace blown fuses or bulbs in the lighting system?",
+          "text": "Can you carry out insulation resistance tests on cables?",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Can you work safely under a vehicle on a hoist or pit?",
+          "text": "Can you follow safety procedures before starting electrical work?",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Can you mix paint and use a spray gun for minor touch-ups?",
+          "text": "Can you repair or replace damaged extension cords?",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "Can you prepare a simple job card or service report in English?",
+          "text": "Can you prepare a simple report on a wiring job in English?",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Can you work with a team to complete a full vehicle service on time?",
+          "text": "Can you work with a team to complete wiring in a small building or workshop?",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ]
@@ -432,19 +432,19 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_4_1",
-            "question": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
+            "id": "l_6_1",
+            "question": "Can you handle smart technology like motion sensors and automatic switches?",
             "answer": "No, I can’t. But I am sure I can learn quickly.",
             "options": [
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "Yes, I can. Actually, I can do it quite well.",
-              "No, I can’t. But I am sure I can learn quickly."
+              "No, I can’t. But I am sure I can learn quickly.",
+              "I can do it, but not very well. But I am willing to learn."
             ]
           },
           {
-            "id": "l_4_2",
-            "question": "Can you work under vehicles and in noisy garages?",
-            "answer": "Yes, I can. Actually, I can do it quite well.",
+            "id": "l_6_2",
+            "question": "Can you help out with three phase motor repairs?",
+            "answer": "I can do it, but not very well. But I am willing to learn.",
             "options": [
               "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "Yes, I can. Actually, I can do it quite well.",
@@ -452,9 +452,9 @@
             ]
           },
           {
-            "id": "l_4_3",
-            "question": "Can you handle automatic transmission repairs or complex electronic systems?",
-            "answer": "No, I can’t. No, not at all, but I I am sure I can learn in no time under good guidance.",
+            "id": "l_6_3",
+            "question": "Can you handle control panels or high voltage repairs?",
+            "answer": "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
             "options": [
               "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
               "Yes, I can. Actually, I can do it quite well.",
@@ -462,181 +462,181 @@
             ]
           },
           {
-            "id": "l_4_4",
-            "question": "Can you help with engine overhauls and brake system repairs?",
-            "answer": "I can do it, but not very well. But I am willing to learn.",
-            "options": [
-              "I can do it, but not very well. But I am willing to learn.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well."
-            ]
-          },
-          {
-            "id": "l_4_5",
-            "question": "Can you manage checking engine systems and wiring in different types of vehicles?",
+            "id": "l_6_4",
+            "question": "Can you climb poles and work outdoors in all weather conditions?",
             "answer": "Yes, I can. Actually, I can do it quite well.",
             "options": [
               "Yes, I can. Actually, I can do it quite well.",
-              "I can do it, but not very well. But I am willing to learn.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance."
+              "No, I can’t. But I am sure I can learn quickly.",
+              "I can do it, but not very well. But I am willing to learn."
+            ]
+          },
+          {
+            "id": "l_6_5",
+            "question": "Can you manage reading wiring diagrams and installing circuits?",
+            "answer": "Yes, I can. Actually, I can do it quite well.",
+            "options": [
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well.",
+              "I can do it, but not very well. But I am willing to learn."
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_3_1",
-          "text": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
-          "audio": "assets/audio/t_3_1.mp3"
+          "id": "t_5_1",
+          "text": "Can you handle smart technology like motion sensors and automatic switches?",
+          "audio": "assets/audio/t_5_1.mp3"
         },
         {
-          "id": "t_3_2",
+          "id": "t_5_2",
           "text": "No, I can’t. But I am sure I can learn quickly.",
-          "audio": "assets/audio/t_3_2.mp3"
+          "audio": "assets/audio/t_5_2.mp3"
         },
         {
-          "id": "t_3_3",
-          "text": "Can you work under vehicles and in noisy garages?",
-          "audio": "assets/audio/t_3_3.mp3"
+          "id": "t_5_3",
+          "text": "Can you help out with three phase motor repairs?",
+          "audio": "assets/audio/t_5_3.mp3"
         },
         {
-          "id": "t_3_4",
-          "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_3_4.mp3"
-        },
-        {
-          "id": "t_3_5",
-          "text": "Can you handle automatic transmission repairs or complex electronic systems?",
-          "audio": "assets/audio/t_3_5.mp3"
-        },
-        {
-          "id": "t_3_6",
-          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
-          "audio": "assets/audio/t_3_6.mp3"
-        },
-        {
-          "id": "t_3_7",
-          "text": "Can you help with engine overhauls and brake system repairs?",
-          "audio": "assets/audio/t_3_7.mp3"
-        },
-        {
-          "id": "t_3_8",
+          "id": "t_5_4",
           "text": "I can do it, but not very well. But I am willing to learn.",
-          "audio": "assets/audio/t_3_8.mp3"
+          "audio": "assets/audio/t_5_4.mp3"
         },
         {
-          "id": "t_3_9",
-          "text": "Can you manage checking engine systems and wiring in different types of vehicles?",
-          "audio": "assets/audio/t_3_9.mp3"
+          "id": "t_5_5",
+          "text": "Can you handle control panels or high voltage repairs?",
+          "audio": "assets/audio/t_5_5.mp3"
         },
         {
-          "id": "t_3_10",
+          "id": "t_5_6",
+          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
+          "audio": "assets/audio/t_5_6.mp3"
+        },
+        {
+          "id": "t_5_7",
+          "text": "Can you climb poles and work outdoors in all weather conditions?",
+          "audio": "assets/audio/t_5_7.mp3"
+        },
+        {
+          "id": "t_5_8",
           "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_3_10.mp3"
+          "audio": "assets/audio/t_5_8.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "Can you manage reading wiring diagrams and installing circuits?",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_10",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_5_10.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_3_1",
-          "text": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
-          "audio": "assets/audio/t_3_1.mp3"
+          "id": "t_5_1",
+          "text": "Can you handle smart technology like motion sensors and automatic switches?",
+          "audio": "assets/audio/t_5_1.mp3"
         },
         {
-          "id": "t_3_2",
+          "id": "t_5_2",
           "text": "No, I can’t. But I am sure I can learn quickly.",
-          "audio": "assets/audio/t_3_2.mp3"
+          "audio": "assets/audio/t_5_2.mp3"
         },
         {
-          "id": "t_3_3",
-          "text": "Can you work under vehicles and in noisy garages?",
-          "audio": "assets/audio/t_3_3.mp3"
+          "id": "t_5_3",
+          "text": "Can you help out with three phase motor repairs?",
+          "audio": "assets/audio/t_5_3.mp3"
         },
         {
-          "id": "t_3_4",
-          "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_3_4.mp3"
-        },
-        {
-          "id": "t_3_5",
-          "text": "Can you handle automatic transmission repairs or complex electronic systems?",
-          "audio": "assets/audio/t_3_5.mp3"
-        },
-        {
-          "id": "t_3_6",
-          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
-          "audio": "assets/audio/t_3_6.mp3"
-        },
-        {
-          "id": "t_3_7",
-          "text": "Can you help with engine overhauls and brake system repairs?",
-          "audio": "assets/audio/t_3_7.mp3"
-        },
-        {
-          "id": "t_3_8",
+          "id": "t_5_4",
           "text": "I can do it, but not very well. But I am willing to learn.",
-          "audio": "assets/audio/t_3_8.mp3"
+          "audio": "assets/audio/t_5_4.mp3"
         },
         {
-          "id": "t_3_9",
-          "text": "Can you manage checking engine systems and wiring in different types of vehicles?",
-          "audio": "assets/audio/t_3_9.mp3"
+          "id": "t_5_5",
+          "text": "Can you handle control panels or high voltage repairs?",
+          "audio": "assets/audio/t_5_5.mp3"
         },
         {
-          "id": "t_3_10",
+          "id": "t_5_6",
+          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
+          "audio": "assets/audio/t_5_6.mp3"
+        },
+        {
+          "id": "t_5_7",
+          "text": "Can you climb poles and work outdoors in all weather conditions?",
+          "audio": "assets/audio/t_5_7.mp3"
+        },
+        {
+          "id": "t_5_8",
           "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_3_10.mp3"
+          "audio": "assets/audio/t_5_8.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "Can you manage reading wiring diagrams and installing circuits?",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_10",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_5_10.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_3_1",
-          "text": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
-          "audio": "assets/audio/t_3_1.mp3"
+          "id": "t_5_1",
+          "text": "Can you handle smart technology like motion sensors and automatic switches?",
+          "audio": "assets/audio/t_5_1.mp3"
         },
         {
-          "id": "t_3_2",
+          "id": "t_5_2",
           "text": "No, I can’t. But I am sure I can learn quickly.",
-          "audio": "assets/audio/t_3_2.mp3"
+          "audio": "assets/audio/t_5_2.mp3"
         },
         {
-          "id": "t_3_3",
-          "text": "Can you work under vehicles and in noisy garages?",
-          "audio": "assets/audio/t_3_3.mp3"
+          "id": "t_5_3",
+          "text": "Can you help out with three phase motor repairs?",
+          "audio": "assets/audio/t_5_3.mp3"
         },
         {
-          "id": "t_3_4",
-          "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_3_4.mp3"
-        },
-        {
-          "id": "t_3_5",
-          "text": "Can you handle automatic transmission repairs or complex electronic systems?",
-          "audio": "assets/audio/t_3_5.mp3"
-        },
-        {
-          "id": "t_3_6",
-          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
-          "audio": "assets/audio/t_3_6.mp3"
-        },
-        {
-          "id": "t_3_7",
-          "text": "Can you help with engine overhauls and brake system repairs?",
-          "audio": "assets/audio/t_3_7.mp3"
-        },
-        {
-          "id": "t_3_8",
+          "id": "t_5_4",
           "text": "I can do it, but not very well. But I am willing to learn.",
-          "audio": "assets/audio/t_3_8.mp3"
+          "audio": "assets/audio/t_5_4.mp3"
         },
         {
-          "id": "t_3_9",
-          "text": "Can you manage checking engine systems and wiring in different types of vehicles?",
-          "audio": "assets/audio/t_3_9.mp3"
+          "id": "t_5_5",
+          "text": "Can you handle control panels or high voltage repairs?",
+          "audio": "assets/audio/t_5_5.mp3"
         },
         {
-          "id": "t_3_10",
+          "id": "t_5_6",
+          "text": "No, not at all, but I am sure I can learn in no time under good guidance.",
+          "audio": "assets/audio/t_5_6.mp3"
+        },
+        {
+          "id": "t_5_7",
+          "text": "Can you climb poles and work outdoors in all weather conditions?",
+          "audio": "assets/audio/t_5_7.mp3"
+        },
+        {
+          "id": "t_5_8",
           "text": "Yes, I can. Actually, I can do it quite well.",
-          "audio": "assets/audio/t_3_10.mp3"
+          "audio": "assets/audio/t_5_8.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "Can you manage reading wiring diagrams and installing circuits?",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_10",
+          "text": "Yes, I can. Actually, I can do it quite well.",
+          "audio": "assets/audio/t_5_10.mp3"
         }
       ]
     }
