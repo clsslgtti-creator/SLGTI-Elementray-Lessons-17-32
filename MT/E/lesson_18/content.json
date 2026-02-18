@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 18,
     "level": "Elementary",
-    "section": "Automobile Technology",
+    "section": "Mechanical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "rep'air'",
+        "word_text": "spare",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "These mechanics can rep'air' very sophisticated cars.",
+        "sentence_text": "They keep spare parts in a separate box.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "sp'are'",
+        "word_text": "repair",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Can you keep a sp'are' wheel in the boot, please?",
+        "sentence_text": "They can repair the lathe motor this afternoon.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "ch'air'",
+        "word_text": "chair",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The customers always wait on the ch'air's near the office.",
+        "sentence_text": "The supervisor always sits on the chair near the bench.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "r'are'",
+        "word_text": "hardware",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He often buys r'are' models of Audi.",
+        "sentence_text": "The hardware shop next door definitely has these parts.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },

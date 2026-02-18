@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 18,
     "level": "Elementary",
-    "section": "Automobile Technology",
+    "section": "Construction Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "rep'air'",
+        "word_text": "stairs",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "These mechanics can rep'air' very sophisticated cars.",
+        "sentence_text": "Every day these masons climb the stairs to the roof.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "sp'are'",
+        "word_text": "square",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Can you keep a sp'are' wheel in the boot, please?",
+        "sentence_text": "Can you draw a square line on the wall, please?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "ch'air'",
+        "word_text": "repair",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The customers always wait on the ch'air's near the office.",
+        "sentence_text": "They can repair doors, but they cannot repair windows.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "r'are'",
+        "word_text": "chair",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He often buys r'are' models of Audi.",
+        "sentence_text": "This foreman always sits on a chair near the site.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
