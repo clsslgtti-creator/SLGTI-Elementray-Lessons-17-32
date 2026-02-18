@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "spare",
+        "word_text": "sp'are'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They keep spare fuses in a separate box.",
+        "sentence_text": "They keep sp'are' fuses in a separate box.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "repair",
+        "word_text": "rep'air'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The electrician can repair this socket, but not that one.",
+        "sentence_text": "The electrician can rep'air' this socket, but not that one.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "wear",
+        "word_text": "w'ear'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The foreman always wears safety gloves in the workshop.",
+        "sentence_text": "The foreman always w'ear's safety gloves in the workshop.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "care",
+        "word_text": "c'are'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He usually handles the live wires with care.",
+        "sentence_text": "He usually handles the live wires with c'are'.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }

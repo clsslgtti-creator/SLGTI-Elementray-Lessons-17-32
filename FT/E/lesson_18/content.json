@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pear",
+        "word_text": "p'ear'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Can you pass me this juicy pear, please?",
+        "sentence_text": "Can you pass me this juicy p'ear', please?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "chair",
+        "word_text": "ch'air'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This trainee always sits on the chair near the table.",
+        "sentence_text": "This trainee always sits on the ch'air' near the table.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "share",
+        "word_text": "sh'are'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The students usually share the colander.",
+        "sentence_text": "The students usually sh'are' the colander.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "spare",
+        "word_text": "sp'are'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "They can keep a spare knife in the drawer or hang it on the board.",
+        "sentence_text": "They can keep a sp'are' knife in the drawer or hang it on the board.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
