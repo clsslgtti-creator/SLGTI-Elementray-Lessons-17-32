@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "Every day these masons climb the stairs to the roof.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
@@ -53,7 +53,7 @@
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "They can repair doors, but they cannot repair windows.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
@@ -61,7 +61,7 @@
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "This foreman always sits on a chair near the site.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
@@ -112,24 +112,24 @@
       {
         "id": "e_1",
         "img": "assets/img/a_2_ex_1.png",
-        "text_a": "Can Ahmed adjust mirrors?",
-        "text_b": "Of course, he can. He adjusts mirrors every day. He’s a vehicle cleaner.",
+        "text_a": "Can Kamal lay bricks?",
+        "text_b": "Of course, he can. He lays bricks every day. He’s a mason.",
         "audio_a": "assets/audio/a_2_ex_1_a.mp3",
         "audio_b": "assets/audio/a_2_ex_1_b.mp3"
       },
       {
         "id": "e_2",
         "img": "assets/img/a_2_ex_2.png",
-        "text_a": "Can Mala test headlights?",
-        "text_b": "Of course, she can. She tests headlights every day. She’s a vehicle electrician.",
+        "text_a": "Can Ramesh prepare cement?",
+        "text_b": "Of course, he can. He prepares cement every day. He’s a construction worker.",
         "audio_a": "assets/audio/a_2_ex_2_a.mp3",
         "audio_b": "assets/audio/a_2_ex_2_b.mp3"
       },
       {
         "id": "e_3",
         "img": "assets/img/a_2_ex_3.png",
-        "text_a": "Can Siva paint small parts?",
-        "text_b": "Of course, he can. He paints small parts every day. He’s a spray painter.",
+        "text_a": "Can Abdul carry sand?",
+        "text_b": "Of course, he can. He carries sand every day. He’s a labourer.",
         "audio_a": "assets/audio/a_2_ex_3_a.mp3",
         "audio_b": "assets/audio/a_2_ex_3_b.mp3"
       }
@@ -138,80 +138,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.jpeg",
-        "word": "repair damaged surfaces"
+        "word": "paint walls"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "perform advanced diagnostics"
+        "word": "fix tiles"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "wash and polish cars"
+        "word": "measure walls"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "use diagnostic software"
+        "word": "measure walls"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "maintain service records"
+        "word": "plaster walls"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "test electrical systems"
+        "word": "build steps"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Can Amal repair damaged surfaces?",
-        "text_b": "Of course, he can. He repairs damaged surfaces every day. He’s a mechanic.",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Can Amir paint walls?",
+        "text_b": "Of course, he can. He paints walls every day. He’s a painter.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Can Ramesh perform advanced diagnostics?",
-        "text_b": "Of course, he can. He performs advanced diagnostics every day. He’s a vehicle service assistant.",
+        "text_a": "Can Siva fix tiles?",
+        "text_b": "Of course, he can. He fixes tiles every day. He’s a tiler.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Can Sarath wash and polish cars?",
-        "text_b": "Of course, he can. He washes and polishes cars every day. He’s a car detailer.",
+        "text_a": "Can Devi measure walls?",
+        "text_b": "Of course, she can. She measures walls every day. She’s a site assistant.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Can Sita use diagnostic software?",
-        "text_b": "Of course, she can. She uses diagnostic software every day. She’s a vehicle maintenance trainee.",
+        "text_a": "Can Sunil shape wood?",
+        "text_b": "Of course, he can. He shapes wood every day. He’s a carpenter.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Can Pradeep maintain service records?",
-        "text_b": "Of course, he can. He maintains service records every day. He’s a garage technician.",
+        "text_a": "Can Mala plaster walls?",
+        "text_b": "Of course, she can. She plasters walls every day. She’s a trainee mason.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Can Kaleel test electrical systems?",
-        "text_b": "Of course, he can. He tests electrical systems every day. He’s a workshop assistant.",
+        "text_a": "Can Nimal build steps?",
+        "text_b": "Of course, he can. He builds steps every day. He’s a construction trainee.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }

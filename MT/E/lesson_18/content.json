@@ -45,7 +45,7 @@
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "They can repair the lathe motor this afternoon.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
@@ -53,7 +53,7 @@
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "The supervisor always sits on the chair near the bench.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
@@ -61,7 +61,7 @@
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "The hardware shop next door definitely has these parts.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
@@ -112,24 +112,24 @@
       {
         "id": "e_1",
         "img": "assets/img/a_2_ex_1.png",
-        "text_a": "Can Ahmed adjust mirrors?",
-        "text_b": "Of course, he can. He adjusts mirrors every day. He’s a vehicle cleaner.",
+        "text_a": "Can Sarath tighten bolts?",
+        "text_b": "Of course, he can. He tightens bolts every day. He’s a mechanic.",
         "audio_a": "assets/audio/a_2_ex_1_a.mp3",
         "audio_b": "assets/audio/a_2_ex_1_b.mp3"
       },
       {
         "id": "e_2",
         "img": "assets/img/a_2_ex_2.png",
-        "text_a": "Can Mala test headlights?",
-        "text_b": "Of course, she can. She tests headlights every day. She’s a vehicle electrician.",
+        "text_a": "Can Ruwan use spanners?",
+        "text_b": "Of course, he can. He uses spanners every day. He’s a trainee mechanic.",
         "audio_a": "assets/audio/a_2_ex_2_a.mp3",
         "audio_b": "assets/audio/a_2_ex_2_b.mp3"
       },
       {
         "id": "e_3",
         "img": "assets/img/a_2_ex_3.png",
-        "text_a": "Can Siva paint small parts?",
-        "text_b": "Of course, he can. He paints small parts every day. He’s a spray painter.",
+        "text_a": "Can Nimal make new machine parts?",
+        "text_b": "Of course, he can. He makes new machine parts every day. He’s a workshop assistant.",
         "audio_a": "assets/audio/a_2_ex_3_a.mp3",
         "audio_b": "assets/audio/a_2_ex_3_b.mp3"
       }
@@ -138,80 +138,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.jpeg",
-        "word": "repair damaged surfaces"
+        "word": "oil gears"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "perform advanced diagnostics"
+        "word": "check pressure gauges"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "wash and polish cars"
+        "word": "replace bearings"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "use diagnostic software"
+        "word": "measure metal rods"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "maintain service records"
+        "word": "weld  metal frames?"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "test electrical systems"
+        "word": "recondition old parts"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Can Amal repair damaged surfaces?",
-        "text_b": "Of course, he can. He repairs damaged surfaces every day. He’s a mechanic.",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Can Kamal oil gears?",
+        "text_b": "Of course, he can. He oils gears every day. He’s a machine operator.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Can Ramesh perform advanced diagnostics?",
-        "text_b": "Of course, he can. He performs advanced diagnostics every day. He’s a vehicle service assistant.",
+        "text_a": "Can Gayan check pressure gauges?",
+        "text_b": "Of course, he can. He checks pressure gauges every day. He’s a maintenance technician.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Can Sarath wash and polish cars?",
-        "text_b": "Of course, he can. He washes and polishes cars every day. He’s a car detailer.",
+        "text_a": "Can Sita replace bearings?",
+        "text_b": "Of course, she can. She replaces bearings every day. She’s an MT fitter.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Can Sita use diagnostic software?",
-        "text_b": "Of course, she can. She uses diagnostic software every day. She’s a vehicle maintenance trainee.",
+        "text_a": "Can Meena measure metal rods?",
+        "text_b": "Of course, she can. She measures metal rods every day. She’s a trainee technician.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Can Pradeep maintain service records?",
-        "text_b": "Of course, he can. He maintains service records every day. He’s a garage technician.",
+        "text_a": "Can Ameer weld metal frames?",
+        "text_b": "Of course, he can. He welds metal frames every day. He’s a welder.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Can Kaleel test electrical systems?",
-        "text_b": "Of course, he can. He tests electrical systems every day. He’s a workshop assistant.",
+        "text_a": "Can Thilak recondition old parts?",
+        "text_b": "Of course, he can. He reconditions old parts every day. He’s a mechanical assistant.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }

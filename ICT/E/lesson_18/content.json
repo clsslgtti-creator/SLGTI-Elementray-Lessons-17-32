@@ -45,7 +45,7 @@
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "She can install new software on the computer this afternoon.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
@@ -53,7 +53,7 @@
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "The technicians repair the CPUs after lunch.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
@@ -112,24 +112,24 @@
       {
         "id": "e_1",
         "img": "assets/img/a_2_ex_1.png",
-        "text_a": "Can Ahmed adjust mirrors?",
-        "text_b": "Of course, he can. He adjusts mirrors every day. He’s a vehicle cleaner.",
+        "text_a": "Can Amal repair servers?",
+        "text_b": "Of course, he can. He repairs servers every day. He’s an IT technician.",
         "audio_a": "assets/audio/a_2_ex_1_a.mp3",
         "audio_b": "assets/audio/a_2_ex_1_b.mp3"
       },
       {
         "id": "e_2",
         "img": "assets/img/a_2_ex_2.png",
-        "text_a": "Can Mala test headlights?",
-        "text_b": "Of course, she can. She tests headlights every day. She’s a vehicle electrician.",
+        "text_a": "Can Devi type reports?",
+        "text_b": "Of course, she can. She types reports every day. She’s an office assistant.",
         "audio_a": "assets/audio/a_2_ex_2_a.mp3",
         "audio_b": "assets/audio/a_2_ex_2_b.mp3"
       },
       {
         "id": "e_3",
         "img": "assets/img/a_2_ex_3.png",
-        "text_a": "Can Siva paint small parts?",
-        "text_b": "Of course, he can. He paints small parts every day. He’s a spray painter.",
+        "text_a": "Can Ramesh install software?",
+        "text_b": "Of course, he can. He installs software every day. He’s an IT support assistant.",
         "audio_a": "assets/audio/a_2_ex_3_a.mp3",
         "audio_b": "assets/audio/a_2_ex_3_b.mp3"
       }
@@ -138,80 +138,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.jpeg",
-        "word": "repair damaged surfaces"
+        "word": "set up printers"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "perform advanced diagnostics"
+        "word": "check  network cables"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "wash and polish cars"
+        "word": "calibrate equipment"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "use diagnostic software"
+        "word": "assemble computer components"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "maintain service records"
+        "word": "connect monitors"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "test electrical systems"
+        "word": "troubleshoot hardware faults"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Can Amal repair damaged surfaces?",
-        "text_b": "Of course, he can. He repairs damaged surfaces every day. He’s a mechanic.",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Can Abdul set up printers?",
+        "text_b": "Of course, he can. He sets up printers every day. He’s a hardware technician.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Can Ramesh perform advanced diagnostics?",
-        "text_b": "Of course, he can. He performs advanced diagnostics every day. He’s a vehicle service assistant.",
+        "text_a": "Can Tina check network cables?",
+        "text_b": "Of course, she can. She checks network cables every day. She’s a network trainee.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Can Sarath wash and polish cars?",
-        "text_b": "Of course, he can. He washes and polishes cars every day. He’s a car detailer.",
+        "text_a": "Can Siva calibrate equipment?",
+        "text_b": "Of course, he can. He calibrates equipment every day. He’s an ICT lab assistant.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Can Sita use diagnostic software?",
-        "text_b": "Of course, she can. She uses diagnostic software every day. She’s a vehicle maintenance trainee.",
+        "text_a": "Can Farah assemble computer components?",
+        "text_b": "Of course, she can. She assembles computer components every day. She’s a computer assembly technician.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Can Pradeep maintain service records?",
-        "text_b": "Of course, he can. He maintains service records every day. He’s a garage technician.",
+        "text_a": "Can Mohamed connect monitors?",
+        "text_b": "Of course, he can. He connects monitors every day. He’s an ICT technician.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Can Kaleel test electrical systems?",
-        "text_b": "Of course, he can. He tests electrical systems every day. He’s a workshop assistant.",
+        "text_a": "Can Kala troubleshoot hardware faults?",
+        "text_b": "Of course, she can. She troubleshoots hardware faults every day. She’s an ICT assistant.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }
