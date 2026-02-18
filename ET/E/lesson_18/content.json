@@ -1,0 +1,687 @@
+{
+  "meta": {
+    "lesson_no": 18,
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /eə/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "rep'air'",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "These mechanics can rep'air' very sophisticated cars.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "sp'are'",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Can you keep a sp'are' wheel in the boot, please?",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "ch'air'",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The customers always wait on the ch'air's near the office.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "r'are'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "He often buys r'are' models of Audi.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.jpeg"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Focus Modal verb ‘Can’ contrasted with the Simple Present Tense",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        [
+          "Can Devi paint?",
+          "Of course she can. She paints everyday.",
+          "She’s a painter."
+        ],
+        [
+          "Can Ashok sing?",
+          "Of course he can. He sings everyday.",
+          "She’s a painter."
+        ]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/a_2_ex_1.png",
+        "text_a": "Can Ahmed adjust mirrors?",
+        "text_b": "Of course, he can. He adjusts mirrors every day. He’s a vehicle cleaner.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_1_b.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/a_2_ex_2.png",
+        "text_a": "Can Mala test headlights?",
+        "text_b": "Of course, she can. She tests headlights every day. She’s a vehicle electrician.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_2_b.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/a_2_ex_3.png",
+        "text_a": "Can Siva paint small parts?",
+        "text_b": "Of course, he can. He paints small parts every day. He’s a spray painter.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_ex_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_1.jpeg",
+        "word": "repair damaged surfaces"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_2.png",
+        "word": "perform advanced diagnostics"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_3.png",
+        "word": "wash and polish cars"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "use diagnostic software"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "maintain service records"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "test electrical systems"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "Can Amal repair damaged surfaces?",
+        "text_b": "Of course, he can. He repairs damaged surfaces every day. He’s a mechanic.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Can Ramesh perform advanced diagnostics?",
+        "text_b": "Of course, he can. He performs advanced diagnostics every day. He’s a vehicle service assistant.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Can Sarath wash and polish cars?",
+        "text_b": "Of course, he can. He washes and polishes cars every day. He’s a car detailer.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Can Sita use diagnostic software?",
+        "text_b": "Of course, she can. She uses diagnostic software every day. She’s a vehicle maintenance trainee.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Can Pradeep maintain service records?",
+        "text_b": "Of course, he can. He maintains service records every day. He’s a garage technician.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Can Kaleel test electrical systems?",
+        "text_b": "Of course, he can. He tests electrical systems every day. He’s a workshop assistant.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Make the following sentences negative.\nනිවැරදි පිළිතුර තෝරන්න.\nசரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_g.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-8.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "John drives carefully to the training centre every morning.",
+            "options": [
+              "John doesn’t drive carefully to the training centre every morning.",
+              "John don’t drives carefully to the training centre every morning.",
+              "John isn’t drive carefully to the training centre every morning."
+            ],
+            "answer": "John doesn’t drive carefully to the training centre every morning."
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "My instructor and I are very tired today after the workshop.",
+            "options": [
+              "My instructor and I aren’t very tired today after the workshop.",
+              "My instructor and I don’t are very tired today after the workshop.",
+              "My instructor and I wasn’t very tired today after the workshop."
+            ],
+            "answer": "My instructor and I aren’t very tired today after the workshop."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "The bakery is quiet this afternoon.",
+            "options": [
+              "The bakery isn’t quiet this afternoon.",
+              "The bakery don’t quiet this afternoon.",
+              "The bakery wasn’t quiet this afternoon."
+            ],
+            "answer": "The bakery isn’t quiet this afternoon."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "My best friend can cook tasty patties very quickly.",
+            "options": [
+              "My best friend can’t cook tasty patties very quickly.",
+              "My best friend doesn’t can cook tasty patties very quickly.",
+              "My best friend isn’t cook tasty patties very quickly."
+            ],
+            "answer": "My best friend can’t cook tasty patties very quickly."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "We clean the tools every evening before we go home.",
+            "options": [
+              "We don’t clean the tools every evening before we go home.",
+              "We aren’t clean the tools every evening before we go home.",
+              "We doesn’t clean the tools every evening before we go home."
+            ],
+            "answer": "We don’t clean the tools every evening before we go home."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "John was happy yesterday after the test.",
+            "options": [
+              "John wasn’t happy yesterday after the test.",
+              "John didn’t was happy yesterday after the test.",
+              "John isn’t happy yesterday after the test."
+            ],
+            "answer": "John wasn’t happy yesterday after the test."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "My instructor can fix a broken fan in a few minutes.",
+            "options": [
+              "My instructor can’t fix a broken fan in a few minutes.",
+              "My instructor isn’t fix a broken fan in a few minutes.",
+              "My instructor doesn’t can fix a broken fan in a few minutes."
+            ],
+            "answer": "My instructor can’t fix a broken fan in a few minutes."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "I study hard every weekend for my exams.",
+            "options": [
+              "I don’t study hard every weekend for my exams.",
+              "I doesn’t study hard every weekend for my exams.",
+              "I am not study hard every weekend for my exams."
+            ],
+            "answer": "I don’t study hard every weekend for my exams."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "The classroom was noisy last Friday during the practical session.",
+            "options": [
+              "The classroom wasn’t noisy last Friday during the practical session.",
+              "The classroom didn’t was noisy last Friday during the practical session.",
+              "The classroom isn’t noisy last Friday during the practical session."
+            ],
+            "answer": "The classroom wasn’t noisy last Friday during the practical session."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "My brother works carefully every day in the garage.",
+            "options": [
+              "My brother doesn’t work carefully every day in the garage.",
+              "My brother isn’t work carefully every day in the garage.",
+              "My brother don’t works carefully every day in the garage."
+            ],
+            "answer": "My brother doesn’t work carefully every day in the garage."
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_a_1",
+          "text": "John doesn’t drive carefully to the training centre every morning.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "g_b_a_2",
+          "text": "My instructor and I aren’t very tired today after the workshop.",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "g_b_a_3",
+          "text": "The bakery isn’t quiet this afternoon.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "g_b_a_4",
+          "text": "My best friend can’t cook tasty patties very quickly.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "g_b_a_5",
+          "text": "We don’t clean the tools every evening before we go home.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "g_b_a_6",
+          "text": "John wasn’t happy yesterday after the test.",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "g_b_a_7",
+          "text": "My instructor can’t fix a broken fan in a few minutes.",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "g_b_a_8",
+          "text": "I don’t study hard every weekend for my exams.",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        },
+        {
+          "id": "g_b_a_9",
+          "text": "The classroom wasn’t noisy last Friday during the practical session.",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
+        },
+        {
+          "id": "g_b_a_10",
+          "text": "My brother doesn’t work carefully every day in the garage.",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-8",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Drag and drop the correct word into the blanks in the following sentences.\nනිවැරදි වචනය පහත වාක්‍යවල හිස් තැන් වලට ඇදගෙන යන්න.\nபின்வரும் வாக்கியங்களில் வெற்றிடங்களுக்கு சரியான வார்த்தையை இழுத்து விடுங்கள்.",
+        "audio": "assets/audio/a_4_i_g.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "Give up something (phrasal verb)",
+            "item_b": "To stop doing something or trying to do something because it is too difficult or you no longer want to continue."
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "Determination (noun)",
+            "item_b": "The quality of continuing to try to do something even when it is difficult; strong will and purpose."
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "Compete (verb)",
+            "item_b": "To take part in a contest or game where people or teams try to win."
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "Improve (verb)",
+            "item_b": "To make something better, or to become better in quality, skill, or performance."
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "Represent (verb)",
+            "item_b": "To act or speak for someone or something; to be an official member of a team, group, or country in an event."
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_10_1",
+            "question": "Can Sri Lankan athletes compete in international sports events?",
+            "answer": "Yes, they can compete if they train with discipline.",
+            "options": [
+              "Yes, but only if they train with discipline under foreign coaches.",
+              "Yes, they can compete if they train with discipline.",
+              "No, they can only take part in school competitions."
+            ]
+          },
+          {
+            "id": "l_10_2",
+            "question": "Was Susanthika Jayasinghe the first Sri Lankan to win an Olympic gold medal?",
+            "answer": "No, she was the first Sri Lankan woman to win a silver medal.",
+            "options": [
+              "No, she was the first to win a bronze medal in 2000.",
+              "No, she was the first Sri Lankan woman to win a silver medal.",
+              "Yes, she was the first to win a gold medal in the 400 metres."
+            ]
+          },
+          {
+            "id": "l_10_3",
+            "question": "Does the passage say when athletes usually train?",
+            "answer": "Yes, many of them train early in the morning.",
+            "options": [
+              "Yes, many of them train early in the morning.",
+              "Yes, they train every evening after school.",
+              "No, it says they only train during competitions."
+            ]
+          },
+          {
+            "id": "l_10_4",
+            "question": "Are the new Sri Lankan athletes going to use modern training methods?",
+            "answer": "Yes, they are going to use better equipment and modern techniques.",
+            "options": [
+              "No, they are going to use the same old training tools.",
+              "Yes, they are going to use better equipment and modern techniques.",
+              "Yes, but only for swimming and boxing."
+            ]
+          },
+          {
+            "id": "l_10_5",
+            "question": "Was the crowd’s reaction to Susanthika Jayasinghe’s win described in the passage?",
+            "answer": "Yes, it said people remembered how happy she was when she crossed the finish line.",
+            "options": [
+              "Yes, it said people remembered how happy she was when she crossed the finish line.",
+              "Yes, it said the crowd stood up after her race.",
+              "No, the passage did not mention any feelings or reactions."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1_1",
+          "text": "Olympic champions are special people who can train for many years to reach their dream.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "They work hard every single day and never give up, even when things are difficult.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "Every country has its heroes, and Sri Lanka also has athletes who can make the nation proud.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "She was very fast and was known for her strong determination.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "At the Sydney Olympics in 2000, she was the first Sri Lankan woman to win a silver medal in athletics.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Many people still remember how happy she was when she crossed the finish line.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "Our athletes can compete in events such as boxing, swimming, javelin throw, and badminton.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "They know they can reach international standards if they continue to train with discipline.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "They are going to use better equipment and modern techniques to improve their performance.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Some of them are going to represent Sri Lanka in athletics, while others are going to compete in badminton or weightlifting.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Sports fans in Sri Lanka believe that one day the country is going to win more Olympic medals.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "With better support, young athletes can show the world that Sri Lankans are strong, talented, and determined to succeed.",
+          "audio": "assets/audio/t_1_12.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_1",
+          "text": "Olympic champions are special people who can train for many years to reach their dream.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "They work hard every single day and never give up, even when things are difficult.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "Every country has its heroes, and Sri Lanka also has athletes who can make the nation proud.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "She was very fast and was known for her strong determination.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "At the Sydney Olympics in 2000, she was the first Sri Lankan woman to win a silver medal in athletics.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Many people still remember how happy she was when she crossed the finish line.",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "Our athletes can compete in events such as boxing, swimming, javelin throw, and badminton.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "They know they can reach international standards if they continue to train with discipline.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "They are going to use better equipment and modern techniques to improve their performance.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Some of them are going to represent Sri Lanka in athletics, while others are going to compete in badminton or weightlifting.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Sports fans in Sri Lanka believe that one day the country is going to win more Olympic medals.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "With better support, young athletes can show the world that Sri Lankans are strong, talented, and determined to succeed.",
+          "audio": "assets/audio/t_1_12.mp3"
+        }
+      ],
+      "activity_e": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "compete",
+            "item_b": "We ___________ with other schools in many different sports every year."
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "determination",
+            "item_b": "His ___________ helped him win the race."
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "improve",
+            "item_b": "Practice every day if you want to ___________."
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "represent",
+            "item_b": "The flags ___________ the  nations."
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "give up",
+            "item_b": "They  never ___________ even when they  lose."
+          }
+        ]
+      }
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1A.mp4",
+        "instrction": "instrction_a"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
