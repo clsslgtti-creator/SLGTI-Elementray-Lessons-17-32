@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "g'ear'",
+        "word_text": "repair",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Shift the g'ear' slowly when driving.",
+        "sentence_text": "These mechanics can repair very sophisticated cars.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "st'eer'ing",
+        "word_text": "spare",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Turn the st'eer'ing wheel to the left.",
+        "sentence_text": "Can you keep a spare wheel in the boot, please?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "engin'eer'",
+        "word_text": "chair",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "An experienced engin'eer' checked the blueprints.",
+        "sentence_text": "The customers always wait on the chairs near the office.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "cl'ear'",
+        "word_text": "rare",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Keep the mirror clean and cl'ear'.",
+        "sentence_text": "He often buys rare models of Audi.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
@@ -96,38 +96,40 @@
     },
     "tables": [
       [
-        ["I", "can/ can’t (cannot) sing"],
-        ["He", null],
-        ["She", null],
-        ["It", null],
-        ["We", null],
-        ["You", null],
-        ["They", null]
-      ],
-      [["Can you sing?"], ["Yes, I can."], ["No, I can’t."]]
+        [
+          "Can Devi paint?",
+          "Of course she can. She paints everyday.",
+          "She’s a painter."
+        ],
+        [
+          "Can Ashok sing?",
+          "Of course he can. He sings everyday.",
+          "She’s a painter."
+        ]
+      ]
     ],
     "example_dialogues": [
       {
         "id": "e_1",
         "img": "assets/img/a_2_ex_1.png",
-        "text_a": "Can you use a commercial potato peeler?",
-        "text_b": "No, I can’t. But I can use a commercial dishwasher.",
+        "text_a": "Can Ahmed adjust mirrors?",
+        "text_b": "Of course, he can. He adjusts mirrors every day. He’s a vehicle cleaner.",
         "audio_a": "assets/audio/a_2_ex_1_a.mp3",
         "audio_b": "assets/audio/a_2_ex_1_b.mp3"
       },
       {
         "id": "e_2",
         "img": "assets/img/a_2_ex_2.png",
-        "text_a": "Can you sew a saree blouse?",
-        "text_b": "No, I can’t. But I can sew a pillow case.",
+        "text_a": "Can Mala test headlights?",
+        "text_b": "Of course, she can. She tests headlights every day. She’s a vehicle electrician.",
         "audio_a": "assets/audio/a_2_ex_2_a.mp3",
         "audio_b": "assets/audio/a_2_ex_2_b.mp3"
       },
       {
         "id": "e_3",
         "img": "assets/img/a_2_ex_3.png",
-        "text_a": "Can you repair a horse carriage?",
-        "text_b": "No, I can’t. But I can repair a bullock cart.",
+        "text_a": "Can Siva paint small parts?",
+        "text_b": "Of course, he can. He paints small parts every day. He’s a spray painter.",
         "audio_a": "assets/audio/a_2_ex_3_a.mp3",
         "audio_b": "assets/audio/a_2_ex_3_b.mp3"
       }
@@ -136,80 +138,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.png",
-        "word": "wheat flour string hoppers / red rice kiribath"
+        "word": "repair damaged surfaces"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "an electric truck / an electric three-wheeler"
+        "word": "perform advanced diagnostics"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.png",
-        "word": "a wall-mounted fan / a built-in dishwasher"
+        "word": "wash and polish cars"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.png",
-        "word": "croissants / French baguettes"
+        "word": "use diagnostic software"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "the saxophone / the rabana"
+        "word": "maintain service records"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_6.png",
-        "word": "Hindi / Japanese"
+        "word": "test electrical systems"
       }
     ],
     "dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Can you cook wheat flour string hoppers?",
-        "text_b": "No, I can’t. But I can cook red rice kiribath.",
+        "text_a": "Can Amal repair damaged surfaces?",
+        "text_b": "Of course, he can. He repairs damaged surfaces every day. He’s a mechanic.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Can you drive an electric truck?",
-        "text_b": "No, I can’t. But I can drive an electric three-wheeler.",
+        "text_a": "Can Ramesh perform advanced diagnostics?",
+        "text_b": "Of course, he can. He performs advanced diagnostics every day. He’s a vehicle service assistant.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Can you fix a wall-mounted fan?",
-        "text_b": "No, I can’t. But I can fix a built-in dishwasher.",
+        "text_a": "Can Sarath wash and polish cars?",
+        "text_b": "Of course, he can. He washes and polishes cars every day. He’s a car detailer.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Can you bake croissants?",
-        "text_b": "No, I can’t. But I can bake French baguettes.",
+        "text_a": "Can Sita use diagnostic software?",
+        "text_b": "Of course, she can. She uses diagnostic software every day. She’s a vehicle maintenance trainee.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "Can you play the saxophone?",
-        "text_b": "No, I can’t. But I can play the rabana.",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Can Pradeep maintain service records?",
+        "text_b": "Of course, he can. He maintains service records every day. He’s a garage technician.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Can you speak Hindi?",
-        "text_b": "No, I can’t. But I can speak Japanese.",
+        "text_a": "Can Kaleel test electrical systems?",
+        "text_b": "Of course, he can. He tests electrical systems every day. He’s a workshop assistant.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       }
@@ -234,7 +236,6 @@
           {
             "id": "g_b_1",
             "sentence": "John drives carefully to the training centre every morning.",
-            "audio": "assets/audio/a_3_b_1.mp3",
             "options": [
               "John doesn’t drive carefully to the training centre every morning.",
               "John don’t drives carefully to the training centre every morning.",
@@ -245,7 +246,6 @@
           {
             "id": "g_b_2",
             "sentence": "My instructor and I are very tired today after the workshop.",
-            "audio": "assets/audio/a_3_b_2.mp3",
             "options": [
               "My instructor and I aren’t very tired today after the workshop.",
               "My instructor and I don’t are very tired today after the workshop.",
@@ -256,7 +256,6 @@
           {
             "id": "g_b_3",
             "sentence": "The bakery is quiet this afternoon.",
-            "audio": "assets/audio/a_3_b_3.mp3",
             "options": [
               "The bakery isn’t quiet this afternoon.",
               "The bakery don’t quiet this afternoon.",
@@ -267,7 +266,6 @@
           {
             "id": "g_b_4",
             "sentence": "My best friend can cook tasty patties very quickly.",
-            "audio": "assets/audio/a_3_b_4.mp3",
             "options": [
               "My best friend can’t cook tasty patties very quickly.",
               "My best friend doesn’t can cook tasty patties very quickly.",
@@ -278,7 +276,6 @@
           {
             "id": "g_b_5",
             "sentence": "We clean the tools every evening before we go home.",
-            "audio": "assets/audio/a_3_b_5.mp3",
             "options": [
               "We don’t clean the tools every evening before we go home.",
               "We aren’t clean the tools every evening before we go home.",
@@ -289,7 +286,6 @@
           {
             "id": "g_b_6",
             "sentence": "John was happy yesterday after the test.",
-            "audio": "assets/audio/a_3_b_6.mp3",
             "options": [
               "John wasn’t happy yesterday after the test.",
               "John didn’t was happy yesterday after the test.",
@@ -300,7 +296,6 @@
           {
             "id": "g_b_7",
             "sentence": "My instructor can fix a broken fan in a few minutes.",
-            "audio": "assets/audio/a_3_b_7.mp3",
             "options": [
               "My instructor can’t fix a broken fan in a few minutes.",
               "My instructor isn’t fix a broken fan in a few minutes.",
@@ -311,7 +306,6 @@
           {
             "id": "g_b_8",
             "sentence": "I study hard every weekend for my exams.",
-            "audio": "assets/audio/a_3_b_8.mp3",
             "options": [
               "I don’t study hard every weekend for my exams.",
               "I doesn’t study hard every weekend for my exams.",
@@ -322,7 +316,6 @@
           {
             "id": "g_b_9",
             "sentence": "The classroom was noisy last Friday during the practical session.",
-            "audio": "assets/audio/a_3_b_9.mp3",
             "options": [
               "The classroom wasn’t noisy last Friday during the practical session.",
               "The classroom didn’t was noisy last Friday during the practical session.",
@@ -333,7 +326,6 @@
           {
             "id": "g_b_10",
             "sentence": "My brother works carefully every day in the garage.",
-            "audio": "assets/audio/a_3_b_10.mp3",
             "options": [
               "My brother doesn’t work carefully every day in the garage.",
               "My brother isn’t work carefully every day in the garage.",
@@ -509,245 +501,125 @@
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Every weekday, Kavindu arrives at the Mechanical Technology section at a quarter to eight.",
+          "text": "Olympic champions are special people who can train for many years to reach their dream.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "Does he come late?",
+          "text": "They work hard every single day and never give up, even when things are difficult.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "No, he doesn’t.",
+          "text": "Every country has its heroes, and Sri Lanka also has athletes who can make the nation proud.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He always comes early because he wants to check the machines and tools before class.",
+          "text": "She was very fast and was known for her strong determination.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He stands in line with the other trainees for the morning assembly.",
+          "text": "At the Sydney Olympics in 2000, she was the first Sri Lankan woman to win a silver medal in athletics.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "He doesn’t talk while the instructor checks attendance and gives safety instructions about workshop machines.",
+          "text": "Many people still remember how happy she was when she crossed the finish line.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "The timetable shows theory sessions in the morning and practical sessions in the afternoon.",
+          "text": "Our athletes can compete in events such as boxing, swimming, javelin throw, and badminton.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "On Mondays, Kavindu studies Workshop Safety and Machine Tools.",
+          "text": "They know they can reach international standards if they continue to train with discipline.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "On Wednesday morning, he learns about Mechanical Drawing and Measurement.",
+          "text": "They are going to use better equipment and modern techniques to improve their performance.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "Does he enjoy it?",
+          "text": "Some of them are going to represent Sri Lanka in athletics, while others are going to compete in badminton or weightlifting.",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
           "id": "t_1_11",
-          "text": "Yes, he does.",
+          "text": "Sports fans in Sri Lanka believe that one day the country is going to win more Olympic medals.",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
           "id": "t_1_12",
-          "text": "He likes drawing machine parts and using vernier calipers for measurement.",
+          "text": "With better support, young athletes can show the world that Sri Lankans are strong, talented, and determined to succeed.",
           "audio": "assets/audio/t_1_12.mp3"
-        },
-        {
-          "id": "t_1_13",
-          "text": "On Friday afternoon, he works on the Lathe Machine Operation.",
-          "audio": "assets/audio/t_1_13.mp3"
-        },
-        {
-          "id": "t_1_14",
-          "text": "He doesn’t miss any tasks because every session helps him become a better technician.",
-          "audio": "assets/audio/t_1_14.mp3"
-        },
-        {
-          "id": "t_1_15",
-          "text": "At 8:30 a.m., the first class starts.",
-          "audio": "assets/audio/t_1_15.mp3"
-        },
-        {
-          "id": "t_1_16",
-          "text": "Does Kavindu go to the workshop first?",
-          "audio": "assets/audio/t_1_16.mp3"
-        },
-        {
-          "id": "t_1_17",
-          "text": "No, he doesn’t.",
-          "audio": "assets/audio/t_1_17.mp3"
-        },
-        {
-          "id": "t_1_18",
-          "text": "He stays in the classroom for theory.",
-          "audio": "assets/audio/t_1_18.mp3"
-        },
-        {
-          "id": "t_1_19",
-          "text": "He doesn’t switch on the machines before the instructor checks the settings.",
-          "audio": "assets/audio/t_1_19.mp3"
-        },
-        {
-          "id": "t_1_20",
-          "text": "His instructor wants him to complete the theory notes first.",
-          "audio": "assets/audio/t_1_20.mp3"
-        },
-        {
-          "id": "t_1_21",
-          "text": "At 10:45, Kavindu has a tea break.",
-          "audio": "assets/audio/t_1_21.mp3"
-        },
-        {
-          "id": "t_1_22",
-          "text": "He usually drinks plain tea in the canteen.",
-          "audio": "assets/audio/t_1_22.mp3"
-        },
-        {
-          "id": "t_1_23",
-          "text": "But sometimes he sits near the machine bay with his friends.",
-          "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_24",
-          "text": "Do they eat snacks every day?",
-          "audio": "assets/audio/t_1_24.mp3"
-        },
-        {
-          "id": "t_1_25",
-          "text": "No, they don’t.",
-          "audio": "assets/audio/t_1_25.mp3"
-        },
-        {
-          "id": "t_1_26",
-          "text": "They have snacks only on Mondays, Wednesdays, and Fridays.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
-          "id": "t_1_27",
-          "text": "After the break, Kavindu goes to the mechanical workshop.",
-          "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "He uses different tools and follows safety procedures carefully.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "He doesn’t forget his gloves, shoes, or face shield.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_30",
-          "text": "His instructor walks around and checks his turning and cutting operations.",
-          "audio": "assets/audio/t_1_30.mp3"
-        },
-        {
-          "id": "t_1_31",
-          "text": "He eats lunch at 12:30 and cleans his work area.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
-          "id": "t_1_32",
-          "text": "He doesn’t leave any metal pieces or oil spills behind.",
-          "audio": "assets/audio/t_1_32.mp3"
-        },
-        {
-          "id": "t_1_33",
-          "text": "The day ends at 4:15 p.m.",
-          "audio": "assets/audio/t_1_33.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Does he feel tired?",
-          "audio": "assets/audio/t_1_34.mp3"
-        },
-        {
-          "id": "t_1_35",
-          "text": "Yes, he does, but he feels proud because he learns something new every day.",
-          "audio": "assets/audio/t_1_35.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Every weekday, Kavindu arrives at the Mechanical Technology section at a quarter to eight.",
+          "text": "Olympic champions are special people who can train for many years to reach their dream.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "Does he come late?",
+          "text": "They work hard every single day and never give up, even when things are difficult.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
+          "id": "t_1_3",
+          "text": "Every country has its heroes, and Sri Lanka also has athletes who can make the nation proud.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "She was very fast and was known for her strong determination.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
           "id": "t_1_5",
-          "text": "He stands in line with the other trainees for the morning assembly.",
+          "text": "At the Sydney Olympics in 2000, she was the first Sri Lankan woman to win a silver medal in athletics.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "He doesn’t talk while the instructor checks attendance and gives safety instructions about workshop machines.",
+          "text": "Many people still remember how happy she was when she crossed the finish line.",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
+          "id": "t_1_7",
+          "text": "Our athletes can compete in events such as boxing, swimming, javelin throw, and badminton.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
           "id": "t_1_8",
-          "text": "On Mondays, Kavindu studies Workshop Safety and Machine Tools.",
+          "text": "They know they can reach international standards if they continue to train with discipline.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
+          "id": "t_1_9",
+          "text": "They are going to use better equipment and modern techniques to improve their performance.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
           "id": "t_1_10",
-          "text": "Does he enjoy it?",
+          "text": "Some of them are going to represent Sri Lanka in athletics, while others are going to compete in badminton or weightlifting.",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "He doesn’t miss any tasks because every session helps him become a better technician.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_1_11",
+          "text": "Sports fans in Sri Lanka believe that one day the country is going to win more Olympic medals.",
+          "audio": "assets/audio/t_1_11.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "He doesn’t switch on the machines before the instructor checks the settings.",
-          "audio": "assets/audio/t_1_19.mp3"
-        },
-        {
-          "id": "t_1_22",
-          "text": "He usually drinks plain tea in the canteen.",
-          "audio": "assets/audio/t_1_22.mp3"
-        },
-        {
-          "id": "t_1_23",
-          "text": "But sometimes he sits near the machine bay with his friends.",
-          "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "He uses different tools and follows safety procedures carefully.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "He doesn’t forget his gloves, shoes, or face shield.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Does he feel tired?",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_1_12",
+          "text": "With better support, young athletes can show the world that Sri Lankans are strong, talented, and determined to succeed.",
+          "audio": "assets/audio/t_1_12.mp3"
         }
       ],
       "activity_e": {
