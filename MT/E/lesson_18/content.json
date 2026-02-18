@@ -111,7 +111,7 @@
     "example_dialogues": [
       {
         "id": "e_1",
-        "img": "assets/img/a_2_ex_1.png",
+        "img": "assets/img/a_2_ex_1.jpeg",
         "text_a": "Can Sarath tighten bolts?",
         "text_b": "Of course, he can. He tightens bolts every day. He’s a mechanic.",
         "audio_a": "assets/audio/a_2_ex_1_a.mp3",
@@ -137,7 +137,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.jpeg",
+        "image": "assets/img/a_2_d_1.png",
         "word": "oil gears"
       },
       {
@@ -162,7 +162,7 @@
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.png",
+        "image": "assets/img/a_2_d_6.jpeg",
         "word": "recondition old parts"
       }
     ],
@@ -209,7 +209,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "Can Thilak recondition old parts?",
         "text_b": "Of course, he can. He reconditions old parts every day. He’s a mechanical assistant.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",

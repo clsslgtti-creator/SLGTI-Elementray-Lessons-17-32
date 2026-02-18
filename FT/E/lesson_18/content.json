@@ -137,7 +137,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.jpeg",
+        "image": "assets/img/a_2_d_1.png",
         "word": "pack bran crackers"
       },
       {
@@ -147,7 +147,7 @@
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_3.png",
+        "image": "assets/img/a_2_d_3.jpeg",
         "word": "prepares seafood dishes"
       },
       {
@@ -185,7 +185,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
+        "img": "assets/img/a_2_d_3.jpeg",
         "text_a": "Can Sita prepare seafood dishes?",
         "text_b": "Of course, she can. She prepares seafood dishes every day. She’s a chef’s assistant.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
