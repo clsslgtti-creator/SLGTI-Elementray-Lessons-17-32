@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "Diphthong /ɪə/",
+    "focus": "Diphthong /eə/",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -33,41 +33,41 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "repair",
+        "word_text": "rep'air'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "These mechanics can repair very sophisticated cars.",
+        "sentence_text": "These mechanics can rep'air' very sophisticated cars.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "spare",
+        "word_text": "sp'are'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Can you keep a spare wheel in the boot, please?",
+        "sentence_text": "Can you keep a sp'are' wheel in the boot, please?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "chair",
+        "word_text": "ch'air'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The customers always wait on the chairs near the office.",
+        "sentence_text": "The customers always wait on the ch'air's near the office.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "rare",
+        "word_text": "r'are'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He often buys rare models of Audi.",
+        "sentence_text": "He often buys r'are' models of Audi.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Modal verb ‘Can’",
+    "focus": "Focus Modal verb ‘Can’ contrasted with the Simple Present Tense",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
@@ -137,7 +137,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.png",
+        "image": "assets/img/a_2_d_1.jpeg",
         "word": "repair damaged surfaces"
       },
       {
@@ -157,7 +157,7 @@
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_5.jpeg",
+        "image": "assets/img/a_2_d_5.png",
         "word": "maintain service records"
       },
       {
@@ -169,7 +169,7 @@
     "dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
+        "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "Can Amal repair damaged surfaces?",
         "text_b": "Of course, he can. He repairs damaged surfaces every day. He’s a mechanic.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
