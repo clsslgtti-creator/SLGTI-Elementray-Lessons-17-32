@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "spare",
+        "word_text": "sp'are'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They keep spare parts in a separate box.",
+        "sentence_text": "They keep sp'are' parts in a separate box.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "repair",
+        "word_text": "rep'air'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They can repair the lathe motor this afternoon.",
+        "sentence_text": "They can rep'air' the lathe motor this afternoon.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "chair",
+        "word_text": "ch'air'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The supervisor always sits on the chair near the bench.",
+        "sentence_text": "The supervisor always sits on the ch'air' near the bench.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "hardware",
+        "word_text": "hardw'are'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The hardware shop next door definitely has these parts.",
+        "sentence_text": "The hardw'are' shop next door definitely has these parts.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }
