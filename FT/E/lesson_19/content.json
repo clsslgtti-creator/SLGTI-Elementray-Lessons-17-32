@@ -32,36 +32,36 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "pan",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Heat the oil in the pan.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
-      },
-      {
         "id": "p_2",
-        "word_text": "peel",
+        "word_text": "'p'eel",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They have to peel the vegetables before noon.",
+        "sentence_text": "They have to 'p'eel the vegetables before noon.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "pour",
+        "word_text": "'p'our",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Pour the milk into the jug.",
+        "sentence_text": "Pour the milk into the 'p'our.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pipe",
+        "word_text": "'p'i'p'e",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The trainees have to clean the metal pipe daily.",
+        "sentence_text": "The trainees have to clean the metal 'p'i'p'e daily.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "'p'an",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Heat the oil in the 'p'an.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
       }
     ]
   },
