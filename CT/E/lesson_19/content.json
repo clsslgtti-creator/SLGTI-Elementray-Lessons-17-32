@@ -440,13 +440,13 @@
           },
           {
             "id": "n_4_a_2",
-            "item_a": "Vibration",
-            "item_b": "Back and forth motion of particles of an object."
+            "item_a": "Channel",
+            "item_b": "A passage built to carry excess water or outflow."
           },
           {
             "id": "n_4_a_3",
-            "item_a": "Postpone",
-            "item_b": "To arrange for something at a later time than originally scheduled."
+            "item_a": "Replace",
+            "item_b": "To put something back in position."
           },
           {
             "id": "n_4_a_4",
@@ -456,7 +456,7 @@
           {
             "id": "n_4_a_5",
             "item_a": "Urgent",
-            "item_b": "Requiring immediate action or attention."
+            "item_b": "Requiring urgent action or attention."
           }
         ]
       },
@@ -465,52 +465,52 @@
         "Questions": [
           {
             "id": "l_10_1",
-            "question": "Why can’t they start the engine tuning today?",
-            "answer": "The senior technicians are busy with urgent tasks that can’t be stopped.",
+            "question": "Why can’t they start the concrete work?",
+            "answer": "Three masons are busy with other tasks that cannot wait.",
             "options": [
-              "The senior technicians are already working on the hybrid car.",
-              "The parts are missing for engine tuning.",
-              "The senior technicians are busy with urgent tasks that can’t be stopped."
+              "Three masons have other tasks at the concrete site.",
+              "Tools at the concrete site are broken.",
+              "Three masons are busy with other tasks that cannot wait."
             ]
           },
           {
             "id": "l_10_2",
-            "question": "What is Arun working on?",
-            "answer": "The brake-bleeding system of a blue van.",
+            "question": "What problem is Nalin fixing?",
+            "answer": "A leaking drain channel behind the store room.",
             "options": [
-              "The brake-bleeding system of a blue van.",
-              "The brake-bleeding system of a black SUV.",
-              "The wheel alignment of a red sedan."
+              "A window behind the leaking channel.",
+              "A leaking drain channel behind the store room.",
+              "A leaking drain in front of the store room."
             ]
           },
           {
             "id": "l_10_3",
-            "question": "Why is Thilan’s job urgent?",
-            "answer": "Interrupting the ECU update can crash the system.",
+            "question": "Why is the plastering urgent?",
+            "answer": "Asela needs to have it ready for the inspector before lunchtime.",
             "options": [
-              "He must finish the ECU update before the customer returns.",
-              "Interrupting the ECU update can crash the system.",
-              "Updating the ECU can crash the ECU system."
+              "Asela needs to have it ready for the inspector before lunchtime.",
+              "Rain is coming soon.",
+              "Workers want the inspector to see it after lunch."
             ]
           },
           {
             "id": "l_10_4",
-            "question": "Why can’t junior mechanics calibrate the throttle body?",
-            "answer": "They don’t know how to set sensor readings properly.",
+            "question": "Why can’t carpenters finish shuttering?",
+            "answer": "Their skills are not good enough to level it.",
             "options": [
-              "They always calibrate it incorrectly.",
-              "They don’t know how to set sensor readings properly.",
-              "They can open it, but they can’t calibrate the idle level and sensor readings."
+              "They have no boards.",
+              "Their skills are not good enough to level it.",
+              "They always level it."
             ]
           },
           {
             "id": "l_10_5",
-            "question": "Why must the engine tuning be postponed?",
-            "answer": "To avoid malfunctioning of the hybrid system due to lack of skilled technicians.",
+            "question": "Why does the foreman delay the job?",
+            "answer": "To avoid uneven flooring.",
             "options": [
-              "Because they have to check the fault alternator first.",
-              "Because the customer wants it tomorrow.",
-              "To avoid malfunctioning of the hybrid system due to lack of skilled technicians."
+              "Workers want to finish polishing the floor.",
+              "The supervisor asked him to do it.",
+              "To avoid uneven flooring."
             ]
           }
         ]
@@ -518,17 +518,17 @@
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "text": "Pradeep, we need to start laying the concrete floor today.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
+          "text": "The contractor is calling again and wants an update.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "Can you begin the tuning right now?",
+          "text": "Can you begin the work right now?",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
@@ -538,7 +538,7 @@
         },
         {
           "id": "t_1_5",
-          "text": "We can’t start it today.",
+          "text": "We can’t begin it today.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
@@ -548,7 +548,7 @@
         },
         {
           "id": "t_1_7",
-          "text": "The spark plugs, fuel injectors, and air filters arrived early this morning.",
+          "text": "The sand, cement, and metal chips arrived early this morning.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
@@ -558,17 +558,17 @@
         },
         {
           "id": "t_1_9",
-          "text": "Yes, sir, all the parts are here.",
+          "text": "Yes, sir, the materials are here.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "But two senior technicians and one mechanic can't start the tuning.",
+          "text": "But three workers can’t come to the concrete site now.",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
           "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "text": "All three of them have other urgent jobs to finish.",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
@@ -578,227 +578,257 @@
         },
         {
           "id": "t_1_13",
-          "text": "Arun, Thilan, and Kareem.",
+          "text": "Nalin, Asela, and Rahim.",
           "audio": "assets/audio/t_1_13.mp3"
         },
         {
           "id": "t_1_14",
-          "text": "They are our main diagnostic technicians.",
+          "text": "They are our main masons, sir.",
           "audio": "assets/audio/t_1_14.mp3"
         },
         {
           "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "text": "Nalin has to repair the drain channel behind the store room.",
           "audio": "assets/audio/t_1_15.mp3"
         },
         {
           "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
+          "text": "It is leaking heavily.",
           "audio": "assets/audio/t_1_16.mp3"
         },
         {
           "id": "t_1_17",
-          "text": "Thilan is updating the ECU software of the black SUV; if he interrupts the update, the system can crash.",
+          "text": "If he doesn’t fix it, water will flood the area.",
           "audio": "assets/audio/t_1_17.mp3"
         },
         {
           "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "text": "Asela has to plaster the wall near the staircase.",
           "audio": "assets/audio/t_1_18.mp3"
         },
         {
           "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "text": "The building inspector is coming later today, so he has to finish that section before lunchtime.",
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
           "id": "t_1_20",
-          "text": "Can the junior mechanics at least clean the throttle body?",
+          "text": "Rahim has to replace a broken floor tile near the entrance.",
           "audio": "assets/audio/t_1_20.mp3"
         },
         {
           "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
+          "text": "Someone already slipped yesterday.",
           "audio": "assets/audio/t_1_21.mp3"
         },
         {
           "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
+          "text": "Can the carpenters at least prepare the shuttering boards?",
           "audio": "assets/audio/t_1_22.mp3"
         },
         {
           "id": "t_1_23",
-          "text": "What about the battery technician?",
+          "text": "They can cut the boards, sir, but they can’t fix them.",
           "audio": "assets/audio/t_1_23.mp3"
         },
         {
           "id": "t_1_24",
-          "text": "Can he help with anything?",
+          "text": "They can’t level the shuttering correctly.",
           "audio": "assets/audio/t_1_24.mp3"
         },
         {
           "id": "t_1_25",
-          "text": "No, sir.",
+          "text": "Only masons can check the slopes and lines.",
           "audio": "assets/audio/t_1_25.mp3"
         },
         {
           "id": "t_1_26",
-          "text": "He can’t either.",
+          "text": "What about the mixer operator?",
           "audio": "assets/audio/t_1_26.mp3"
         },
         {
           "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
+          "text": "Can he help with anything?",
           "audio": "assets/audio/t_1_27.mp3"
         },
         {
           "id": "t_1_28",
-          "text": "If he delays that job, the car battery will keep draining.",
+          "text": "No, sir.",
           "audio": "assets/audio/t_1_28.mp3"
         },
         {
           "id": "t_1_29",
-          "text": "So we must postpone the tuning?",
+          "text": "He can’t either.",
           "audio": "assets/audio/t_1_29.mp3"
         },
         {
           "id": "t_1_30",
-          "text": "Yes, sir.",
+          "text": "He has to clean the concrete mixer drum.",
           "audio": "assets/audio/t_1_30.mp3"
         },
         {
           "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
+          "text": "The drum is full of old hardened concrete.",
           "audio": "assets/audio/t_1_31.mp3"
         },
         {
           "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
+          "text": "If he leaves it like that, the mixer will get damaged.",
           "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_33",
+          "text": "So we have to delay the entire job?",
+          "audio": "assets/audio/t_1_33.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Yes, sir.",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_35",
+          "text": "We have to delay until tomorrow.",
+          "audio": "assets/audio/t_1_35.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "If we start without masons, the floor will not be even, and we will fail the inspection.",
+          "audio": "assets/audio/t_1_36.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "text": "Pradeep, we need to start laying the concrete floor today.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
+          "text": "The contractor is calling again and wants an update.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "text": "All three of them have other urgent jobs to finish.",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
           "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "text": "Nalin has to repair the drain channel behind the store room.",
           "audio": "assets/audio/t_1_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
-        },
-        {
           "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "text": "Asela has to plaster the wall near the staircase.",
           "audio": "assets/audio/t_1_18.mp3"
         },
         {
           "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "text": "The building inspector is coming later today, so he has to finish that section before lunchtime.",
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_1_20",
+          "text": "Rahim has to replace a broken floor tile near the entrance.",
+          "audio": "assets/audio/t_1_20.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_1_24",
+          "text": "They can’t level the shuttering correctly.",
+          "audio": "assets/audio/t_1_24.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_1_29",
+          "text": "He can’t either.",
+          "audio": "assets/audio/t_1_29.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_1_30",
+          "text": "He has to clean the concrete mixer drum.",
+          "audio": "assets/audio/t_1_30.mp3"
         },
         {
           "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
+          "text": "If he leaves it like that, the mixer will get damaged.",
           "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_35",
+          "text": "We have to delay until tomorrow.",
+          "audio": "assets/audio/t_1_35.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "If we start without masons, the floor will not be even, and we will fail the inspection.",
+          "audio": "assets/audio/t_1_36.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "text": "Pradeep, we need to start laying the concrete floor today.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
+          "text": "The contractor is calling again and wants an update.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "text": "All three of them have other urgent jobs to finish.",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
           "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "text": "Nalin has to repair the drain channel behind the store room.",
           "audio": "assets/audio/t_1_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
-        },
-        {
           "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "text": "Asela has to plaster the wall near the staircase.",
           "audio": "assets/audio/t_1_18.mp3"
         },
         {
           "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "text": "The building inspector is coming later today, so he has to finish that section before lunchtime.",
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_1_20",
+          "text": "Rahim has to replace a broken floor tile near the entrance.",
+          "audio": "assets/audio/t_1_20.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_1_24",
+          "text": "They can’t level the shuttering correctly.",
+          "audio": "assets/audio/t_1_24.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_1_29",
+          "text": "He can’t either.",
+          "audio": "assets/audio/t_1_29.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_1_30",
+          "text": "He has to clean the concrete mixer drum.",
+          "audio": "assets/audio/t_1_30.mp3"
         },
         {
           "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
+          "text": "If he leaves it like that, the mixer will get damaged.",
           "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_35",
+          "text": "We have to delay until tomorrow.",
+          "audio": "assets/audio/t_1_35.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "If we start without masons, the floor will not be even, and we will fail the inspection.",
+          "audio": "assets/audio/t_1_36.mp3"
         }
       ]
     }
