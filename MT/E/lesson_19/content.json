@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "lesson_no": 19,
+    "level": "Elementary",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Short /p/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'p'ump",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The mechanic has to check the 'p'ump this morning.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'p'i'p'e",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The water flows through the 'p'i'p'e.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'p'lug",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The trainees have to replace the faulty 'p'lug this afternoon.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.jpeg"
+      },
+      {
+        "id": "p_4",
+        "word_text": "'p'art",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "We have to order a new 'p'art for the engine soon.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.jpeg"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Focus Modal verbs ‘Can’ and ‘Have to’ and possessives ",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I", "have to", "work."],
+        ["We", null, null],
+        ["You", null, null],
+        ["They", null, null],
+        ["He", "has to", null],
+        ["She", null, null],
+        ["It", null, null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Can you and Amal go to Ruwan’s birthday party today?",
+        "text_b": "No, we can’t. We have to repair our motorbike.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Can Nadeesha go to Ruwan’s birthday party today?",
+        "text_b": "No, she can’t. She has to take her mother to the skin clinic.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Can your children go to Ruwan’s birthday party today?",
+        "text_b": "No, they can’t. They have to study for their maths test.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "wash the dishes after his sister’s wedding party"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "renovate their house after the floods"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "fix a leaking geyser in his bathroom"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "help her daughter with the school project"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "attend an urgent meeting at work"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "go to Colombo for his driving test"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Can John go to Ruwan’s birthday party today?",
+        "text_b": "No, he can’t. He has to wash the dishes after his sister’s wedding party.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Can your parents go to Ruwan’s birthday party today?",
+        "text_b": "No, they can’t. They have to renovate their house after the floods.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Can Suresh go to Ruwan’s birthday party today?",
+        "text_b": "No, he can’t. He has to fix a leaking geyser in his bathroom.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Can Malini go to Ruwan’s birthday party today?",
+        "text_b": "No, she can’t. She has to help her daughter with the school project.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Can you go to Ruwan’s birthday party today?",
+        "text_b": "No, I can’t. I have to attend an urgent meeting at work.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Can your brother go to Ruwan’s birthday party today?",
+        "text_b": "No, he can’t. He has to go to Colombo for his driving test.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_g.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_c": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-8.jpg",
+        "examples": [
+          {
+            "id": "g_b_e_1",
+            "text": "A job applicant should make eye contact and give a firm handshake when greeting the interviewer. ",
+            "audio": "assets/audio/a_3_b_g_e_1.mp3",
+            "image": "assets/img/g_b_e_1.png"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "text": "A job applicant must carefully prepare his CV before the interview.",
+            "audio": "assets/audio/a_3_b_g_1.mp3",
+            "image": "assets/img/a_3_b_g_1.png"
+          },
+          {
+            "id": "g_b_2",
+            "text": "A job applicant has to iron a clean shirt and trousers to look professional.",
+            "audio": "assets/audio/a_3_b_g_2.mp3",
+            "image": "assets/img/a_3_b_g_2.png"
+          },
+          {
+            "id": "g_b_3",
+            "text": "A job applicant has to practice answering common questions with a friend.",
+            "audio": "assets/audio/a_3_b_g_3.mp3",
+            "image": "assets/img/a_3_b_g_3.png"
+          },
+          {
+            "id": "g_b_4",
+            "text": "A job applicant has to check the company location and plan how to travel there.",
+            "audio": "assets/audio/a_3_b_g_4.mp3",
+            "image": "assets/img/a_3_b_g_4.png"
+          },
+          {
+            "id": "g_b_5",
+            "text": "A job applicant has to arrive at least 15 minutes early on the day of the interview.",
+            "audio": "assets/audio/a_3_b_g_5.mp3",
+            "image": "assets/img/a_3_b_g_5.png"
+          },
+          {
+            "id": "g_b_6",
+            "text": "A job applicant has to carry all important documents, such as certificates and ID.",
+            "audio": "assets/audio/a_3_b_g_6.mp3",
+            "image": "assets/img/a_3_b_g_6.png"
+          },
+          {
+            "id": "g_b_7",
+            "text": "A job applicant must switch off his or her mobile phone before entering the interview room.",
+            "audio": "assets/audio/a_3_b_g_7.mp3",
+            "image": "assets/img/a_3_b_g_7.png"
+          },
+          {
+            "id": "g_b_8",
+            "text": "A job applicant should speak politely and confidently during the interview.",
+            "audio": "assets/audio/a_3_b_g_8.mp3",
+            "image": "assets/img/a_3_b_g_8.png"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_e_1",
+          "text": "A job applicant should make eye contact and give a firm handshake when greeting the interviewer. ",
+          "audio": "assets/audio/a_3_b_g_e_1.mp3",
+          "image": "assets/img/g_b_e_1.png"
+        },
+        {
+          "id": "g_b_1",
+          "text": "A job applicant must carefully prepare his CV before the interview.",
+          "audio": "assets/audio/a_3_b_g_1.mp3",
+          "image": "assets/img/a_3_b_g_1.png"
+        },
+        {
+          "id": "g_b_2",
+          "text": "A job applicant has to iron a clean shirt and trousers to look professional.",
+          "audio": "assets/audio/a_3_b_g_2.mp3",
+          "image": "assets/img/a_3_b_g_2.png"
+        },
+        {
+          "id": "g_b_3",
+          "text": "A job applicant has to practice answering common questions with a friend.",
+          "audio": "assets/audio/a_3_b_g_3.mp3",
+          "image": "assets/img/a_3_b_g_3.png"
+        },
+        {
+          "id": "g_b_4",
+          "text": "A job applicant has to check the company location and plan how to travel there.",
+          "audio": "assets/audio/a_3_b_g_4.mp3",
+          "image": "assets/img/a_3_b_g_4.png"
+        },
+        {
+          "id": "g_b_5",
+          "text": "A job applicant has to arrive at least 15 minutes early on the day of the interview.",
+          "audio": "assets/audio/a_3_b_g_5.mp3",
+          "image": "assets/img/a_3_b_g_5.png"
+        },
+        {
+          "id": "g_b_6",
+          "text": "A job applicant has to carry all important documents, such as certificates and ID.",
+          "audio": "assets/audio/a_3_b_g_6.mp3",
+          "image": "assets/img/a_3_b_g_6.png"
+        },
+        {
+          "id": "g_b_7",
+          "text": "A job applicant must switch off his or her mobile phone before entering the interview room.",
+          "audio": "assets/audio/a_3_b_g_7.mp3",
+          "image": "assets/img/a_3_b_g_7.png"
+        },
+        {
+          "id": "g_b_8",
+          "text": "A job applicant should speak politely and confidently during the interview.",
+          "audio": "assets/audio/a_3_b_g_8.mp3",
+          "image": "assets/img/a_3_b_g_8.png"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "g_b_e_1",
+          "text": "A job applicant should make eye contact and give a firm handshake when greeting the interviewer. ",
+          "audio": "assets/audio/a_3_b_g_e_1.mp3",
+          "image": "assets/img/g_b_e_1.png"
+        },
+        {
+          "id": "g_b_1",
+          "text": "A job applicant must carefully prepare his CV before the interview.",
+          "audio": "assets/audio/a_3_b_g_1.mp3",
+          "image": "assets/img/a_3_b_g_1.png"
+        },
+        {
+          "id": "g_b_2",
+          "text": "A job applicant has to iron a clean shirt and trousers to look professional.",
+          "audio": "assets/audio/a_3_b_g_2.mp3",
+          "image": "assets/img/a_3_b_g_2.png"
+        },
+        {
+          "id": "g_b_3",
+          "text": "A job applicant has to practice answering common questions with a friend.",
+          "audio": "assets/audio/a_3_b_g_3.mp3",
+          "image": "assets/img/a_3_b_g_3.png"
+        },
+        {
+          "id": "g_b_4",
+          "text": "A job applicant has to check the company location and plan how to travel there.",
+          "audio": "assets/audio/a_3_b_g_4.mp3",
+          "image": "assets/img/a_3_b_g_4.png"
+        },
+        {
+          "id": "g_b_5",
+          "text": "A job applicant has to arrive at least 15 minutes early on the day of the interview.",
+          "audio": "assets/audio/a_3_b_g_5.mp3",
+          "image": "assets/img/a_3_b_g_5.png"
+        },
+        {
+          "id": "g_b_6",
+          "text": "A job applicant has to carry all important documents, such as certificates and ID.",
+          "audio": "assets/audio/a_3_b_g_6.mp3",
+          "image": "assets/img/a_3_b_g_6.png"
+        },
+        {
+          "id": "g_b_7",
+          "text": "A job applicant must switch off his or her mobile phone before entering the interview room.",
+          "audio": "assets/audio/a_3_b_g_7.mp3",
+          "image": "assets/img/a_3_b_g_7.png"
+        },
+        {
+          "id": "g_b_8",
+          "text": "A job applicant should speak politely and confidently during the interview.",
+          "audio": "assets/audio/a_3_b_g_8.mp3",
+          "image": "assets/img/a_3_b_g_8.png"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "Update",
+            "item_b": "To give the latest information on a situation."
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "Vibration",
+            "item_b": "Back and forth motion of particles of an object."
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "Postpone",
+            "item_b": "To arrange for something at a later time than originally scheduled."
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "Delay",
+            "item_b": "To make something late or slow."
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "Urgent",
+            "item_b": "Requiring immediate action or attention."
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_10_1",
+            "question": "Why can’t they start the engine tuning today?",
+            "answer": "The senior technicians are busy with urgent tasks that can’t be stopped.",
+            "options": [
+              "The senior technicians are already working on the hybrid car.",
+              "The parts are missing for engine tuning.",
+              "The senior technicians are busy with urgent tasks that can’t be stopped."
+            ]
+          },
+          {
+            "id": "l_10_2",
+            "question": "What is Arun working on?",
+            "answer": "The brake-bleeding system of a blue van.",
+            "options": [
+              "The brake-bleeding system of a blue van.",
+              "The brake-bleeding system of a black SUV.",
+              "The wheel alignment of a red sedan."
+            ]
+          },
+          {
+            "id": "l_10_3",
+            "question": "Why is Thilan’s job urgent?",
+            "answer": "Interrupting the ECU update can crash the system.",
+            "options": [
+              "He must finish the ECU update before the customer returns.",
+              "Interrupting the ECU update can crash the system.",
+              "Updating the ECU can crash the ECU system."
+            ]
+          },
+          {
+            "id": "l_10_4",
+            "question": "Why can’t junior mechanics calibrate the throttle body?",
+            "answer": "They don’t know how to set sensor readings properly.",
+            "options": [
+              "They always calibrate it incorrectly.",
+              "They don’t know how to set sensor readings properly.",
+              "They can open it, but they can’t calibrate the idle level and sensor readings."
+            ]
+          },
+          {
+            "id": "l_10_5",
+            "question": "Why must the engine tuning be postponed?",
+            "answer": "To avoid malfunctioning of the hybrid system due to lack of skilled technicians.",
+            "options": [
+              "Because they have to check the fault alternator first.",
+              "Because the customer wants it tomorrow.",
+              "To avoid malfunctioning of the hybrid system due to lack of skilled technicians."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1_1",
+          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "The owner has been calling nonstop for an update.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "Can you begin the tuning right now?",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "No, sir.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "We can’t start it today.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Why not?",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "The spark plugs, fuel injectors, and air filters arrived early this morning.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "Everything should be ready.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Yes, sir, all the parts are here.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "But two senior technicians and one mechanic can't start the tuning.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "Who exactly are they?",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_13",
+          "text": "Arun, Thilan, and Kareem.",
+          "audio": "assets/audio/t_1_13.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "They are our main diagnostic technicians.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Thilan is updating the ECU software of the black SUV; if he interrupts the update, the system can crash.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "Can the junior mechanics at least clean the throttle body?",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "What about the battery technician?",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "Can he help with anything?",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "No, sir.",
+          "audio": "assets/audio/t_1_25.mp3"
+        },
+        {
+          "id": "t_1_26",
+          "text": "He can’t either.",
+          "audio": "assets/audio/t_1_26.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "He has to check a faulty alternator on another vehicle.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "If he delays that job, the car battery will keep draining.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_29",
+          "text": "So we must postpone the tuning?",
+          "audio": "assets/audio/t_1_29.mp3"
+        },
+        {
+          "id": "t_1_30",
+          "text": "Yes, sir.",
+          "audio": "assets/audio/t_1_30.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "We have to postpone it until tomorrow.",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
+          "audio": "assets/audio/t_1_32.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_1",
+          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "The owner has been calling nonstop for an update.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "He has to check a faulty alternator on another vehicle.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "We have to postpone it until tomorrow.",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
+          "audio": "assets/audio/t_1_32.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1_1",
+          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "The owner has been calling nonstop for an update.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "He has to check a faulty alternator on another vehicle.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "We have to postpone it until tomorrow.",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
+          "audio": "assets/audio/t_1_32.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2A.mp4",
+        "instrction": "instrction_a"
+      }
+    ]
+  }
+}
