@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'p'ump",
+        "word_text": "port",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mechanic has to check the 'p'ump this morning.",
+        "sentence_text": "First you have to connect the cable to the port.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "'p'i'p'e",
+        "word_text": "programme",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The water flows through the 'p'i'p'e.",
+        "sentence_text": "Write a simple programme in C.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'p'lug",
+        "word_text": "print",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The trainees have to replace the faulty 'p'lug this afternoon.",
+        "sentence_text": "They have to print the report before closing.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'p'art",
+        "word_text": "paste",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "We have to order a new 'p'art for the engine soon.",
+        "sentence_text": "Paste the copied text into the document.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },

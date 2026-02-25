@@ -33,9 +33,9 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'p'ump",
+        "word_text": "'p'aint",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mechanic has to check the 'p'ump this morning.",
+        "sentence_text": "They have to 'p'aint the wall tomorrow.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -43,25 +43,25 @@
         "id": "p_2",
         "word_text": "'p'i'p'e",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The water flows through the 'p'i'p'e.",
+        "sentence_text": "He has to fix the broken 'p'i'p'e near the sink.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'p'lug",
+        "word_text": "'p'lan",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The trainees have to replace the faulty 'p'lug this afternoon.",
+        "sentence_text": "The masons always follow the building 'p'lan carefully.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'p'art",
+        "word_text": "'p'laster",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "We have to order a new 'p'art for the engine soon.",
+        "sentence_text": "You have to apply 'p'laster to the surface first.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
