@@ -294,106 +294,114 @@
       },
       "activity_b": [
         {
-          "id": "g_b_a_1",
-          "text": "John doesn’t drive carefully to the training centre every morning.",
-          "audio": "assets/audio/a_3_b_g_1.mp3"
+          "id": "g_b_e_1",
+          "text": "A job applicant should make eye contact and give a firm handshake when greeting the interviewer. ",
+          "audio": "assets/audio/a_3_b_g_e_1.mp3",
+          "image": "assets/img/g_b_e_1.png"
         },
         {
-          "id": "g_b_a_2",
-          "text": "My instructor and I aren’t very tired today after the workshop.",
-          "audio": "assets/audio/a_3_b_g_2.mp3"
+          "id": "g_b_1",
+          "text": "A job applicant must carefully prepare his CV before the interview.",
+          "audio": "assets/audio/a_3_b_g_1.mp3",
+          "image": "assets/img/a_3_b_g_1.png"
         },
         {
-          "id": "g_b_a_3",
-          "text": "The bakery isn’t quiet this afternoon.",
-          "audio": "assets/audio/a_3_b_g_3.mp3"
+          "id": "g_b_2",
+          "text": "A job applicant has to iron a clean shirt and trousers to look professional.",
+          "audio": "assets/audio/a_3_b_g_2.mp3",
+          "image": "assets/img/a_3_b_g_2.png"
         },
         {
-          "id": "g_b_a_4",
-          "text": "My best friend can’t cook tasty patties very quickly.",
-          "audio": "assets/audio/a_3_b_g_4.mp3"
+          "id": "g_b_3",
+          "text": "A job applicant has to practice answering common questions with a friend.",
+          "audio": "assets/audio/a_3_b_g_3.mp3",
+          "image": "assets/img/a_3_b_g_3.png"
         },
         {
-          "id": "g_b_a_5",
-          "text": "We don’t clean the tools every evening before we go home.",
-          "audio": "assets/audio/a_3_b_g_5.mp3"
+          "id": "g_b_4",
+          "text": "A job applicant has to check the company location and plan how to travel there.",
+          "audio": "assets/audio/a_3_b_g_4.mp3",
+          "image": "assets/img/a_3_b_g_4.png"
         },
         {
-          "id": "g_b_a_6",
-          "text": "John wasn’t happy yesterday after the test.",
-          "audio": "assets/audio/a_3_b_g_6.mp3"
+          "id": "g_b_5",
+          "text": "A job applicant has to arrive at least 15 minutes early on the day of the interview.",
+          "audio": "assets/audio/a_3_b_g_5.mp3",
+          "image": "assets/img/a_3_b_g_5.png"
         },
         {
-          "id": "g_b_a_7",
-          "text": "My instructor can’t fix a broken fan in a few minutes.",
-          "audio": "assets/audio/a_3_b_g_7.mp3"
+          "id": "g_b_6",
+          "text": "A job applicant has to carry all important documents, such as certificates and ID.",
+          "audio": "assets/audio/a_3_b_g_6.mp3",
+          "image": "assets/img/a_3_b_g_6.png"
         },
         {
-          "id": "g_b_a_8",
-          "text": "I don’t study hard every weekend for my exams.",
-          "audio": "assets/audio/a_3_b_g_8.mp3"
+          "id": "g_b_7",
+          "text": "A job applicant must switch off his or her mobile phone before entering the interview room.",
+          "audio": "assets/audio/a_3_b_g_7.mp3",
+          "image": "assets/img/a_3_b_g_7.png"
         },
         {
-          "id": "g_b_a_9",
-          "text": "The classroom wasn’t noisy last Friday during the practical session.",
-          "audio": "assets/audio/a_3_b_g_9.mp3"
-        },
-        {
-          "id": "g_b_a_10",
-          "text": "My brother doesn’t work carefully every day in the garage.",
-          "audio": "assets/audio/a_3_b_g_10.mp3"
+          "id": "g_b_8",
+          "text": "A job applicant should speak politely and confidently during the interview.",
+          "audio": "assets/audio/a_3_b_g_8.mp3",
+          "image": "assets/img/a_3_b_g_8.png"
         }
       ],
       "activity_c": [
         {
-          "id": "g_b_a_1",
-          "text": "John doesn’t drive carefully to the training centre every morning.",
-          "audio": "assets/audio/a_3_b_g_1.mp3"
+          "id": "g_b_e_1",
+          "text": "A job applicant should make eye contact and give a firm handshake when greeting the interviewer. ",
+          "audio": "assets/audio/a_3_b_g_e_1.mp3",
+          "image": "assets/img/g_b_e_1.png"
         },
         {
-          "id": "g_b_a_2",
-          "text": "My instructor and I aren’t very tired today after the workshop.",
-          "audio": "assets/audio/a_3_b_g_2.mp3"
+          "id": "g_b_1",
+          "text": "A job applicant must carefully prepare his CV before the interview.",
+          "audio": "assets/audio/a_3_b_g_1.mp3",
+          "image": "assets/img/a_3_b_g_1.png"
         },
         {
-          "id": "g_b_a_3",
-          "text": "The bakery isn’t quiet this afternoon.",
-          "audio": "assets/audio/a_3_b_g_3.mp3"
+          "id": "g_b_2",
+          "text": "A job applicant has to iron a clean shirt and trousers to look professional.",
+          "audio": "assets/audio/a_3_b_g_2.mp3",
+          "image": "assets/img/a_3_b_g_2.png"
         },
         {
-          "id": "g_b_a_4",
-          "text": "My best friend can’t cook tasty patties very quickly.",
-          "audio": "assets/audio/a_3_b_g_4.mp3"
+          "id": "g_b_3",
+          "text": "A job applicant has to practice answering common questions with a friend.",
+          "audio": "assets/audio/a_3_b_g_3.mp3",
+          "image": "assets/img/a_3_b_g_3.png"
         },
         {
-          "id": "g_b_a_5",
-          "text": "We don’t clean the tools every evening before we go home.",
-          "audio": "assets/audio/a_3_b_g_5.mp3"
+          "id": "g_b_4",
+          "text": "A job applicant has to check the company location and plan how to travel there.",
+          "audio": "assets/audio/a_3_b_g_4.mp3",
+          "image": "assets/img/a_3_b_g_4.png"
         },
         {
-          "id": "g_b_a_6",
-          "text": "John wasn’t happy yesterday after the test.",
-          "audio": "assets/audio/a_3_b_g_6.mp3"
+          "id": "g_b_5",
+          "text": "A job applicant has to arrive at least 15 minutes early on the day of the interview.",
+          "audio": "assets/audio/a_3_b_g_5.mp3",
+          "image": "assets/img/a_3_b_g_5.png"
         },
         {
-          "id": "g_b_a_7",
-          "text": "My instructor can’t fix a broken fan in a few minutes.",
-          "audio": "assets/audio/a_3_b_g_7.mp3"
+          "id": "g_b_6",
+          "text": "A job applicant has to carry all important documents, such as certificates and ID.",
+          "audio": "assets/audio/a_3_b_g_6.mp3",
+          "image": "assets/img/a_3_b_g_6.png"
         },
         {
-          "id": "g_b_a_8",
-          "text": "I don’t study hard every weekend for my exams.",
-          "audio": "assets/audio/a_3_b_g_8.mp3"
+          "id": "g_b_7",
+          "text": "A job applicant must switch off his or her mobile phone before entering the interview room.",
+          "audio": "assets/audio/a_3_b_g_7.mp3",
+          "image": "assets/img/a_3_b_g_7.png"
         },
         {
-          "id": "g_b_a_9",
-          "text": "The classroom wasn’t noisy last Friday during the practical session.",
-          "audio": "assets/audio/a_3_b_g_9.mp3"
-        },
-        {
-          "id": "g_b_a_10",
-          "text": "My brother doesn’t work carefully every day in the garage.",
-          "audio": "assets/audio/a_3_b_g_10.mp3"
+          "id": "g_b_8",
+          "text": "A job applicant should speak politely and confidently during the interview.",
+          "audio": "assets/audio/a_3_b_g_8.mp3",
+          "image": "assets/img/a_3_b_g_8.png"
         }
       ]
     }

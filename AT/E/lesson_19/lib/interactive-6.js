@@ -283,7 +283,7 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
   const bank = document.createElement("div");
   bank.className = "interactive6-bank";
 
-  board.append(sentences, bank);
+  board.append(bank, sentences);
   layout.appendChild(board);
 
   const feedbackEl = document.createElement("p");
@@ -295,6 +295,7 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
 
   const dropzones = [];
   const sentenceCards = [];
+  const timerEls = [];
   const placements = new Map();
   const zoneLabels = new Map();
 
@@ -303,8 +304,17 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
     card.className = "interactive6-sentence-card";
     card.dataset.sentenceIndex = String(index);
 
+    const header = document.createElement("div");
+    header.className = "interactive6-sentence-header";
+
     const title = document.createElement("h3");
     title.textContent = `Sentence ${index + 1}`;
+
+    const timer = document.createElement("span");
+    timer.className = "interactive6-timer";
+    timer.textContent = "--";
+
+    header.append(title, timer);
 
     const text = document.createElement("p");
     text.className = "interactive6-sentence-text";
@@ -314,6 +324,7 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
     zone.className = "interactive6-dropzone";
     zone.dataset.expectedId = item.id;
     zone.dataset.zoneId = item.id;
+    zone.dataset.zoneIndex = String(index);
     zone.dataset.locked = "false";
 
     const label = document.createElement("span");
@@ -321,9 +332,10 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
     label.textContent = "Drop the matching image here";
 
     zone.appendChild(label);
-    card.append(title, text, zone);
+    card.append(header, text, zone);
     sentences.appendChild(card);
     sentenceCards.push(card);
+    timerEls.push(timer);
     dropzones.push(zone);
     zoneLabels.set(zone, label);
   });
@@ -360,6 +372,8 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
   let autoTriggered = false;
   let sequenceRunning = false;
   let sequenceCompleted = false;
+  let activeStepIndex = -1;
+  let activeStepResolve = null;
 
   const updateFeedback = (text, variant = "neutral") => {
     feedbackEl.textContent = text;
@@ -373,6 +387,14 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
 
   const resetFeedback = () => {
     updateFeedback("Press Start to begin.", "neutral");
+  };
+
+  const resetTimers = () => {
+    timerEls.forEach((timer) => {
+      if (timer) {
+        timer.textContent = "--";
+      }
+    });
   };
 
   const resetCardPosition = (cardEl) => {
@@ -442,6 +464,10 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
       window.clearInterval(countdownInterval);
       countdownInterval = null;
     }
+    if (activeStepResolve) {
+      activeStepResolve = null;
+    }
+    activeStepIndex = -1;
   };
 
   const clearHighlights = () => {
@@ -462,6 +488,7 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
     setInteractionEnabled(false);
     status.textContent = "";
     audioManager.stopAll();
+    resetTimers();
 
     dropzones.forEach((zone) => {
       zone.classList.remove(
@@ -548,8 +575,22 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
       }
     }
 
+    if (timerEls[index]) {
+      timerEls[index].textContent = "Done";
+    }
+
     if (!isCorrect && placed) {
       placed.classList.remove("is-active");
+    }
+  };
+
+  const completeActiveStep = (index) => {
+    if (activeStepResolve && activeStepIndex === index) {
+      const resolve = activeStepResolve;
+      activeStepResolve = null;
+      activeStepIndex = -1;
+      clearCountdown();
+      resolve();
     }
   };
 
@@ -580,12 +621,19 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
         status.textContent = `Sentence ${index + 1} of ${
           matchingItems.length
         }: Drag the image (${remaining}s)`;
+        if (timerEls[index]) {
+          timerEls[index].textContent = `${remaining}s`;
+        }
       };
 
       updateStatus();
       clearCountdown();
+      activeStepIndex = index;
+      activeStepResolve = resolve;
 
       if (signal?.aborted) {
+        activeStepResolve = null;
+        activeStepIndex = -1;
         resolve();
         return;
       }
@@ -599,6 +647,9 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
 
         remaining -= 1;
         if (remaining <= 0) {
+          if (timerEls[index]) {
+            timerEls[index].textContent = "0s";
+          }
           clearCountdown();
           resolve();
           return;
@@ -618,6 +669,7 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
     startBtn.textContent = "Running...";
     resetBtn.disabled = false;
     updateFeedback("Follow the audio and drag each matching image.", "neutral");
+    resetTimers();
 
     sequenceController?.abort();
     sequenceController = new AbortController();
@@ -635,6 +687,10 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
         activeIndex = index;
         clearHighlights();
         sentenceCards[index]?.classList.add("is-active");
+        sentenceCards[index]?.scrollIntoView({
+          behavior: "smooth",
+          block: "center",
+        });
         setInteractionEnabled(false);
         status.textContent = `Sentence ${index + 1} of ${
           matchingItems.length
@@ -744,6 +800,11 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
         cardEl.dataset.assignedZone = zoneId;
         zoneEl.classList.add("is-filled");
         placements.set(zoneId, cardEl);
+
+        const zoneIndex = Number(zoneEl.dataset.zoneIndex);
+        if (Number.isInteger(zoneIndex) && zoneIndex === activeIndex) {
+          completeActiveStep(zoneIndex);
+        }
       },
     });
 

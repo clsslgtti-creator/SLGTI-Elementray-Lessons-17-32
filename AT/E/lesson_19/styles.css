@@ -1240,6 +1240,10 @@ body {
   gap: clamp(1rem, 2.5vw, 1.6rem);
 }
 
+.interactive6-slide {
+  overflow: visible;
+}
+
 .interactive6-example {
   border-radius: var(--radius-md);
   background: rgba(31, 111, 235, 0.08);
@@ -1295,6 +1299,9 @@ body {
   border: 1px dashed rgba(31, 41, 51, 0.15);
   border-radius: var(--radius-sm);
   background: rgb(244, 248, 255);
+  position: sticky;
+  top: clamp(0.75rem, 2vw, 1.25rem);
+  z-index: 2;
 }
 
 .interactive6-card {
@@ -1367,8 +1374,9 @@ body {
 }
 
 .interactive6-sentence-card.is-active {
-  border-color: rgba(31, 111, 235, 0.45);
-  box-shadow: var(--shadow-md);
+  border-color: rgba(31, 111, 235, 0.75);
+  box-shadow: 0 18px 28px rgba(31, 111, 235, 0.25);
+  background: rgba(219, 234, 254, 0.4);
 }
 
 .interactive6-sentence-card h3 {
@@ -1378,10 +1386,36 @@ body {
   color: var(--color-primary);
 }
 
+.interactive6-sentence-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.interactive6-timer {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--color-muted);
+  background: rgba(15, 23, 42, 0.08);
+  border-radius: 999px;
+  padding: 0.2rem 0.65rem;
+}
+
+.interactive6-sentence-card.is-active .interactive6-timer {
+  color: var(--color-primary);
+  background: rgba(31, 111, 235, 0.15);
+}
+
 .interactive6-sentence-text {
   margin: 0;
   color: var(--color-text);
   line-height: 1.45;
+}
+
+.interactive6-sentence-card.is-active .interactive6-sentence-text {
+  color: #0f172a;
+  font-weight: 600;
 }
 
 .interactive6-dropzone {
@@ -1451,18 +1485,6 @@ body {
 }
 
 @media (min-width: 900px) {
-  .interactive6-layout {
-    flex-direction: row;
-    align-items: flex-start;
-  }
-
-  .interactive6-bank {
-    flex: 0 0 260px;
-    position: sticky;
-    top: clamp(0.75rem, 2vw, 1.25rem);
-    z-index: 2;
-  }
-
   .interactive6-sentences {
     flex: 1;
     grid-template-columns: repeat(2, minmax(0, 1fr));
