@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "port",
+        "word_text": "'p'ort",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "First you have to connect the cable to the port.",
+        "sentence_text": "First you have to connect the cable to the 'p'ort.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "programme",
+        "word_text": "'p'rogramme",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Write a simple programme in C.",
+        "sentence_text": "Write a simple 'p'rogramme in C.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "print",
+        "word_text": "'p'rint",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "They have to print the report before closing.",
+        "sentence_text": "They have to 'p'rint the report before closing.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "paste",
+        "word_text": "'p'aste",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Paste the copied text into the document.",
+        "sentence_text": "'P'aste the copied text into the document.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
