@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pump",
+        "word_text": "'p'um'p'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He has to inspect the pump for leaks this morning.",
+        "sentence_text": "He has to inspect the 'p'um'p' for leaks this morning.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "pipe",
+        "word_text": "'p'i'p'e",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The technician fixed the pipe joint.",
+        "sentence_text": "The technician fixed the 'p'i'p'e joint.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "part",
+        "word_text": "'p'art",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "You must replace the damaged part immediately.",
+        "sentence_text": "You must replace the damaged 'p'art immediately.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "pressure",
+        "word_text": "'p'ressure",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "They have to check the pressure before testing.",
+        "sentence_text": "They have to check the 'p'ressure before testing.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
