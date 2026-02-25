@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "plug",
+        "word_text": "'p'lug",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "You have to connect the plug to the socket.",
+        "sentence_text": "You have to connect the 'p'lug to the socket.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "power",
+        "word_text": "'p'ower",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "You must turn off the power before doing any repairs.",
+        "sentence_text": "You must turn off the 'p'ower before doing any repairs.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "pump",
+        "word_text": "'p'um'p'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The water pump has to be wired correctly.",
+        "sentence_text": "The water 'p'um'p' has to be wired correctly.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "panel",
+        "word_text": "'p'anel",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The supervisor checks the control panel regularly.",
+        "sentence_text": "The supervisor checks the control 'p'anel regularly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
