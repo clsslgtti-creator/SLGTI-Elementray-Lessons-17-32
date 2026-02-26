@@ -694,44 +694,9 @@
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "Can you begin the work right now?",
-          "audio": "assets/audio/t_1_3.mp3"
-        },
-        {
-          "id": "t_1_4",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_4.mp3"
-        },
-        {
-          "id": "t_1_5",
-          "text": "We can’t begin it today.",
-          "audio": "assets/audio/t_1_5.mp3"
-        },
-        {
-          "id": "t_1_6",
-          "text": "Why not?",
-          "audio": "assets/audio/t_1_6.mp3"
-        },
-        {
           "id": "t_1_7",
           "text": "The cables, circuit breakers, and PVC conduits arrived early in the morning.",
           "audio": "assets/audio/t_1_7.mp3"
-        },
-        {
-          "id": "t_1_8",
-          "text": "Everything should be ready to start.",
-          "audio": "assets/audio/t_1_8.mp3"
-        },
-        {
-          "id": "t_1_9",
-          "text": "Yes, sir, all the materials are on site.",
-          "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "But three key electrical workers can’t come to the wiring area now.",
-          "audio": "assets/audio/t_1_10.mp3"
         },
         {
           "id": "t_1_11",
@@ -739,29 +704,9 @@
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Who are they exactly?",
-          "audio": "assets/audio/t_1_12.mp3"
-        },
-        {
-          "id": "t_1_13",
-          "text": "Sunil, Imtiaz, and Roshan.",
-          "audio": "assets/audio/t_1_13.mp3"
-        },
-        {
-          "id": "t_1_14",
-          "text": "They are our main electricians.",
-          "audio": "assets/audio/t_1_14.mp3"
-        },
-        {
           "id": "t_1_15",
           "text": "Sunil is repairing a faulty distribution board on the second floor.",
           "audio": "assets/audio/t_1_15.mp3"
-        },
-        {
-          "id": "t_1_16",
-          "text": "If he leaves it halfway, the entire floor will lose power.",
-          "audio": "assets/audio/t_1_16.mp3"
         },
         {
           "id": "t_1_17",
@@ -779,9 +724,66 @@
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "The workshop supervisor needs it before the afternoon welding session begins.",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_1_21",
+          "text": "Can the apprentices at least run the conduits through the walls?",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "They can run the conduits, sir, but they can’t fix the bends correctly.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "He is checking the automatic transfer switch.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "We have to delay it until tomorrow.",
+          "audio": "assets/audio/t_1_32.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1_1",
+          "text": "Suresh, we need to start the wiring installation in the new office block today.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "The project manager is asking for a progress update.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "The cables, circuit breakers, and PVC conduits arrived early in the morning.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Each of them has an urgent task that cannot be stopped halfway.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "Sunil is repairing a faulty distribution board on the second floor.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Imtiaz is replacing a burnt-out ceiling fan in the training room.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "If he delays it, the trainees will have no ventilation.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "Roshan is installing a new three-phase socket near the workshop entrance.",
+          "audio": "assets/audio/t_1_19.mp3"
         },
         {
           "id": "t_1_21",
@@ -794,62 +796,16 @@
           "audio": "assets/audio/t_1_22.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "Only the experienced electricians can mark the angles and maintain correct spacing.",
-          "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_24",
-          "text": "What about the generator technician?",
-          "audio": "assets/audio/t_1_24.mp3"
-        },
-        {
-          "id": "t_1_25",
-          "text": "Can he help with anything?",
-          "audio": "assets/audio/t_1_25.mp3"
-        },
-        {
-          "id": "t_1_26",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
-          "id": "t_1_27",
-          "text": "He can’t either.",
-          "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
           "id": "t_1_28",
           "text": "He is checking the automatic transfer switch.",
           "audio": "assets/audio/t_1_28.mp3"
         },
         {
-          "id": "t_1_29",
-          "text": "If he leaves it unfinished, the backup generator will not switch on during a power cut.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_30",
-          "text": "So we have no option except delaying the wiring work?",
-          "audio": "assets/audio/t_1_30.mp3"
-        },
-        {
-          "id": "t_1_31",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
           "id": "t_1_32",
           "text": "We have to delay it until tomorrow.",
           "audio": "assets/audio/t_1_32.mp3"
-        },
-        {
-          "id": "t_1_33",
-          "text": "If we start wiring without the main electricians, we might fail the safety check and electrical testing.",
-          "audio": "assets/audio/t_1_33.mp3"
         }
-      ],
-      "activity_e": 0
+      ]
     }
   },
   "activity_5": {
