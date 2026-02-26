@@ -694,64 +694,9 @@
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "Can you begin the preparation right now?",
-          "audio": "assets/audio/t_1_3.mp3"
-        },
-        {
-          "id": "t_1_4",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_4.mp3"
-        },
-        {
-          "id": "t_1_5",
-          "text": "We can’t begin it today.",
-          "audio": "assets/audio/t_1_5.mp3"
-        },
-        {
-          "id": "t_1_6",
-          "text": "Why not?",
-          "audio": "assets/audio/t_1_6.mp3"
-        },
-        {
-          "id": "t_1_7",
-          "text": "The flour, yeast, and butter arrived early this morning.",
-          "audio": "assets/audio/t_1_7.mp3"
-        },
-        {
-          "id": "t_1_8",
-          "text": "Everything should be ready.",
-          "audio": "assets/audio/t_1_8.mp3"
-        },
-        {
-          "id": "t_1_9",
-          "text": "Yes, sir, the ingredients are here.",
-          "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "But three key workers can’t come to the mixing station right now.",
-          "audio": "assets/audio/t_1_10.mp3"
-        },
-        {
           "id": "t_1_11",
           "text": "They all have urgent food-safety tasks that must be completed first.",
           "audio": "assets/audio/t_1_11.mp3"
-        },
-        {
-          "id": "t_1_12",
-          "text": "Who exactly are they?",
-          "audio": "assets/audio/t_1_12.mp3"
-        },
-        {
-          "id": "t_1_13",
-          "text": "Sajith, Kamala, and Farha.",
-          "audio": "assets/audio/t_1_13.mp3"
-        },
-        {
-          "id": "t_1_14",
-          "text": "They are our main bakery assistants.",
-          "audio": "assets/audio/t_1_14.mp3"
         },
         {
           "id": "t_1_15",
@@ -769,11 +714,6 @@
           "audio": "assets/audio/t_1_17.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "If she stops, the dough may over-proof and spoil.",
-          "audio": "assets/audio/t_1_18.mp3"
-        },
-        {
           "id": "t_1_19",
           "text": "Farha is labelling allergen-free products in the packaging room.",
           "audio": "assets/audio/t_1_19.mp3"
@@ -784,59 +724,14 @@
           "audio": "assets/audio/t_1_20.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "Can the trainees at least start measuring the ingredients?",
-          "audio": "assets/audio/t_1_21.mp3"
-        },
-        {
-          "id": "t_1_22",
-          "text": "They can measure them, sir, but they can’t adjust the ratios.",
-          "audio": "assets/audio/t_1_22.mp3"
-        },
-        {
           "id": "t_1_23",
           "text": "Only trained technicians can calculate the correct hydration level and fix mixing consistency.",
           "audio": "assets/audio/t_1_23.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "What about the technician working on the oven?",
-          "audio": "assets/audio/t_1_24.mp3"
-        },
-        {
-          "id": "t_1_25",
-          "text": "Can he help with anything?",
-          "audio": "assets/audio/t_1_25.mp3"
-        },
-        {
-          "id": "t_1_26",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
-          "id": "t_1_27",
-          "text": "He can’t either.",
-          "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
           "id": "t_1_28",
           "text": "He is calibrating the oven temperature sensors.",
           "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "If he leaves it incomplete, the oven may overheat during baking and burn the products.",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_30",
-          "text": "So we have to delay the dough preparation?",
-          "audio": "assets/audio/t_1_30.mp3"
-        },
-        {
-          "id": "t_1_31",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_31.mp3"
         },
         {
           "id": "t_1_32",
@@ -849,7 +744,68 @@
           "audio": "assets/audio/t_1_33.mp3"
         }
       ],
-      "activity_e": 0
+      "activity_e": [
+        {
+          "id": "t_1_1",
+          "text": "Ashok, we need to start preparing the dough for the large bakery order today.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "The hotel manager keeps calling for updates.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "They all have urgent food-safety tasks that must be completed first.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "Sajith is sanitising the stainless-steel mixing bowls in the cleaning area.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "If he stops now, the bowls will not meet hygiene standards.",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Kamala is checking the dough temperature inside the fermentation chamber.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "Farha is labelling allergen-free products in the packaging room.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "If she leaves it halfway, the labels will be mixed up and cause confusion.",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "Only trained technicians can calculate the correct hydration level and fix mixing consistency.",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "He is calibrating the oven temperature sensors.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "We have to delay it until tomorrow.",
+          "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_33",
+          "text": "If we start without the main assistants, the dough will not be consistent, and we will fail the quality check.",
+          "audio": "assets/audio/t_1_33.mp3"
+        }
+      ]
     }
   },
   "activity_5": {
