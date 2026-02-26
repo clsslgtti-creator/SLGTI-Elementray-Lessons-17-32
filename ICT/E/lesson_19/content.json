@@ -440,23 +440,23 @@
           },
           {
             "id": "n_4_a_2",
-            "item_a": "Vibration",
-            "item_b": "Back and forth motion of particles of an object."
+            "item_a": "Configure",
+            "item_b": "To arrange or put together in a particular form."
           },
           {
             "id": "n_4_a_3",
+            "item_a": "Malfunction",
+            "item_b": "To fail to work properly."
+          },
+          {
+            "id": "n_4_a_4",
             "item_a": "Postpone",
             "item_b": "To arrange for something at a later time than originally scheduled."
           },
           {
-            "id": "n_4_a_4",
-            "item_a": "Delay",
-            "item_b": "To make something late or slow."
-          },
-          {
             "id": "n_4_a_5",
-            "item_a": "Urgent",
-            "item_b": "Requiring immediate action or attention."
+            "item_a": "Critical",
+            "item_b": "Expressing disapproval or judgement."
           }
         ]
       },
@@ -465,52 +465,52 @@
         "Questions": [
           {
             "id": "l_10_1",
-            "question": "Why can’t they start the engine tuning today?",
-            "answer": "The senior technicians are busy with urgent tasks that can’t be stopped.",
+            "question": "Why can’t they start configuring the computer lab today?",
+            "answer": "Three technicians have critical tasks that cannot be paused.",
             "options": [
-              "The senior technicians are already working on the hybrid car.",
-              "The parts are missing for engine tuning.",
-              "The senior technicians are busy with urgent tasks that can’t be stopped."
+              "The network equipment has not arrived.",
+              "Three technicians are already working in the lab.",
+              "Three technicians have critical tasks that cannot be paused."
             ]
           },
           {
             "id": "l_10_2",
-            "question": "What is Arun working on?",
-            "answer": "The brake-bleeding system of a blue van.",
+            "question": "What is Naveen repairing?",
+            "answer": "A corrupted operating system on the main server.",
             "options": [
-              "The brake-bleeding system of a blue van.",
-              "The brake-bleeding system of a black SUV.",
-              "The wheel alignment of a red sedan."
+              "A corrupted log in system.",
+              "A corrupted operating system on the main server.",
+              "A corrupted operating system on the network."
             ]
           },
           {
             "id": "l_10_3",
-            "question": "Why is Thilan’s job urgent?",
-            "answer": "Interrupting the ECU update can crash the system.",
+            "question": "Why is Shan’s job urgent?",
+            "answer": "The unstable internet connection in the admin office needs urgent fixing.",
             "options": [
-              "He must finish the ECU update before the customer returns.",
-              "Interrupting the ECU update can crash the system.",
-              "Updating the ECU can crash the ECU system."
+              "He must access the admin staff emails.",
+              "He needs to repair a broken router in the lab.",
+              "The unstable internet connection in the admin office needs urgent fixing."
             ]
           },
           {
             "id": "l_10_4",
-            "question": "Why can’t junior mechanics calibrate the throttle body?",
-            "answer": "They don’t know how to set sensor readings properly.",
+            "question": "Why can’t junior assistants configure the network settings?",
+            "answer": "They can place desktops, but can’t configure IP or switch settings.",
             "options": [
-              "They always calibrate it incorrectly.",
-              "They don’t know how to set sensor readings properly.",
-              "They can open it, but they can’t calibrate the idle level and sensor readings."
+              "They cannot print documents.",
+              "They have no network tools.",
+              "They can place desktops, but can’t configure IP or switch settings."
             ]
           },
           {
             "id": "l_10_5",
-            "question": "Why must the engine tuning be postponed?",
-            "answer": "To avoid malfunctioning of the hybrid system due to lack of skilled technicians.",
+            "question": "Why must the lab configuration be postponed?",
+            "answer": "Without the main technicians, the system may fail testing.",
             "options": [
-              "Because they have to check the fault alternator first.",
-              "Because the customer wants it tomorrow.",
-              "To avoid malfunctioning of the hybrid system due to lack of skilled technicians."
+              "The principal requested to postpone it.",
+              "The printer technician needs more time.",
+              "Without the main technicians, the system may fail testing."
             ]
           }
         ]
@@ -518,17 +518,17 @@
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "text": "Amal, we need to start configuring the new computer lab today.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
+          "text": "The principal has been asking for updates every hour.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "Can you begin the tuning right now?",
+          "text": "Can you begin the configuration right now?",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
@@ -538,7 +538,7 @@
         },
         {
           "id": "t_1_5",
-          "text": "We can’t start it today.",
+          "text": "We can’t begin it today.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
@@ -548,27 +548,27 @@
         },
         {
           "id": "t_1_7",
-          "text": "The spark plugs, fuel injectors, and air filters arrived early this morning.",
+          "text": "The routers, switches, and network cables were delivered early this morning.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "Everything should be ready.",
+          "text": "Everything should be ready to start.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "Yes, sir, all the parts are here.",
+          "text": "Yes, sir, all the equipment is here.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "But two senior technicians and one mechanic can't start the tuning.",
+          "text": "But three key technicians can’t come to the lab right now.",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
           "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "text": "They all have critical tasks that cannot be paused.",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
@@ -578,227 +578,232 @@
         },
         {
           "id": "t_1_13",
-          "text": "Arun, Thilan, and Kareem.",
+          "text": "Naveen, Shan, and Farhan.",
           "audio": "assets/audio/t_1_13.mp3"
         },
         {
           "id": "t_1_14",
-          "text": "They are our main diagnostic technicians.",
+          "text": "They are our main system technicians.",
           "audio": "assets/audio/t_1_14.mp3"
         },
         {
           "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "text": "Naveen is fixing a corrupted operating system on the server.",
           "audio": "assets/audio/t_1_15.mp3"
         },
         {
           "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
+          "text": "If he stops, the staff won’t be able to log in to the network.",
           "audio": "assets/audio/t_1_16.mp3"
         },
         {
           "id": "t_1_17",
-          "text": "Thilan is updating the ECU software of the black SUV; if he interrupts the update, the system can crash.",
+          "text": "Shan is troubleshooting an unstable internet connection in the admin office.",
           "audio": "assets/audio/t_1_17.mp3"
         },
         {
           "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "text": "If he delays, the office staff will lose access to emails.",
           "audio": "assets/audio/t_1_18.mp3"
         },
         {
           "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "text": "Farhan is backing up data from a malfunctioning hard drive in the accounts room.",
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
           "id": "t_1_20",
-          "text": "Can the junior mechanics at least clean the throttle body?",
+          "text": "If he stops mid-way, the data may become permanently corrupted.",
           "audio": "assets/audio/t_1_20.mp3"
         },
         {
           "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
+          "text": "Can the junior assistants at least set up the desktops on the tables?",
           "audio": "assets/audio/t_1_21.mp3"
         },
         {
           "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
+          "text": "They can place the desktops, sir, but they can’t connect the network settings.",
           "audio": "assets/audio/t_1_22.mp3"
         },
         {
           "id": "t_1_23",
-          "text": "What about the battery technician?",
+          "text": "Only trained technicians can assign IP addresses and configure the switches.",
           "audio": "assets/audio/t_1_23.mp3"
         },
         {
           "id": "t_1_24",
-          "text": "Can he help with anything?",
+          "text": "What about the printer technician?",
           "audio": "assets/audio/t_1_24.mp3"
         },
         {
           "id": "t_1_25",
-          "text": "No, sir.",
+          "text": "Can he help with anything?",
           "audio": "assets/audio/t_1_25.mp3"
         },
         {
           "id": "t_1_26",
-          "text": "He can’t either.",
+          "text": "No, sir.",
           "audio": "assets/audio/t_1_26.mp3"
         },
         {
           "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
+          "text": "He can’t either.",
           "audio": "assets/audio/t_1_27.mp3"
         },
         {
           "id": "t_1_28",
-          "text": "If he delays that job, the car battery will keep draining.",
+          "text": "He is repairing the main office laser printer.",
           "audio": "assets/audio/t_1_28.mp3"
         },
         {
           "id": "t_1_29",
-          "text": "So we must postpone the tuning?",
+          "text": "If he leaves it unfinished, the entire office will not be able to print urgent documents.",
           "audio": "assets/audio/t_1_29.mp3"
         },
         {
           "id": "t_1_30",
-          "text": "Yes, sir.",
+          "text": "So we have to delay configuring the lab?",
           "audio": "assets/audio/t_1_30.mp3"
         },
         {
           "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
+          "text": "Yes, sir.",
           "audio": "assets/audio/t_1_31.mp3"
         },
         {
           "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
+          "text": "We have to delay it until tomorrow.",
           "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_33",
+          "text": "If we start without the main technicians, the system may fail testing, and the network will not function properly.",
+          "audio": "assets/audio/t_1_33.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "text": "Amal, we need to start configuring the new computer lab today.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
+          "text": "The principal has been asking for updates every hour.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
+          "id": "t_1_7",
+          "text": "The routers, switches, and network cables were delivered early this morning.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
           "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "text": "They all have critical tasks that cannot be paused.",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
           "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "text": "Naveen is fixing a corrupted operating system on the server.",
           "audio": "assets/audio/t_1_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_1_17",
+          "text": "Shan is troubleshooting an unstable internet connection in the admin office.",
+          "audio": "assets/audio/t_1_17.mp3"
         },
         {
           "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "text": "If he delays, the office staff will lose access to emails.",
           "audio": "assets/audio/t_1_18.mp3"
         },
         {
           "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "text": "Farhan is backing up data from a malfunctioning hard drive in the accounts room.",
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_1_20",
+          "text": "If he stops mid-way, the data may become permanently corrupted.",
+          "audio": "assets/audio/t_1_20.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_1_23",
+          "text": "Only trained technicians can assign IP addresses and configure the switches.",
+          "audio": "assets/audio/t_1_23.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_1_29",
+          "text": "If he leaves it unfinished, the entire office will not be able to print urgent documents.",
+          "audio": "assets/audio/t_1_29.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
-          "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_1_33",
+          "text": "If we start without the main technicians, the system may fail testing, and the network will not function properly.",
+          "audio": "assets/audio/t_1_33.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
+          "text": "Amal, we need to start configuring the new computer lab today.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
+          "text": "The principal has been asking for updates every hour.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
+          "id": "t_1_7",
+          "text": "The routers, switches, and network cables were delivered early this morning.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
           "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
+          "text": "They all have critical tasks that cannot be paused.",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
           "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
+          "text": "Naveen is fixing a corrupted operating system on the server.",
           "audio": "assets/audio/t_1_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_1_17",
+          "text": "Shan is troubleshooting an unstable internet connection in the admin office.",
+          "audio": "assets/audio/t_1_17.mp3"
         },
         {
           "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
+          "text": "If he delays, the office staff will lose access to emails.",
           "audio": "assets/audio/t_1_18.mp3"
         },
         {
           "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
+          "text": "Farhan is backing up data from a malfunctioning hard drive in the accounts room.",
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_1_20",
+          "text": "If he stops mid-way, the data may become permanently corrupted.",
+          "audio": "assets/audio/t_1_20.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_1_23",
+          "text": "Only trained technicians can assign IP addresses and configure the switches.",
+          "audio": "assets/audio/t_1_23.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_1_29",
+          "text": "If he leaves it unfinished, the entire office will not be able to print urgent documents.",
+          "audio": "assets/audio/t_1_29.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
-          "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_1_33",
+          "text": "If we start without the main technicians, the system may fail testing, and the network will not function properly.",
+          "audio": "assets/audio/t_1_33.mp3"
         }
       ]
     }
