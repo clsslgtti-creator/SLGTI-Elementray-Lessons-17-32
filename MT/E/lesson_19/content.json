@@ -689,69 +689,14 @@
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "Can you begin the service right now?",
-          "audio": "assets/audio/t_1_3.mp3"
-        },
-        {
-          "id": "t_1_4",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_4.mp3"
-        },
-        {
-          "id": "t_1_5",
-          "text": "We can’t start it today.",
-          "audio": "assets/audio/t_1_5.mp3"
-        },
-        {
-          "id": "t_1_6",
-          "text": "Why not?",
-          "audio": "assets/audio/t_1_6.mp3"
-        },
-        {
-          "id": "t_1_7",
-          "text": "The lubricants, filters, and new belts arrived first thing in the morning.",
-          "audio": "assets/audio/t_1_7.mp3"
-        },
-        {
-          "id": "t_1_8",
-          "text": "Everything should be ready.",
-          "audio": "assets/audio/t_1_8.mp3"
-        },
-        {
-          "id": "t_1_9",
-          "text": "Yes, sir, all the parts are here.",
-          "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
           "id": "t_1_10",
           "text": "But three senior mechanics are tied up with urgent work, and none of them can leave their stations.",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Who are they?",
-          "audio": "assets/audio/t_1_11.mp3"
-        },
-        {
-          "id": "t_1_12",
-          "text": "Sarath, Milan, and Haroon.",
-          "audio": "assets/audio/t_1_12.mp3"
-        },
-        {
-          "id": "t_1_13",
-          "text": "They are our main engine mechanics.",
-          "audio": "assets/audio/t_1_13.mp3"
-        },
-        {
           "id": "t_1_14",
           "text": "Sarath is repairing a seized water pump on the backhoe loader.",
           "audio": "assets/audio/t_1_14.mp3"
-        },
-        {
-          "id": "t_1_15",
-          "text": "If he stops now, the engine will overheat.",
-          "audio": "assets/audio/t_1_15.mp3"
         },
         {
           "id": "t_1_16",
@@ -774,59 +719,14 @@
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Can the helpers at least start cleaning the engine compartment?",
-          "audio": "assets/audio/t_1_20.mp3"
-        },
-        {
-          "id": "t_1_21",
-          "text": "They can wash it, sir, but they can’t inspect the wiring or hoses.",
-          "audio": "assets/audio/t_1_21.mp3"
-        },
-        {
           "id": "t_1_22",
           "text": "Only the trained mechanics can check leaks and identify worn-out parts.",
           "audio": "assets/audio/t_1_22.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "What about the welder?",
-          "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_24",
-          "text": "Can he assist with anything?",
-          "audio": "assets/audio/t_1_24.mp3"
-        },
-        {
-          "id": "t_1_25",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_25.mp3"
-        },
-        {
-          "id": "t_1_26",
-          "text": "He can’t either.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
           "id": "t_1_27",
           "text": "He has to weld a cracked chassis support on another machine.",
           "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "If he leaves it unfinished, the machine will not be safe to use.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "So the forklift service has to be postponed?",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_30",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_30.mp3"
         },
         {
           "id": "t_1_31",
@@ -839,7 +739,68 @@
           "audio": "assets/audio/t_1_32.mp3"
         }
       ],
-      "activity_e": 0
+      "activity_e": [
+        {
+          "id": "t_1_1",
+          "text": "Janak, we need to start servicing the diesel engine on the forklift today.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "The warehouse manager keeps calling for an update.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "But three senior mechanics are tied up with urgent work, and none of them can leave their stations.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "Sarath is repairing a seized water pump on the backhoe loader.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "Milan is checking the pressure in the hydraulic system of the excavator.",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "If he leaves it halfway, the boom might drop suddenly.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "Haroon is replacing damaged bearings inside the gearbox of the mini-loader.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "If he delays the job, the gears will grind and cause bigger damage.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "Only the trained mechanics can check leaks and identify worn-out parts.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "He has to weld a cracked chassis support on another machine.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "We have to postpone it until tomorrow.",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "If we start without the main mechanics, the service will be incomplete, and we might damage the engine.",
+          "audio": "assets/audio/t_1_32.mp3"
+        }
+      ]
     }
   },
   "activity_5": {
