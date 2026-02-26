@@ -694,44 +694,9 @@
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "Can you begin the configuration right now?",
-          "audio": "assets/audio/t_1_3.mp3"
-        },
-        {
-          "id": "t_1_4",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_4.mp3"
-        },
-        {
-          "id": "t_1_5",
-          "text": "We can’t begin it today.",
-          "audio": "assets/audio/t_1_5.mp3"
-        },
-        {
-          "id": "t_1_6",
-          "text": "Why not?",
-          "audio": "assets/audio/t_1_6.mp3"
-        },
-        {
           "id": "t_1_7",
           "text": "The routers, switches, and network cables were delivered early this morning.",
           "audio": "assets/audio/t_1_7.mp3"
-        },
-        {
-          "id": "t_1_8",
-          "text": "Everything should be ready to start.",
-          "audio": "assets/audio/t_1_8.mp3"
-        },
-        {
-          "id": "t_1_9",
-          "text": "Yes, sir, all the equipment is here.",
-          "audio": "assets/audio/t_1_9.mp3"
-        },
-        {
-          "id": "t_1_10",
-          "text": "But three key technicians can’t come to the lab right now.",
-          "audio": "assets/audio/t_1_10.mp3"
         },
         {
           "id": "t_1_11",
@@ -739,29 +704,9 @@
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Who exactly are they?",
-          "audio": "assets/audio/t_1_12.mp3"
-        },
-        {
-          "id": "t_1_13",
-          "text": "Naveen, Shan, and Farhan.",
-          "audio": "assets/audio/t_1_13.mp3"
-        },
-        {
-          "id": "t_1_14",
-          "text": "They are our main system technicians.",
-          "audio": "assets/audio/t_1_14.mp3"
-        },
-        {
           "id": "t_1_15",
           "text": "Naveen is fixing a corrupted operating system on the server.",
           "audio": "assets/audio/t_1_15.mp3"
-        },
-        {
-          "id": "t_1_16",
-          "text": "If he stops, the staff won’t be able to log in to the network.",
-          "audio": "assets/audio/t_1_16.mp3"
         },
         {
           "id": "t_1_17",
@@ -784,44 +729,9 @@
           "audio": "assets/audio/t_1_20.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "Can the junior assistants at least set up the desktops on the tables?",
-          "audio": "assets/audio/t_1_21.mp3"
-        },
-        {
-          "id": "t_1_22",
-          "text": "They can place the desktops, sir, but they can’t connect the network settings.",
-          "audio": "assets/audio/t_1_22.mp3"
-        },
-        {
           "id": "t_1_23",
           "text": "Only trained technicians can assign IP addresses and configure the switches.",
           "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_24",
-          "text": "What about the printer technician?",
-          "audio": "assets/audio/t_1_24.mp3"
-        },
-        {
-          "id": "t_1_25",
-          "text": "Can he help with anything?",
-          "audio": "assets/audio/t_1_25.mp3"
-        },
-        {
-          "id": "t_1_26",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
-          "id": "t_1_27",
-          "text": "He can’t either.",
-          "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "He is repairing the main office laser printer.",
-          "audio": "assets/audio/t_1_28.mp3"
         },
         {
           "id": "t_1_29",
@@ -829,27 +739,73 @@
           "audio": "assets/audio/t_1_29.mp3"
         },
         {
-          "id": "t_1_30",
-          "text": "So we have to delay configuring the lab?",
-          "audio": "assets/audio/t_1_30.mp3"
+          "id": "t_1_33",
+          "text": "If we start without the main technicians, the system may fail testing, and the network will not function properly.",
+          "audio": "assets/audio/t_1_33.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1_1",
+          "text": "Amal, we need to start configuring the new computer lab today.",
+          "audio": "assets/audio/t_1_1.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_1_2",
+          "text": "The principal has been asking for updates every hour.",
+          "audio": "assets/audio/t_1_2.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "We have to delay it until tomorrow.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_1_7",
+          "text": "The routers, switches, and network cables were delivered early this morning.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "They all have critical tasks that cannot be paused.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "Naveen is fixing a corrupted operating system on the server.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Shan is troubleshooting an unstable internet connection in the admin office.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "If he delays, the office staff will lose access to emails.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "Farhan is backing up data from a malfunctioning hard drive in the accounts room.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "If he stops mid-way, the data may become permanently corrupted.",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "Only trained technicians can assign IP addresses and configure the switches.",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_29",
+          "text": "If he leaves it unfinished, the entire office will not be able to print urgent documents.",
+          "audio": "assets/audio/t_1_29.mp3"
         },
         {
           "id": "t_1_33",
           "text": "If we start without the main technicians, the system may fail testing, and the network will not function properly.",
           "audio": "assets/audio/t_1_33.mp3"
         }
-      ],
-      "activity_e": 0
+      ]
     }
   },
   "activity_5": {
