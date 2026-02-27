@@ -99,7 +99,7 @@
         ["This / Next", "week / month / year"],
         [null, "Sunday / Monday / Tuesday / Wednesday / Thursday / Friday / Saturday"],
         [null, "January / February / March / April / May / June / July / August / September / October / November / December"],
-        []
+        ["right now"]
       ],
       [
         ["I", "have to", "work."],
