@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "bolt",
+        "word_text": "'b'olt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They are going to tighten the bolt on the radiator very carefully.",
+        "sentence_text": "They are going to tighten the 'b'olt on the radiator very carefully.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "bulbs",
+        "word_text": "'b'ul'b's",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The repairman is going to replace the broken bulbs as soon as possible.",
+        "sentence_text": "The repairman is going to replace the broken 'b'ul'b's as soon as possible.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "cable",
+        "word_text": "ca'b'le",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Are you going to connect the cable to the engine on the left?",
+        "sentence_text": "Are you going to connect the ca'b'le to the engine on the left?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "hub",
+        "word_text": "hu'b'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "I am not going to clean the grease from the hub with a white cloth.",
+        "sentence_text": "I am not going to clean the grease from the hu'b' with a white cloth.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
@@ -97,8 +97,14 @@
     "tables": [
       [
         ["This / Next", "week / month / year"],
-        [null, "Sunday / Monday / Tuesday / Wednesday / Thursday / Friday / Saturday"],
-        [null, "January / February / March / April / May / June / July / August / September / October / November / December"],
+        [
+          null,
+          "Sunday / Monday / Tuesday / Wednesday / Thursday / Friday / Saturday"
+        ],
+        [
+          null,
+          "January / February / March / April / May / June / July / August / September / October / November / December"
+        ],
         ["right now / right away / immediately / at once"]
       ],
       [
@@ -137,32 +143,32 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.png",
+        "image": "assets/img/a_2_d_4.jpeg",
         "word": "inspect the suspension"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_5.png",
+        "image": "assets/img/a_2_d_5.jpeg",
         "word": "steam-clean the engine block"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.png",
+        "image": "assets/img/a_2_d_6.jpeg",
         "word": "polish the alloy wheels"
       },
       {
         "id": "k_4",
-        "image": "assets/img/a_2_d_7.png",
+        "image": "assets/img/a_2_d_7.jpeg",
         "word": "tighten the drive belt"
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_8.png",
+        "image": "assets/img/a_2_d_8.jpeg",
         "word": "spray the undercoat"
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_9.png",
+        "image": "assets/img/a_2_d_9.jpeg",
         "word": "flush the coolant system"
       }
     ],
@@ -218,203 +224,217 @@
     ]
   },
   "activity_3": {
-    "type": "INTERACTIVE-6",
+    "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_3_i_h.mp3"
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
       },
       "activity_b": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
-      },
-      "activity_c": {
-        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
-        "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "bg_image": "assets/img/game/bg-8.jpg",
+        "bg_image": "assets/img/game/bg-6.jpg",
         "examples": [
           {
-            "id": "g_b_e_1",
-            "text": "A job applicant should make eye contact and give a firm handshake when greeting the interviewer. ",
-            "audio": "assets/audio/a_3_b_g_e_1.mp3",
-            "image": "assets/img/g_b_e_1.png"
+            "id": "e_1",
+            "sentence": "When is the mechanical workshop supervisor going to submit the weekly maintenance report?",
+            "audio": "assets/audio/a_3_ex_1.mp3",
+            "options": [
+              "He is going submit it tomorrow.",
+              "He submit them next week.",
+              "He is going to submit it on the 30th March."
+            ],
+            "answer": "He is going to submit it on the 30th March.",
+            "image": "assets/img/a_3.png"
           }
         ],
         "content": [
           {
             "id": "g_b_1",
-            "text": "A job applicant must carefully prepare his CV before the interview.",
-            "audio": "assets/audio/a_3_b_g_1.mp3",
-            "image": "assets/img/a_3_b_g_1.png"
+            "sentence": "When is the office manager going to prepare the monthly financial report?",
+            "audio": "assets/audio/a_3_b_1.mp3",
+            "options": [
+              "She prepares it every Monday.",
+              "She is going to prepare it this afternoon.",
+              "She is going to prepare them this morning."
+            ],
+            "answer": "She is going to prepare it this afternoon.",
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_2",
-            "text": "A job applicant has to iron a clean shirt and trousers to look professional.",
-            "audio": "assets/audio/a_3_b_g_2.mp3",
-            "image": "assets/img/a_3_b_g_2.png"
+            "sentence": "When do the ICT trainees update the customer billing system?",
+            "audio": "assets/audio/a_3_b_2.mp3",
+            "options": [
+              "They updated it yesterday at 10 a.m.",
+              "They update it every day at 4 p.m.",
+              "They are going to update it tomorrow."
+            ],
+            "answer": "They update it every day at 4 p.m.",
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_3",
-            "text": "A job applicant has to practice answering common questions with a friend.",
-            "audio": "assets/audio/a_3_b_g_3.mp3",
-            "image": "assets/img/a_3_b_g_3.png"
+            "sentence": "When does the mechanical repair shop open for customers?",
+            "audio": "assets/audio/a_3_b_3.mp3",
+            "options": [
+              "It is going to open at 10 p.m.",
+              "It opens at 8 a.m. every day.",
+              "It opened at 8 a.m. yesterday."
+            ],
+            "answer": "It opens at 8 a.m. every day.",
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_4",
-            "text": "A job applicant has to check the company location and plan how to travel there.",
-            "audio": "assets/audio/a_3_b_g_4.mp3",
-            "image": "assets/img/a_3_b_g_4.png"
+            "sentence": "When is the construction accounts clerk going to send the pro-forma invoices?",
+            "audio": "assets/audio/a_3_b_4.mp3",
+            "options": [
+              "He is going to send them before 3 p.m. today.",
+              "He sent them last week.",
+              "He sends them every Sunday."
+            ],
+            "answer": "He is going to send them before 3 p.m. today.",
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_5",
-            "text": "A job applicant has to arrive at least 15 minutes early on the day of the interview.",
-            "audio": "assets/audio/a_3_b_g_5.mp3",
-            "image": "assets/img/a_3_b_g_5.png"
+            "sentence": "When does the purchasing officer request quotations for consumables?",
+            "audio": "assets/audio/a_3_b_5.mp3",
+            "options": [
+              "She requests them every Tuesday.",
+              "She requested them yesterday evening.",
+              "She is going to request them this weekend."
+            ],
+            "answer": "She requests them every Tuesday.",
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_6",
-            "text": "A job applicant has to carry all important documents, such as certificates and ID.",
-            "audio": "assets/audio/a_3_b_g_6.mp3",
-            "image": "assets/img/a_3_b_g_6.png"
+            "sentence": "When is the management team going to finalise the next training schedule?",
+            "audio": "assets/audio/a_3_b_6.mp3",
+            "options": [
+              "They finalise it every afternoon.",
+              "They finalised it last month.",
+              "They are going to finalise it tomorrow morning."
+            ],
+            "answer": "They are going to finalise it tomorrow morning.",
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_7",
-            "text": "A job applicant must switch off his or her mobile phone before entering the interview room.",
-            "audio": "assets/audio/a_3_b_g_7.mp3",
-            "image": "assets/img/a_3_b_g_7.png"
+            "sentence": "When is the receptionist going to print trainee attendance sheets?",
+            "audio": "assets/audio/a_3_b_7.mp3",
+            "options": [
+              "She printed them last night.",
+              "She prints them every Saturday.",
+              "She is going to print them now."
+            ],
+            "answer": "She is going to print them now.",
+            "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_8",
-            "text": "A job applicant should speak politely and confidently during the interview.",
-            "audio": "assets/audio/a_3_b_g_8.mp3",
-            "image": "assets/img/a_3_b_g_8.png"
+            "sentence": "When do the finance officers check the petty cash balance?",
+            "audio": "assets/audio/a_3_b_8.mp3",
+            "options": [
+              "They checked it yesterday.",
+              "They check it at the end of each day.",
+              "They are going to check it next Wednesday."
+            ],
+            "answer": "They check it at the end of each day.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "When is the office administrator going to update the stock-control spreadsheet?",
+            "audio": "assets/audio/a_3_b_9.mp3",
+            "options": [
+              "She updates it every hour.",
+              "She is going to update it after lunch.",
+              "She updated it yesterday."
+            ],
+            "answer": "She is going to update it after lunch.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "When does the garage owner order spare spark plugs?",
+            "audio": "assets/audio/a_3_b_10.mp3",
+            "options": [
+              "He ordered them last week.",
+              "He is going to order them next Monday.",
+              "He orders them every Friday."
+            ],
+            "answer": "He orders them every Friday.",
+            "image": "assets/img/a_3.png"
           }
         ]
       },
       "activity_b": [
         {
-          "id": "g_b_e_1",
-          "text": "A job applicant should make eye contact and give a firm handshake when greeting the interviewer. ",
-          "audio": "assets/audio/a_3_b_g_e_1.mp3",
-          "image": "assets/img/g_b_e_1.png"
+          "id": "n_3_1",
+          "text": "When is the office manager going to prepare the monthly financial report?",
+          "audio": "assets/audio/a_3_b_1.mp3"
         },
         {
-          "id": "g_b_1",
-          "text": "A job applicant must carefully prepare his CV before the interview.",
-          "audio": "assets/audio/a_3_b_g_1.mp3",
-          "image": "assets/img/a_3_b_g_1.png"
+          "id": "n_3_2",
+          "text": "When do the ICT trainees update the customer billing system?",
+          "audio": "assets/audio/a_3_b_2.mp3"
         },
         {
-          "id": "g_b_2",
-          "text": "A job applicant has to iron a clean shirt and trousers to look professional.",
-          "audio": "assets/audio/a_3_b_g_2.mp3",
-          "image": "assets/img/a_3_b_g_2.png"
+          "id": "n_3_3",
+          "text": "When does the mechanical repair shop open for customers?",
+          "audio": "assets/audio/a_3_b_3.mp3"
         },
         {
-          "id": "g_b_3",
-          "text": "A job applicant has to practice answering common questions with a friend.",
-          "audio": "assets/audio/a_3_b_g_3.mp3",
-          "image": "assets/img/a_3_b_g_3.png"
+          "id": "n_3_4",
+          "text": "When is the construction accounts clerk going to send the pro-forma invoices?",
+          "audio": "assets/audio/a_3_b_4.mp3"
         },
         {
-          "id": "g_b_4",
-          "text": "A job applicant has to check the company location and plan how to travel there.",
-          "audio": "assets/audio/a_3_b_g_4.mp3",
-          "image": "assets/img/a_3_b_g_4.png"
+          "id": "n_3_5",
+          "text": "When does the purchasing officer request quotations for consumables?",
+          "audio": "assets/audio/a_3_b_5.mp3"
         },
         {
-          "id": "g_b_5",
-          "text": "A job applicant has to arrive at least 15 minutes early on the day of the interview.",
-          "audio": "assets/audio/a_3_b_g_5.mp3",
-          "image": "assets/img/a_3_b_g_5.png"
+          "id": "n_3_6",
+          "text": "When is the management team going to finalise the next training schedule?",
+          "audio": "assets/audio/a_3_b_6.mp3"
         },
         {
-          "id": "g_b_6",
-          "text": "A job applicant has to carry all important documents, such as certificates and ID.",
-          "audio": "assets/audio/a_3_b_g_6.mp3",
-          "image": "assets/img/a_3_b_g_6.png"
+          "id": "n_3_7",
+          "text": "When is the receptionist going to print trainee attendance sheets?",
+          "audio": "assets/audio/a_3_b_7.mp3"
         },
         {
-          "id": "g_b_7",
-          "text": "A job applicant must switch off his or her mobile phone before entering the interview room.",
-          "audio": "assets/audio/a_3_b_g_7.mp3",
-          "image": "assets/img/a_3_b_g_7.png"
+          "id": "n_3_8",
+          "text": "When do the finance officers check the petty cash balance?",
+          "audio": "assets/audio/a_3_b_8.mp3"
         },
         {
-          "id": "g_b_8",
-          "text": "A job applicant should speak politely and confidently during the interview.",
-          "audio": "assets/audio/a_3_b_g_8.mp3",
-          "image": "assets/img/a_3_b_g_8.png"
-        }
-      ],
-      "activity_c": [
-        {
-          "id": "g_b_e_1",
-          "text": "A job applicant should make eye contact and give a firm handshake when greeting the interviewer. ",
-          "audio": "assets/audio/a_3_b_g_e_1.mp3",
-          "image": "assets/img/g_b_e_1.png"
+          "id": "n_3_9",
+          "text": "When is the office administrator going to update the stock-control spreadsheet?",
+          "audio": "assets/audio/a_3_b_9.mp3"
         },
         {
-          "id": "g_b_1",
-          "text": "A job applicant must carefully prepare his CV before the interview.",
-          "audio": "assets/audio/a_3_b_g_1.mp3",
-          "image": "assets/img/a_3_b_g_1.png"
-        },
-        {
-          "id": "g_b_2",
-          "text": "A job applicant has to iron a clean shirt and trousers to look professional.",
-          "audio": "assets/audio/a_3_b_g_2.mp3",
-          "image": "assets/img/a_3_b_g_2.png"
-        },
-        {
-          "id": "g_b_3",
-          "text": "A job applicant has to practice answering common questions with a friend.",
-          "audio": "assets/audio/a_3_b_g_3.mp3",
-          "image": "assets/img/a_3_b_g_3.png"
-        },
-        {
-          "id": "g_b_4",
-          "text": "A job applicant has to check the company location and plan how to travel there.",
-          "audio": "assets/audio/a_3_b_g_4.mp3",
-          "image": "assets/img/a_3_b_g_4.png"
-        },
-        {
-          "id": "g_b_5",
-          "text": "A job applicant has to arrive at least 15 minutes early on the day of the interview.",
-          "audio": "assets/audio/a_3_b_g_5.mp3",
-          "image": "assets/img/a_3_b_g_5.png"
-        },
-        {
-          "id": "g_b_6",
-          "text": "A job applicant has to carry all important documents, such as certificates and ID.",
-          "audio": "assets/audio/a_3_b_g_6.mp3",
-          "image": "assets/img/a_3_b_g_6.png"
-        },
-        {
-          "id": "g_b_7",
-          "text": "A job applicant must switch off his or her mobile phone before entering the interview room.",
-          "audio": "assets/audio/a_3_b_g_7.mp3",
-          "image": "assets/img/a_3_b_g_7.png"
-        },
-        {
-          "id": "g_b_8",
-          "text": "A job applicant should speak politely and confidently during the interview.",
-          "audio": "assets/audio/a_3_b_g_8.mp3",
-          "image": "assets/img/a_3_b_g_8.png"
+          "id": "n_3_10",
+          "text": "When does the garage owner order spare spark plugs?",
+          "audio": "assets/audio/a_3_b_10.mp3"
         }
       ]
     }
   },
   "activity_4": {
-    "type": "LISTENING-6",
+    "type": "LISTENING-8",
     "instructions": {
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Fill in the blanks with the correct noun.\nනිවැරදි නාම පදය භාවිතා කර හිස් තැන් පුරවන්න.\nசரியான பெயர்ச்சொல்லை பயன்படுத்தி வெற்றிடங்களை நிரப்புங்கள்.",
+        "audio": "assets/audio/a_4_i_h.mp3"
       },
       "activity_b": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
@@ -429,8 +449,8 @@
         "audio": "assets/audio/a_2_i_c.mp3"
       },
       "activity_e": {
-        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
-        "audio": "assets/audio/a_2_i_d.mp3"
+        "text": "Drag and drop the correct word into the blanks in the following sentences.\nනිවැරදි වචනය පහත වාක්‍යවල හිස් තැන් වලට ඇදගෙන යන්න.\nபின்வரும் வாக்கியங்களில் வெற்றிடங்களுக்கு சரியான வார்த்தையை இழுத்து விடுங்கள்.",
+        "audio": "assets/audio/a_4_i_g.mp3"
       }
     },
     "content": {
@@ -438,28 +458,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "Update",
-            "item_b": "To give the latest information on a situation."
+            "item_a": "Oil filters",
+            "item_b": "How many __________ do we have?"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "Vibration",
-            "item_b": "Back and forth motion of particles of an object."
+            "item_a": "Engine oil",
+            "item_b": "How much __________ do we have?"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "Postpone",
-            "item_b": "To arrange for something at a later time than originally scheduled."
+            "item_a": "Brake pads",
+            "item_b": "How many __________ do we have?"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "Delay",
-            "item_b": "To make something late or slow."
+            "item_a": "Spark plugs",
+            "item_b": "How many __________ do we have?"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "Urgent",
-            "item_b": "Requiring immediate action or attention."
+            "item_a": "Coolant",
+            "item_b": "How much __________ do we have?"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "Transmission fluid",
+            "item_b": "How much __________ do we have?"
           }
         ]
       },
@@ -467,341 +492,362 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_10_1",
-            "question": "Why can’t they start the engine tuning today?",
-            "answer": "The senior technicians are busy with urgent tasks that can’t be stopped.",
+            "id": "l_11_1",
+            "question": "Why does Sarath want Akil in the service bay?",
+            "answer": "He is going to check the stock before repairs.",
             "options": [
-              "The senior technicians are already working on the hybrid car.",
-              "The parts are missing for engine tuning.",
-              "The senior technicians are busy with urgent tasks that can’t be stopped."
+              "He wants him to clean the tools.",
+              "He is going to check the stock before repairs.",
+              "He wants him to start the afternoon repairs."
             ]
           },
           {
-            "id": "l_10_2",
-            "question": "What is Arun working on?",
-            "answer": "The brake-bleeding system of a blue van.",
+            "id": "l_11_2",
+            "question": "How much engine oil is left?",
+            "answer": "Six litres.",
+            "options": ["Ten litres.", "Six litres.", "Four litres."]
+          },
+          {
+            "id": "l_11_3",
+            "question": "How many oil filters are available?",
+            "answer": "Three oil filters.",
             "options": [
-              "The brake-bleeding system of a blue van.",
-              "The brake-bleeding system of a black SUV.",
-              "The wheel alignment of a red sedan."
+              "Three oil filters.",
+              "Five oil filters.",
+              "Thirteen oil filters."
             ]
           },
           {
-            "id": "l_10_3",
-            "question": "Why is Thilan’s job urgent?",
-            "answer": "Interrupting the ECU update can crash the system.",
+            "id": "l_11_4",
+            "question": "Why do they need more brake pads?",
+            "answer": "They usually replace quite a few on Fridays.",
             "options": [
-              "He must finish the ECU update before the customer returns.",
-              "Interrupting the ECU update can crash the system.",
-              "Updating the ECU can crash the ECU system."
+              "They usually replace quite a few on Friday evening.",
+              "They usually replace quite a few on Fridays.",
+              "The supplier asked them to order some."
             ]
           },
           {
-            "id": "l_10_4",
-            "question": "Why can’t junior mechanics calibrate the throttle body?",
-            "answer": "They don’t know how to set sensor readings properly.",
+            "id": "l_11_5",
+            "question": "What is Akil going to do at the end?",
+            "answer": "Call the supplier and place the order.",
             "options": [
-              "They always calibrate it incorrectly.",
-              "They don’t know how to set sensor readings properly.",
-              "They can open it, but they can’t calibrate the idle level and sensor readings."
-            ]
-          },
-          {
-            "id": "l_10_5",
-            "question": "Why must the engine tuning be postponed?",
-            "answer": "To avoid malfunctioning of the hybrid system due to lack of skilled technicians.",
-            "options": [
-              "Because they have to check the fault alternator first.",
-              "Because the customer wants it tomorrow.",
-              "To avoid malfunctioning of the hybrid system due to lack of skilled technicians."
+              "Wash the service bay floor.",
+              "Have lunch early.",
+              "Call the supplier and place the order."
             ]
           }
         ]
       },
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_1",
+          "text": "Akil, can you come to the service bay for a moment?",
+          "audio": "assets/audio/t_2_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_2_2",
+          "text": "I’m going to check the stock before the afternoon repairs start.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "Can you begin the tuning right now?",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_2_3",
+          "text": "Sure, sir.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "id": "t_1_4",
+          "id": "t_2_4",
+          "text": "I’m here.",
+          "audio": "assets/audio/t_2_4.mp3"
+        },
+        {
+          "id": "t_2_5",
+          "text": "What should we begin with?",
+          "audio": "assets/audio/t_2_5.mp3"
+        },
+        {
+          "id": "t_2_6",
+          "text": "First, do we have enough engine oil?",
+          "audio": "assets/audio/t_2_6.mp3"
+        },
+        {
+          "id": "t_2_7",
+          "text": "We usually need at least ten litres for full service jobs.",
+          "audio": "assets/audio/t_2_7.mp3"
+        },
+        {
+          "id": "t_2_8",
+          "text": "Let me check…",
+          "audio": "assets/audio/t_2_8.mp3"
+        },
+        {
+          "id": "t_2_9",
+          "text": "There are only six litres left.",
+          "audio": "assets/audio/t_2_9.mp3"
+        },
+        {
+          "id": "t_2_10",
+          "text": "So we don’t have enough for today’s bookings.",
+          "audio": "assets/audio/t_2_10.mp3"
+        },
+        {
+          "id": "t_2_11",
+          "text": "Hmm. How many oil filters do we have?",
+          "audio": "assets/audio/t_2_11.mp3"
+        },
+        {
+          "id": "t_2_12",
+          "text": "Oil filters are low too.",
+          "audio": "assets/audio/t_2_12.mp3"
+        },
+        {
+          "id": "t_2_13",
+          "text": "There are only three in the cupboard.",
+          "audio": "assets/audio/t_2_13.mp3"
+        },
+        {
+          "id": "t_2_14",
+          "text": "That’s not good.",
+          "audio": "assets/audio/t_2_14.mp3"
+        },
+        {
+          "id": "t_2_15",
+          "text": "What about brake pads?",
+          "audio": "assets/audio/t_2_15.mp3"
+        },
+        {
+          "id": "t_2_16",
+          "text": "We normally replace quite a few on Fridays.",
+          "audio": "assets/audio/t_2_16.mp3"
+        },
+        {
+          "id": "t_2_17",
+          "text": "Brake pads are almost finished.",
+          "audio": "assets/audio/t_2_17.mp3"
+        },
+        {
+          "id": "t_2_18",
+          "text": "There’s only one box here, Sir.",
+          "audio": "assets/audio/t_2_18.mp3"
+        },
+        {
+          "id": "t_2_19",
+          "text": "Right. And how many spark plugs do we have?",
+          "audio": "assets/audio/t_2_19.mp3"
+        },
+        {
+          "id": "t_2_20",
+          "text": "Spark plugs are fine.",
+          "audio": "assets/audio/t_2_20.mp3"
+        },
+        {
+          "id": "t_2_21",
+          "text": "We have one full tray.",
+          "audio": "assets/audio/t_2_21.mp3"
+        },
+        {
+          "id": "t_2_22",
+          "text": "Good. How much coolant do we have?",
+          "audio": "assets/audio/t_2_22.mp3"
+        },
+        {
+          "id": "t_2_23",
+          "text": "Some cars are overheating today.",
+          "audio": "assets/audio/t_2_23.mp3"
+        },
+        {
+          "id": "t_2_24",
+          "text": "Coolant is running out, sir.",
+          "audio": "assets/audio/t_2_24.mp3"
+        },
+        {
+          "id": "t_2_25",
+          "text": "There’s very little left.",
+          "audio": "assets/audio/t_2_25.mp3"
+        },
+        {
+          "id": "t_2_26",
+          "text": "That won’t be enough.",
+          "audio": "assets/audio/t_2_26.mp3"
+        },
+        {
+          "id": "t_2_27",
+          "text": "Do we have enough transmission fluid?",
+          "audio": "assets/audio/t_2_27.mp3"
+        },
+        {
+          "id": "t_2_28",
           "text": "No, sir.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "audio": "assets/audio/t_2_28.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "We can’t start it today.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_2_29",
+          "text": "There’s only a little left.",
+          "audio": "assets/audio/t_2_29.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "Why not?",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_2_30",
+          "text": "Okay. Let’s order more.",
+          "audio": "assets/audio/t_2_30.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "The spark plugs, fuel injectors, and air filters arrived early this morning.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_2_31",
+          "text": "Should I add engine oil, oil filters, brake pads, coolant, and transmission fluid to the list?",
+          "audio": "assets/audio/t_2_31.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "Everything should be ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_2_32",
+          "text": "Yes, please.",
+          "audio": "assets/audio/t_2_32.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "Yes, sir, all the parts are here.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_2_33",
+          "text": "We’re going to need everything before the evening shift.",
+          "audio": "assets/audio/t_2_33.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "But two senior technicians and one mechanic can't start the tuning.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_2_34",
+          "text": "Why don’t we place the order right now?",
+          "audio": "assets/audio/t_2_34.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_2_35",
+          "text": "I’m going to call the supplier before lunch.",
+          "audio": "assets/audio/t_2_35.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Who exactly are they?",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_2_36",
+          "text": "Good.",
+          "audio": "assets/audio/t_2_36.mp3"
         },
         {
-          "id": "t_1_13",
-          "text": "Arun, Thilan, and Kareem.",
-          "audio": "assets/audio/t_1_13.mp3"
-        },
-        {
-          "id": "t_1_14",
-          "text": "They are our main diagnostic technicians.",
-          "audio": "assets/audio/t_1_14.mp3"
-        },
-        {
-          "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
-          "audio": "assets/audio/t_1_15.mp3"
-        },
-        {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
-        },
-        {
-          "id": "t_1_17",
-          "text": "Thilan is updating the ECU software of the black SUV; if he interrupts the update, the system can crash.",
-          "audio": "assets/audio/t_1_17.mp3"
-        },
-        {
-          "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
-          "audio": "assets/audio/t_1_18.mp3"
-        },
-        {
-          "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
-          "audio": "assets/audio/t_1_19.mp3"
-        },
-        {
-          "id": "t_1_20",
-          "text": "Can the junior mechanics at least clean the throttle body?",
-          "audio": "assets/audio/t_1_20.mp3"
-        },
-        {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
-        },
-        {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
-        },
-        {
-          "id": "t_1_23",
-          "text": "What about the battery technician?",
-          "audio": "assets/audio/t_1_23.mp3"
-        },
-        {
-          "id": "t_1_24",
-          "text": "Can he help with anything?",
-          "audio": "assets/audio/t_1_24.mp3"
-        },
-        {
-          "id": "t_1_25",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_25.mp3"
-        },
-        {
-          "id": "t_1_26",
-          "text": "He can’t either.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "If he delays that job, the car battery will keep draining.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "So we must postpone the tuning?",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_30",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_30.mp3"
-        },
-        {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
-          "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_2_37",
+          "text": "That should help us avoid delays when the customers arrive.",
+          "audio": "assets/audio/t_2_37.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_2",
+          "text": "I’m going to check the stock before the afternoon repairs start.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_2_6",
+          "text": "First, do we have enough engine oil?",
+          "audio": "assets/audio/t_2_6.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_2_7",
+          "text": "We usually need at least ten litres for full service jobs.",
+          "audio": "assets/audio/t_2_7.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_2_10",
+          "text": "So we don’t have enough for today’s bookings.",
+          "audio": "assets/audio/t_2_10.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_2_13",
+          "text": "There are only three in the cupboard.",
+          "audio": "assets/audio/t_2_13.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_2_16",
+          "text": "We normally replace quite a few on Fridays.",
+          "audio": "assets/audio/t_2_16.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_2_17",
+          "text": "Brake pads are almost finished.",
+          "audio": "assets/audio/t_2_17.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_2_23",
+          "text": "Some cars are overheating today.",
+          "audio": "assets/audio/t_2_23.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_2_24",
+          "text": "Coolant is running out, sir.",
+          "audio": "assets/audio/t_2_24.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_2_26",
+          "text": "That won’t be enough.",
+          "audio": "assets/audio/t_2_26.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_2_33",
+          "text": "We’re going to need everything before the evening shift.",
+          "audio": "assets/audio/t_2_33.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_2_37",
+          "text": "That should help us avoid delays when the customers arrive.",
+          "audio": "assets/audio/t_2_37.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_2",
+          "text": "I’m going to check the stock before the afternoon repairs start.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_2_6",
+          "text": "First, do we have enough engine oil?",
+          "audio": "assets/audio/t_2_6.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_2_7",
+          "text": "We usually need at least ten litres for full service jobs.",
+          "audio": "assets/audio/t_2_7.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_2_10",
+          "text": "So we don’t have enough for today’s bookings.",
+          "audio": "assets/audio/t_2_10.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_2_13",
+          "text": "There are only three in the cupboard.",
+          "audio": "assets/audio/t_2_13.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_2_16",
+          "text": "We normally replace quite a few on Fridays.",
+          "audio": "assets/audio/t_2_16.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_2_17",
+          "text": "Brake pads are almost finished.",
+          "audio": "assets/audio/t_2_17.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_2_23",
+          "text": "Some cars are overheating today.",
+          "audio": "assets/audio/t_2_23.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_2_24",
+          "text": "Coolant is running out, sir.",
+          "audio": "assets/audio/t_2_24.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_2_26",
+          "text": "That won’t be enough.",
+          "audio": "assets/audio/t_2_26.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_2_33",
+          "text": "We’re going to need everything before the evening shift.",
+          "audio": "assets/audio/t_2_33.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_2_37",
+          "text": "That should help us avoid delays when the customers arrive.",
+          "audio": "assets/audio/t_2_37.mp3"
         }
       ]
     }
