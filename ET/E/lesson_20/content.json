@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'b'olt",
+        "word_text": "bulbs",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They are going to tighten the 'b'olt on the radiator very carefully.",
+        "sentence_text": "They are going to change all the light bulbs safely.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "'b'ul'b's",
+        "word_text": "cable",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The repairman is going to replace the broken 'b'ul'b's as soon as possible.",
+        "sentence_text": "She is not going to check the cable connection under the table.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "ca'b'le",
+        "word_text": "breaker",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Are you going to connect the ca'b'le to the engine on the left?",
+        "sentence_text": "Are you going to switch off the circuit breaker on the wall?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "hu'b'",
+        "word_text": "knob",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "I am not going to clean the grease from the hu'b' with a white cloth.",
+        "sentence_text": "Is he going to turn the control knob gently when the light comes on?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
