@@ -185,6 +185,7 @@ const normalizeMatchingPairs = (raw = []) => {
       const id = count > 0 ? `${baseId}_${count + 1}` : baseId;
       const itemA = trimString(entry?.item_a) || trimString(entry?.itemA);
       const itemB = trimString(entry?.item_b) || trimString(entry?.itemB);
+      const itemBNormalized = normalizeValue(itemB);
       if (!itemA || !itemB) {
         return null;
       }
@@ -192,6 +193,7 @@ const normalizeMatchingPairs = (raw = []) => {
         id,
         itemA,
         itemB,
+        itemBNormalized,
       };
     })
     .filter(Boolean);
@@ -321,6 +323,7 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     const zone = document.createElement("div");
     zone.className = "word-match-dropzone";
     zone.dataset.expectedId = entry.id;
+    zone.dataset.expectedText = entry.itemBNormalized || "";
     zone.dataset.zoneId = entry.id;
 
     const placeholder = document.createElement("span");
@@ -341,6 +344,7 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     const card = document.createElement("div");
     card.className = "word-match-card";
     card.dataset.itemId = entry.id;
+    card.dataset.itemBNormalized = entry.itemBNormalized || "";
     card.dataset.assignedZone = "";
     card.textContent = entry.itemA;
     return card;
@@ -366,13 +370,18 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     if (!zone) {
       return false;
     }
-    const expectedId = zone.dataset.expectedId;
+    const expectedId = zone.dataset.expectedId || "";
+    const expectedText = zone.dataset.expectedText || "";
     zone.classList.remove("is-correct", "is-incorrect");
     cardEl?.classList.remove("is-correct", "is-incorrect");
     if (!cardEl) {
       return false;
     }
-    const isMatch = cardEl.dataset.itemId === expectedId;
+    const cardId = cardEl.dataset.itemId || "";
+    const cardText = cardEl.dataset.itemBNormalized || "";
+    const isMatch =
+      (expectedId && cardId && cardId === expectedId) ||
+      (expectedText && cardText && expectedText === cardText);
     if (isMatch) {
       zone.classList.add("is-correct");
       cardEl.classList.add("is-correct");
