@@ -118,24 +118,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "When are you going to bleed the brake lines?",
-        "text_b": "I’m going to bleed them tomorrow morning.",
+        "text_a": "When are you going to strip the insulation?",
+        "text_b": "I’m going to strip it tomorrow morning.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "When are you going to rotate the tyres?",
-        "text_b": "I’m going to rotate them this afternoon.",
+        "text_a": "When are you going to mount the inverter panel?",
+        "text_b": "I’m going to mount it today.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "When are you going to raise the engine with the hoist?",
-        "text_b": "I’m going to raise it on Saturday.",
+        "text_a": "When are you going to test the continuity?",
+        "text_b": "I’m going to test it this afternoon.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -144,80 +144,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "inspect the suspension"
+        "word": "install the conduit pipes"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "steam-clean the engine block"
+        "word": "crimp the cable ends"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "polish the alloy wheels"
+        "word": "open the panel board"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "tighten the drive belt"
+        "word": "fix the LED fittings"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "spray the undercoat"
+        "word": "label the circuit breakers"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "flush the coolant system"
+        "word": "measure the voltage output"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "When are you going to inspect the suspension?",
-        "text_b": "I’m going to inspect it next week.",
+        "text_a": "When are you going to install the conduit pipes?",
+        "text_b": "I’m going to install them on Saturday.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "When are you going to steam-clean the engine block?",
-        "text_b": "I’m going to steam-clean it after lunch.",
+        "text_a": "When are you going to crimp the cable ends?",
+        "text_b": "I’m going to crimp them after lunch.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "When are you going to polish the alloy wheels?",
-        "text_b": "I’m going to polish them this evening.",
+        "text_a": "When are you going to open the panel board?",
+        "text_b": "I’m going to open it next week.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "When are you going to tighten the drive belt?",
-        "text_b": "I’m going to tighten it right now.",
+        "text_a": "When are you going to fix the LED fittings?",
+        "text_b": "I’m going to fix them this evening.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "When are you going to spray the undercoat?",
-        "text_b": "I’m going to spray it tomorrow.",
+        "text_a": "When are you going to label the circuit breakers?",
+        "text_b": "I’m going to label them right now.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "When are you going to flush the coolant system?",
-        "text_b": "I’m going to flush it on Monday.",
+        "text_a": "When are you going to measure the voltage output?",
+        "text_b": "I’m going to measure it on Monday.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }

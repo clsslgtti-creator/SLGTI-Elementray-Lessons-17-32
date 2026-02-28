@@ -118,24 +118,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "When are you going to bleed the brake lines?",
-        "text_b": "I’m going to bleed them tomorrow morning.",
+        "text_a": "When are you going to sterilise the trays?",
+        "text_b": "I’m going to sterilise them tomorrow morning.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "When are you going to rotate the tyres?",
-        "text_b": "I’m going to rotate them this afternoon.",
+        "text_a": "When are you going to shape the dough balls?",
+        "text_b": "I’m going to shape them today.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "When are you going to raise the engine with the hoist?",
-        "text_b": "I’m going to raise it on Saturday.",
+        "text_a": "When are you going to adjust the oven settings?",
+        "text_b": "I’m going to adjust them this afternoon.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -144,80 +144,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "inspect the suspension"
+        "word": "sieve the flour"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "steam-clean the engine block"
+        "word": "melt the butter"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "polish the alloy wheels"
+        "word": "wipe the counters"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "tighten the drive belt"
+        "word": "knead the dough"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "spray the undercoat"
+        "word": "cut the pastries"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "flush the coolant system"
+        "word": "brush the egg wash"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "When are you going to inspect the suspension?",
-        "text_b": "I’m going to inspect it next week.",
+        "text_a": "When are you going to sieve the flour?",
+        "text_b": "I’m going to sieve it on Saturday.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "When are you going to steam-clean the engine block?",
-        "text_b": "I’m going to steam-clean it after lunch.",
+        "text_a": "When are you going to melt the butter?",
+        "text_b": "I’m going to melt it after lunch.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "When are you going to polish the alloy wheels?",
-        "text_b": "I’m going to polish them this evening.",
+        "text_a": "When are you going to wipe the counters?",
+        "text_b": "I’m going to wipe them next week.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "When are you going to tighten the drive belt?",
-        "text_b": "I’m going to tighten it right now.",
+        "text_a": "When are you going to knead the dough?",
+        "text_b": "I’m going to knead it this evening.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "When are you going to spray the undercoat?",
-        "text_b": "I’m going to spray it tomorrow.",
+        "text_a": "When are you going to cut the pastries?",
+        "text_b": "I’m going to cut them right now.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "When are you going to flush the coolant system?",
-        "text_b": "I’m going to flush it on Monday.",
+        "text_a": "When are you going to brush the egg wash?",
+        "text_b": "I’m going to brush it on Monday.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
