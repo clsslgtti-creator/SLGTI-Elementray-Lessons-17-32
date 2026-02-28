@@ -99,16 +99,13 @@
         ["This / Next", "week / month / year"],
         [null, "Sunday / Monday / Tuesday / Wednesday / Thursday / Friday / Saturday"],
         [null, "January / February / March / April / May / June / July / August / September / October / November / December"],
-        ["right now"]
+        ["right now / right away / immediately / at once"]
       ],
       [
-        ["I", "have to", "work."],
-        ["We", null, null],
-        ["You", null, null],
-        ["They", null, null],
-        ["He", "has to", null],
-        ["She", null, null],
-        ["It", null, null]
+        ["When are you", "going to", "ring?"],
+        [null, null, "write?"],
+        [null, null, "play?"],
+        [null, null, "study?"]
       ]
     ],
     "example_dialogues": [
