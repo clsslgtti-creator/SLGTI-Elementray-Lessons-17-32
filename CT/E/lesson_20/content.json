@@ -430,7 +430,7 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-8",
+    "type": "LISTENING-6",
     "instructions": {
       "activity_a": {
         "text": "Fill in the blanks with the correct noun.\nනිවැරදි නාම පදය භාවිතා කර හිස් තැන් පුරවන්න.\nசரியான பெயர்ச்சொல்லை பயன்படுத்தி வெற்றிடங்களை நிரப்புங்கள்.",
@@ -449,41 +449,41 @@
         "audio": "assets/audio/a_2_i_c.mp3"
       },
       "activity_e": {
-        "text": "Drag and drop the correct word into the blanks in the following sentences.\nනිවැරදි වචනය පහත වාක්‍යවල හිස් තැන් වලට ඇදගෙන යන්න.\nபின்வரும் வாக்கியங்களில் வெற்றிடங்களுக்கு சரியான வார்த்தையை இழுத்து விடுங்கள்.",
-        "audio": "assets/audio/a_4_i_g.mp3"
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
         "content": [
           {
-            "id": "n_4_a_1",
-            "item_a": "Oil filters",
+            "id": "n_4_b_1",
+            "item_a": "Bricks",
             "item_b": "How many __________ do we have?"
           },
           {
-            "id": "n_4_a_2",
-            "item_a": "Engine oil",
+            "id": "n_4_b_2",
+            "item_a": "Cement",
             "item_b": "How much __________ do we have?"
           },
           {
-            "id": "n_4_a_3",
-            "item_a": "Brake pads",
+            "id": "n_4_b_3",
+            "item_a": "Steel rods",
             "item_b": "How many __________ do we have?"
           },
           {
-            "id": "n_4_a_4",
-            "item_a": "Spark plugs",
+            "id": "n_4_b_4",
+            "item_a": "Metal chips",
             "item_b": "How many __________ do we have?"
           },
           {
-            "id": "n_4_a_5",
-            "item_a": "Coolant",
+            "id": "n_4_b_5",
+            "item_a": "Sand",
             "item_b": "How much __________ do we have?"
           },
           {
-            "id": "n_4_a_6",
-            "item_a": "Transmission fluid",
+            "id": "n_4_b_6",
+            "item_a": "Timber",
             "item_b": "How much __________ do we have?"
           }
         ]
@@ -493,361 +493,337 @@
         "Questions": [
           {
             "id": "l_11_1",
-            "question": "Why does Sarath want Akil in the service bay?",
-            "answer": "He is going to check the stock before repairs.",
+            "question": "Why does Nalin want Kasun in the site office?",
+            "answer": "He is going to check the stock before the concrete work.",
             "options": [
-              "He wants him to clean the tools.",
-              "He is going to check the stock before repairs.",
-              "He wants him to start the afternoon repairs."
+              "He wants him to check the workers’ attendance.",
+              "He is going to check the stock before the concrete work.",
+              "He wants him to start the concrete work."
             ]
           },
           {
             "id": "l_11_2",
-            "question": "How much engine oil is left?",
-            "answer": "Six litres.",
-            "options": ["Ten litres.", "Six litres.", "Four litres."]
+            "question": "How many cement bags are left?",
+            "answer": "Nine bags.",
+            "options": ["Fifteen bags.", "Nine bags.", "Twelve bags."]
           },
           {
             "id": "l_11_3",
-            "question": "How many oil filters are available?",
-            "answer": "Three oil filters.",
-            "options": [
-              "Three oil filters.",
-              "Five oil filters.",
-              "Thirteen oil filters."
-            ]
+            "question": "How much timber do they currently have?",
+            "answer": "Six planks.",
+            "options": ["Ten planks.", "Six planks.", "Four planks."]
           },
           {
             "id": "l_11_4",
-            "question": "Why do they need more brake pads?",
-            "answer": "They usually replace quite a few on Fridays.",
+            "question": "Why do they need more bricks?",
+            "answer": "They are preparing the boundary wall section.",
             "options": [
-              "They usually replace quite a few on Friday evening.",
-              "They usually replace quite a few on Fridays.",
-              "The supplier asked them to order some."
+              "They are building a staircase.",
+              "They need them for the slab.",
+              "They are preparing the boundary wall section."
             ]
           },
           {
             "id": "l_11_5",
-            "question": "What is Akil going to do at the end?",
+            "question": "What is Kasun going to do at the end?",
             "answer": "Call the supplier and place the order.",
             "options": [
-              "Wash the service bay floor.",
-              "Have lunch early.",
-              "Call the supplier and place the order."
+              "Count the tools.",
+              "Call the supplier and place the order.",
+              "Go to buy lunch."
             ]
           }
         ]
       },
       "activity_c": [
         {
-          "id": "t_2_1",
-          "text": "Akil, can you come to the service bay for a moment?",
-          "audio": "assets/audio/t_2_1.mp3"
+          "id": "t_3_1",
+          "text": "Kasun, can you come to the site office for a moment?",
+          "audio": "assets/audio/t_3_1.mp3"
         },
         {
-          "id": "t_2_2",
-          "text": "I’m going to check the stock before the afternoon repairs start.",
-          "audio": "assets/audio/t_2_2.mp3"
+          "id": "t_3_2",
+          "text": "I’m going to check the stock before the afternoon concrete work begins.",
+          "audio": "assets/audio/t_3_2.mp3"
         },
         {
-          "id": "t_2_3",
-          "text": "Sure, sir.",
-          "audio": "assets/audio/t_2_3.mp3"
+          "id": "t_3_3",
+          "text": "Yes, sir.",
+          "audio": "assets/audio/t_3_3.mp3"
         },
         {
-          "id": "t_2_4",
+          "id": "t_3_4",
           "text": "I’m here.",
-          "audio": "assets/audio/t_2_4.mp3"
+          "audio": "assets/audio/t_3_4.mp3"
         },
         {
-          "id": "t_2_5",
-          "text": "What should we begin with?",
-          "audio": "assets/audio/t_2_5.mp3"
+          "id": "t_3_5",
+          "text": "What do you want to start with?",
+          "audio": "assets/audio/t_3_5.mp3"
         },
         {
-          "id": "t_2_6",
-          "text": "First, do we have enough engine oil?",
-          "audio": "assets/audio/t_2_6.mp3"
+          "id": "t_3_6",
+          "text": "First, do we have enough cement bags?",
+          "audio": "assets/audio/t_3_6.mp3"
         },
         {
-          "id": "t_2_7",
-          "text": "We usually need at least ten litres for full service jobs.",
-          "audio": "assets/audio/t_2_7.mp3"
+          "id": "t_3_7",
+          "text": "We usually need at least fifteen bags for the slab preparation.",
+          "audio": "assets/audio/t_3_7.mp3"
         },
         {
-          "id": "t_2_8",
-          "text": "Let me check…",
-          "audio": "assets/audio/t_2_8.mp3"
+          "id": "t_3_8",
+          "text": "Let me check the list.",
+          "audio": "assets/audio/t_3_8.mp3"
         },
         {
-          "id": "t_2_9",
-          "text": "There are only six litres left.",
-          "audio": "assets/audio/t_2_9.mp3"
+          "id": "t_3_9",
+          "text": "There are only nine bags left.",
+          "audio": "assets/audio/t_3_9.mp3"
         },
         {
-          "id": "t_2_10",
-          "text": "So we don’t have enough for today’s bookings.",
-          "audio": "assets/audio/t_2_10.mp3"
+          "id": "t_3_10",
+          "text": "We don’t have enough.",
+          "audio": "assets/audio/t_3_10.mp3"
         },
         {
-          "id": "t_2_11",
-          "text": "Hmm. How many oil filters do we have?",
-          "audio": "assets/audio/t_2_11.mp3"
+          "id": "t_3_11",
+          "text": "How many metal chips do we have?",
+          "audio": "assets/audio/t_3_11.mp3"
         },
         {
-          "id": "t_2_12",
-          "text": "Oil filters are low too.",
-          "audio": "assets/audio/t_2_12.mp3"
+          "id": "t_3_12",
+          "text": "Metal chips are low too.",
+          "audio": "assets/audio/t_3_12.mp3"
         },
         {
-          "id": "t_2_13",
-          "text": "There are only three in the cupboard.",
-          "audio": "assets/audio/t_2_13.mp3"
+          "id": "t_3_13",
+          "text": "We have only one half-filled pile near the mixer.",
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
-          "id": "t_2_14",
+          "id": "t_3_14",
           "text": "That’s not good.",
-          "audio": "assets/audio/t_2_14.mp3"
+          "audio": "assets/audio/t_3_14.mp3"
         },
         {
-          "id": "t_2_15",
-          "text": "What about brake pads?",
-          "audio": "assets/audio/t_2_15.mp3"
+          "id": "t_3_15",
+          "text": "What about sand?",
+          "audio": "assets/audio/t_3_15.mp3"
         },
         {
-          "id": "t_2_16",
-          "text": "We normally replace quite a few on Fridays.",
-          "audio": "assets/audio/t_2_16.mp3"
+          "id": "t_3_16",
+          "text": "Sand is running out as well.",
+          "audio": "assets/audio/t_3_16.mp3"
         },
         {
-          "id": "t_2_17",
-          "text": "Brake pads are almost finished.",
-          "audio": "assets/audio/t_2_17.mp3"
+          "id": "t_3_17",
+          "text": "There’s only a small heap left after the morning work.",
+          "audio": "assets/audio/t_3_17.mp3"
         },
         {
-          "id": "t_2_18",
-          "text": "There’s only one box here, Sir.",
-          "audio": "assets/audio/t_2_18.mp3"
+          "id": "t_3_18",
+          "text": "How many bricks do we have for the boundary wall section?",
+          "audio": "assets/audio/t_3_18.mp3"
         },
         {
-          "id": "t_2_19",
-          "text": "Right. And how many spark plugs do we have?",
-          "audio": "assets/audio/t_2_19.mp3"
+          "id": "t_3_19",
+          "text": "Bricks are okay.",
+          "audio": "assets/audio/t_3_19.mp3"
         },
         {
-          "id": "t_2_20",
-          "text": "Spark plugs are fine.",
-          "audio": "assets/audio/t_2_20.mp3"
+          "id": "t_3_20",
+          "text": "We have nearly two full stacks behind the scaffold.",
+          "audio": "assets/audio/t_3_20.mp3"
         },
         {
-          "id": "t_2_21",
-          "text": "We have one full tray.",
-          "audio": "assets/audio/t_2_21.mp3"
+          "id": "t_3_21",
+          "text": "How much timber do we have?",
+          "audio": "assets/audio/t_3_21.mp3"
         },
         {
-          "id": "t_2_22",
-          "text": "Good. How much coolant do we have?",
-          "audio": "assets/audio/t_2_22.mp3"
+          "id": "t_3_22",
+          "text": "Timber is not enough.",
+          "audio": "assets/audio/t_3_22.mp3"
         },
         {
-          "id": "t_2_23",
-          "text": "Some cars are overheating today.",
-          "audio": "assets/audio/t_2_23.mp3"
+          "id": "t_3_23",
+          "text": "There are only six planks here.",
+          "audio": "assets/audio/t_3_23.mp3"
         },
         {
-          "id": "t_2_24",
-          "text": "Coolant is running out, sir.",
-          "audio": "assets/audio/t_2_24.mp3"
+          "id": "t_3_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_3_24.mp3"
         },
         {
-          "id": "t_2_25",
-          "text": "There’s very little left.",
-          "audio": "assets/audio/t_2_25.mp3"
+          "id": "t_3_25",
+          "text": "What about steel rods?",
+          "audio": "assets/audio/t_3_25.mp3"
         },
         {
-          "id": "t_2_26",
-          "text": "That won’t be enough.",
-          "audio": "assets/audio/t_2_26.mp3"
+          "id": "t_3_26",
+          "text": "Steel rods are very low.",
+          "audio": "assets/audio/t_3_26.mp3"
         },
         {
-          "id": "t_2_27",
-          "text": "Do we have enough transmission fluid?",
-          "audio": "assets/audio/t_2_27.mp3"
+          "id": "t_3_27",
+          "text": "Just eight pieces remain.",
+          "audio": "assets/audio/t_3_27.mp3"
         },
         {
-          "id": "t_2_28",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_2_28.mp3"
+          "id": "t_3_28",
+          "text": "Let’s order more.",
+          "audio": "assets/audio/t_3_28.mp3"
         },
         {
-          "id": "t_2_29",
-          "text": "There’s only a little left.",
-          "audio": "assets/audio/t_2_29.mp3"
+          "id": "t_3_29",
+          "text": "Should I include cement, metal chips, sand, timber, and steel rods in the order list?",
+          "audio": "assets/audio/t_3_29.mp3"
         },
         {
-          "id": "t_2_30",
-          "text": "Okay. Let’s order more.",
-          "audio": "assets/audio/t_2_30.mp3"
+          "id": "t_3_30",
+          "text": "We’re going to need everything urgently.",
+          "audio": "assets/audio/t_3_30.mp3"
         },
         {
-          "id": "t_2_31",
-          "text": "Should I add engine oil, oil filters, brake pads, coolant, and transmission fluid to the list?",
-          "audio": "assets/audio/t_2_31.mp3"
+          "id": "t_3_31",
+          "text": "Why don’t we place the order now before the supplier closes for the day?",
+          "audio": "assets/audio/t_3_31.mp3"
         },
         {
-          "id": "t_2_32",
-          "text": "Yes, please.",
-          "audio": "assets/audio/t_2_32.mp3"
+          "id": "t_3_32",
+          "text": "I’m going to call him immediately.",
+          "audio": "assets/audio/t_3_32.mp3"
         },
         {
-          "id": "t_2_33",
-          "text": "We’re going to need everything before the evening shift.",
-          "audio": "assets/audio/t_2_33.mp3"
-        },
-        {
-          "id": "t_2_34",
-          "text": "Why don’t we place the order right now?",
-          "audio": "assets/audio/t_2_34.mp3"
-        },
-        {
-          "id": "t_2_35",
-          "text": "I’m going to call the supplier before lunch.",
-          "audio": "assets/audio/t_2_35.mp3"
-        },
-        {
-          "id": "t_2_36",
-          "text": "Good.",
-          "audio": "assets/audio/t_2_36.mp3"
-        },
-        {
-          "id": "t_2_37",
-          "text": "That should help us avoid delays when the customers arrive.",
-          "audio": "assets/audio/t_2_37.mp3"
+          "id": "t_3_33",
+          "text": "That will help us avoid problems when the workers start the next shift.",
+          "audio": "assets/audio/t_3_33.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_2_2",
-          "text": "I’m going to check the stock before the afternoon repairs start.",
-          "audio": "assets/audio/t_2_2.mp3"
+          "id": "t_3_2",
+          "text": "I’m going to check the stock before the afternoon concrete work begins.",
+          "audio": "assets/audio/t_3_2.mp3"
         },
         {
-          "id": "t_2_6",
-          "text": "First, do we have enough engine oil?",
-          "audio": "assets/audio/t_2_6.mp3"
+          "id": "t_3_7",
+          "text": "We usually need at least fifteen bags for the slab preparation.",
+          "audio": "assets/audio/t_3_7.mp3"
         },
         {
-          "id": "t_2_7",
-          "text": "We usually need at least ten litres for full service jobs.",
-          "audio": "assets/audio/t_2_7.mp3"
+          "id": "t_3_10",
+          "text": "We don’t have enough.",
+          "audio": "assets/audio/t_3_10.mp3"
         },
         {
-          "id": "t_2_10",
-          "text": "So we don’t have enough for today’s bookings.",
-          "audio": "assets/audio/t_2_10.mp3"
+          "id": "t_3_13",
+          "text": "We have only one half-filled pile near the mixer.",
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
-          "id": "t_2_13",
-          "text": "There are only three in the cupboard.",
-          "audio": "assets/audio/t_2_13.mp3"
+          "id": "t_3_16",
+          "text": "Sand is running out as well.",
+          "audio": "assets/audio/t_3_16.mp3"
         },
         {
-          "id": "t_2_16",
-          "text": "We normally replace quite a few on Fridays.",
-          "audio": "assets/audio/t_2_16.mp3"
+          "id": "t_3_17",
+          "text": "There’s only a small heap left after the morning work.",
+          "audio": "assets/audio/t_3_17.mp3"
         },
         {
-          "id": "t_2_17",
-          "text": "Brake pads are almost finished.",
-          "audio": "assets/audio/t_2_17.mp3"
+          "id": "t_3_20",
+          "text": "We have nearly two full stacks behind the scaffold.",
+          "audio": "assets/audio/t_3_20.mp3"
         },
         {
-          "id": "t_2_23",
-          "text": "Some cars are overheating today.",
-          "audio": "assets/audio/t_2_23.mp3"
+          "id": "t_3_22",
+          "text": "Timber is not enough.",
+          "audio": "assets/audio/t_3_22.mp3"
         },
         {
-          "id": "t_2_24",
-          "text": "Coolant is running out, sir.",
-          "audio": "assets/audio/t_2_24.mp3"
+          "id": "t_3_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_3_24.mp3"
         },
         {
-          "id": "t_2_26",
-          "text": "That won’t be enough.",
-          "audio": "assets/audio/t_2_26.mp3"
+          "id": "t_3_26",
+          "text": "Steel rods are very low.",
+          "audio": "assets/audio/t_3_26.mp3"
         },
         {
-          "id": "t_2_33",
-          "text": "We’re going to need everything before the evening shift.",
-          "audio": "assets/audio/t_2_33.mp3"
+          "id": "t_3_31",
+          "text": "Why don’t we place the order now before the supplier closes for the day?",
+          "audio": "assets/audio/t_3_31.mp3"
         },
         {
-          "id": "t_2_37",
-          "text": "That should help us avoid delays when the customers arrive.",
-          "audio": "assets/audio/t_2_37.mp3"
+          "id": "t_3_33",
+          "text": "That will help us avoid problems when the workers start the next shift.",
+          "audio": "assets/audio/t_3_33.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_2_2",
-          "text": "I’m going to check the stock before the afternoon repairs start.",
-          "audio": "assets/audio/t_2_2.mp3"
+          "id": "t_3_2",
+          "text": "I’m going to check the stock before the afternoon concrete work begins.",
+          "audio": "assets/audio/t_3_2.mp3"
         },
         {
-          "id": "t_2_6",
-          "text": "First, do we have enough engine oil?",
-          "audio": "assets/audio/t_2_6.mp3"
+          "id": "t_3_7",
+          "text": "We usually need at least fifteen bags for the slab preparation.",
+          "audio": "assets/audio/t_3_7.mp3"
         },
         {
-          "id": "t_2_7",
-          "text": "We usually need at least ten litres for full service jobs.",
-          "audio": "assets/audio/t_2_7.mp3"
+          "id": "t_3_10",
+          "text": "We don’t have enough.",
+          "audio": "assets/audio/t_3_10.mp3"
         },
         {
-          "id": "t_2_10",
-          "text": "So we don’t have enough for today’s bookings.",
-          "audio": "assets/audio/t_2_10.mp3"
+          "id": "t_3_13",
+          "text": "We have only one half-filled pile near the mixer.",
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
-          "id": "t_2_13",
-          "text": "There are only three in the cupboard.",
-          "audio": "assets/audio/t_2_13.mp3"
+          "id": "t_3_16",
+          "text": "Sand is running out as well.",
+          "audio": "assets/audio/t_3_16.mp3"
         },
         {
-          "id": "t_2_16",
-          "text": "We normally replace quite a few on Fridays.",
-          "audio": "assets/audio/t_2_16.mp3"
+          "id": "t_3_17",
+          "text": "There’s only a small heap left after the morning work.",
+          "audio": "assets/audio/t_3_17.mp3"
         },
         {
-          "id": "t_2_17",
-          "text": "Brake pads are almost finished.",
-          "audio": "assets/audio/t_2_17.mp3"
+          "id": "t_3_20",
+          "text": "We have nearly two full stacks behind the scaffold.",
+          "audio": "assets/audio/t_3_20.mp3"
         },
         {
-          "id": "t_2_23",
-          "text": "Some cars are overheating today.",
-          "audio": "assets/audio/t_2_23.mp3"
+          "id": "t_3_22",
+          "text": "Timber is not enough.",
+          "audio": "assets/audio/t_3_22.mp3"
         },
         {
-          "id": "t_2_24",
-          "text": "Coolant is running out, sir.",
-          "audio": "assets/audio/t_2_24.mp3"
+          "id": "t_3_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_3_24.mp3"
         },
         {
-          "id": "t_2_26",
-          "text": "That won’t be enough.",
-          "audio": "assets/audio/t_2_26.mp3"
+          "id": "t_3_26",
+          "text": "Steel rods are very low.",
+          "audio": "assets/audio/t_3_26.mp3"
         },
         {
-          "id": "t_2_33",
-          "text": "We’re going to need everything before the evening shift.",
-          "audio": "assets/audio/t_2_33.mp3"
+          "id": "t_3_31",
+          "text": "Why don’t we place the order now before the supplier closes for the day?",
+          "audio": "assets/audio/t_3_31.mp3"
         },
         {
-          "id": "t_2_37",
-          "text": "That should help us avoid delays when the customers arrive.",
-          "audio": "assets/audio/t_2_37.mp3"
+          "id": "t_3_33",
+          "text": "That will help us avoid problems when the workers start the next shift.",
+          "audio": "assets/audio/t_3_33.mp3"
         }
       ]
     }

@@ -430,7 +430,7 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-8",
+    "type": "LISTENING-6",
     "instructions": {
       "activity_a": {
         "text": "Fill in the blanks with the correct noun.\nනිවැරදි නාම පදය භාවිතා කර හිස් තැන් පුරවන්න.\nசரியான பெயர்ச்சொல்லை பயன்படுத்தி வெற்றிடங்களை நிரப்புங்கள்.",
@@ -449,8 +449,8 @@
         "audio": "assets/audio/a_2_i_c.mp3"
       },
       "activity_e": {
-        "text": "Drag and drop the correct word into the blanks in the following sentences.\nනිවැරදි වචනය පහත වාක්‍යවල හිස් තැන් වලට ඇදගෙන යන්න.\nபின்வரும் வாக்கியங்களில் வெற்றிடங்களுக்கு சரியான வார்த்தையை இழுத்து விடுங்கள்.",
-        "audio": "assets/audio/a_4_i_g.mp3"
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {

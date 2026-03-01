@@ -430,7 +430,7 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-8",
+    "type": "LISTENING-6",
     "instructions": {
       "activity_a": {
         "text": "Fill in the blanks with the correct noun.\nනිවැරදි නාම පදය භාවිතා කර හිස් තැන් පුරවන්න.\nசரியான பெயர்ச்சொல்லை பயன்படுத்தி வெற்றிடங்களை நிரப்புங்கள்.",
@@ -449,42 +449,42 @@
         "audio": "assets/audio/a_2_i_c.mp3"
       },
       "activity_e": {
-        "text": "Drag and drop the correct word into the blanks in the following sentences.\nනිවැරදි වචනය පහත වාක්‍යවල හිස් තැන් වලට ඇදගෙන යන්න.\nபின்வரும் வாக்கியங்களில் வெற்றிடங்களுக்கு சரியான வார்த்தையை இழுத்து விடுங்கள்.",
-        "audio": "assets/audio/a_4_i_g.mp3"
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
         "content": [
           {
-            "id": "n_4_a_1",
-            "item_a": "Oil filters",
-            "item_b": "How many __________ do we have?"
-          },
-          {
-            "id": "n_4_a_2",
-            "item_a": "Engine oil",
+            "id": "n_4_e_1",
+            "item_a": "Data",
             "item_b": "How much __________ do we have?"
           },
           {
-            "id": "n_4_a_3",
-            "item_a": "Brake pads",
-            "item_b": "How many __________ do we have?"
-          },
-          {
-            "id": "n_4_a_4",
-            "item_a": "Spark plugs",
-            "item_b": "How many __________ do we have?"
-          },
-          {
-            "id": "n_4_a_5",
-            "item_a": "Coolant",
+            "id": "n_4_e_2",
+            "item_a": "Software",
             "item_b": "How much __________ do we have?"
           },
           {
-            "id": "n_4_a_6",
-            "item_a": "Transmission fluid",
+            "id": "n_4_e_3",
+            "item_a": "Network cables",
+            "item_b": "How many __________ do we have?"
+          },
+          {
+            "id": "n_4_e_4",
+            "item_a": "USB drives",
+            "item_b": "How many __________ do we have?"
+          },
+          {
+            "id": "n_4_e_5",
+            "item_a": "Printer toner",
             "item_b": "How much __________ do we have?"
+          },
+          {
+            "id": "n_4_e_6",
+            "item_a": "Mouse units",
+            "item_b": "How many __________ do we have?"
           }
         ]
       },
@@ -493,361 +493,351 @@
         "Questions": [
           {
             "id": "l_11_1",
-            "question": "Why does Sarath want Akil in the service bay?",
-            "answer": "He is going to check the stock before repairs.",
+            "question": "Why does Harsha call Meena to the ICT lab?",
+            "answer": "He is going to check the stock before maintenance.",
             "options": [
-              "He wants him to clean the tools.",
-              "He is going to check the stock before repairs.",
-              "He wants him to start the afternoon repairs."
+              "She needs to repair a broken computer.",
+              "He is going to check the stock before maintenance.",
+              "She is going to start the afternoon computer maintenance session."
             ]
           },
           {
             "id": "l_11_2",
-            "question": "How much engine oil is left?",
-            "answer": "Six litres.",
-            "options": ["Ten litres.", "Six litres.", "Four litres."]
+            "question": "How many network cables are left?",
+            "answer": "Four cables.",
+            "options": ["Six cables.", "Four cables.", "Two cables."]
           },
           {
             "id": "l_11_3",
-            "question": "How many oil filters are available?",
-            "answer": "Three oil filters.",
+            "question": "How many USB drives remain?",
+            "answer": "Five USB drives.",
             "options": [
-              "Three oil filters.",
-              "Five oil filters.",
-              "Thirteen oil filters."
+              "Three USB drives.",
+              "Seven USB drives.",
+              "Five USB drives."
             ]
           },
           {
             "id": "l_11_4",
-            "question": "Why do they need more brake pads?",
-            "answer": "They usually replace quite a few on Fridays.",
+            "question": "Why do they need more mouse units?",
+            "answer": "Several students reported faulty mouse units.",
             "options": [
-              "They usually replace quite a few on Friday evening.",
-              "They usually replace quite a few on Fridays.",
-              "The supplier asked them to order some."
+              "They are opening a new lab.",
+              "Several students reported faulty mouse units.",
+              "The trainer lost them."
             ]
           },
           {
             "id": "l_11_5",
-            "question": "What is Akil going to do at the end?",
-            "answer": "Call the supplier and place the order.",
+            "question": "What is Meena going to do at the end?",
+            "answer": "Call the supplier and send the order list.",
             "options": [
-              "Wash the service bay floor.",
-              "Have lunch early.",
-              "Call the supplier and place the order."
+              "Start the practice session.",
+              "Call the supplier and send the order list.",
+              "Restart all the computers."
             ]
           }
         ]
       },
       "activity_c": [
         {
-          "id": "t_2_1",
-          "text": "Akil, can you come to the service bay for a moment?",
-          "audio": "assets/audio/t_2_1.mp3"
+          "id": "t_5_1",
+          "text": "Meena, can you come to the ICT lab for a moment?",
+          "audio": "assets/audio/t_5_1.mp3"
         },
         {
-          "id": "t_2_2",
-          "text": "I’m going to check the stock before the afternoon repairs start.",
-          "audio": "assets/audio/t_2_2.mp3"
+          "id": "t_5_2",
+          "text": "I’m going to check the stock before the afternoon computer maintenance session starts.",
+          "audio": "assets/audio/t_5_2.mp3"
         },
         {
-          "id": "t_2_3",
+          "id": "t_5_3",
           "text": "Sure, sir.",
-          "audio": "assets/audio/t_2_3.mp3"
+          "audio": "assets/audio/t_5_3.mp3"
         },
         {
-          "id": "t_2_4",
+          "id": "t_5_4",
           "text": "I’m here.",
-          "audio": "assets/audio/t_2_4.mp3"
+          "audio": "assets/audio/t_5_4.mp3"
         },
         {
-          "id": "t_2_5",
+          "id": "t_5_5",
           "text": "What should we begin with?",
-          "audio": "assets/audio/t_2_5.mp3"
+          "audio": "assets/audio/t_5_5.mp3"
         },
         {
-          "id": "t_2_6",
-          "text": "First, do we have enough engine oil?",
-          "audio": "assets/audio/t_2_6.mp3"
+          "id": "t_5_6",
+          "text": "First, do we have enough network cables?",
+          "audio": "assets/audio/t_5_6.mp3"
         },
         {
-          "id": "t_2_7",
-          "text": "We usually need at least ten litres for full service jobs.",
-          "audio": "assets/audio/t_2_7.mp3"
+          "id": "t_5_7",
+          "text": "We normally use many when setting up the practice stations.",
+          "audio": "assets/audio/t_5_7.mp3"
         },
         {
-          "id": "t_2_8",
-          "text": "Let me check…",
-          "audio": "assets/audio/t_2_8.mp3"
+          "id": "t_5_8",
+          "text": "Let me check… There are only four cables left.",
+          "audio": "assets/audio/t_5_8.mp3"
         },
         {
-          "id": "t_2_9",
-          "text": "There are only six litres left.",
-          "audio": "assets/audio/t_2_9.mp3"
+          "id": "t_5_9",
+          "text": "So we don’t have enough for the whole class.",
+          "audio": "assets/audio/t_5_9.mp3"
         },
         {
-          "id": "t_2_10",
-          "text": "So we don’t have enough for today’s bookings.",
-          "audio": "assets/audio/t_2_10.mp3"
+          "id": "t_5_10",
+          "text": "Hmm. How many USB drives do we have?",
+          "audio": "assets/audio/t_5_10.mp3"
         },
         {
-          "id": "t_2_11",
-          "text": "Hmm. How many oil filters do we have?",
-          "audio": "assets/audio/t_2_11.mp3"
+          "id": "t_5_11",
+          "text": "USB drives are low too.",
+          "audio": "assets/audio/t_5_11.mp3"
         },
         {
-          "id": "t_2_12",
-          "text": "Oil filters are low too.",
-          "audio": "assets/audio/t_2_12.mp3"
+          "id": "t_5_12",
+          "text": "Only five pieces remain, sir.",
+          "audio": "assets/audio/t_5_12.mp3"
         },
         {
-          "id": "t_2_13",
-          "text": "There are only three in the cupboard.",
-          "audio": "assets/audio/t_2_13.mp3"
-        },
-        {
-          "id": "t_2_14",
+          "id": "t_5_13",
           "text": "That’s not good.",
-          "audio": "assets/audio/t_2_14.mp3"
+          "audio": "assets/audio/t_5_13.mp3"
         },
         {
-          "id": "t_2_15",
-          "text": "What about brake pads?",
-          "audio": "assets/audio/t_2_15.mp3"
+          "id": "t_5_14",
+          "text": "What about mouse units?",
+          "audio": "assets/audio/t_5_14.mp3"
         },
         {
-          "id": "t_2_16",
-          "text": "We normally replace quite a few on Fridays.",
-          "audio": "assets/audio/t_2_16.mp3"
+          "id": "t_5_15",
+          "text": "Several students complained about faulty ones last week.",
+          "audio": "assets/audio/t_5_15.mp3"
         },
         {
-          "id": "t_2_17",
-          "text": "Brake pads are almost finished.",
-          "audio": "assets/audio/t_2_17.mp3"
+          "id": "t_5_16",
+          "text": "Mouse units are running out as well.",
+          "audio": "assets/audio/t_5_16.mp3"
         },
         {
-          "id": "t_2_18",
-          "text": "There’s only one box here, Sir.",
-          "audio": "assets/audio/t_2_18.mp3"
+          "id": "t_5_17",
+          "text": "There are just three working ones here.",
+          "audio": "assets/audio/t_5_17.mp3"
         },
         {
-          "id": "t_2_19",
-          "text": "Right. And how many spark plugs do we have?",
-          "audio": "assets/audio/t_2_19.mp3"
+          "id": "t_5_18",
+          "text": "Right. Do we have enough data?",
+          "audio": "assets/audio/t_5_18.mp3"
         },
         {
-          "id": "t_2_20",
-          "text": "Spark plugs are fine.",
-          "audio": "assets/audio/t_2_20.mp3"
+          "id": "t_5_19",
+          "text": "Yes, we are okay for that.",
+          "audio": "assets/audio/t_5_19.mp3"
         },
         {
-          "id": "t_2_21",
-          "text": "We have one full tray.",
-          "audio": "assets/audio/t_2_21.mp3"
+          "id": "t_5_20",
+          "text": "Good. And how much printer toner do we have?",
+          "audio": "assets/audio/t_5_20.mp3"
         },
         {
-          "id": "t_2_22",
-          "text": "Good. How much coolant do we have?",
-          "audio": "assets/audio/t_2_22.mp3"
+          "id": "t_5_21",
+          "text": "We use it a lot during assessments.",
+          "audio": "assets/audio/t_5_21.mp3"
         },
         {
-          "id": "t_2_23",
-          "text": "Some cars are overheating today.",
-          "audio": "assets/audio/t_2_23.mp3"
+          "id": "t_5_22",
+          "text": "Printer toner is almost finished.",
+          "audio": "assets/audio/t_5_22.mp3"
         },
         {
-          "id": "t_2_24",
-          "text": "Coolant is running out, sir.",
-          "audio": "assets/audio/t_2_24.mp3"
+          "id": "t_5_23",
+          "text": "Only one cartridge remains.",
+          "audio": "assets/audio/t_5_23.mp3"
         },
         {
-          "id": "t_2_25",
-          "text": "There’s very little left.",
-          "audio": "assets/audio/t_2_25.mp3"
+          "id": "t_5_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_5_24.mp3"
         },
         {
-          "id": "t_2_26",
-          "text": "That won’t be enough.",
-          "audio": "assets/audio/t_2_26.mp3"
+          "id": "t_5_25",
+          "text": "Do we have enough software?",
+          "audio": "assets/audio/t_5_25.mp3"
         },
         {
-          "id": "t_2_27",
-          "text": "Do we have enough transmission fluid?",
-          "audio": "assets/audio/t_2_27.mp3"
-        },
-        {
-          "id": "t_2_28",
+          "id": "t_5_26",
           "text": "No, sir.",
-          "audio": "assets/audio/t_2_28.mp3"
+          "audio": "assets/audio/t_5_26.mp3"
         },
         {
-          "id": "t_2_29",
-          "text": "There’s only a little left.",
-          "audio": "assets/audio/t_2_29.mp3"
+          "id": "t_5_27",
+          "text": "We need to update our software.",
+          "audio": "assets/audio/t_5_27.mp3"
         },
         {
-          "id": "t_2_30",
-          "text": "Okay. Let’s order more.",
-          "audio": "assets/audio/t_2_30.mp3"
+          "id": "t_5_28",
+          "text": "Alright. Let’s order more.",
+          "audio": "assets/audio/t_5_28.mp3"
         },
         {
-          "id": "t_2_31",
-          "text": "Should I add engine oil, oil filters, brake pads, coolant, and transmission fluid to the list?",
-          "audio": "assets/audio/t_2_31.mp3"
+          "id": "t_5_29",
+          "text": "Should I add network cables, USB drives, mouse units and printer toner to the order list?",
+          "audio": "assets/audio/t_5_29.mp3"
         },
         {
-          "id": "t_2_32",
+          "id": "t_5_30",
+          "text": "And a note to update our software?",
+          "audio": "assets/audio/t_5_30.mp3"
+        },
+        {
+          "id": "t_5_31",
           "text": "Yes, please.",
-          "audio": "assets/audio/t_2_32.mp3"
+          "audio": "assets/audio/t_5_31.mp3"
         },
         {
-          "id": "t_2_33",
-          "text": "We’re going to need everything before the evening shift.",
-          "audio": "assets/audio/t_2_33.mp3"
+          "id": "t_5_32",
+          "text": "We’re going to need everything before the practice session.",
+          "audio": "assets/audio/t_5_32.mp3"
         },
         {
-          "id": "t_2_34",
-          "text": "Why don’t we place the order right now?",
-          "audio": "assets/audio/t_2_34.mp3"
+          "id": "t_5_33",
+          "text": "Why don’t we place an order for the urgent items first?",
+          "audio": "assets/audio/t_5_33.mp3"
         },
         {
-          "id": "t_2_35",
-          "text": "I’m going to call the supplier before lunch.",
-          "audio": "assets/audio/t_2_35.mp3"
+          "id": "t_5_34",
+          "text": "I’m going to call the supplier and send him the list before lunch.",
+          "audio": "assets/audio/t_5_34.mp3"
         },
         {
-          "id": "t_2_36",
-          "text": "Good.",
-          "audio": "assets/audio/t_2_36.mp3"
-        },
-        {
-          "id": "t_2_37",
-          "text": "That should help us avoid delays when the customers arrive.",
-          "audio": "assets/audio/t_2_37.mp3"
+          "id": "t_5_35",
+          "text": "Good. That should help us avoid last-minute issues when the trainees start their practical work.",
+          "audio": "assets/audio/t_5_35.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_2_2",
-          "text": "I’m going to check the stock before the afternoon repairs start.",
-          "audio": "assets/audio/t_2_2.mp3"
+          "id": "t_5_2",
+          "text": "I’m going to check the stock before the afternoon computer maintenance session starts.",
+          "audio": "assets/audio/t_5_2.mp3"
         },
         {
-          "id": "t_2_6",
-          "text": "First, do we have enough engine oil?",
-          "audio": "assets/audio/t_2_6.mp3"
+          "id": "t_5_7",
+          "text": "We normally use many when setting up the practice stations.",
+          "audio": "assets/audio/t_5_7.mp3"
         },
         {
-          "id": "t_2_7",
-          "text": "We usually need at least ten litres for full service jobs.",
-          "audio": "assets/audio/t_2_7.mp3"
+          "id": "t_5_9",
+          "text": "So we don’t have enough for the whole class.",
+          "audio": "assets/audio/t_5_9.mp3"
         },
         {
-          "id": "t_2_10",
-          "text": "So we don’t have enough for today’s bookings.",
-          "audio": "assets/audio/t_2_10.mp3"
+          "id": "t_5_11",
+          "text": "USB drives are low too.",
+          "audio": "assets/audio/t_5_11.mp3"
         },
         {
-          "id": "t_2_13",
-          "text": "There are only three in the cupboard.",
-          "audio": "assets/audio/t_2_13.mp3"
+          "id": "t_5_15",
+          "text": "Several students complained about faulty ones last week.",
+          "audio": "assets/audio/t_5_15.mp3"
         },
         {
-          "id": "t_2_16",
-          "text": "We normally replace quite a few on Fridays.",
-          "audio": "assets/audio/t_2_16.mp3"
+          "id": "t_5_16",
+          "text": "Mouse units are running out as well.",
+          "audio": "assets/audio/t_5_16.mp3"
         },
         {
-          "id": "t_2_17",
-          "text": "Brake pads are almost finished.",
-          "audio": "assets/audio/t_2_17.mp3"
+          "id": "t_5_22",
+          "text": "Printer toner is almost finished.",
+          "audio": "assets/audio/t_5_22.mp3"
         },
         {
-          "id": "t_2_23",
-          "text": "Some cars are overheating today.",
-          "audio": "assets/audio/t_2_23.mp3"
+          "id": "t_5_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_5_24.mp3"
         },
         {
-          "id": "t_2_24",
-          "text": "Coolant is running out, sir.",
-          "audio": "assets/audio/t_2_24.mp3"
+          "id": "t_5_29",
+          "text": "Should I add network cables, USB drives, mouse units and printer toner to the order list?",
+          "audio": "assets/audio/t_5_29.mp3"
         },
         {
-          "id": "t_2_26",
-          "text": "That won’t be enough.",
-          "audio": "assets/audio/t_2_26.mp3"
+          "id": "t_5_32",
+          "text": "We’re going to need everything before the practice session.",
+          "audio": "assets/audio/t_5_32.mp3"
         },
         {
-          "id": "t_2_33",
-          "text": "We’re going to need everything before the evening shift.",
-          "audio": "assets/audio/t_2_33.mp3"
+          "id": "t_5_34",
+          "text": "I’m going to call the supplier and send him the list before lunch.",
+          "audio": "assets/audio/t_5_34.mp3"
         },
         {
-          "id": "t_2_37",
-          "text": "That should help us avoid delays when the customers arrive.",
-          "audio": "assets/audio/t_2_37.mp3"
+          "id": "t_5_35",
+          "text": "Good. That should help us avoid last-minute issues when the trainees start their practical work.",
+          "audio": "assets/audio/t_5_35.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_2_2",
-          "text": "I’m going to check the stock before the afternoon repairs start.",
-          "audio": "assets/audio/t_2_2.mp3"
+          "id": "t_5_2",
+          "text": "I’m going to check the stock before the afternoon computer maintenance session starts.",
+          "audio": "assets/audio/t_5_2.mp3"
         },
         {
-          "id": "t_2_6",
-          "text": "First, do we have enough engine oil?",
-          "audio": "assets/audio/t_2_6.mp3"
+          "id": "t_5_7",
+          "text": "We normally use many when setting up the practice stations.",
+          "audio": "assets/audio/t_5_7.mp3"
         },
         {
-          "id": "t_2_7",
-          "text": "We usually need at least ten litres for full service jobs.",
-          "audio": "assets/audio/t_2_7.mp3"
+          "id": "t_5_9",
+          "text": "So we don’t have enough for the whole class.",
+          "audio": "assets/audio/t_5_9.mp3"
         },
         {
-          "id": "t_2_10",
-          "text": "So we don’t have enough for today’s bookings.",
-          "audio": "assets/audio/t_2_10.mp3"
+          "id": "t_5_11",
+          "text": "USB drives are low too.",
+          "audio": "assets/audio/t_5_11.mp3"
         },
         {
-          "id": "t_2_13",
-          "text": "There are only three in the cupboard.",
-          "audio": "assets/audio/t_2_13.mp3"
+          "id": "t_5_15",
+          "text": "Several students complained about faulty ones last week.",
+          "audio": "assets/audio/t_5_15.mp3"
         },
         {
-          "id": "t_2_16",
-          "text": "We normally replace quite a few on Fridays.",
-          "audio": "assets/audio/t_2_16.mp3"
+          "id": "t_5_16",
+          "text": "Mouse units are running out as well.",
+          "audio": "assets/audio/t_5_16.mp3"
         },
         {
-          "id": "t_2_17",
-          "text": "Brake pads are almost finished.",
-          "audio": "assets/audio/t_2_17.mp3"
+          "id": "t_5_22",
+          "text": "Printer toner is almost finished.",
+          "audio": "assets/audio/t_5_22.mp3"
         },
         {
-          "id": "t_2_23",
-          "text": "Some cars are overheating today.",
-          "audio": "assets/audio/t_2_23.mp3"
+          "id": "t_5_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_5_24.mp3"
         },
         {
-          "id": "t_2_24",
-          "text": "Coolant is running out, sir.",
-          "audio": "assets/audio/t_2_24.mp3"
+          "id": "t_5_29",
+          "text": "Should I add network cables, USB drives, mouse units and printer toner to the order list?",
+          "audio": "assets/audio/t_5_29.mp3"
         },
         {
-          "id": "t_2_26",
-          "text": "That won’t be enough.",
-          "audio": "assets/audio/t_2_26.mp3"
+          "id": "t_5_32",
+          "text": "We’re going to need everything before the practice session.",
+          "audio": "assets/audio/t_5_32.mp3"
         },
         {
-          "id": "t_2_33",
-          "text": "We’re going to need everything before the evening shift.",
-          "audio": "assets/audio/t_2_33.mp3"
+          "id": "t_5_34",
+          "text": "I’m going to call the supplier and send him the list before lunch.",
+          "audio": "assets/audio/t_5_34.mp3"
         },
         {
-          "id": "t_2_37",
-          "text": "That should help us avoid delays when the customers arrive.",
-          "audio": "assets/audio/t_2_37.mp3"
+          "id": "t_5_35",
+          "text": "Good. That should help us avoid last-minute issues when the trainees start their practical work.",
+          "audio": "assets/audio/t_5_35.mp3"
         }
       ]
     }
