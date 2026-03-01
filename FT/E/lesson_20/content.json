@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "bowl",
+        "word_text": "'b'owl",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They are going to mix the ingredients in the bowl very carefully.",
+        "sentence_text": "They are going to mix the ingredients in the 'b'owl very carefully.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "bottle",
+        "word_text": "'b'ottle",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "She is going to clean the bottle thoroughly before each use.",
+        "sentence_text": "She is going to clean the 'b'ottle thoroughly before each use.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "cube",
+        "word_text": "cu'b'e",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Are they going to cut the butter into cubes?",
+        "sentence_text": "Are they going to cut the butter into cu'b'es?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "herb",
+        "word_text": "her'b'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "We are not going to add any fresh herbs for flavour.",
+        "sentence_text": "We are not going to add any fresh her'b's for flavour.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
