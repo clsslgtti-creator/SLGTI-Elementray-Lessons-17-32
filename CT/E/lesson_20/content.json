@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "brick",
+        "word_text": "'b'rick",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mason is going to lay each brick in the kitchen very neatly.",
+        "sentence_text": "The mason is going to lay each 'b'rick in the kitchen very neatly.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "beam",
+        "word_text": "'b'eam",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The cranes are not going to lift the heavy beams above the roof.",
+        "sentence_text": "The cranes are not going to lift the heavy 'b'eams above the roof.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "bar",
+        "word_text": "'b'ar",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Are you both going to use a steel bar for support?",
+        "sentence_text": "Are you both going to use a steel 'b'ar for support?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "cab",
+        "word_text": "ca'b'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Is the worker going to wait in the cab for over half an hour?",
+        "sentence_text": "Is the worker going to wait in the ca'b' for over half an hour?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
