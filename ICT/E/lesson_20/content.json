@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "backup",
+        "word_text": "'b'ackup",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "She is going to make a data backup in case of power failures.",
+        "sentence_text": "She is going to make a data 'b'ackup in case of power failures.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "bar",
+        "word_text": "'b'ar",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Are you going to click the menu bar on the screen to open the file?",
+        "sentence_text": "Are you going to click the menu 'b'ar on the screen to open the file?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "cable",
+        "word_text": "ca'b'le",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "We are going to plug the cable into the computer to get it started.",
+        "sentence_text": "We are going to plug the ca'b'le into the computer to get it started.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "web",
+        "word_text": "we'b'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "We are not going to search for it on the web.",
+        "sentence_text": "We are not going to search for it on the we'b'.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
