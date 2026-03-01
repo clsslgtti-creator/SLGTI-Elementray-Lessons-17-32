@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "bulbs",
+        "word_text": "'b'ul'b's",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They are going to change all the light bulbs safely.",
+        "sentence_text": "They are going to change all the light 'b'ul'b's safely.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "cable",
+        "word_text": "ca'b'le",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "She is not going to check the cable connection under the table.",
+        "sentence_text": "She is not going to check the ca'b'le connection under the table.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "breaker",
+        "word_text": "'b'reaker",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Are you going to switch off the circuit breaker on the wall?",
+        "sentence_text": "Are you going to switch off the circuit 'b'reaker on the wall?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "knob",
+        "word_text": "kno'b'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Is he going to turn the control knob gently when the light comes on?",
+        "sentence_text": "Is he going to turn the control kno'b' gently when the light comes on?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }
