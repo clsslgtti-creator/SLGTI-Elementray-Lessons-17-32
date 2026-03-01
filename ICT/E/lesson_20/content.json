@@ -1,0 +1,880 @@
+{
+  "meta": {
+    "lesson_no": 20,
+    "level": "Elementary",
+    "section": "Information Communication Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Short /b/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'b'ackup",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "She is going to make a data 'b'ackup in case of power failures.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'b'ar",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Are you going to click the menu 'b'ar on the screen to open the file?",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "ca'b'le",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "We are going to plug the ca'b'le into the computer to get it started.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "we'b'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "We are not going to search for it on the we'b'.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Structure ‘When are …..going to ….? , object  pronouns",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["This / Next", "week / month / year"],
+        [
+          null,
+          "Sunday / Monday / Tuesday / Wednesday / Thursday / Friday / Saturday"
+        ],
+        [
+          null,
+          "January / February / March / April / May / June / July / August / September / October / November / December"
+        ],
+        ["right now / right away / immediately / at once"]
+      ],
+      [
+        ["When are you", "going to", "ring?"],
+        [null, null, "write?"],
+        [null, null, "play?"],
+        [null, null, "study?"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "When are you going to connect the network cables?",
+        "text_b": "I’m going to connect them tomorrow morning.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "When are you going to transfer the files?",
+        "text_b": "I’m going to transfer them today.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "When are you going to clean the computer fans?",
+        "text_b": "I’m going to clean them this afternoon.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "reset the network switch"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "install the software update"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "upload the backups"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "upgrade the RAM"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "scan the QR codes"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "fix the printer jam"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "When are you going to reset the network switch?",
+        "text_b": "I’m going to reset it on Saturday.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "When are you going to install the software update?",
+        "text_b": "I’m going to install it after lunch.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "When are you going to upload the backups?",
+        "text_b": "I’m going to upload them next week.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "When are you going to upgrade the RAM?",
+        "text_b": "I’m going to upgrade it this evening.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "When are you going to scan the QR codes?",
+        "text_b": "I’m going to scan them right now.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "When are you going to fix the printer jam?",
+        "text_b": "I’m going to fix it on Monday.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "examples": [
+          {
+            "id": "e_1",
+            "sentence": "When is the mechanical workshop supervisor going to submit the weekly maintenance report?",
+            "audio": "assets/audio/a_3_ex_1.mp3",
+            "options": [
+              "He is going submit it tomorrow.",
+              "He submit them next week.",
+              "He is going to submit it on the 30th March."
+            ],
+            "answer": "He is going to submit it on the 30th March.",
+            "image": "assets/img/a_3.png"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "When is the office manager going to prepare the monthly financial report?",
+            "audio": "assets/audio/a_3_b_1.mp3",
+            "options": [
+              "She prepares it every Monday.",
+              "She is going to prepare it this afternoon.",
+              "She is going to prepare them this morning."
+            ],
+            "answer": "She is going to prepare it this afternoon.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "When do the ICT trainees update the customer billing system?",
+            "audio": "assets/audio/a_3_b_2.mp3",
+            "options": [
+              "They updated it yesterday at 10 a.m.",
+              "They update it every day at 4 p.m.",
+              "They are going to update it tomorrow."
+            ],
+            "answer": "They update it every day at 4 p.m.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "When does the mechanical repair shop open for customers?",
+            "audio": "assets/audio/a_3_b_3.mp3",
+            "options": [
+              "It is going to open at 10 p.m.",
+              "It opens at 8 a.m. every day.",
+              "It opened at 8 a.m. yesterday."
+            ],
+            "answer": "It opens at 8 a.m. every day.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "When is the construction accounts clerk going to send the pro-forma invoices?",
+            "audio": "assets/audio/a_3_b_4.mp3",
+            "options": [
+              "He is going to send them before 3 p.m. today.",
+              "He sent them last week.",
+              "He sends them every Sunday."
+            ],
+            "answer": "He is going to send them before 3 p.m. today.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "When does the purchasing officer request quotations for consumables?",
+            "audio": "assets/audio/a_3_b_5.mp3",
+            "options": [
+              "She requests them every Tuesday.",
+              "She requested them yesterday evening.",
+              "She is going to request them this weekend."
+            ],
+            "answer": "She requests them every Tuesday.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "When is the management team going to finalise the next training schedule?",
+            "audio": "assets/audio/a_3_b_6.mp3",
+            "options": [
+              "They finalise it every afternoon.",
+              "They finalised it last month.",
+              "They are going to finalise it tomorrow morning."
+            ],
+            "answer": "They are going to finalise it tomorrow morning.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "When is the receptionist going to print trainee attendance sheets?",
+            "audio": "assets/audio/a_3_b_7.mp3",
+            "options": [
+              "She printed them last night.",
+              "She prints them every Saturday.",
+              "She is going to print them now."
+            ],
+            "answer": "She is going to print them now.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "When do the finance officers check the petty cash balance?",
+            "audio": "assets/audio/a_3_b_8.mp3",
+            "options": [
+              "They checked it yesterday.",
+              "They check it at the end of each day.",
+              "They are going to check it next Wednesday."
+            ],
+            "answer": "They check it at the end of each day.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "When is the office administrator going to update the stock-control spreadsheet?",
+            "audio": "assets/audio/a_3_b_9.mp3",
+            "options": [
+              "She updates it every hour.",
+              "She is going to update it after lunch.",
+              "She updated it yesterday."
+            ],
+            "answer": "She is going to update it after lunch.",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "When does the garage owner order spare spark plugs?",
+            "audio": "assets/audio/a_3_b_10.mp3",
+            "options": [
+              "He ordered them last week.",
+              "He is going to order them next Monday.",
+              "He orders them every Friday."
+            ],
+            "answer": "He orders them every Friday.",
+            "image": "assets/img/a_3.png"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "When is the office manager going to prepare the monthly financial report?",
+          "audio": "assets/audio/a_3_b_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "When do the ICT trainees update the customer billing system?",
+          "audio": "assets/audio/a_3_b_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "When does the mechanical repair shop open for customers?",
+          "audio": "assets/audio/a_3_b_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "When is the construction accounts clerk going to send the pro-forma invoices?",
+          "audio": "assets/audio/a_3_b_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "When does the purchasing officer request quotations for consumables?",
+          "audio": "assets/audio/a_3_b_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "When is the management team going to finalise the next training schedule?",
+          "audio": "assets/audio/a_3_b_6.mp3"
+        },
+        {
+          "id": "n_3_7",
+          "text": "When is the receptionist going to print trainee attendance sheets?",
+          "audio": "assets/audio/a_3_b_7.mp3"
+        },
+        {
+          "id": "n_3_8",
+          "text": "When do the finance officers check the petty cash balance?",
+          "audio": "assets/audio/a_3_b_8.mp3"
+        },
+        {
+          "id": "n_3_9",
+          "text": "When is the office administrator going to update the stock-control spreadsheet?",
+          "audio": "assets/audio/a_3_b_9.mp3"
+        },
+        {
+          "id": "n_3_10",
+          "text": "When does the garage owner order spare spark plugs?",
+          "audio": "assets/audio/a_3_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Fill in the blanks with the correct noun.\nනිවැරදි නාම පදය භාවිතා කර හිස් තැන් පුරවන්න.\nசரியான பெயர்ச்சொல்லை பயன்படுத்தி வெற்றிடங்களை நிரப்புங்கள்.",
+        "audio": "assets/audio/a_4_i_h.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_e_1",
+            "item_a": "Data",
+            "item_b": "How much __________ do we have?"
+          },
+          {
+            "id": "n_4_e_2",
+            "item_a": "Software",
+            "item_b": "How much __________ do we have?"
+          },
+          {
+            "id": "n_4_e_3",
+            "item_a": "Network cables",
+            "item_b": "How many __________ do we have?"
+          },
+          {
+            "id": "n_4_e_4",
+            "item_a": "USB drives",
+            "item_b": "How many __________ do we have?"
+          },
+          {
+            "id": "n_4_e_5",
+            "item_a": "Printer toner",
+            "item_b": "How much __________ do we have?"
+          },
+          {
+            "id": "n_4_e_6",
+            "item_a": "Mouse units",
+            "item_b": "How many __________ do we have?"
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_11_1",
+            "question": "Why does Harsha call Meena to the ICT lab?",
+            "answer": "He is going to check the stock before maintenance.",
+            "options": [
+              "She needs to repair a broken computer.",
+              "He is going to check the stock before maintenance.",
+              "She is going to start the afternoon computer maintenance session."
+            ]
+          },
+          {
+            "id": "l_11_2",
+            "question": "How many network cables are left?",
+            "answer": "Four cables.",
+            "options": ["Six cables.", "Four cables.", "Two cables."]
+          },
+          {
+            "id": "l_11_3",
+            "question": "How many USB drives remain?",
+            "answer": "Five USB drives.",
+            "options": [
+              "Three USB drives.",
+              "Seven USB drives.",
+              "Five USB drives."
+            ]
+          },
+          {
+            "id": "l_11_4",
+            "question": "Why do they need more mouse units?",
+            "answer": "Several students reported faulty mouse units.",
+            "options": [
+              "They are opening a new lab.",
+              "Several students reported faulty mouse units.",
+              "The trainer lost them."
+            ]
+          },
+          {
+            "id": "l_11_5",
+            "question": "What is Meena going to do at the end?",
+            "answer": "Call the supplier and send the order list.",
+            "options": [
+              "Start the practice session.",
+              "Call the supplier and send the order list.",
+              "Restart all the computers."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_5_1",
+          "text": "Meena, can you come to the ICT lab for a moment?",
+          "audio": "assets/audio/t_5_1.mp3"
+        },
+        {
+          "id": "t_5_2",
+          "text": "I’m going to check the stock before the afternoon computer maintenance session starts.",
+          "audio": "assets/audio/t_5_2.mp3"
+        },
+        {
+          "id": "t_5_3",
+          "text": "Sure, sir.",
+          "audio": "assets/audio/t_5_3.mp3"
+        },
+        {
+          "id": "t_5_4",
+          "text": "I’m here.",
+          "audio": "assets/audio/t_5_4.mp3"
+        },
+        {
+          "id": "t_5_5",
+          "text": "What should we begin with?",
+          "audio": "assets/audio/t_5_5.mp3"
+        },
+        {
+          "id": "t_5_6",
+          "text": "First, do we have enough network cables?",
+          "audio": "assets/audio/t_5_6.mp3"
+        },
+        {
+          "id": "t_5_7",
+          "text": "We normally use many when setting up the practice stations.",
+          "audio": "assets/audio/t_5_7.mp3"
+        },
+        {
+          "id": "t_5_8",
+          "text": "Let me check… There are only four cables left.",
+          "audio": "assets/audio/t_5_8.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "So we don’t have enough for the whole class.",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_10",
+          "text": "Hmm. How many USB drives do we have?",
+          "audio": "assets/audio/t_5_10.mp3"
+        },
+        {
+          "id": "t_5_11",
+          "text": "USB drives are low too.",
+          "audio": "assets/audio/t_5_11.mp3"
+        },
+        {
+          "id": "t_5_12",
+          "text": "Only five pieces remain, sir.",
+          "audio": "assets/audio/t_5_12.mp3"
+        },
+        {
+          "id": "t_5_13",
+          "text": "That’s not good.",
+          "audio": "assets/audio/t_5_13.mp3"
+        },
+        {
+          "id": "t_5_14",
+          "text": "What about mouse units?",
+          "audio": "assets/audio/t_5_14.mp3"
+        },
+        {
+          "id": "t_5_15",
+          "text": "Several students complained about faulty ones last week.",
+          "audio": "assets/audio/t_5_15.mp3"
+        },
+        {
+          "id": "t_5_16",
+          "text": "Mouse units are running out as well.",
+          "audio": "assets/audio/t_5_16.mp3"
+        },
+        {
+          "id": "t_5_17",
+          "text": "There are just three working ones here.",
+          "audio": "assets/audio/t_5_17.mp3"
+        },
+        {
+          "id": "t_5_18",
+          "text": "Right. Do we have enough data?",
+          "audio": "assets/audio/t_5_18.mp3"
+        },
+        {
+          "id": "t_5_19",
+          "text": "Yes, we are okay for that.",
+          "audio": "assets/audio/t_5_19.mp3"
+        },
+        {
+          "id": "t_5_20",
+          "text": "Good. And how much printer toner do we have?",
+          "audio": "assets/audio/t_5_20.mp3"
+        },
+        {
+          "id": "t_5_21",
+          "text": "We use it a lot during assessments.",
+          "audio": "assets/audio/t_5_21.mp3"
+        },
+        {
+          "id": "t_5_22",
+          "text": "Printer toner is almost finished.",
+          "audio": "assets/audio/t_5_22.mp3"
+        },
+        {
+          "id": "t_5_23",
+          "text": "Only one cartridge remains.",
+          "audio": "assets/audio/t_5_23.mp3"
+        },
+        {
+          "id": "t_5_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_5_24.mp3"
+        },
+        {
+          "id": "t_5_25",
+          "text": "Do we have enough software?",
+          "audio": "assets/audio/t_5_25.mp3"
+        },
+        {
+          "id": "t_5_26",
+          "text": "No, sir.",
+          "audio": "assets/audio/t_5_26.mp3"
+        },
+        {
+          "id": "t_5_27",
+          "text": "We need to update our software.",
+          "audio": "assets/audio/t_5_27.mp3"
+        },
+        {
+          "id": "t_5_28",
+          "text": "Alright. Let’s order more.",
+          "audio": "assets/audio/t_5_28.mp3"
+        },
+        {
+          "id": "t_5_29",
+          "text": "Should I add network cables, USB drives, mouse units and printer toner to the order list?",
+          "audio": "assets/audio/t_5_29.mp3"
+        },
+        {
+          "id": "t_5_30",
+          "text": "And a note to update our software?",
+          "audio": "assets/audio/t_5_30.mp3"
+        },
+        {
+          "id": "t_5_31",
+          "text": "Yes, please.",
+          "audio": "assets/audio/t_5_31.mp3"
+        },
+        {
+          "id": "t_5_32",
+          "text": "We’re going to need everything before the practice session.",
+          "audio": "assets/audio/t_5_32.mp3"
+        },
+        {
+          "id": "t_5_33",
+          "text": "Why don’t we place an order for the urgent items first?",
+          "audio": "assets/audio/t_5_33.mp3"
+        },
+        {
+          "id": "t_5_34",
+          "text": "I’m going to call the supplier and send him the list before lunch.",
+          "audio": "assets/audio/t_5_34.mp3"
+        },
+        {
+          "id": "t_5_35",
+          "text": "Good. That should help us avoid last-minute issues when the trainees start their practical work.",
+          "audio": "assets/audio/t_5_35.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_5_2",
+          "text": "I’m going to check the stock before the afternoon computer maintenance session starts.",
+          "audio": "assets/audio/t_5_2.mp3"
+        },
+        {
+          "id": "t_5_7",
+          "text": "We normally use many when setting up the practice stations.",
+          "audio": "assets/audio/t_5_7.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "So we don’t have enough for the whole class.",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_11",
+          "text": "USB drives are low too.",
+          "audio": "assets/audio/t_5_11.mp3"
+        },
+        {
+          "id": "t_5_15",
+          "text": "Several students complained about faulty ones last week.",
+          "audio": "assets/audio/t_5_15.mp3"
+        },
+        {
+          "id": "t_5_16",
+          "text": "Mouse units are running out as well.",
+          "audio": "assets/audio/t_5_16.mp3"
+        },
+        {
+          "id": "t_5_22",
+          "text": "Printer toner is almost finished.",
+          "audio": "assets/audio/t_5_22.mp3"
+        },
+        {
+          "id": "t_5_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_5_24.mp3"
+        },
+        {
+          "id": "t_5_29",
+          "text": "Should I add network cables, USB drives, mouse units and printer toner to the order list?",
+          "audio": "assets/audio/t_5_29.mp3"
+        },
+        {
+          "id": "t_5_32",
+          "text": "We’re going to need everything before the practice session.",
+          "audio": "assets/audio/t_5_32.mp3"
+        },
+        {
+          "id": "t_5_34",
+          "text": "I’m going to call the supplier and send him the list before lunch.",
+          "audio": "assets/audio/t_5_34.mp3"
+        },
+        {
+          "id": "t_5_35",
+          "text": "Good. That should help us avoid last-minute issues when the trainees start their practical work.",
+          "audio": "assets/audio/t_5_35.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_5_2",
+          "text": "I’m going to check the stock before the afternoon computer maintenance session starts.",
+          "audio": "assets/audio/t_5_2.mp3"
+        },
+        {
+          "id": "t_5_7",
+          "text": "We normally use many when setting up the practice stations.",
+          "audio": "assets/audio/t_5_7.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "So we don’t have enough for the whole class.",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_11",
+          "text": "USB drives are low too.",
+          "audio": "assets/audio/t_5_11.mp3"
+        },
+        {
+          "id": "t_5_15",
+          "text": "Several students complained about faulty ones last week.",
+          "audio": "assets/audio/t_5_15.mp3"
+        },
+        {
+          "id": "t_5_16",
+          "text": "Mouse units are running out as well.",
+          "audio": "assets/audio/t_5_16.mp3"
+        },
+        {
+          "id": "t_5_22",
+          "text": "Printer toner is almost finished.",
+          "audio": "assets/audio/t_5_22.mp3"
+        },
+        {
+          "id": "t_5_24",
+          "text": "That definitely won’t be enough.",
+          "audio": "assets/audio/t_5_24.mp3"
+        },
+        {
+          "id": "t_5_29",
+          "text": "Should I add network cables, USB drives, mouse units and printer toner to the order list?",
+          "audio": "assets/audio/t_5_29.mp3"
+        },
+        {
+          "id": "t_5_32",
+          "text": "We’re going to need everything before the practice session.",
+          "audio": "assets/audio/t_5_32.mp3"
+        },
+        {
+          "id": "t_5_34",
+          "text": "I’m going to call the supplier and send him the list before lunch.",
+          "audio": "assets/audio/t_5_34.mp3"
+        },
+        {
+          "id": "t_5_35",
+          "text": "Good. That should help us avoid last-minute issues when the trainees start their practical work.",
+          "audio": "assets/audio/t_5_35.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
