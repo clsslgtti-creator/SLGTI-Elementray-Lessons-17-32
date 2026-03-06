@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "bolt",
+        "word_text": "tile",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "I am going to remove the old bolt from the frame and leave it on the desk.",
+        "sentence_text": "He is going to lay one tile at a time.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "bearing",
+        "word_text": "trowel",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Is the trainee going to lubricate the bearings?",
+        "sentence_text": "The worker is going to use a trowel carefully.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "tube",
+        "word_text": "cement",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "We are going to replace the oil tube regularly for the best results.",
+        "sentence_text": "The labourers are going to mix the cement in a bucket.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "hub",
+        "word_text": "paint",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The hub connects the wheel with the vehicle’s axle.",
+        "sentence_text": "She is going to add new paint on the wall.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -109,24 +109,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "When is Sunil going to reset the service reminder light?",
-        "text_b": "He might reset it this morning, or he might reset it this afternoon. He really doesn't know.",
+        "text_a": "When is Sunil going to spread the tile adhesive?",
+        "text_b": "He might spread it this morning, or he might spread it this afternoon. He really doesn't know.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "When are you and Ravi going to lubricate the suspension joints?",
-        "text_b": "We might lubricate them this evening, or we might lubricate them tomorrow morning. We really don't know.",
+        "text_a": "When are you and Ravi going to excavate the trench lines?",
+        "text_b": "We might excavate them this evening, or we might excavate them tomorrow morning. We really don't know.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "When are the mechanics going to replace the worn-out fan belt?",
-        "text_b": "They might replace it tomorrow afternoon, or they might replace it tomorrow evening. They really don't know.",
+        "text_a": "When are the masons going to cut the concrete blocks?",
+        "text_b": "They might cut them tomorrow afternoon, or they might cut them tomorrow evening. They really don't know.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -167,48 +167,48 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "When is Nadeesha going to adjust the throttle cable?",
-        "text_b": "She might adjust it this evening, or she might adjust it tomorrow morning. She really doesn't know.",
+        "text_a": "When is Ruwan going to calibrate the concrete slump tester?",
+        "text_b": "He might calibrate it this morning, or he might calibrate it this afternoon. He really doesn't know.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "When are you and Kasun going to deflate the air suspension bags?",
-        "text_b": "We might deflate them tomorrow afternoon, or we might deflate them tomorrow morning. We really don't know.",
+        "text_a": "When are you and Kasun going to order the adhesive for the tiles?",
+        "text_b": "We might order it tomorrow afternoon, or we might order it tomorrow evening. We really don't know.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "When are you going to release this vehicle?",
-        "text_b": "I might release it this afternoon, or I might release it this evening. I really don't know.",
+        "text_a": "When is Amal going to measure the foundation depth?",
+        "text_b": "He might measure it this morning, or he might measure it this evening. He really doesn't know.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "When is Amal going to set the tyre pressure for the customer’s car?",
-        "text_b": "He might set it this morning, or he might set it this evening. He really doesn't know.",
+        "text_a": "When are Hemali and her co-workers going to seal the joints?",
+        "text_b": "They might seal them this afternoon, or they might seal them this evening. They really don't know.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "When are the technicians going to replace the inspection scanner?",
-        "text_b": "They might replace it this afternoon, or they might replace it this evening. They really don't know.",
+        "text_a": "When are you and Meena going to assemble reinforcement cages?",
+        "text_b": "We might assemble them tomorrow morning, or we might assemble them tomorrow afternoon. We really don't know.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "When are Ravi and his team going to record the service notes?",
-        "text_b": "They might record them this morning, or they might record them this afternoon. They really don't know.",
+        "text_a": "When are Ravi and his team going to review the work schedules?",
+        "text_b": "They might review them this morning, or they might review them this afternoon. They really don't know.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }

@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'t'ool",
+        "word_text": "tablet",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He is going to use this 't'ool today.",
+        "sentence_text": "This time, he is going to use a tablet for coding.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "'t'ank",
+        "word_text": "text",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to fill the oil 't'ank this afternoon.",
+        "sentence_text": "They are going to read the text on the screen.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "bel't'",
+        "word_text": "chat",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "She is going to check the bel't' before starting.",
+        "sentence_text": "We are going to start the chat after class.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sea't'",
+        "word_text": "unit",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The trainee is going to wipe the sea't's in a few minutes.",
+        "sentence_text": "Each unit is going to have a network cable.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -109,24 +109,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "When is Sunil going to reset the service reminder light?",
-        "text_b": "He might reset it this morning, or he might reset it this afternoon. He really doesn't know.",
+        "text_a": "When is Sunil going to install the new antivirus software?",
+        "text_b": "He might install it this morning, or he might install it this afternoon. He really doesn't know.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "When are you and Ravi going to lubricate the suspension joints?",
-        "text_b": "We might lubricate them this evening, or we might lubricate them tomorrow morning. We really don't know.",
+        "text_a": "When are you and Ravi going to update the office laptops?",
+        "text_b": "We might update them this evening, or we might update them tomorrow morning. We really don't know.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "When are the mechanics going to replace the worn-out fan belt?",
-        "text_b": "They might replace it tomorrow afternoon, or they might replace it tomorrow evening. They really don't know.",
+        "text_a": "When are the technicians going to reset the network router?",
+        "text_b": "They might reset it tomorrow afternoon, or they might reset it tomorrow evening. They really don't know.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -135,80 +135,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "adjust the throttle cable"
+        "word": "minimise"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "deflate the air suspension bags"
+        "word": "paste"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "release this vehicle"
+        "word": "connect"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "set the tyre pressure for the customer’s car"
+        "word": "resize"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "replace the inspection scanner"
+        "word": "upload"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "record the service notes"
+        "word": "scan"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "When is Nadeesha going to adjust the throttle cable?",
-        "text_b": "She might adjust it this evening, or she might adjust it tomorrow morning. She really doesn't know.",
+        "text_a": "When is Ruwan going to minimise the open applications on the server PC?",
+        "text_b": "He might minimise them this morning, or he might minimise them this afternoon. He really doesn't know.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "When are you and Kasun going to deflate the air suspension bags?",
-        "text_b": "We might deflate them tomorrow afternoon, or we might deflate them tomorrow morning. We really don't know.",
+        "text_a": "When is Nadee going to paste the code snippet into the script?",
+        "text_b": "She might paste it this evening, or she might paste it tomorrow morning. She really doesn't know.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "When are you going to release this vehicle?",
-        "text_b": "I might release it this afternoon, or I might release it this evening. I really don't know.",
+        "text_a": "When are you and Kasun going to connect the new Wi-Fi access point?",
+        "text_b": "We might connect it tomorrow afternoon, or we might connect it tomorrow evening. We really don't know.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "When is Amal going to set the tyre pressure for the customer’s car?",
-        "text_b": "He might set it this morning, or he might set it this evening. He really doesn't know.",
+        "text_a": "When are you going to resize the images for the website?",
+        "text_b": "I might resize them this afternoon, or I might resize them this evening. I really don't know.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "When are the technicians going to replace the inspection scanner?",
-        "text_b": "They might replace it this afternoon, or they might replace it this evening. They really don't know.",
+        "text_a": "When are Helen and her co-workers going to upload the system backups?",
+        "text_b": "They might upload them this afternoon, or they might upload them this evening. They really don't know.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "When are Ravi and his team going to record the service notes?",
-        "text_b": "They might record them this morning, or they might record them this afternoon. They really don't know.",
+        "text_a": "When are Ravi and his team going to scan the computers for malware?",
+        "text_b": "They might scan them this morning, or they might scan them this afternoon. They really don't know.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
@@ -618,325 +618,320 @@
         "Questions": [
           {
             "id": "l_12_1",
-            "question": "How many engine oil filters does Nimal order?",
+            "question": "How many LAN cables does Ishara order?",
             "answer": "10",
             "options": ["8", "10", "12"]
           },
           {
             "id": "l_12_2",
-            "question": "How many brake pad sets does he ideally want?",
-            "answer": "Two sets",
-            "options": ["One set", "Two sets", "Three sets"]
+            "question": "How many routers does she ideally want?",
+            "answer": "Two",
+            "options": ["One", "Two", "Three"]
           },
           {
             "id": "l_12_3",
-            "question": "How many spark plugs are available right now?",
-            "answer": "Six",
-            "options": ["Eight", "Six", "None"]
+            "question": "How many RAM cards are available right now?",
+            "answer": "One",
+            "options": ["Two", "None", "One"]
           },
           {
             "id": "l_12_4",
-            "question": "What item is available in plenty?",
-            "answer": "Engine oil",
-            "options": ["Coolant", "Spark plug", "Engine oil"]
+            "question": "Which item is available in plenty?",
+            "answer": "Thermal paste",
+            "options": ["Routers", "Thermal paste", "RAM cards"]
           },
           {
             "id": "l_12_5",
-            "question": "When does the supplier usually deliver?",
-            "answer": "Before 10 a.m.",
-            "options": ["Before 10 p.m.", "Before 10 a.m.", "After lunch"]
+            "question": "What time will the order arrive tomorrow?",
+            "answer": "Around 9.30 a.m.",
+            "options": ["After lunch", "Around 9.30 a.m.", "At 5 p.m."]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_5_1",
-          "text": "Good morning, Lakshan Auto Parts Traders.",
-          "audio": "assets/audio/t_5_1.mp3"
+          "id": "t_8_1",
+          "text": "Good morning, TechLine IT Supplies.",
+          "audio": "assets/audio/t_8_1.mp3"
         },
         {
-          "id": "t_5_2",
+          "id": "t_8_2",
           "text": "This is Ruwan speaking. How can I help you today?",
-          "audio": "assets/audio/t_5_2.mp3"
+          "audio": "assets/audio/t_8_2.mp3"
         },
         {
-          "id": "t_5_3",
-          "text": "Good morning, Ruwan. This is Nimal from Horizon Motors in Kandy.",
-          "audio": "assets/audio/t_5_3.mp3"
+          "id": "t_8_3",
+          "text": "Good morning, Ruwan. This is Ishara from Digital Solutions Lab in Colombo.",
+          "audio": "assets/audio/t_8_3.mp3"
         },
         {
-          "id": "t_5_4",
-          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
-          "audio": "assets/audio/t_5_4.mp3"
+          "id": "t_8_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s installations.",
+          "audio": "assets/audio/t_8_4.mp3"
         },
         {
-          "id": "t_5_5",
-          "text": "Certainly, sir. I’m at the system right now.",
-          "audio": "assets/audio/t_5_5.mp3"
+          "id": "t_8_5",
+          "text": "Certainly, madam. I’m at the system right now.",
+          "audio": "assets/audio/t_8_5.mp3"
         },
         {
-          "id": "t_5_6",
+          "id": "t_8_6",
           "text": "What would you like to order?",
-          "audio": "assets/audio/t_5_6.mp3"
+          "audio": "assets/audio/t_8_6.mp3"
         },
         {
-          "id": "t_5_7",
-          "text": "First, I need ten engine oil filters.",
-          "audio": "assets/audio/t_5_7.mp3"
+          "id": "t_8_7",
+          "text": "First, I need ten LAN cables, 3 metres each.",
+          "audio": "assets/audio/t_8_7.mp3"
         },
         {
-          "id": "t_5_8",
-          "text": "We change them every day during our morning services.",
-          "audio": "assets/audio/t_5_8.mp3"
+          "id": "t_8_8",
+          "text": "We use them almost every day for office setups.",
+          "audio": "assets/audio/t_8_8.mp3"
         },
         {
-          "id": "t_5_9",
-          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
-          "audio": "assets/audio/t_5_9.mp3"
+          "id": "t_8_9",
+          "text": "No problem. New cable stock arrived this morning.",
+          "audio": "assets/audio/t_8_9.mp3"
         },
         {
-          "id": "t_5_10",
-          "text": "I’m going to prepare ten oil filters for you.",
-          "audio": "assets/audio/t_5_10.mp3"
+          "id": "t_8_10",
+          "text": "I’m going to prepare ten cables for you.",
+          "audio": "assets/audio/t_8_10.mp3"
         },
         {
-          "id": "t_5_11",
-          "text": "Great. I also need two sets of brake pads for Japanese cars.",
-          "audio": "assets/audio/t_5_11.mp3"
+          "id": "t_8_11",
+          "text": "Great. I also need two wireless routers, dual band.",
+          "audio": "assets/audio/t_8_11.mp3"
         },
         {
-          "id": "t_5_12",
-          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
-          "audio": "assets/audio/t_5_12.mp3"
+          "id": "t_8_12",
+          "text": "Let me check. We might not have both routers because several companies collected new units yesterday.",
+          "audio": "assets/audio/t_8_12.mp3"
         },
         {
-          "id": "t_5_13",
-          "text": "But we might receive a new shipment this afternoon.",
-          "audio": "assets/audio/t_5_13.mp3"
+          "id": "t_8_13",
+          "text": "But we might receive a shipment this afternoon.",
+          "audio": "assets/audio/t_8_13.mp3"
         },
         {
-          "id": "t_5_14",
-          "text": "If it arrives, I’m going to pack two full sets.",
-          "audio": "assets/audio/t_5_14.mp3"
-        },
-        {
-          "id": "t_5_15",
+          "id": "t_8_14",
           "text": "How many do you absolutely need for tomorrow?",
-          "audio": "assets/audio/t_5_15.mp3"
+          "audio": "assets/audio/t_8_14.mp3"
         },
         {
-          "id": "t_5_16",
-          "text": "At least one set. Two is perfect.",
-          "audio": "assets/audio/t_5_16.mp3"
+          "id": "t_8_15",
+          "text": "At least one. Two is ideal.",
+          "audio": "assets/audio/t_8_15.mp3"
         },
         {
-          "id": "t_5_17",
-          "text": "Understood. I’ll reserve one and try to arrange the second.",
-          "audio": "assets/audio/t_5_17.mp3"
+          "id": "t_8_16",
+          "text": "Understood. I’ll reserve one and try to arrange the second if the delivery arrives.",
+          "audio": "assets/audio/t_8_16.mp3"
         },
         {
-          "id": "t_5_18",
-          "text": "Next, I need five litres of coolant.",
-          "audio": "assets/audio/t_5_18.mp3"
+          "id": "t_8_17",
+          "text": "Next, I need a 512GB SSD.",
+          "audio": "assets/audio/t_8_17.mp3"
         },
         {
-          "id": "t_5_19",
-          "text": "Coolant is available right now.",
-          "audio": "assets/audio/t_5_19.mp3"
+          "id": "t_8_18",
+          "text": "SSDs are available right now.",
+          "audio": "assets/audio/t_8_18.mp3"
         },
         {
-          "id": "t_5_20",
-          "text": "I’m going to add five litres to your list.",
-          "audio": "assets/audio/t_5_20.mp3"
+          "id": "t_8_19",
+          "text": "I’m going to add one to your list.",
+          "audio": "assets/audio/t_8_19.mp3"
         },
         {
-          "id": "t_5_21",
-          "text": "And eight spark plugs—NGK if possible.",
-          "audio": "assets/audio/t_5_21.mp3"
+          "id": "t_8_20",
+          "text": "And two RAM cards, 8GB each.",
+          "audio": "assets/audio/t_8_20.mp3"
         },
         {
-          "id": "t_5_22",
-          "text": "NGK is in high demand.",
-          "audio": "assets/audio/t_5_22.mp3"
+          "id": "t_8_21",
+          "text": "We only have one left at the moment.",
+          "audio": "assets/audio/t_8_21.mp3"
         },
         {
-          "id": "t_5_23",
-          "text": "We only have six plugs left.",
-          "audio": "assets/audio/t_5_23.mp3"
+          "id": "t_8_22",
+          "text": "You might get the second one if our evening stock reaches us.",
+          "audio": "assets/audio/t_8_22.mp3"
         },
         {
-          "id": "t_5_24",
-          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
-          "audio": "assets/audio/t_5_24.mp3"
+          "id": "t_8_23",
+          "text": "Please keep the one for me.",
+          "audio": "assets/audio/t_8_23.mp3"
         },
         {
-          "id": "t_5_25",
-          "text": "Please keep the six for me.",
-          "audio": "assets/audio/t_5_25.mp3"
+          "id": "t_8_24",
+          "text": "If you get more, I’m going to take both.",
+          "audio": "assets/audio/t_8_24.mp3"
         },
         {
-          "id": "t_5_26",
-          "text": "If you get more, I’m going to take all eight.",
-          "audio": "assets/audio/t_5_26.mp3"
+          "id": "t_8_25",
+          "text": "Noted, madam. Anything else?",
+          "audio": "assets/audio/t_8_25.mp3"
         },
         {
-          "id": "t_5_27",
-          "text": "Noted, sir. Anything else?",
-          "audio": "assets/audio/t_5_27.mp3"
+          "id": "t_8_26",
+          "text": "Yes, a bottle of thermal paste.",
+          "audio": "assets/audio/t_8_26.mp3"
         },
         {
-          "id": "t_5_28",
-          "text": "Yes, 20 litres of engine oil, synthetic grade.",
-          "audio": "assets/audio/t_5_28.mp3"
+          "id": "t_8_27",
+          "text": "Thermal paste is available in plenty.",
+          "audio": "assets/audio/t_8_27.mp3"
         },
         {
-          "id": "t_5_29",
-          "text": "We have plenty of synthetic oil.",
-          "audio": "assets/audio/t_5_29.mp3"
+          "id": "t_8_28",
+          "text": "What time are you going to deliver tomorrow?",
+          "audio": "assets/audio/t_8_28.mp3"
         },
         {
-          "id": "t_5_30",
-          "text": "Would you like 5W-30 or 10W-30?",
-          "audio": "assets/audio/t_5_30.mp3"
+          "id": "t_8_29",
+          "text": "Before 10 a.m. would be perfect.",
+          "audio": "assets/audio/t_8_29.mp3"
         },
         {
-          "id": "t_5_31",
-          "text": "5W-30, please.",
-          "audio": "assets/audio/t_5_31.mp3"
-        },
-        {
-          "id": "t_5_32",
-          "text": "We usually deliver before 10 a.m.",
-          "audio": "assets/audio/t_5_32.mp3"
-        },
-        {
-          "id": "t_5_33",
+          "id": "t_8_30",
           "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
-          "audio": "assets/audio/t_5_33.mp3"
+          "audio": "assets/audio/t_8_30.mp3"
         },
         {
-          "id": "t_5_34",
-          "text": "Excellent. Thank you, Ruwan.",
-          "audio": "assets/audio/t_5_34.mp3"
+          "id": "t_8_31",
+          "text": "Thank you, Ruwan.",
+          "audio": "assets/audio/t_8_31.mp3"
         },
         {
-          "id": "t_5_35",
-          "text": "My pleasure, sir. Have a good day!",
-          "audio": "assets/audio/t_5_35.mp3"
+          "id": "t_8_32",
+          "text": "My pleasure, madam. Have a good day!",
+          "audio": "assets/audio/t_8_32.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_5_4",
-          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
-          "audio": "assets/audio/t_5_4.mp3"
+          "id": "t_8_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s installations.",
+          "audio": "assets/audio/t_8_4.mp3"
         },
         {
-          "id": "t_5_9",
-          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
-          "audio": "assets/audio/t_5_9.mp3"
+          "id": "t_8_8",
+          "text": "We use them almost every day for office setups.",
+          "audio": "assets/audio/t_8_8.mp3"
         },
         {
-          "id": "t_5_10",
-          "text": "I’m going to prepare ten oil filters for you.",
-          "audio": "assets/audio/t_5_10.mp3"
+          "id": "t_8_9",
+          "text": "No problem. New cable stock arrived this morning.",
+          "audio": "assets/audio/t_8_9.mp3"
         },
         {
-          "id": "t_5_11",
-          "text": "Great. I also need two sets of brake pads for Japanese cars.",
-          "audio": "assets/audio/t_5_11.mp3"
+          "id": "t_8_10",
+          "text": "I’m going to prepare ten cables for you.",
+          "audio": "assets/audio/t_8_10.mp3"
         },
         {
-          "id": "t_5_12",
-          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
-          "audio": "assets/audio/t_5_12.mp3"
+          "id": "t_8_12",
+          "text": "Let me check. We might not have both routers because several companies collected new units yesterday.",
+          "audio": "assets/audio/t_8_12.mp3"
         },
         {
-          "id": "t_5_13",
-          "text": "But we might receive a new shipment this afternoon.",
-          "audio": "assets/audio/t_5_13.mp3"
+          "id": "t_8_13",
+          "text": "But we might receive a shipment this afternoon.",
+          "audio": "assets/audio/t_8_13.mp3"
         },
         {
-          "id": "t_5_14",
-          "text": "If it arrives, I’m going to pack two full sets.",
-          "audio": "assets/audio/t_5_14.mp3"
-        },
-        {
-          "id": "t_5_15",
+          "id": "t_8_14",
           "text": "How many do you absolutely need for tomorrow?",
-          "audio": "assets/audio/t_5_15.mp3"
+          "audio": "assets/audio/t_8_14.mp3"
         },
         {
-          "id": "t_5_23",
-          "text": "We only have six plugs left.",
-          "audio": "assets/audio/t_5_23.mp3"
+          "id": "t_8_16",
+          "text": "Understood. I’ll reserve one and try to arrange the second if the delivery arrives.",
+          "audio": "assets/audio/t_8_16.mp3"
         },
         {
-          "id": "t_5_24",
-          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
-          "audio": "assets/audio/t_5_24.mp3"
+          "id": "t_8_21",
+          "text": "We only have one left at the moment.",
+          "audio": "assets/audio/t_8_21.mp3"
         },
         {
-          "id": "t_5_33",
+          "id": "t_8_22",
+          "text": "You might get the second one if our evening stock reaches us.",
+          "audio": "assets/audio/t_8_22.mp3"
+        },
+        {
+          "id": "t_8_24",
+          "text": "If you get more, I’m going to take both.",
+          "audio": "assets/audio/t_8_24.mp3"
+        },
+        {
+          "id": "t_8_30",
           "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
-          "audio": "assets/audio/t_5_33.mp3"
+          "audio": "assets/audio/t_8_30.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_5_4",
-          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
-          "audio": "assets/audio/t_5_4.mp3"
+          "id": "t_8_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s installations.",
+          "audio": "assets/audio/t_8_4.mp3"
         },
         {
-          "id": "t_5_9",
-          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
-          "audio": "assets/audio/t_5_9.mp3"
+          "id": "t_8_8",
+          "text": "We use them almost every day for office setups.",
+          "audio": "assets/audio/t_8_8.mp3"
         },
         {
-          "id": "t_5_10",
-          "text": "I’m going to prepare ten oil filters for you.",
-          "audio": "assets/audio/t_5_10.mp3"
+          "id": "t_8_9",
+          "text": "No problem. New cable stock arrived this morning.",
+          "audio": "assets/audio/t_8_9.mp3"
         },
         {
-          "id": "t_5_11",
-          "text": "Great. I also need two sets of brake pads for Japanese cars.",
-          "audio": "assets/audio/t_5_11.mp3"
+          "id": "t_8_10",
+          "text": "I’m going to prepare ten cables for you.",
+          "audio": "assets/audio/t_8_10.mp3"
         },
         {
-          "id": "t_5_12",
-          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
-          "audio": "assets/audio/t_5_12.mp3"
+          "id": "t_8_12",
+          "text": "Let me check. We might not have both routers because several companies collected new units yesterday.",
+          "audio": "assets/audio/t_8_12.mp3"
         },
         {
-          "id": "t_5_13",
-          "text": "But we might receive a new shipment this afternoon.",
-          "audio": "assets/audio/t_5_13.mp3"
+          "id": "t_8_13",
+          "text": "But we might receive a shipment this afternoon.",
+          "audio": "assets/audio/t_8_13.mp3"
         },
         {
-          "id": "t_5_14",
-          "text": "If it arrives, I’m going to pack two full sets.",
-          "audio": "assets/audio/t_5_14.mp3"
-        },
-        {
-          "id": "t_5_15",
+          "id": "t_8_14",
           "text": "How many do you absolutely need for tomorrow?",
-          "audio": "assets/audio/t_5_15.mp3"
+          "audio": "assets/audio/t_8_14.mp3"
         },
         {
-          "id": "t_5_23",
-          "text": "We only have six plugs left.",
-          "audio": "assets/audio/t_5_23.mp3"
+          "id": "t_8_16",
+          "text": "Understood. I’ll reserve one and try to arrange the second if the delivery arrives.",
+          "audio": "assets/audio/t_8_16.mp3"
         },
         {
-          "id": "t_5_24",
-          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
-          "audio": "assets/audio/t_5_24.mp3"
+          "id": "t_8_21",
+          "text": "We only have one left at the moment.",
+          "audio": "assets/audio/t_8_21.mp3"
         },
         {
-          "id": "t_5_33",
+          "id": "t_8_22",
+          "text": "You might get the second one if our evening stock reaches us.",
+          "audio": "assets/audio/t_8_22.mp3"
+        },
+        {
+          "id": "t_8_24",
+          "text": "If you get more, I’m going to take both.",
+          "audio": "assets/audio/t_8_24.mp3"
+        },
+        {
+          "id": "t_8_30",
           "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
-          "audio": "assets/audio/t_5_33.mp3"
+          "audio": "assets/audio/t_8_30.mp3"
         }
       ]
     }
