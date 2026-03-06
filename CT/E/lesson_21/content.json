@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'t'ool",
+        "word_text": "bolt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He is going to use this 't'ool today.",
+        "sentence_text": "I am going to remove the old bolt from the frame and leave it on the desk.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "'t'ank",
+        "word_text": "bearing",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to fill the oil 't'ank this afternoon.",
+        "sentence_text": "Is the trainee going to lubricate the bearings?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "bel't'",
+        "word_text": "tube",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "She is going to check the bel't' before starting.",
+        "sentence_text": "We are going to replace the oil tube regularly for the best results.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sea't'",
+        "word_text": "hub",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The trainee is going to wipe the sea't's in a few minutes.",
+        "sentence_text": "The hub connects the wheel with the vehicle’s axle.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -135,32 +135,32 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "adjust the throttle cable"
+        "word": "calibrate the concrete slump tester"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "deflate the air suspension bags"
+        "word": "order the adhesive for the tiles"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "release this vehicle"
+        "word": "measure the foundation depth"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "set the tyre pressure for the customer’s car"
+        "word": "seal the joints"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "replace the inspection scanner"
+        "word": "seal the joints"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "record the service notes"
+        "word": "review the work schedules"
       }
     ],
     "dialogues": [
