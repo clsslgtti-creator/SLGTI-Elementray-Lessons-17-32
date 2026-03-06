@@ -1207,7 +1207,7 @@ const collectGameActivities = (activityData = {}) => {
   return [];
 };
 
-export const buildInteractive2Slides = (activityData = {}, context = {}) => {
+export const buildInteractive7Slides = (activityData = {}, context = {}) => {
   const { activityNumber, focus, instructions } = context;
   const focusText = trimText(focus);
   const repeatPauseMs = getRepeatPauseMs(activityData);
