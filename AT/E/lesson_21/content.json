@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "Short /b/",
+    "focus": "T",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -33,41 +33,41 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'b'olt",
+        "word_text": "tool",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They are going to tighten the 'b'olt on the radiator very carefully.",
+        "sentence_text": "He is going to use this tool today.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'b'ul'b's",
+        "word_text": "tank",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The repairman is going to replace the broken 'b'ul'b's as soon as possible.",
+        "sentence_text": "They are going to fill the oil tank this afternoon.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "ca'b'le",
+        "word_text": "belt",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Are you going to connect the ca'b'le to the engine on the left?",
+        "sentence_text": "She is going to check the belt before starting.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "hu'b'",
+        "word_text": "seat",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "I am not going to clean the grease from the hu'b' with a white cloth.",
+        "sentence_text": "The trainee is going to wipe the seats in a few minutes.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.jpeg"
+        "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Structure ‘When are …..going to ….? , object  pronouns",
+    "focus": "‘Going to’ , modal verb ‘might’",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -96,46 +96,37 @@
     },
     "tables": [
       [
-        ["This / Next", "week / month / year"],
-        [
-          null,
-          "Sunday / Monday / Tuesday / Wednesday / Thursday / Friday / Saturday"
-        ],
-        [
-          null,
-          "January / February / March / April / May / June / July / August / September / October / November / December"
-        ],
-        ["right now / right away / immediately / at once"]
-      ],
-      [
-        ["When are you", "going to", "ring?"],
-        [null, null, "write?"],
-        [null, null, "play?"],
-        [null, null, "study?"]
+        ["When are", "you", "going to", "ring", "?"],
+        [null, "we", null, null, null],
+        [null, "they", null, " write", null],
+        ["When is", "he", null, null, null],
+        [null, "she", null, "play", null],
+        [null, "it", null, null, null],
+        ["When am", "I", null, "study", null]
       ]
     ],
     "example_dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "When are you going to bleed the brake lines?",
-        "text_b": "I’m going to bleed them tomorrow morning.",
+        "text_a": "When is Sunil going to reset the service reminder light?",
+        "text_b": "He might reset it this morning, or he might reset it this afternoon. He really doesn't know.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "When are you going to rotate the tyres?",
-        "text_b": "I’m going to rotate them this afternoon.",
+        "text_a": "When are you and Ravi going to lubricate the suspension joints?",
+        "text_b": "We might lubricate them this evening, or we might lubricate them tomorrow morning. We really don't know.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "When are you going to raise the engine with the hoist?",
-        "text_b": "I’m going to raise it on Saturday.",
+        "text_a": "When are the mechanics going to replace the worn-out fan belt?",
+        "text_b": "They might replace it tomorrow afternoon, or they might replace it tomorrow evening. They really don't know.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -144,80 +135,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "inspect the suspension"
+        "word": "adjust the throttle cable"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "steam-clean the engine block"
+        "word": "deflate the air suspension bags"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "polish the alloy wheels"
+        "word": "release this vehicle"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "tighten the drive belt"
+        "word": "set the tyre pressure for the customer’s car"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "spray the undercoat"
+        "word": "replace the inspection scanner"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "flush the coolant system"
+        "word": "record the service notes"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "When are you going to inspect the suspension?",
-        "text_b": "I’m going to inspect it next week.",
+        "text_a": "When is Nadeesha going to adjust the throttle cable?",
+        "text_b": "She might adjust it this evening, or she might adjust it tomorrow morning. She really doesn't know.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "When are you going to steam-clean the engine block?",
-        "text_b": "I’m going to steam-clean it after lunch.",
+        "text_a": "When are you and Kasun going to deflate the air suspension bags?",
+        "text_b": "We might deflate them tomorrow afternoon, or we might deflate them tomorrow morning. We really don't know.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "When are you going to polish the alloy wheels?",
-        "text_b": "I’m going to polish them this evening.",
+        "text_a": "When are you going to release this vehicle?",
+        "text_b": "I might release it this afternoon, or I might release it this evening. I really don't know.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "When are you going to tighten the drive belt?",
-        "text_b": "I’m going to tighten it right now.",
+        "text_a": "When is Amal going to set the tyre pressure for the customer’s car?",
+        "text_b": "He might set it this morning, or he might set it this evening. He really doesn't know.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "When are you going to spray the undercoat?",
-        "text_b": "I’m going to spray it tomorrow.",
+        "text_a": "When are the technicians going to replace the inspection scanner?",
+        "text_b": "They might replace it this afternoon, or they might replace it this evening. They really don't know.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "When are you going to flush the coolant system?",
-        "text_b": "I’m going to flush it on Monday.",
+        "text_a": "When are Ravi and his team going to record the service notes?",
+        "text_b": "They might record them this morning, or they might record them this afternoon. They really don't know.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
@@ -233,6 +224,18 @@
       "activity_b": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_c": {
+        "text": "Fill the blank.\nහිස් තැන පුරවන්න.\nவெற்றிடத்தை நிரப்புங்கள்.",
+        "audio": "assets/audio/a_3_i_h.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
@@ -425,6 +428,147 @@
           "id": "n_3_10",
           "text": "When does the garage owner order spare spark plugs?",
           "audio": "assets/audio/a_3_b_10.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "g_x_1",
+          "item_1": "He started his business operation only after his ____________ was processed and approved by the state.",
+          "item_2": "business registration"
+        },
+        {
+          "id": "g_x_2",
+          "item_1": "In the 2024 budget, it was made mandatory for all youngsters of 18 years and above to register and obtain a ____________ from the Department of Inland Revenue, whether they earned enough to be over the tax limit or not.",
+          "item_2": "Tax Identification Number"
+        },
+        {
+          "id": "g_x_3",
+          "item_1": "All companies have to maintain ____________ showing their employees’ working hours, salaries and EPF/ETF contributions.",
+          "item_2": "payroll records"
+        },
+        {
+          "id": "g_x_4",
+          "item_1": "Most efficient companies and factories have ____________ of all their stocks so they can order in advance any items in short supply.",
+          "item_2": "inventory records"
+        },
+        {
+          "id": "g_x_5",
+          "item_1": "All companies/employers should have a ____________ with each employee, stating clearly their responsibilities, hours of work, salary and leave particulars and other conditions and clauses.",
+          "item_2": "contract"
+        },
+        {
+          "id": "g_x_6",
+          "item_1": "In order to claim payment for a service provided/supplied, a company will send an ____________ to its client.",
+          "item_2": "invoice"
+        },
+        {
+          "id": "g_x_7",
+          "item_1": "When the payment is made, the company has to issue a ____________.",
+          "item_2": "receipt"
+        },
+        {
+          "id": "g_x_8",
+          "item_1": "In order to know how much it will cost to provide a service, a company or contractor will supply an ____________ for the cost of the work.",
+          "item_2": "estimate"
+        },
+        {
+          "id": "g_x_9",
+          "item_1": "In the accounts section of any company, a ____________ must be maintained where the daily income and expenditure is entered.",
+          "item_2": "cashbook"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "g_x_y_1",
+          "text": "He started his business operation only after his business registration was processed and approved by the state.",
+          "audio": "assets/audio/g_x_y_1.mp3"
+        },
+        {
+          "id": "g_x_y_2",
+          "text": "In the 2024 budget, it was made mandatory for all youngsters of 18 years and above to register and obtain a Tax Identification Number from the Department of Inland Revenue, whether they earned enough to be over the tax limit or not.",
+          "audio": "assets/audio/g_x_y_2.mp3"
+        },
+        {
+          "id": "g_x_y_3",
+          "text": "All companies have to maintain payroll records showing their employees’ working hours, salaries and EPF/ETF contributions.",
+          "audio": "assets/audio/g_x_y_3.mp3"
+        },
+        {
+          "id": "g_x_y_4",
+          "text": "Most efficient companies and factories have inventory records of all their stocks so they can order in advance any items in short supply.",
+          "audio": "assets/audio/g_x_y_4.mp3"
+        },
+        {
+          "id": "g_x_y_5",
+          "text": "All companies or employers should have a contract with each employee, stating clearly their responsibilities, hours of work, salary, leave particulars and other conditions and clauses.",
+          "audio": "assets/audio/g_x_y_5.mp3"
+        },
+        {
+          "id": "g_x_y_6",
+          "text": "In order to claim payment for a service provided or supplied, a company will send an invoice to its client.",
+          "audio": "assets/audio/g_x_y_6.mp3"
+        },
+        {
+          "id": "g_x_y_7",
+          "text": "When the payment is made, the company has to issue a receipt.",
+          "audio": "assets/audio/g_x_y_7.mp3"
+        },
+        {
+          "id": "g_x_y_8",
+          "text": "In order to know how much it will cost to provide a service, a company or contractor will supply an estimate for the cost of the work.",
+          "audio": "assets/audio/g_x_y_8.mp3"
+        },
+        {
+          "id": "g_x_y_9",
+          "text": "In the accounts section of any company, a cashbook must be maintained where the daily income and expenditure is entered.",
+          "audio": "assets/audio/g_x_y_9.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "g_x_y_1",
+          "text": "He started his business operation only after his business registration was processed and approved by the state.",
+          "audio": "assets/audio/g_x_y_1.mp3"
+        },
+        {
+          "id": "g_x_y_2",
+          "text": "In the 2024 budget, it was made mandatory for all youngsters of 18 years and above to register and obtain a Tax Identification Number from the Department of Inland Revenue, whether they earned enough to be over the tax limit or not.",
+          "audio": "assets/audio/g_x_y_2.mp3"
+        },
+        {
+          "id": "g_x_y_3",
+          "text": "All companies have to maintain payroll records showing their employees’ working hours, salaries and EPF/ETF contributions.",
+          "audio": "assets/audio/g_x_y_3.mp3"
+        },
+        {
+          "id": "g_x_y_4",
+          "text": "Most efficient companies and factories have inventory records of all their stocks so they can order in advance any items in short supply.",
+          "audio": "assets/audio/g_x_y_4.mp3"
+        },
+        {
+          "id": "g_x_y_5",
+          "text": "All companies or employers should have a contract with each employee, stating clearly their responsibilities, hours of work, salary, leave particulars and other conditions and clauses.",
+          "audio": "assets/audio/g_x_y_5.mp3"
+        },
+        {
+          "id": "g_x_y_6",
+          "text": "In order to claim payment for a service provided or supplied, a company will send an invoice to its client.",
+          "audio": "assets/audio/g_x_y_6.mp3"
+        },
+        {
+          "id": "g_x_y_7",
+          "text": "When the payment is made, the company has to issue a receipt.",
+          "audio": "assets/audio/g_x_y_7.mp3"
+        },
+        {
+          "id": "g_x_y_8",
+          "text": "In order to know how much it will cost to provide a service, a company or contractor will supply an estimate for the cost of the work.",
+          "audio": "assets/audio/g_x_y_8.mp3"
+        },
+        {
+          "id": "g_x_y_9",
+          "text": "In the accounts section of any company, a cashbook must be maintained where the daily income and expenditure is entered.",
+          "audio": "assets/audio/g_x_y_9.mp3"
         }
       ]
     }
