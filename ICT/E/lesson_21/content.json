@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "This time, he is going to use a tablet for coding.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
@@ -159,7 +159,7 @@
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_9.jpeg",
+        "image": "assets/img/a_2_d_9.png",
         "word": "scan"
       }
     ],
@@ -206,7 +206,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.jpeg",
+        "img": "assets/img/a_2_d_9.png",
         "text_a": "When are Ravi and his team going to scan the computers for malware?",
         "text_b": "They might scan them this morning, or they might scan them this afternoon. They really don't know.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
