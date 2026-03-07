@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "taste",
+        "word_text": "'t'as't'e",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The boss is definitely going to like the taste of this soup.",
+        "sentence_text": "The boss is definitely going to like the 't'as't'e of this soup.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "table",
+        "word_text": "'t'able",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to get the table ready for lunch.",
+        "sentence_text": "They are going to get the 't'able ready for lunch.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "carrots",
+        "word_text": "carro't's",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "He is going to cut the carrots neatly this time.",
+        "sentence_text": "He is going to cut the carro't's neatly this time.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "meat",
+        "word_text": "mea't'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The supplier is going to deliver fresh meat today.",
+        "sentence_text": "The supplier is going to deliver fresh mea't' today.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
