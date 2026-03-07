@@ -1,0 +1,979 @@
+{
+  "meta": {
+    "lesson_no": 21,
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "T",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'t'ool",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "He is going to use this 't'ool today.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'t'ank",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "They are going to fill the oil 't'ank this afternoon.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "bel't'",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "She is going to check the bel't' before starting.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "sea't'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The trainee is going to wipe the sea't's in a few minutes.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "‘Going to’ , modal verb ‘might’",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["When are", "you", "going to", "ring", "?"],
+        [null, "we", null, null, null],
+        [null, "they", null, " write", null],
+        ["When is", "he", null, null, null],
+        [null, "she", null, "play", null],
+        [null, "it", null, null, null],
+        ["When am", "I", null, "study", null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "When is Sunil going to reset the service reminder light?",
+        "text_b": "He might reset it this morning, or he might reset it this afternoon. He really doesn't know.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "When are you and Ravi going to lubricate the suspension joints?",
+        "text_b": "We might lubricate them this evening, or we might lubricate them tomorrow morning. We really don't know.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "When are the mechanics going to replace the worn-out fan belt?",
+        "text_b": "They might replace it tomorrow afternoon, or they might replace it tomorrow evening. They really don't know.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "adjust the throttle cable"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "deflate the air suspension bags"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "release this vehicle"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "set the tyre pressure for the customer’s car"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "replace the inspection scanner"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "record the service notes"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "When is Nadeesha going to adjust the throttle cable?",
+        "text_b": "She might adjust it this evening, or she might adjust it tomorrow morning. She really doesn't know.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "When are you and Kasun going to deflate the air suspension bags?",
+        "text_b": "We might deflate them tomorrow afternoon, or we might deflate them tomorrow morning. We really don't know.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "When are you going to release this vehicle?",
+        "text_b": "I might release it this afternoon, or I might release it this evening. I really don't know.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "When is Amal going to set the tyre pressure for the customer’s car?",
+        "text_b": "He might set it this morning, or he might set it this evening. He really doesn't know.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "When are the technicians going to replace the inspection scanner?",
+        "text_b": "They might replace it this afternoon, or they might replace it this evening. They really don't know.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "When are Ravi and his team going to record the service notes?",
+        "text_b": "They might record them this morning, or they might record them this afternoon. They really don't know.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-7",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_c": {
+        "text": "Fill in the blanks.\nහිස්තැන් පුරන්න.\nவெற்றிடங்களை நிரப்பவும்.",
+        "audio": "assets/audio/a_3_i_i.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "What is a business registration?",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "A document used to record daily sales after closing the shop.",
+              "The legal process of officially registering your business name with the state.",
+              "A list of customers who bought items last month."
+            ],
+            "answer": "The legal process of officially registering your business name with the state."
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "What is a business license / permit?",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "Permission from the state to operate a specific business.",
+              "A receipt you give a customer after payment.",
+              "A document showing the stock levels in your store."
+            ],
+            "answer": "Permission from the state to operate a specific business."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "What is a Tax Identification Number (TIN)?",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "A number given to students in a school.",
+              "A number used for tax purposes when running a business.",
+              "A code for tracking your inventory."
+            ],
+            "answer": "A number used for tax purposes when running a business."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "What is VAT registration?",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "The process of registering for Value Added Tax if your income reaches the required level.",
+              "The form you fill out when hiring an employee.",
+              "A special discount you give loyal customers."
+            ],
+            "answer": "The process of registering for Value Added Tax if your income reaches the required level."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "What is an invoice?",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "A document you send to a customer asking for payment.",
+              "A document that shows your monthly electricity usage.",
+              "A list of repairs done on a vehicle."
+            ],
+            "answer": "A document you send to a customer asking for payment."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "What is a receipt?",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "A document confirming that you received payment.",
+              "A document requesting payment from a customer.",
+              "A legal contract between two companies."
+            ],
+            "answer": "A document confirming that you received payment."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "What is a purchase order (PO)?",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "A document you send to order goods from a supplier.",
+              "A list of employees working in your shop.",
+              "A daily schedule for staff."
+            ],
+            "answer": "A document you send to order goods from a supplier."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "What is a quotation / estimate?",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "A written price given to a customer before starting work.",
+              "A record of total monthly profit.",
+              "A list showing how many workers you need next week."
+            ],
+            "answer": "A written price given to a customer before starting work."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "What is a cash book / ledger?",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "A record of all money that comes in and goes out of the business.",
+              "A book used to train new staff.",
+              "A list of suppliers and their phone numbers."
+            ],
+            "answer": "A record of all money that comes in and goes out of the business."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "What is a Profit & Loss Statement?",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "A summary of income, expenses, and net profit.",
+              "A document that records employee attendance.",
+              "A list of customer complaints."
+            ],
+            "answer": "A summary of income, expenses, and net profit."
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "What are inventory records?",
+            "audio": "assets/audio/g_b_11.mp3",
+            "options": [
+              "Documents that show the items you have in stock.",
+              "A list of your business goals for the year.",
+              "A form used to apply for a loan."
+            ],
+            "answer": "Documents that show the items you have in stock."
+          },
+          {
+            "id": "g_b_12",
+            "sentence": "What are payroll records?",
+            "audio": "assets/audio/g_b_12.mp3",
+            "options": [
+              "Documents showing employee salaries, EPF/ETF, and working hours.",
+              "Documents used to track your daily milk deliveries.",
+              "A list of customer phone numbers."
+            ],
+            "answer": "Documents showing employee salaries, EPF/ETF, and working hours."
+          },
+          {
+            "id": "g_b_13",
+            "sentence": "What are contracts / agreements?",
+            "audio": "assets/audio/g_b_13.mp3",
+            "options": [
+              "Written legal agreements between two or more parties.",
+              "A daily list of shop opening and closing times.",
+              "A receipt for buying groceries."
+            ],
+            "answer": "Written legal agreements between two or more parties."
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "What is a business registration?",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "The legal process of officially registering your business name with the state.",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "What is VAT registration?",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "The process of registering for Value Added Tax if your income reaches the required level.",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "What is an invoice?",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "A document you send to a customer asking for payment.",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "What is a receipt?",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "A document confirming that you received payment.",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "What is a Profit & Loss Statement?",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "A summary of income, expenses, and net profit.",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "What are inventory records?",
+          "audio": "assets/audio/g_b_11.mp3"
+        },
+        {
+          "id": "g_b_11_a",
+          "text": "Documents that show the items you have in stock.",
+          "audio": "assets/audio/g_b_11_a.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "g_x_1",
+          "item_1": "He started his business operation only after his ____________ was processed and approved by the state.",
+          "item_2": "business registration"
+        },
+        {
+          "id": "g_x_2",
+          "item_1": "In the 2024 budget, it was made mandatory for all youngsters of 18 years and above to register and obtain a ____________ from the Department of Inland Revenue, whether they earned enough to be over the tax limit or not.",
+          "item_2": "Tax Identification Number"
+        },
+        {
+          "id": "g_x_3",
+          "item_1": "All companies have to maintain ____________ showing their employees’ working hours, salaries and EPF/ETF contributions.",
+          "item_2": "payroll records"
+        },
+        {
+          "id": "g_x_4",
+          "item_1": "Most efficient companies and factories have ____________ of all their stocks so they can order in advance any items in short supply.",
+          "item_2": "inventory records"
+        },
+        {
+          "id": "g_x_5",
+          "item_1": "All companies/employers should have a ____________ with each employee, stating clearly their responsibilities, hours of work, salary and leave particulars and other conditions and clauses.",
+          "item_2": "contract"
+        },
+        {
+          "id": "g_x_6",
+          "item_1": "In order to claim payment for a service provided/supplied, a company will send an ____________ to its client.",
+          "item_2": "invoice"
+        },
+        {
+          "id": "g_x_7",
+          "item_1": "When the payment is made, the company has to issue a ____________.",
+          "item_2": "receipt"
+        },
+        {
+          "id": "g_x_8",
+          "item_1": "In order to know how much it will cost to provide a service, a company or contractor will supply an ____________ for the cost of the work.",
+          "item_2": "estimate"
+        },
+        {
+          "id": "g_x_9",
+          "item_1": "In the accounts section of any company, a ____________ must be maintained where the daily income and expenditure is entered.",
+          "item_2": "cashbook"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "g_x_y_1",
+          "text": "He started his business operation only after his business registration was processed and approved by the state.",
+          "audio": "assets/audio/g_x_y_1.mp3"
+        },
+        {
+          "id": "g_x_y_2",
+          "text": "In the 2024 budget, it was made mandatory for all youngsters of 18 years and above to register and obtain a Tax Identification Number from the Department of Inland Revenue, whether they earned enough to be over the tax limit or not.",
+          "audio": "assets/audio/g_x_y_2.mp3"
+        },
+        {
+          "id": "g_x_y_3",
+          "text": "All companies have to maintain payroll records showing their employees’ working hours, salaries and EPF/ETF contributions.",
+          "audio": "assets/audio/g_x_y_3.mp3"
+        },
+        {
+          "id": "g_x_y_4",
+          "text": "Most efficient companies and factories have inventory records of all their stocks so they can order in advance any items in short supply.",
+          "audio": "assets/audio/g_x_y_4.mp3"
+        },
+        {
+          "id": "g_x_y_5",
+          "text": "All companies or employers should have a contract with each employee, stating clearly their responsibilities, hours of work, salary, leave particulars and other conditions and clauses.",
+          "audio": "assets/audio/g_x_y_5.mp3"
+        },
+        {
+          "id": "g_x_y_6",
+          "text": "In order to claim payment for a service provided or supplied, a company will send an invoice to its client.",
+          "audio": "assets/audio/g_x_y_6.mp3"
+        },
+        {
+          "id": "g_x_y_7",
+          "text": "When the payment is made, the company has to issue a receipt.",
+          "audio": "assets/audio/g_x_y_7.mp3"
+        },
+        {
+          "id": "g_x_y_8",
+          "text": "In order to know how much it will cost to provide a service, a company or contractor will supply an estimate for the cost of the work.",
+          "audio": "assets/audio/g_x_y_8.mp3"
+        },
+        {
+          "id": "g_x_y_9",
+          "text": "In the accounts section of any company, a cashbook must be maintained where the daily income and expenditure is entered.",
+          "audio": "assets/audio/g_x_y_9.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "g_x_y_1",
+          "text": "He started his business operation only after his business registration was processed and approved by the state.",
+          "audio": "assets/audio/g_x_y_1.mp3"
+        },
+        {
+          "id": "g_x_y_2",
+          "text": "In the 2024 budget, it was made mandatory for all youngsters of 18 years and above to register and obtain a Tax Identification Number from the Department of Inland Revenue, whether they earned enough to be over the tax limit or not.",
+          "audio": "assets/audio/g_x_y_2.mp3"
+        },
+        {
+          "id": "g_x_y_3",
+          "text": "All companies have to maintain payroll records showing their employees’ working hours, salaries and EPF/ETF contributions.",
+          "audio": "assets/audio/g_x_y_3.mp3"
+        },
+        {
+          "id": "g_x_y_4",
+          "text": "Most efficient companies and factories have inventory records of all their stocks so they can order in advance any items in short supply.",
+          "audio": "assets/audio/g_x_y_4.mp3"
+        },
+        {
+          "id": "g_x_y_5",
+          "text": "All companies or employers should have a contract with each employee, stating clearly their responsibilities, hours of work, salary, leave particulars and other conditions and clauses.",
+          "audio": "assets/audio/g_x_y_5.mp3"
+        },
+        {
+          "id": "g_x_y_6",
+          "text": "In order to claim payment for a service provided or supplied, a company will send an invoice to its client.",
+          "audio": "assets/audio/g_x_y_6.mp3"
+        },
+        {
+          "id": "g_x_y_7",
+          "text": "When the payment is made, the company has to issue a receipt.",
+          "audio": "assets/audio/g_x_y_7.mp3"
+        },
+        {
+          "id": "g_x_y_8",
+          "text": "In order to know how much it will cost to provide a service, a company or contractor will supply an estimate for the cost of the work.",
+          "audio": "assets/audio/g_x_y_8.mp3"
+        },
+        {
+          "id": "g_x_y_9",
+          "text": "In the accounts section of any company, a cashbook must be maintained where the daily income and expenditure is entered.",
+          "audio": "assets/audio/g_x_y_9.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_12_1",
+            "question": "How many engine oil filters does Nimal order?",
+            "answer": "10",
+            "options": ["8", "10", "12"]
+          },
+          {
+            "id": "l_12_2",
+            "question": "How many brake pad sets does he ideally want?",
+            "answer": "Two sets",
+            "options": ["One set", "Two sets", "Three sets"]
+          },
+          {
+            "id": "l_12_3",
+            "question": "How many spark plugs are available right now?",
+            "answer": "Six",
+            "options": ["Eight", "Six", "None"]
+          },
+          {
+            "id": "l_12_4",
+            "question": "What item is available in plenty?",
+            "answer": "Engine oil",
+            "options": ["Coolant", "Spark plug", "Engine oil"]
+          },
+          {
+            "id": "l_12_5",
+            "question": "When does the supplier usually deliver?",
+            "answer": "Before 10 a.m.",
+            "options": ["Before 10 p.m.", "Before 10 a.m.", "After lunch"]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_5_1",
+          "text": "Good morning, Lakshan Auto Parts Traders.",
+          "audio": "assets/audio/t_5_1.mp3"
+        },
+        {
+          "id": "t_5_2",
+          "text": "This is Ruwan speaking. How can I help you today?",
+          "audio": "assets/audio/t_5_2.mp3"
+        },
+        {
+          "id": "t_5_3",
+          "text": "Good morning, Ruwan. This is Nimal from Horizon Motors in Kandy.",
+          "audio": "assets/audio/t_5_3.mp3"
+        },
+        {
+          "id": "t_5_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
+          "audio": "assets/audio/t_5_4.mp3"
+        },
+        {
+          "id": "t_5_5",
+          "text": "Certainly, sir. I’m at the system right now.",
+          "audio": "assets/audio/t_5_5.mp3"
+        },
+        {
+          "id": "t_5_6",
+          "text": "What would you like to order?",
+          "audio": "assets/audio/t_5_6.mp3"
+        },
+        {
+          "id": "t_5_7",
+          "text": "First, I need ten engine oil filters.",
+          "audio": "assets/audio/t_5_7.mp3"
+        },
+        {
+          "id": "t_5_8",
+          "text": "We change them every day during our morning services.",
+          "audio": "assets/audio/t_5_8.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_10",
+          "text": "I’m going to prepare ten oil filters for you.",
+          "audio": "assets/audio/t_5_10.mp3"
+        },
+        {
+          "id": "t_5_11",
+          "text": "Great. I also need two sets of brake pads for Japanese cars.",
+          "audio": "assets/audio/t_5_11.mp3"
+        },
+        {
+          "id": "t_5_12",
+          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
+          "audio": "assets/audio/t_5_12.mp3"
+        },
+        {
+          "id": "t_5_13",
+          "text": "But we might receive a new shipment this afternoon.",
+          "audio": "assets/audio/t_5_13.mp3"
+        },
+        {
+          "id": "t_5_14",
+          "text": "If it arrives, I’m going to pack two full sets.",
+          "audio": "assets/audio/t_5_14.mp3"
+        },
+        {
+          "id": "t_5_15",
+          "text": "How many do you absolutely need for tomorrow?",
+          "audio": "assets/audio/t_5_15.mp3"
+        },
+        {
+          "id": "t_5_16",
+          "text": "At least one set. Two is perfect.",
+          "audio": "assets/audio/t_5_16.mp3"
+        },
+        {
+          "id": "t_5_17",
+          "text": "Understood. I’ll reserve one and try to arrange the second.",
+          "audio": "assets/audio/t_5_17.mp3"
+        },
+        {
+          "id": "t_5_18",
+          "text": "Next, I need five litres of coolant.",
+          "audio": "assets/audio/t_5_18.mp3"
+        },
+        {
+          "id": "t_5_19",
+          "text": "Coolant is available right now.",
+          "audio": "assets/audio/t_5_19.mp3"
+        },
+        {
+          "id": "t_5_20",
+          "text": "I’m going to add five litres to your list.",
+          "audio": "assets/audio/t_5_20.mp3"
+        },
+        {
+          "id": "t_5_21",
+          "text": "And eight spark plugs—NGK if possible.",
+          "audio": "assets/audio/t_5_21.mp3"
+        },
+        {
+          "id": "t_5_22",
+          "text": "NGK is in high demand.",
+          "audio": "assets/audio/t_5_22.mp3"
+        },
+        {
+          "id": "t_5_23",
+          "text": "We only have six plugs left.",
+          "audio": "assets/audio/t_5_23.mp3"
+        },
+        {
+          "id": "t_5_24",
+          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
+          "audio": "assets/audio/t_5_24.mp3"
+        },
+        {
+          "id": "t_5_25",
+          "text": "Please keep the six for me.",
+          "audio": "assets/audio/t_5_25.mp3"
+        },
+        {
+          "id": "t_5_26",
+          "text": "If you get more, I’m going to take all eight.",
+          "audio": "assets/audio/t_5_26.mp3"
+        },
+        {
+          "id": "t_5_27",
+          "text": "Noted, sir. Anything else?",
+          "audio": "assets/audio/t_5_27.mp3"
+        },
+        {
+          "id": "t_5_28",
+          "text": "Yes, 20 litres of engine oil, synthetic grade.",
+          "audio": "assets/audio/t_5_28.mp3"
+        },
+        {
+          "id": "t_5_29",
+          "text": "We have plenty of synthetic oil.",
+          "audio": "assets/audio/t_5_29.mp3"
+        },
+        {
+          "id": "t_5_30",
+          "text": "Would you like 5W-30 or 10W-30?",
+          "audio": "assets/audio/t_5_30.mp3"
+        },
+        {
+          "id": "t_5_31",
+          "text": "5W-30, please.",
+          "audio": "assets/audio/t_5_31.mp3"
+        },
+        {
+          "id": "t_5_32",
+          "text": "We usually deliver before 10 a.m.",
+          "audio": "assets/audio/t_5_32.mp3"
+        },
+        {
+          "id": "t_5_33",
+          "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
+          "audio": "assets/audio/t_5_33.mp3"
+        },
+        {
+          "id": "t_5_34",
+          "text": "Excellent. Thank you, Ruwan.",
+          "audio": "assets/audio/t_5_34.mp3"
+        },
+        {
+          "id": "t_5_35",
+          "text": "My pleasure, sir. Have a good day!",
+          "audio": "assets/audio/t_5_35.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_5_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
+          "audio": "assets/audio/t_5_4.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_10",
+          "text": "I’m going to prepare ten oil filters for you.",
+          "audio": "assets/audio/t_5_10.mp3"
+        },
+        {
+          "id": "t_5_11",
+          "text": "Great. I also need two sets of brake pads for Japanese cars.",
+          "audio": "assets/audio/t_5_11.mp3"
+        },
+        {
+          "id": "t_5_12",
+          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
+          "audio": "assets/audio/t_5_12.mp3"
+        },
+        {
+          "id": "t_5_13",
+          "text": "But we might receive a new shipment this afternoon.",
+          "audio": "assets/audio/t_5_13.mp3"
+        },
+        {
+          "id": "t_5_14",
+          "text": "If it arrives, I’m going to pack two full sets.",
+          "audio": "assets/audio/t_5_14.mp3"
+        },
+        {
+          "id": "t_5_15",
+          "text": "How many do you absolutely need for tomorrow?",
+          "audio": "assets/audio/t_5_15.mp3"
+        },
+        {
+          "id": "t_5_23",
+          "text": "We only have six plugs left.",
+          "audio": "assets/audio/t_5_23.mp3"
+        },
+        {
+          "id": "t_5_24",
+          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
+          "audio": "assets/audio/t_5_24.mp3"
+        },
+        {
+          "id": "t_5_33",
+          "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
+          "audio": "assets/audio/t_5_33.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_5_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
+          "audio": "assets/audio/t_5_4.mp3"
+        },
+        {
+          "id": "t_5_9",
+          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
+          "audio": "assets/audio/t_5_9.mp3"
+        },
+        {
+          "id": "t_5_10",
+          "text": "I’m going to prepare ten oil filters for you.",
+          "audio": "assets/audio/t_5_10.mp3"
+        },
+        {
+          "id": "t_5_11",
+          "text": "Great. I also need two sets of brake pads for Japanese cars.",
+          "audio": "assets/audio/t_5_11.mp3"
+        },
+        {
+          "id": "t_5_12",
+          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
+          "audio": "assets/audio/t_5_12.mp3"
+        },
+        {
+          "id": "t_5_13",
+          "text": "But we might receive a new shipment this afternoon.",
+          "audio": "assets/audio/t_5_13.mp3"
+        },
+        {
+          "id": "t_5_14",
+          "text": "If it arrives, I’m going to pack two full sets.",
+          "audio": "assets/audio/t_5_14.mp3"
+        },
+        {
+          "id": "t_5_15",
+          "text": "How many do you absolutely need for tomorrow?",
+          "audio": "assets/audio/t_5_15.mp3"
+        },
+        {
+          "id": "t_5_23",
+          "text": "We only have six plugs left.",
+          "audio": "assets/audio/t_5_23.mp3"
+        },
+        {
+          "id": "t_5_24",
+          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
+          "audio": "assets/audio/t_5_24.mp3"
+        },
+        {
+          "id": "t_5_33",
+          "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
+          "audio": "assets/audio/t_5_33.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
