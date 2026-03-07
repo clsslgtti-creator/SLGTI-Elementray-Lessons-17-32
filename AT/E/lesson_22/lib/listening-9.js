@@ -46,8 +46,7 @@ const waitMs = (duration, { signal } = {}) =>
     }, duration);
   });
 
-const trimString = (value) =>
-  typeof value === "string" ? value.trim() : "";
+const trimString = (value) => (typeof value === "string" ? value.trim() : "");
 
 const normalizeValue = (value) => {
   const trimmed = trimString(value);
@@ -121,8 +120,8 @@ const normalizeComprehensionData = (raw = {}) => {
   const rawQuestions = Array.isArray(raw?.Questions)
     ? raw.Questions
     : Array.isArray(raw?.questions)
-    ? raw.questions
-    : [];
+      ? raw.questions
+      : [];
 
   const questions = rawQuestions
     .map((question, index) => {
@@ -183,15 +182,24 @@ const normalizeMatchingPairs = (raw = []) => {
       const count = idCounts.get(baseId) ?? 0;
       idCounts.set(baseId, count + 1);
       const id = count > 0 ? `${baseId}_${count + 1}` : baseId;
-      const itemA = trimString(entry?.item_a) || trimString(entry?.itemA);
-      const itemB = trimString(entry?.item_b) || trimString(entry?.itemB);
-      if (!itemA || !itemB) {
+      const word =
+        trimString(entry?.word) ||
+        trimString(entry?.item_a) ||
+        trimString(entry?.itemA) ||
+        trimString(entry?.label) ||
+        trimString(entry?.text);
+      const image =
+        trimString(entry?.image) ||
+        trimString(entry?.img) ||
+        trimString(entry?.item_b) ||
+        trimString(entry?.itemB);
+      if (!word || !image) {
         return null;
       }
       return {
         id,
-        itemA,
-        itemB,
+        word,
+        image,
       };
     })
     .filter(Boolean);
@@ -255,6 +263,11 @@ const buildMatchingSlide = (data = {}, context = {}) => {
   buildHeading(slide, `${activityLabel}${subActivitySuffix}`);
   ensureInstructionAnchor(slide);
   maybeInsertFocus(slide, activityFocus, includeFocus);
+  const instructionEl = slide.querySelector(".slide__instruction");
+  if (instructionEl) {
+    instructionEl.textContent =
+      "Listen to the recording twice. Drag each word to the matching picture, then click Submit to check.";
+  }
 
   const items = normalizeMatchingPairs(data?.content);
 
@@ -277,12 +290,19 @@ const buildMatchingSlide = (data = {}, context = {}) => {
   const controls = document.createElement("div");
   controls.className = "slide__controls";
 
+  const playBtn = document.createElement("button");
+  playBtn.type = "button";
+  playBtn.className = "primary-btn";
+  playBtn.textContent = "Start";
+
+  const status = createStatus();
+
   const resetBtn = document.createElement("button");
   resetBtn.type = "button";
   resetBtn.className = "secondary-btn";
   resetBtn.textContent = "Reset";
 
-  controls.append(resetBtn);
+  controls.append(playBtn, status, resetBtn);
   slide.appendChild(controls);
 
   const layout = document.createElement("div");
@@ -303,6 +323,23 @@ const buildMatchingSlide = (data = {}, context = {}) => {
 
   slide.appendChild(layout);
 
+  const actions = document.createElement("div");
+  actions.className = "listening-mcq-actions";
+
+  const submitBtn = document.createElement("button");
+  submitBtn.type = "button";
+  submitBtn.className = "primary-btn listening-check-btn";
+  submitBtn.textContent = "Submit";
+  submitBtn.disabled = true;
+
+  const checkHint = document.createElement("span");
+  checkHint.className = "listening-check-hint";
+  checkHint.textContent =
+    "Please listen to the recording twice to submit the answers.";
+
+  actions.append(submitBtn, checkHint);
+  slide.appendChild(actions);
+
   const placements = new Map();
   const dropzones = [];
 
@@ -311,12 +348,20 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     card.className = "word-match-sentence";
 
     const title = document.createElement("h3");
-    title.textContent = `Pair ${index + 1}`;
+    title.textContent = `Picture ${index + 1}`;
     card.appendChild(title);
 
-    const body = document.createElement("p");
-    body.textContent = entry.itemB;
-    card.appendChild(body);
+    const media = document.createElement("div");
+    media.className = "word-match-media";
+    const img = document.createElement("img");
+    img.src = entry.image;
+    img.alt = "Matching picture";
+    img.loading = "lazy";
+    img.style.width = "100%";
+    img.style.height = "auto";
+    img.style.objectFit = "contain";
+    media.appendChild(img);
+    card.appendChild(media);
 
     const zone = document.createElement("div");
     zone.className = "word-match-dropzone";
@@ -342,7 +387,7 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     card.className = "word-match-card";
     card.dataset.itemId = entry.id;
     card.dataset.assignedZone = "";
-    card.textContent = entry.itemA;
+    card.textContent = entry.word;
     return card;
   };
 
@@ -355,12 +400,48 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     feedbackEl.classList.remove(
       "listening-feedback--positive",
       "listening-feedback--negative",
-      "listening-feedback--neutral"
+      "listening-feedback--neutral",
     );
     feedbackEl.classList.add(`listening-feedback--${variant}`);
   };
 
-  let evaluationShown = false;
+  let playbackCount = 0;
+  let playbackController = null;
+  let secondPlaybackTimer = null;
+  let secondPlaybackCountdownInterval = null;
+  let secondPlaybackRemaining = 0;
+  let isPlaying = false;
+  let answersChecked = false;
+
+  const areAllPlaced = () =>
+    dropzones.length > 0 &&
+    dropzones.every((zone) => placements.has(zone.dataset.zoneId));
+
+  const updateButtonState = () => {
+    if (!data?.audio) {
+      playBtn.disabled = true;
+      playBtn.textContent = "Audio unavailable";
+    } else if (isPlaying) {
+      playBtn.disabled = true;
+      playBtn.textContent =
+        playbackCount > 0 ? "Replaying audio..." : "Playing...";
+    } else if (playbackCount >= 2) {
+      playBtn.disabled = true;
+      playBtn.textContent = "Playback finished";
+    } else {
+      playBtn.disabled = false;
+      playBtn.textContent = "Start";
+    }
+
+    submitBtn.disabled =
+      answersChecked ||
+      isPlaying ||
+      playbackCount < 2 ||
+      !areAllPlaced() ||
+      !items.length;
+  };
+
+  updateButtonState();
 
   const markZoneState = (zone, cardEl) => {
     if (!zone) {
@@ -422,19 +503,40 @@ const buildMatchingSlide = (data = {}, context = {}) => {
   };
 
   const clearEvaluationState = () => {
-    evaluationShown = false;
-    updateFeedback("Drag each word to the matching definition.", "neutral");
+    answersChecked = false;
+    updateFeedback("Drag each word to the matching picture.", "neutral");
     dropzones.forEach((zone) =>
-      zone.classList.remove("is-correct", "is-incorrect")
+      zone.classList.remove("is-correct", "is-incorrect"),
     );
     cards.forEach((card) =>
-      card.classList.remove("is-correct", "is-incorrect")
+      card.classList.remove("is-correct", "is-incorrect"),
     );
+  };
+
+  const setInteractionsEnabled = (enabled) => {
+    const $ = window.jQuery;
+    if (!$ || !$.fn?.draggable || !$.fn?.droppable) {
+      return;
+    }
+    cards.forEach((card) => {
+      if ($(card).data("uiDraggable")) {
+        $(card).draggable(enabled ? "enable" : "disable");
+      }
+    });
+    dropzones.forEach((zone) => {
+      if ($(zone).data("uiDroppable")) {
+        $(zone).droppable(enabled ? "enable" : "disable");
+      }
+    });
+    if ($(wordsColumn).data("uiDroppable")) {
+      $(wordsColumn).droppable(enabled ? "enable" : "disable");
+    }
   };
 
   const resetMatching = () => {
     placements.clear();
     clearEvaluationState();
+    setInteractionsEnabled(true);
     dropzones.forEach((zone) => {
       zone.classList.remove("is-filled");
       const placeholder = zone.querySelector(".word-match-placeholder");
@@ -453,9 +555,18 @@ const buildMatchingSlide = (data = {}, context = {}) => {
       resetCardPosition(card);
       wordsColumn.appendChild(card);
     });
+    updateButtonState();
   };
 
   const evaluatePlacements = () => {
+    if (answersChecked || playbackCount < 2 || isPlaying) {
+      return;
+    }
+    if (!areAllPlaced()) {
+      updateFeedback("Place all words before submitting.", "negative");
+      return;
+    }
+    answersChecked = true;
     let correctCount = 0;
     dropzones.forEach((zone) => {
       const cardEl = placements.get(zone.dataset.zoneId);
@@ -465,31 +576,24 @@ const buildMatchingSlide = (data = {}, context = {}) => {
       }
     });
 
-    evaluationShown = true;
     if (correctCount === dropzones.length) {
       updateFeedback("Great job! Every pair matches.", "positive");
       showCompletionModal({
         title: "Excellent!",
-        message: "You matched each word with the correct definition.",
+        message: "You matched each word with the correct picture.",
       });
     } else {
       updateFeedback(
-        `You matched ${correctCount} of ${dropzones.length}. Adjust the red cards to try again.`,
-        "negative"
+        `You matched ${correctCount} of ${dropzones.length}.`,
+        "negative",
       );
     }
-  };
-
-  const checkForCompletion = () => {
-    const filled = dropzones.every((zone) =>
-      placements.has(zone.dataset.zoneId)
-    );
-    if (filled) {
-      evaluatePlacements();
-    }
+    setInteractionsEnabled(false);
+    updateButtonState();
   };
 
   resetBtn.addEventListener("click", () => resetMatching());
+  submitBtn.addEventListener("click", () => evaluatePlacements());
 
   let interactionsReady = false;
 
@@ -510,9 +614,6 @@ const buildMatchingSlide = (data = {}, context = {}) => {
       containment: slide,
       start() {
         $(this).addClass("is-active");
-        if (evaluationShown) {
-          clearEvaluationState();
-        }
       },
       stop() {
         $(this).removeClass("is-active");
@@ -552,8 +653,15 @@ const buildMatchingSlide = (data = {}, context = {}) => {
         cardEl.dataset.assignedZone = zoneId;
         zoneEl.classList.add("is-filled");
         placements.set(zoneId, cardEl);
-        markZoneState(zoneEl, cardEl);
-        checkForCompletion();
+        if (!answersChecked) {
+          if (areAllPlaced() && playbackCount >= 2) {
+            updateFeedback(
+              "All words placed. Click Submit to check.",
+              "neutral",
+            );
+          }
+        }
+        updateButtonState();
       },
     });
 
@@ -568,21 +676,140 @@ const buildMatchingSlide = (data = {}, context = {}) => {
         detachFromZone(cardEl);
         resetCardPosition(cardEl);
         wordsColumn.appendChild(cardEl);
+        updateButtonState();
       },
     });
   };
+
+  const clearPlaybackTimers = () => {
+    if (secondPlaybackTimer !== null) {
+      window.clearTimeout(secondPlaybackTimer);
+      secondPlaybackTimer = null;
+    }
+    if (secondPlaybackCountdownInterval !== null) {
+      window.clearInterval(secondPlaybackCountdownInterval);
+      secondPlaybackCountdownInterval = null;
+    }
+    secondPlaybackRemaining = 0;
+  };
+
+  const scheduleSecondPlayback = () => {
+    if (playbackCount < 1 || playbackCount >= 2) {
+      return;
+    }
+    clearPlaybackTimers();
+
+    secondPlaybackRemaining = 20;
+    const updateStatus = () => {
+      status.textContent = `Second playback starts in ${secondPlaybackRemaining}s. Click play to listen sooner.`;
+    };
+
+    updateStatus();
+    playBtn.disabled = false;
+
+    secondPlaybackTimer = window.setTimeout(() => {
+      clearPlaybackTimers();
+      beginPlayback();
+    }, secondPlaybackRemaining * 1000);
+
+    secondPlaybackCountdownInterval = window.setInterval(() => {
+      secondPlaybackRemaining -= 1;
+      if (secondPlaybackRemaining <= 0) {
+        clearPlaybackTimers();
+        return;
+      }
+      updateStatus();
+    }, 1000);
+  };
+
+  const beginPlayback = async () => {
+    const audioUrl = trimString(data?.audio);
+    if (!audioUrl) {
+      status.textContent = "Audio not available.";
+      updateButtonState();
+      return;
+    }
+
+    if (playbackCount >= 2) {
+      status.textContent = "You have already listened twice.";
+      updateButtonState();
+      return;
+    }
+
+    clearPlaybackTimers();
+    playbackController?.abort();
+    playbackController = new AbortController();
+    const { signal } = playbackController;
+
+    const passIndex = playbackCount + 1;
+    isPlaying = true;
+    status.textContent = passIndex === 1 ? "Playing..." : "Replaying audio...";
+    updateButtonState();
+
+    audioManager.stopAll();
+
+    try {
+      await audioManager.play(audioUrl, { signal });
+      if (signal.aborted) {
+        status.textContent = "Playback stopped.";
+        return;
+      }
+      playbackCount += 1;
+      if (playbackCount >= 2) {
+        status.textContent = "You have listened twice. Check your answers.";
+        if (!answersChecked) {
+          if (areAllPlaced()) {
+            updateFeedback(
+              "All words placed. Click Submit to check.",
+              "neutral",
+            );
+          } else {
+            updateFeedback(
+              "Drag each word to the matching picture.",
+              "neutral",
+            );
+          }
+        }
+      } else {
+        scheduleSecondPlayback();
+        updateFeedback("Listen once more before submitting.", "neutral");
+      }
+    } catch (error) {
+      if (!signal.aborted) {
+        console.error(error);
+        status.textContent = "Unable to play audio.";
+      }
+    } finally {
+      playbackController = null;
+      isPlaying = false;
+      updateButtonState();
+    }
+  };
+
+  playBtn.addEventListener("click", () => {
+    beginPlayback();
+  });
 
   const onEnter = () => {
     setupInteractions();
   };
 
   const onLeave = () => {
+    clearPlaybackTimers();
+    playbackController?.abort();
+    playbackController = null;
+    audioManager.stopAll();
+    playbackCount = 0;
+    isPlaying = false;
+    answersChecked = false;
+    status.textContent = "";
     resetMatching();
   };
 
   const suffixSegment = subActivityLetter ? `-${subActivityLetter}` : "";
 
-  resetMatching();
+  clearEvaluationState();
+  updateButtonState();
 
   return {
     id: activityNumber
@@ -624,7 +851,8 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
   } = context;
 
   const slide = document.createElement("section");
-  slide.className = "slide slide--listening listening-slide listening-slide--mcq";
+  slide.className =
+    "slide slide--listening listening-slide listening-slide--mcq";
   buildHeading(slide, `${activityLabel}${subActivitySuffix}`);
   ensureInstructionAnchor(slide);
   maybeInsertFocus(slide, activityFocus, includeFocus);
@@ -863,18 +1091,16 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
       });
 
       const selectedButton = entry.buttons.find(
-        (button) => button.dataset.optionNormalized === selectedNormalized
+        (button) => button.dataset.optionNormalized === selectedNormalized,
       );
       const correctButton = entry.buttons.find(
         (button) =>
-          button.dataset.optionNormalized === entry.question.answerNormalized
+          button.dataset.optionNormalized === entry.question.answerNormalized,
       );
 
       if (selectedButton) {
         selectedButton.classList.add("is-selected");
-        selectedButton.classList.add(
-          isCorrect ? "is-correct" : "is-incorrect"
-        );
+        selectedButton.classList.add(isCorrect ? "is-correct" : "is-incorrect");
       }
 
       correctButton?.classList.add("is-correct");
@@ -883,7 +1109,7 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
       entry.feedback.classList.remove(
         "listening-feedback--positive",
         "listening-feedback--negative",
-        "listening-feedback--neutral"
+        "listening-feedback--neutral",
       );
 
       if (!selectedNormalized) {
@@ -919,7 +1145,7 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
         const normalized = button.dataset.optionNormalized || "";
         entry.selectedNormalized = normalized;
         entry.buttons.forEach((btn) =>
-          btn.classList.remove("is-selected", "is-correct", "is-incorrect")
+          btn.classList.remove("is-selected", "is-correct", "is-incorrect"),
         );
         button.classList.add("is-selected");
         entry.card.classList.remove("is-correct", "is-incorrect");
@@ -964,11 +1190,7 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
       entry.feedback.className = "listening-feedback";
       entry.buttons.forEach((button) => {
         button.disabled = false;
-        button.classList.remove(
-          "is-selected",
-          "is-correct",
-          "is-incorrect"
-        );
+        button.classList.remove("is-selected", "is-correct", "is-incorrect");
       });
       entry.card.classList.remove("is-correct", "is-incorrect");
     });
@@ -1006,7 +1228,7 @@ const createSequencedTextSlide = (
     presentation = "cards",
     groupedEntries = false,
     groupLabel = "Set",
-  } = {}
+  } = {},
 ) => {
   const {
     activityLabel = "Activity",
@@ -1033,8 +1255,8 @@ const createSequencedTextSlide = (
     instructionEl.textContent = isRepeatMode
       ? "Listen and repeat each sentence."
       : isReadMode
-      ? "Read along with the audio."
-      : "Listen to each sentence.";
+        ? "Read along with the audio."
+        : "Listen to each sentence.";
   }
 
   const controls = document.createElement("div");
@@ -1238,15 +1460,15 @@ const createSequencedTextSlide = (
         const item = entries[index];
 
         const segments = groupedEntries
-          ? item.segments ?? []
+          ? (item.segments ?? [])
           : item.entry?.audio
-          ? [
-              {
-                audio: item.entry.audio,
-                element: item.line,
-              },
-            ]
-          : [];
+            ? [
+                {
+                  audio: item.entry.audio,
+                  element: item.line,
+                },
+              ]
+            : [];
 
         if (!segments.length) {
           continue;
@@ -1290,14 +1512,10 @@ const createSequencedTextSlide = (
             const timingMode = isReadMode
               ? "read"
               : isRepeatMode
-              ? "listen-repeat"
-              : "listen";
+                ? "listen-repeat"
+                : "listen";
             const timingOptions = isRepeatMode ? { repeatPauseMs } : undefined;
-            gapMs = computeSegmentGapMs(
-              timingMode,
-              duration,
-              timingOptions
-            );
+            gapMs = computeSegmentGapMs(timingMode, duration, timingOptions);
           } catch (error) {
             console.error(error);
           }
@@ -1390,10 +1608,13 @@ const createSequencedTextSlide = (
     autoTriggered = true;
     slide._autoTriggered = true;
     clearAutoStart();
-    pendingAutoStart = window.setTimeout(() => {
-      pendingAutoStart = null;
-      runSequence();
-    }, Math.max(0, autoDelayMs));
+    pendingAutoStart = window.setTimeout(
+      () => {
+        pendingAutoStart = null;
+        runSequence();
+      },
+      Math.max(0, autoDelayMs),
+    );
   };
 
   startBtn.addEventListener("click", () => {
@@ -1422,9 +1643,7 @@ const createSequencedTextSlide = (
     status.textContent = "";
   };
 
-  const suffixSegment = subActivityLetter
-    ? `-${subActivityLetter}`
-    : "";
+  const suffixSegment = subActivityLetter ? `-${subActivityLetter}` : "";
 
   return {
     id: activityNumber
@@ -1450,12 +1669,12 @@ export const buildListeningNineSlides = (activityData = {}, context = {}) => {
   const activityFocus = trimString(rawFocus);
 
   const comprehensionData = normalizeComprehensionData(
-    activityData?.content?.activity_b
+    activityData?.content?.activity_b,
   );
   const listenItems = normalizeLineItems(activityData?.content?.activity_c);
   const repeatItems = normalizeLineItems(activityData?.content?.activity_d);
   const readAlongItems = normalizeActivityDGroups(
-    activityData?.content?.activity_e
+    activityData?.content?.activity_e,
   );
 
   const baseContext = {
@@ -1469,11 +1688,11 @@ export const buildListeningNineSlides = (activityData = {}, context = {}) => {
   const slides = [
     buildMatchingSlide(
       activityData?.content?.activity_a,
-      createSubActivityContext(baseContext, "a", Boolean(activityFocus))
+      createSubActivityContext(baseContext, "a", Boolean(activityFocus)),
     ),
     buildComprehensionSlide(
       comprehensionData,
-      createSubActivityContext(baseContext, "b")
+      createSubActivityContext(baseContext, "b"),
     ),
     createSequencedTextSlide(
       listenItems,
@@ -1485,12 +1704,12 @@ export const buildListeningNineSlides = (activityData = {}, context = {}) => {
         layout: "single-column",
         showLineNumbers: false,
         presentation: "paragraph",
-      }
+      },
     ),
     createSequencedTextSlide(
       repeatItems,
       createSubActivityContext(baseContext, "d"),
-      { mode: "listen-repeat", autoDelayMs: 5000, repeatPauseMs }
+      { mode: "listen-repeat", autoDelayMs: 5000, repeatPauseMs },
     ),
     createSequencedTextSlide(
       readAlongItems,
@@ -1502,7 +1721,7 @@ export const buildListeningNineSlides = (activityData = {}, context = {}) => {
         groupedEntries: true,
         groupLabel: "Set",
         showLineNumbers: false,
-      }
+      },
     ),
   ];
 

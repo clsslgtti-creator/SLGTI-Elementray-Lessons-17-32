@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "He opened the door carefully a few minutes ago.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
@@ -102,7 +102,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
+        "img": "assets/img/a_2_d_1.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "I baked cupcakes all day.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
@@ -110,7 +110,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.jpeg",
+        "img": "assets/img/a_2_d_2.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "I served vegetarian meals all day.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
@@ -118,7 +118,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
+        "img": "assets/img/a_2_d_3.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "I fixed motor bikes all day.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
@@ -128,39 +128,39 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.jpeg",
+        "image": "assets/img/a_2_d_4.png",
         "word": "watched training videos"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_5.jpeg",
+        "image": "assets/img/a_2_d_5.png",
         "word": "listened to interviews"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.jpeg",
+        "image": "assets/img/a_2_d_6.png",
         "word": "studied our notes"
       },
       {
         "id": "k_4",
-        "image": "assets/img/a_2_d_7.jpeg",
+        "image": "assets/img/a_2_d_7.png",
         "word": "waited at the service centre"
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_8.jpeg",
+        "image": "assets/img/a_2_d_8.png",
         "word": "cried"
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_9.jpeg",
+        "image": "assets/img/a_2_d_9.png",
         "word": "played cricket"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.jpeg",
+        "img": "assets/img/a_2_d_4.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "I watched training videos all day.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
@@ -168,7 +168,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
+        "img": "assets/img/a_2_d_5.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "I listened to interviews all day.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
@@ -176,7 +176,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "We studied our notes all day.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
@@ -184,7 +184,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "We waited at the service centre all day.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
@@ -192,7 +192,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.jpeg",
+        "img": "assets/img/a_2_d_8.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "We cried all day.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
@@ -200,7 +200,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.jpeg",
+        "img": "assets/img/a_2_d_9.png",
         "text_a": "You look very tired. What did you do yesterday?",
         "text_b": "I played cricket all day.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
@@ -433,7 +433,7 @@
     "instructions": {
       "activity_a": {
         "text": "Listen to the recording and match the words to the  pictures. \nපටිගත කිරීම අසන්න සහ වචන පින්තූර සමඟ ගැලපෙන්න.\nபதிவை கேட்டு, சொற்களை படங்களுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "audio": "assets/audio/a_4_i_i.mp3"
       },
       "activity_b": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
@@ -459,32 +459,32 @@
           {
             "id": "n_4_a_1",
             "word": "Bent hinges",
-            "image": "assets/img/a_4_1_1.jpeg"
+            "image": "assets/img/a_4_1_1.png"
           },
           {
             "id": "n_4_a_2",
             "word": "Blurry display",
-            "image": "assets/img/a_4_1_2.jpeg"
+            "image": "assets/img/a_4_1_2.png"
           },
           {
             "id": "n_4_a_3",
             "word": "Loose belt",
-            "image": "assets/img/a_4_1_3.jpeg"
+            "image": "assets/img/a_4_1_3.png"
           },
           {
             "id": "n_4_a_4",
             "word": "Missing screw",
-            "image": "assets/img/a_4_1_4.jpeg"
+            "image": "assets/img/a_4_1_4.png"
           },
           {
             "id": "n_4_a_5",
             "word": "Unstable rack",
-            "image": "assets/img/a_4_1_5.jpeg"
+            "image": "assets/img/a_4_1_5.png"
           },
           {
             "id": "n_4_a_6",
             "word": "Dusty motor",
-            "image": "assets/img/a_4_1_6.jpeg"
+            "image": "assets/img/a_4_1_6.png"
           }
         ]
       },
@@ -492,341 +492,311 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_10_1",
-            "question": "Why can’t they start the engine tuning today?",
-            "answer": "The senior technicians are busy with urgent tasks that can’t be stopped.",
+            "id": "l_13_1",
+            "question": "Why was the alternator tester making a strange sound?",
+            "answer": "The drive belt was loose.",
             "options": [
-              "The senior technicians are already working on the hybrid car.",
-              "The parts are missing for engine tuning.",
-              "The senior technicians are busy with urgent tasks that can’t be stopped."
+              "The motor was burnt.",
+              "The drive belt was loose.",
+              "The drive belt was very loose."
             ]
           },
           {
-            "id": "l_10_2",
-            "question": "What is Arun working on?",
-            "answer": "The brake-bleeding system of a blue van.",
+            "id": "l_13_2",
+            "question": "Why is the tool cabinet door not closing properly?",
+            "answer": "A hinge was bent.",
             "options": [
-              "The brake-bleeding system of a blue van.",
-              "The brake-bleeding system of a black SUV.",
-              "The wheel alignment of a red sedan."
+              "The handle fell off.",
+              "All the hinges were bent.",
+              "A hinge was bent."
             ]
           },
           {
-            "id": "l_10_3",
-            "question": "Why is Thilan’s job urgent?",
-            "answer": "Interrupting the ECU update can crash the system.",
+            "id": "l_13_3",
+            "question": "What problem did the storage rack have?",
+            "answer": "It was unstable and a screw was missing.",
             "options": [
-              "He must finish the ECU update before the customer returns.",
-              "Interrupting the ECU update can crash the system.",
-              "Updating the ECU can crash the ECU system."
+              "It was overloaded with parts.",
+              "It was unstable because all the screws were missing.",
+              "It was unstable and a screw was missing."
             ]
           },
           {
-            "id": "l_10_4",
-            "question": "Why can’t junior mechanics calibrate the throttle body?",
-            "answer": "They don’t know how to set sensor readings properly.",
+            "id": "l_13_4",
+            "question": "Why is the compressor display still unclear?",
+            "answer": "The display bulb might be failing.",
             "options": [
-              "They always calibrate it incorrectly.",
-              "They don’t know how to set sensor readings properly.",
-              "They can open it, but they can’t calibrate the idle level and sensor readings."
+              "The display bulb might be failing.",
+              "The display bulb might be broken.",
+              "The numbers were painted over."
             ]
           },
           {
-            "id": "l_10_5",
-            "question": "Why must the engine tuning be postponed?",
-            "answer": "To avoid malfunctioning of the hybrid system due to lack of skilled technicians.",
+            "id": "l_13_5",
+            "question": "Why was the tyre inflator shaking?",
+            "answer": "The motor was dusty.",
             "options": [
-              "Because they have to check the fault alternator first.",
-              "Because the customer wants it tomorrow.",
-              "To avoid malfunctioning of the hybrid system due to lack of skilled technicians."
+              "The belt snapped.",
+              "The motor was dusty.",
+              "The bearings were dusty."
             ]
           }
         ]
       },
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_11_1",
+          "text": "Good morning, sir. The workshop floor is a bit noisy today.",
+          "audio": "assets/audio/t_11_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_11_2",
+          "text": "I think the alternator testing unit is making a strange whirring sound.",
+          "audio": "assets/audio/t_11_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "Can you begin the tuning right now?",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_11_3",
+          "text": "Morning, Kasun. I’ve been checking the machines since early morning.",
+          "audio": "assets/audio/t_11_3.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_11_4",
+          "text": "When I checked that tester, the drive belt was a little loose.",
+          "audio": "assets/audio/t_11_4.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "We can’t start it today.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_11_5",
+          "text": "I tightened it, but it is still making a light vibration.",
+          "audio": "assets/audio/t_11_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "Why not?",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_11_6",
+          "text": "I also noticed the tool cabinet yesterday.",
+          "audio": "assets/audio/t_11_6.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "The spark plugs, fuel injectors, and air filters arrived early this morning.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_11_7",
+          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
+          "audio": "assets/audio/t_11_7.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "Everything should be ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_11_8",
+          "text": "Yes, one of the hinges was bent.",
+          "audio": "assets/audio/t_11_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "Yes, sir, all the parts are here.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_11_9",
+          "text": "I adjusted it, but we might need to replace the whole hinge later.",
+          "audio": "assets/audio/t_11_9.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "But two senior technicians and one mechanic can't start the tuning.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_11_10",
+          "text": "Can you also look at the storage rack?",
+          "audio": "assets/audio/t_11_10.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_11_11",
+          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_11_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Who exactly are they?",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_11_12",
+          "text": "I inspected it.",
+          "audio": "assets/audio/t_11_12.mp3"
         },
         {
-          "id": "t_1_13",
-          "text": "Arun, Thilan, and Kareem.",
-          "audio": "assets/audio/t_1_13.mp3"
+          "id": "t_11_13",
+          "text": "One support screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_11_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "They are our main diagnostic technicians.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_11_14",
+          "text": "But the frame was unstable for a long time.",
+          "audio": "assets/audio/t_11_14.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_11_15",
+          "text": "We might need a new rack.",
+          "audio": "assets/audio/t_11_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_11_16",
+          "text": "Another issue, the air compressor temperature display was blurry last night.",
+          "audio": "assets/audio/t_11_16.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Thilan is updating the ECU software of the black SUV; if he interrupts the update, the system can crash.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_11_17",
+          "text": "We cleaned the panel, but the numbers are still unclear.",
+          "audio": "assets/audio/t_11_17.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_11_18",
+          "text": "I tested the wiring.",
+          "audio": "assets/audio/t_11_18.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_11_19",
+          "text": "Everything was fine, but the display bulb might be failing.",
+          "audio": "assets/audio/t_11_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Can the junior mechanics at least clean the throttle body?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_11_20",
+          "text": "I ordered a replacement.",
+          "audio": "assets/audio/t_11_20.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_11_21",
+          "text": "Good. This morning the tyre inflator was shaking badly.",
+          "audio": "assets/audio/t_11_21.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_11_22",
+          "text": "When I opened the cover, the motor was dusty.",
+          "audio": "assets/audio/t_11_22.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "What about the battery technician?",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_11_23",
+          "text": "Yes, the motor was dusty, so I cleaned it.",
+          "audio": "assets/audio/t_11_23.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "Can he help with anything?",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_11_24",
+          "text": "But I will inspect the bearings after tea.",
+          "audio": "assets/audio/t_11_24.mp3"
         },
         {
-          "id": "t_1_25",
-          "text": "No, sir.",
-          "audio": "assets/audio/t_1_25.mp3"
+          "id": "t_11_25",
+          "text": "Thank you, sir. We can’t continue the servicing until everything is stable.",
+          "audio": "assets/audio/t_11_25.mp3"
         },
         {
-          "id": "t_1_26",
-          "text": "He can’t either.",
-          "audio": "assets/audio/t_1_26.mp3"
-        },
-        {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
-        },
-        {
-          "id": "t_1_28",
-          "text": "If he delays that job, the car battery will keep draining.",
-          "audio": "assets/audio/t_1_28.mp3"
-        },
-        {
-          "id": "t_1_29",
-          "text": "So we must postpone the tuning?",
-          "audio": "assets/audio/t_1_29.mp3"
-        },
-        {
-          "id": "t_1_30",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_30.mp3"
-        },
-        {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
-        },
-        {
-          "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_11_26",
+          "text": "No problem, Kasun. I’ll finish all remaining checks before 11 a.m.",
+          "audio": "assets/audio/t_11_26.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_11_2",
+          "text": "I think the alternator testing unit is making a strange whirring sound.",
+          "audio": "assets/audio/t_11_2.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_11_4",
+          "text": "When I checked that tester, the drive belt was a little loose.",
+          "audio": "assets/audio/t_11_4.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_11_5",
+          "text": "I tightened it, but it is still making a light vibration.",
+          "audio": "assets/audio/t_11_5.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_11_7",
+          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
+          "audio": "assets/audio/t_11_7.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_11_9",
+          "text": "I adjusted it, but we might need to replace the whole hinge later.",
+          "audio": "assets/audio/t_11_9.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_11_11",
+          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_11_11.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_11_13",
+          "text": "One support screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_11_13.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_11_16",
+          "text": "Another issue, the air compressor temperature display was blurry last night.",
+          "audio": "assets/audio/t_11_16.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_11_17",
+          "text": "We cleaned the panel, but the numbers are still unclear.",
+          "audio": "assets/audio/t_11_17.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_11_19",
+          "text": "Everything was fine, but the display bulb might be failing.",
+          "audio": "assets/audio/t_11_19.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_11_21",
+          "text": "Good. This morning the tyre inflator was shaking badly.",
+          "audio": "assets/audio/t_11_21.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_11_22",
+          "text": "When I opened the cover, the motor was dusty.",
+          "audio": "assets/audio/t_11_22.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1_1",
-          "text": "Dilshan, we need to start the engine tuning on the white hybrid car today.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_11_2",
+          "text": "I think the alternator testing unit is making a strange whirring sound.",
+          "audio": "assets/audio/t_11_2.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The owner has been calling nonstop for an update.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_11_4",
+          "text": "When I checked that tester, the drive belt was a little loose.",
+          "audio": "assets/audio/t_11_4.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "They all have urgent jobs lined up, and delaying them will cause other problems.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_11_5",
+          "text": "I tightened it, but it is still making a light vibration.",
+          "audio": "assets/audio/t_11_5.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "Arun is working on the brake-bleeding system of the blue van.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_11_7",
+          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
+          "audio": "assets/audio/t_11_7.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "If he stops now, the van will have no hydraulic pressure, and it will be unsafe to move.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_11_9",
+          "text": "I adjusted it, but we might need to replace the whole hinge later.",
+          "audio": "assets/audio/t_11_9.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "Kareem is adjusting the wheel alignment of the red sedan.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_11_11",
+          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_11_11.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "If he leaves it halfway, the customer will complain about vibration at high speeds.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_11_13",
+          "text": "One support screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_11_13.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "They can open the throttle body, sir, but they can’t calibrate it.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_11_16",
+          "text": "Another issue, the air compressor temperature display was blurry last night.",
+          "audio": "assets/audio/t_11_16.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "Only diagnostic technicians can set the correct idle level and sensor readings.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_11_17",
+          "text": "We cleaned the panel, but the numbers are still unclear.",
+          "audio": "assets/audio/t_11_17.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "He has to check a faulty alternator on another vehicle.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_11_19",
+          "text": "Everything was fine, but the display bulb might be failing.",
+          "audio": "assets/audio/t_11_19.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "We have to postpone it until tomorrow.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_11_21",
+          "text": "Good. This morning the tyre inflator was shaking badly.",
+          "audio": "assets/audio/t_11_21.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "If we start tuning without the right technicians, the hybrid system may malfunction, and the customer will lose trust.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_11_22",
+          "text": "When I opened the cover, the motor was dusty.",
+          "audio": "assets/audio/t_11_22.mp3"
         }
       ]
     }
