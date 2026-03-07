@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "tester",
+        "word_text": "'t'es't'er",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They are going to use these testers for the wires.",
+        "sentence_text": "They are going to use these 't'es't'ers for the wires.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "timer",
+        "word_text": "'t'imer",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The timer is working correctly.",
+        "sentence_text": "The 't'imer is working correctly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "light",
+        "word_text": "ligh't'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This light is going to flicker soon.",
+        "sentence_text": "This ligh't' is going to flicker soon.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "circuit",
+        "word_text": "circui't'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "They are going to fix the circuit quickly.",
+        "sentence_text": "They are going to fix the circui't' quickly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
