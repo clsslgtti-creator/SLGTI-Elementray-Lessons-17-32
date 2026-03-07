@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "tube",
+        "word_text": "'t'ube",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They are going to join these long and narrow tubes soon.",
+        "sentence_text": "They are going to join these long and narrow 't'ubes soon.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "tap",
+        "word_text": "'t'ap",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He is going to fix the leaking tap this evening.",
+        "sentence_text": "He is going to fix the leaking 't'ap this evening.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "bolt",
+        "word_text": "bol't'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The cleaning lady is going to move these bolts to the other cupboard.",
+        "sentence_text": "The cleaning lady is going to move these bol't's to the other cupboard.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "unit",
+        "word_text": "uni't'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Each unit of the manual is going to be translated to Sinhala this afternoon.",
+        "sentence_text": "Each uni't' of the manual is going to be translated to Sinhala this afternoon.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
