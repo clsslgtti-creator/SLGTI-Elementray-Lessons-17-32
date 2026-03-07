@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "tile",
+        "word_text": "'t'ile",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He is going to lay one tile at a time.",
+        "sentence_text": "He is going to lay one 't'ile at a time.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "trowel",
+        "word_text": "'t'rowel",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The worker is going to use a trowel carefully.",
+        "sentence_text": "The worker is going to use a 't'rowel carefully.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "cement",
+        "word_text": "cemen't'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The labourers are going to mix the cement in a bucket.",
+        "sentence_text": "The labourers are going to mix the cemen't' in a bucket.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "paint",
+        "word_text": "pain't'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "She is going to add new paint on the wall.",
+        "sentence_text": "She is going to add new pain't' on the wall.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -618,325 +618,365 @@
         "Questions": [
           {
             "id": "l_12_1",
-            "question": "How many engine oil filters does Nimal order?",
-            "answer": "10",
-            "options": ["8", "10", "12"]
+            "question": "How many bags of cement does Sunil order?",
+            "answer": "30 bags",
+            "options": ["20 bags", "30 bags", "40 bags"]
           },
           {
             "id": "l_12_2",
-            "question": "How many brake pad sets does he ideally want?",
-            "answer": "Two sets",
-            "options": ["One set", "Two sets", "Three sets"]
+            "question": "How many bricks does he ideally want?",
+            "answer": "Twenty bricks",
+            "options": ["Ten bricks", "Fifteen bricks", "Twenty bricks"]
           },
           {
             "id": "l_12_3",
-            "question": "How many spark plugs are available right now?",
-            "answer": "Six",
-            "options": ["Eight", "Six", "None"]
+            "question": "How many trowels are available right now?",
+            "answer": "One",
+            "options": ["Three", "One", "None"]
           },
           {
             "id": "l_12_4",
-            "question": "What item is available in plenty?",
-            "answer": "Engine oil",
-            "options": ["Coolant", "Spark plug", "Engine oil"]
+            "question": "Which item is available in plenty?",
+            "answer": "Measuring tapes",
+            "options": ["Bricks", "Trowels", "Measuring tapes"]
           },
           {
             "id": "l_12_5",
             "question": "When does the supplier usually deliver?",
             "answer": "Before 10 a.m.",
-            "options": ["Before 10 p.m.", "Before 10 a.m.", "After lunch"]
+            "options": ["In the afternoon", "Before 10 a.m.", "In the evening"]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_5_1",
-          "text": "Good morning, Lakshan Auto Parts Traders.",
-          "audio": "assets/audio/t_5_1.mp3"
+          "id": "t_10_1",
+          "text": "Good morning, City Construction Supplies.",
+          "audio": "assets/audio/t_10_1.mp3"
         },
         {
-          "id": "t_5_2",
-          "text": "This is Ruwan speaking. How can I help you today?",
-          "audio": "assets/audio/t_5_2.mp3"
+          "id": "t_10_2",
+          "text": "This is Nimal speaking. How can I help you today?",
+          "audio": "assets/audio/t_10_2.mp3"
         },
         {
-          "id": "t_5_3",
-          "text": "Good morning, Ruwan. This is Nimal from Horizon Motors in Kandy.",
-          "audio": "assets/audio/t_5_3.mp3"
+          "id": "t_10_3",
+          "text": "Good morning, Nimal. This is Sunil from Bright Builders in Gampaha.",
+          "audio": "assets/audio/t_10_3.mp3"
         },
         {
-          "id": "t_5_4",
-          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
-          "audio": "assets/audio/t_5_4.mp3"
+          "id": "t_10_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s work.",
+          "audio": "assets/audio/t_10_4.mp3"
         },
         {
-          "id": "t_5_5",
-          "text": "Certainly, sir. I’m at the system right now.",
-          "audio": "assets/audio/t_5_5.mp3"
+          "id": "t_10_5",
+          "text": "Certainly, sir. I’m sitting at the computer right now.",
+          "audio": "assets/audio/t_10_5.mp3"
         },
         {
-          "id": "t_5_6",
+          "id": "t_10_6",
           "text": "What would you like to order?",
-          "audio": "assets/audio/t_5_6.mp3"
+          "audio": "assets/audio/t_10_6.mp3"
         },
         {
-          "id": "t_5_7",
-          "text": "First, I need ten engine oil filters.",
-          "audio": "assets/audio/t_5_7.mp3"
+          "id": "t_10_7",
+          "text": "First, I need 30 bags of cement.",
+          "audio": "assets/audio/t_10_7.mp3"
         },
         {
-          "id": "t_5_8",
-          "text": "We change them every day during our morning services.",
-          "audio": "assets/audio/t_5_8.mp3"
+          "id": "t_10_8",
+          "text": "We usually order them every week.",
+          "audio": "assets/audio/t_10_8.mp3"
         },
         {
-          "id": "t_5_9",
-          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
-          "audio": "assets/audio/t_5_9.mp3"
+          "id": "t_10_9",
+          "text": "No problem. Fresh cement arrived early this morning from Colombo.",
+          "audio": "assets/audio/t_10_9.mp3"
         },
         {
-          "id": "t_5_10",
-          "text": "I’m going to prepare ten oil filters for you.",
-          "audio": "assets/audio/t_5_10.mp3"
+          "id": "t_10_10",
+          "text": "How many bags are you going to take in total?",
+          "audio": "assets/audio/t_10_10.mp3"
         },
         {
-          "id": "t_5_11",
-          "text": "Great. I also need two sets of brake pads for Japanese cars.",
-          "audio": "assets/audio/t_5_11.mp3"
+          "id": "t_10_11",
+          "text": "Just 30 bags for now.",
+          "audio": "assets/audio/t_10_11.mp3"
         },
         {
-          "id": "t_5_12",
-          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
-          "audio": "assets/audio/t_5_12.mp3"
+          "id": "t_10_12",
+          "text": "Alright. I’m going to arrange that.",
+          "audio": "assets/audio/t_10_12.mp3"
         },
         {
-          "id": "t_5_13",
-          "text": "But we might receive a new shipment this afternoon.",
-          "audio": "assets/audio/t_5_13.mp3"
+          "id": "t_10_13",
+          "text": "I also need 20 bricks.",
+          "audio": "assets/audio/t_10_13.mp3"
         },
         {
-          "id": "t_5_14",
-          "text": "If it arrives, I’m going to pack two full sets.",
-          "audio": "assets/audio/t_5_14.mp3"
+          "id": "t_10_14",
+          "text": "Our trainees use them every day for practice.",
+          "audio": "assets/audio/t_10_14.mp3"
         },
         {
-          "id": "t_5_15",
-          "text": "How many do you absolutely need for tomorrow?",
-          "audio": "assets/audio/t_5_15.mp3"
+          "id": "t_10_15",
+          "text": "Let me check the bricks.",
+          "audio": "assets/audio/t_10_15.mp3"
         },
         {
-          "id": "t_5_16",
-          "text": "At least one set. Two is perfect.",
-          "audio": "assets/audio/t_5_16.mp3"
+          "id": "t_10_16",
+          "text": "We might not have all 20 because another contractor collected some this morning.",
+          "audio": "assets/audio/t_10_16.mp3"
         },
         {
-          "id": "t_5_17",
-          "text": "Understood. I’ll reserve one and try to arrange the second.",
-          "audio": "assets/audio/t_5_17.mp3"
+          "id": "t_10_17",
+          "text": "But we might receive another load this afternoon.",
+          "audio": "assets/audio/t_10_17.mp3"
         },
         {
-          "id": "t_5_18",
-          "text": "Next, I need five litres of coolant.",
-          "audio": "assets/audio/t_5_18.mp3"
+          "id": "t_10_18",
+          "text": "If it arrives, I’m going to prepare your full order.",
+          "audio": "assets/audio/t_10_18.mp3"
         },
         {
-          "id": "t_5_19",
-          "text": "Coolant is available right now.",
-          "audio": "assets/audio/t_5_19.mp3"
+          "id": "t_10_19",
+          "text": "How many bricks do you absolutely need for tomorrow?",
+          "audio": "assets/audio/t_10_19.mp3"
         },
         {
-          "id": "t_5_20",
-          "text": "I’m going to add five litres to your list.",
-          "audio": "assets/audio/t_5_20.mp3"
+          "id": "t_10_20",
+          "text": "At least 12 bricks. Twenty is ideal.",
+          "audio": "assets/audio/t_10_20.mp3"
         },
         {
-          "id": "t_5_21",
-          "text": "And eight spark plugs—NGK if possible.",
-          "audio": "assets/audio/t_5_21.mp3"
+          "id": "t_10_21",
+          "text": "Understood. I’ll try my best to get 20 ready.",
+          "audio": "assets/audio/t_10_21.mp3"
         },
         {
-          "id": "t_5_22",
-          "text": "NGK is in high demand.",
-          "audio": "assets/audio/t_5_22.mp3"
+          "id": "t_10_22",
+          "text": "Next, I need two bags of sand.",
+          "audio": "assets/audio/t_10_22.mp3"
         },
         {
-          "id": "t_5_23",
-          "text": "We only have six plugs left.",
-          "audio": "assets/audio/t_5_23.mp3"
+          "id": "t_10_23",
+          "text": "Sand is available at the moment.",
+          "audio": "assets/audio/t_10_23.mp3"
         },
         {
-          "id": "t_5_24",
-          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
-          "audio": "assets/audio/t_5_24.mp3"
+          "id": "t_10_24",
+          "text": "I’m going to add two bags to your list.",
+          "audio": "assets/audio/t_10_24.mp3"
         },
         {
-          "id": "t_5_25",
-          "text": "Please keep the six for me.",
-          "audio": "assets/audio/t_5_25.mp3"
+          "id": "t_10_25",
+          "text": "And three steel trowels, please.",
+          "audio": "assets/audio/t_10_25.mp3"
         },
         {
-          "id": "t_5_26",
-          "text": "If you get more, I’m going to take all eight.",
-          "audio": "assets/audio/t_5_26.mp3"
+          "id": "t_10_26",
+          "text": "Right now we only have one trowel left in the store.",
+          "audio": "assets/audio/t_10_26.mp3"
         },
         {
-          "id": "t_5_27",
+          "id": "t_10_27",
+          "text": "You might get the other two if the supplier brings stock later today, but I can’t promise it.",
+          "audio": "assets/audio/t_10_27.mp3"
+        },
+        {
+          "id": "t_10_28",
+          "text": "Please reserve that one.",
+          "audio": "assets/audio/t_10_28.mp3"
+        },
+        {
+          "id": "t_10_29",
+          "text": "If more arrive, I’m going to take three.",
+          "audio": "assets/audio/t_10_29.mp3"
+        },
+        {
+          "id": "t_10_30",
           "text": "Noted, sir. Anything else?",
-          "audio": "assets/audio/t_5_27.mp3"
+          "audio": "assets/audio/t_10_30.mp3"
         },
         {
-          "id": "t_5_28",
-          "text": "Yes, 20 litres of engine oil, synthetic grade.",
-          "audio": "assets/audio/t_5_28.mp3"
+          "id": "t_10_31",
+          "text": "Yes, five rolls of measuring tape, please.",
+          "audio": "assets/audio/t_10_31.mp3"
         },
         {
-          "id": "t_5_29",
-          "text": "We have plenty of synthetic oil.",
-          "audio": "assets/audio/t_5_29.mp3"
+          "id": "t_10_32",
+          "text": "Would you like the 5-metre tape or the 10-metre tape?",
+          "audio": "assets/audio/t_10_32.mp3"
         },
         {
-          "id": "t_5_30",
-          "text": "Would you like 5W-30 or 10W-30?",
-          "audio": "assets/audio/t_5_30.mp3"
+          "id": "t_10_33",
+          "text": "We have plenty of both right now.",
+          "audio": "assets/audio/t_10_33.mp3"
         },
         {
-          "id": "t_5_31",
-          "text": "5W-30, please.",
-          "audio": "assets/audio/t_5_31.mp3"
+          "id": "t_10_34",
+          "text": "Five-metre tape please. Actually, why don’t you make it six rolls, just in case.",
+          "audio": "assets/audio/t_10_34.mp3"
         },
         {
-          "id": "t_5_32",
+          "id": "t_10_35",
+          "text": "What time are you going to deliver it tomorrow?",
+          "audio": "assets/audio/t_10_35.mp3"
+        },
+        {
+          "id": "t_10_36",
           "text": "We usually deliver before 10 a.m.",
-          "audio": "assets/audio/t_5_32.mp3"
+          "audio": "assets/audio/t_10_36.mp3"
         },
         {
-          "id": "t_5_33",
-          "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
-          "audio": "assets/audio/t_5_33.mp3"
+          "id": "t_10_37",
+          "text": "Your order is going to arrive tomorrow morning at around 9:30 a.m.",
+          "audio": "assets/audio/t_10_37.mp3"
         },
         {
-          "id": "t_5_34",
-          "text": "Excellent. Thank you, Ruwan.",
-          "audio": "assets/audio/t_5_34.mp3"
+          "id": "t_10_38",
+          "text": "Thank you, Nimal.",
+          "audio": "assets/audio/t_10_38.mp3"
         },
         {
-          "id": "t_5_35",
+          "id": "t_10_39",
           "text": "My pleasure, sir. Have a good day!",
-          "audio": "assets/audio/t_5_35.mp3"
+          "audio": "assets/audio/t_10_39.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_5_4",
-          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
-          "audio": "assets/audio/t_5_4.mp3"
+          "id": "t_10_2",
+          "text": "This is Nimal speaking. How can I help you today?",
+          "audio": "assets/audio/t_10_2.mp3"
         },
         {
-          "id": "t_5_9",
-          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
-          "audio": "assets/audio/t_5_9.mp3"
+          "id": "t_10_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s work.",
+          "audio": "assets/audio/t_10_4.mp3"
         },
         {
-          "id": "t_5_10",
-          "text": "I’m going to prepare ten oil filters for you.",
-          "audio": "assets/audio/t_5_10.mp3"
+          "id": "t_10_9",
+          "text": "No problem. Fresh cement arrived early this morning from Colombo.",
+          "audio": "assets/audio/t_10_9.mp3"
         },
         {
-          "id": "t_5_11",
-          "text": "Great. I also need two sets of brake pads for Japanese cars.",
-          "audio": "assets/audio/t_5_11.mp3"
+          "id": "t_10_16",
+          "text": "We might not have all 20 because another contractor collected some this morning.",
+          "audio": "assets/audio/t_10_16.mp3"
         },
         {
-          "id": "t_5_12",
-          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
-          "audio": "assets/audio/t_5_12.mp3"
+          "id": "t_10_17",
+          "text": "But we might receive another load this afternoon.",
+          "audio": "assets/audio/t_10_17.mp3"
         },
         {
-          "id": "t_5_13",
-          "text": "But we might receive a new shipment this afternoon.",
-          "audio": "assets/audio/t_5_13.mp3"
+          "id": "t_10_18",
+          "text": "If it arrives, I’m going to prepare your full order.",
+          "audio": "assets/audio/t_10_18.mp3"
         },
         {
-          "id": "t_5_14",
-          "text": "If it arrives, I’m going to pack two full sets.",
-          "audio": "assets/audio/t_5_14.mp3"
+          "id": "t_10_19",
+          "text": "How many bricks do you absolutely need for tomorrow?",
+          "audio": "assets/audio/t_10_19.mp3"
         },
         {
-          "id": "t_5_15",
-          "text": "How many do you absolutely need for tomorrow?",
-          "audio": "assets/audio/t_5_15.mp3"
+          "id": "t_10_21",
+          "text": "Understood. I’ll try my best to get 20 ready.",
+          "audio": "assets/audio/t_10_21.mp3"
         },
         {
-          "id": "t_5_23",
-          "text": "We only have six plugs left.",
-          "audio": "assets/audio/t_5_23.mp3"
+          "id": "t_10_26",
+          "text": "Right now we only have one trowel left in the store.",
+          "audio": "assets/audio/t_10_26.mp3"
         },
         {
-          "id": "t_5_24",
-          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
-          "audio": "assets/audio/t_5_24.mp3"
+          "id": "t_10_27",
+          "text": "You might get the other two if the supplier brings stock later today, but I can’t promise it.",
+          "audio": "assets/audio/t_10_27.mp3"
         },
         {
-          "id": "t_5_33",
-          "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
-          "audio": "assets/audio/t_5_33.mp3"
+          "id": "t_10_33",
+          "text": "We have plenty of both right now.",
+          "audio": "assets/audio/t_10_33.mp3"
+        },
+        {
+          "id": "t_10_34",
+          "text": "Five-metre tape please. Actually, why don’t you make it six rolls, just in case.",
+          "audio": "assets/audio/t_10_34.mp3"
+        },
+        {
+          "id": "t_10_37",
+          "text": "Your order is going to arrive tomorrow morning at around 9:30 a.m.",
+          "audio": "assets/audio/t_10_37.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_5_4",
-          "text": "I’m calling to place an urgent order for tomorrow’s servicing jobs.",
-          "audio": "assets/audio/t_5_4.mp3"
+          "id": "t_10_2",
+          "text": "This is Nimal speaking. How can I help you today?",
+          "audio": "assets/audio/t_10_2.mp3"
         },
         {
-          "id": "t_5_9",
-          "text": "No problem, sir. Fresh stock arrived this morning from our Colombo supplier.",
-          "audio": "assets/audio/t_5_9.mp3"
+          "id": "t_10_4",
+          "text": "I’m calling to place an urgent order for tomorrow’s work.",
+          "audio": "assets/audio/t_10_4.mp3"
         },
         {
-          "id": "t_5_10",
-          "text": "I’m going to prepare ten oil filters for you.",
-          "audio": "assets/audio/t_5_10.mp3"
+          "id": "t_10_9",
+          "text": "No problem. Fresh cement arrived early this morning from Colombo.",
+          "audio": "assets/audio/t_10_9.mp3"
         },
         {
-          "id": "t_5_11",
-          "text": "Great. I also need two sets of brake pads for Japanese cars.",
-          "audio": "assets/audio/t_5_11.mp3"
+          "id": "t_10_16",
+          "text": "We might not have all 20 because another contractor collected some this morning.",
+          "audio": "assets/audio/t_10_16.mp3"
         },
         {
-          "id": "t_5_12",
-          "text": "Let me check. We might not have both sets because yesterday’s orders were very heavy.",
-          "audio": "assets/audio/t_5_12.mp3"
+          "id": "t_10_17",
+          "text": "But we might receive another load this afternoon.",
+          "audio": "assets/audio/t_10_17.mp3"
         },
         {
-          "id": "t_5_13",
-          "text": "But we might receive a new shipment this afternoon.",
-          "audio": "assets/audio/t_5_13.mp3"
+          "id": "t_10_18",
+          "text": "If it arrives, I’m going to prepare your full order.",
+          "audio": "assets/audio/t_10_18.mp3"
         },
         {
-          "id": "t_5_14",
-          "text": "If it arrives, I’m going to pack two full sets.",
-          "audio": "assets/audio/t_5_14.mp3"
+          "id": "t_10_19",
+          "text": "How many bricks do you absolutely need for tomorrow?",
+          "audio": "assets/audio/t_10_19.mp3"
         },
         {
-          "id": "t_5_15",
-          "text": "How many do you absolutely need for tomorrow?",
-          "audio": "assets/audio/t_5_15.mp3"
+          "id": "t_10_21",
+          "text": "Understood. I’ll try my best to get 20 ready.",
+          "audio": "assets/audio/t_10_21.mp3"
         },
         {
-          "id": "t_5_23",
-          "text": "We only have six plugs left.",
-          "audio": "assets/audio/t_5_23.mp3"
+          "id": "t_10_26",
+          "text": "Right now we only have one trowel left in the store.",
+          "audio": "assets/audio/t_10_26.mp3"
         },
         {
-          "id": "t_5_24",
-          "text": "You might get the full eight if the evening shipment arrives, but I can’t promise yet.",
-          "audio": "assets/audio/t_5_24.mp3"
+          "id": "t_10_27",
+          "text": "You might get the other two if the supplier brings stock later today, but I can’t promise it.",
+          "audio": "assets/audio/t_10_27.mp3"
         },
         {
-          "id": "t_5_33",
-          "text": "Your order is going to arrive tomorrow morning at around 9.30 a.m.",
-          "audio": "assets/audio/t_5_33.mp3"
+          "id": "t_10_33",
+          "text": "We have plenty of both right now.",
+          "audio": "assets/audio/t_10_33.mp3"
+        },
+        {
+          "id": "t_10_34",
+          "text": "Five-metre tape please. Actually, why don’t you make it six rolls, just in case.",
+          "audio": "assets/audio/t_10_34.mp3"
+        },
+        {
+          "id": "t_10_37",
+          "text": "Your order is going to arrive tomorrow morning at around 9:30 a.m.",
+          "audio": "assets/audio/t_10_37.mp3"
         }
       ]
     }
