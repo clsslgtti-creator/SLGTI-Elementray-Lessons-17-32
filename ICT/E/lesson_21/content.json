@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "tablet",
+        "word_text": "'t'able't'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This time, he is going to use a tablet for coding.",
+        "sentence_text": "This time, he is going to use a 't'able't' for coding.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "text",
+        "word_text": "'t'ex't'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to read the text on the screen.",
+        "sentence_text": "They are going to read the 't'ex't' on the screen.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "chat",
+        "word_text": "cha't'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "We are going to start the chat after class.",
+        "sentence_text": "We are going to start the cha't' after class.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "unit",
+        "word_text": "uni't'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Each unit is going to have a network cable.",
+        "sentence_text": "Each uni't' is going to have a network cable.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
