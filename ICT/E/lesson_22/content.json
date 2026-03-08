@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "data",
+        "word_text": "'d'ata",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He saved the data on the server a while ago.",
+        "sentence_text": "He saved the 'd'ata on the server a while ago.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "device",
+        "word_text": "'d'evice",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The device was connected to the cable a minute ago.",
+        "sentence_text": "The 'd'evice was connected to the cable a minute ago.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "upload",
+        "word_text": "uploa'd'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Yesterday she decided to upload the report later.",
+        "sentence_text": "Yesterday she decided to uploa'd' the report later.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "keyboard",
+        "word_text": "keyboar'd'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The keyboard needed some attention last week.",
+        "sentence_text": "The keyboar'd' needed some attention last week.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }
