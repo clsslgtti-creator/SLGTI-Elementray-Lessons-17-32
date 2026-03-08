@@ -678,19 +678,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_13_1",
-          "text": "Good morning, sir. The electrical workshop is a bit noisy today.",
-          "audio": "assets/audio/t_13_1.mp3"
-        },
-        {
           "id": "t_13_2",
           "text": "I think the cable insulation tester is making a strange vibration.",
           "audio": "assets/audio/t_13_2.mp3"
-        },
-        {
-          "id": "t_13_3",
-          "text": "Morning, Ashen. I have been checking the equipment since early morning.",
-          "audio": "assets/audio/t_13_3.mp3"
         },
         {
           "id": "t_13_4",
@@ -703,39 +693,14 @@
           "audio": "assets/audio/t_13_5.mp3"
         },
         {
-          "id": "t_13_6",
-          "text": "I also noticed the circuit breaker cabinet yesterday.",
-          "audio": "assets/audio/t_13_6.mp3"
-        },
-        {
           "id": "t_13_7",
           "text": "It was fine, but this morning the main door is not closing properly because one of the hinges is bent.",
           "audio": "assets/audio/t_13_7.mp3"
         },
         {
-          "id": "t_13_8",
-          "text": "Yes, the hinge was bent.",
-          "audio": "assets/audio/t_13_8.mp3"
-        },
-        {
-          "id": "t_13_9",
-          "text": "I adjusted it, but we might need to replace it later.",
-          "audio": "assets/audio/t_13_9.mp3"
-        },
-        {
-          "id": "t_13_10",
-          "text": "Can you also look at the cable storage rack?",
-          "audio": "assets/audio/t_13_10.mp3"
-        },
-        {
           "id": "t_13_11",
           "text": "The trainees cleaned it last evening, but today it looked unstable on the left side.",
           "audio": "assets/audio/t_13_11.mp3"
-        },
-        {
-          "id": "t_13_12",
-          "text": "I inspected it.",
-          "audio": "assets/audio/t_13_12.mp3"
         },
         {
           "id": "t_13_13",
@@ -748,9 +713,66 @@
           "audio": "assets/audio/t_13_14.mp3"
         },
         {
-          "id": "t_13_15",
-          "text": "We might need to order a new frame.",
-          "audio": "assets/audio/t_13_15.mp3"
+          "id": "t_13_16",
+          "text": "Another thing, the voltage stabilizer display was blurry last night.",
+          "audio": "assets/audio/t_13_16.mp3"
+        },
+        {
+          "id": "t_13_17",
+          "text": "We cleaned the screen, but the numbers are still difficult to read.",
+          "audio": "assets/audio/t_13_17.mp3"
+        },
+        {
+          "id": "t_13_19",
+          "text": "Everything was normal, but the internal bulb might be failing.",
+          "audio": "assets/audio/t_13_19.mp3"
+        },
+        {
+          "id": "t_13_22",
+          "text": "When I opened the cover, I saw that the motor was dusty.",
+          "audio": "assets/audio/t_13_22.mp3"
+        },
+        {
+          "id": "t_13_25",
+          "text": "Thank you, sir. We can’t continue the testing until the equipment is stable.",
+          "audio": "assets/audio/t_13_25.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_13_2",
+          "text": "I think the cable insulation tester is making a strange vibration.",
+          "audio": "assets/audio/t_13_2.mp3"
+        },
+        {
+          "id": "t_13_4",
+          "text": "When I checked that tester, the belt inside the cooling fan was a little loose.",
+          "audio": "assets/audio/t_13_4.mp3"
+        },
+        {
+          "id": "t_13_5",
+          "text": "I tightened it, but it is still making a light humming sound.",
+          "audio": "assets/audio/t_13_5.mp3"
+        },
+        {
+          "id": "t_13_7",
+          "text": "It was fine, but this morning the main door is not closing properly because one of the hinges is bent.",
+          "audio": "assets/audio/t_13_7.mp3"
+        },
+        {
+          "id": "t_13_11",
+          "text": "The trainees cleaned it last evening, but today it looked unstable on the left side.",
+          "audio": "assets/audio/t_13_11.mp3"
+        },
+        {
+          "id": "t_13_13",
+          "text": "One of the screws was missing, so I added a new one.",
+          "audio": "assets/audio/t_13_13.mp3"
+        },
+        {
+          "id": "t_13_14",
+          "text": "But the rack was unstable for a long time.",
+          "audio": "assets/audio/t_13_14.mp3"
         },
         {
           "id": "t_13_16",
@@ -763,24 +785,9 @@
           "audio": "assets/audio/t_13_17.mp3"
         },
         {
-          "id": "t_13_18",
-          "text": "I tested the wiring when I arrived.",
-          "audio": "assets/audio/t_13_18.mp3"
-        },
-        {
           "id": "t_13_19",
           "text": "Everything was normal, but the internal bulb might be failing.",
           "audio": "assets/audio/t_13_19.mp3"
-        },
-        {
-          "id": "t_13_20",
-          "text": "I ordered a replacement, and it should arrive this afternoon.",
-          "audio": "assets/audio/t_13_20.mp3"
-        },
-        {
-          "id": "t_13_21",
-          "text": "Finally, the small workshop generator was shaking this morning.",
-          "audio": "assets/audio/t_13_21.mp3"
         },
         {
           "id": "t_13_22",
@@ -788,27 +795,11 @@
           "audio": "assets/audio/t_13_22.mp3"
         },
         {
-          "id": "t_13_23",
-          "text": "Yes, the motor was dusty, so I cleaned it.",
-          "audio": "assets/audio/t_13_23.mp3"
-        },
-        {
-          "id": "t_13_24",
-          "text": "But I will inspect the bearings after tea.",
-          "audio": "assets/audio/t_13_24.mp3"
-        },
-        {
           "id": "t_13_25",
           "text": "Thank you, sir. We can’t continue the testing until the equipment is stable.",
           "audio": "assets/audio/t_13_25.mp3"
-        },
-        {
-          "id": "t_13_26",
-          "text": "No problem. I will finish all the checks before 11.30 a.m.",
-          "audio": "assets/audio/t_13_26.mp3"
         }
-      ],
-      "activity_e": 0
+      ]
     }
   },
   "activity_5": {

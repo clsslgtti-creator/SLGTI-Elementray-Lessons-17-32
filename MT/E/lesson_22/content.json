@@ -672,24 +672,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_16_1",
-          "text": "Good morning, sir. The mechanical workshop is a bit noisy today.",
-          "audio": "assets/audio/t_16_1.mp3"
-        },
-        {
           "id": "t_16_2",
           "text": "I think the belt-driven grinder is making a strange knocking sound.",
           "audio": "assets/audio/t_16_2.mp3"
-        },
-        {
-          "id": "t_16_3",
-          "text": "Morning, Ruwan. I have been checking the machines since around 7 a.m.",
-          "audio": "assets/audio/t_16_3.mp3"
-        },
-        {
-          "id": "t_16_4",
-          "text": "I also noticed the tool cabinet yesterday.",
-          "audio": "assets/audio/t_16_4.mp3"
         },
         {
           "id": "t_16_5",
@@ -697,29 +682,14 @@
           "audio": "assets/audio/t_16_5.mp3"
         },
         {
-          "id": "t_16_6",
-          "text": "Yes, the hinge was bent.",
-          "audio": "assets/audio/t_16_6.mp3"
-        },
-        {
           "id": "t_16_7",
           "text": "I adjusted it, but we might need to replace it later.",
           "audio": "assets/audio/t_16_7.mp3"
         },
         {
-          "id": "t_16_8",
-          "text": "Can you also look at the storage rack?",
-          "audio": "assets/audio/t_16_8.mp3"
-        },
-        {
           "id": "t_16_9",
           "text": "The trainees cleaned it yesterday evening, but this morning it looked unstable on the right side.",
           "audio": "assets/audio/t_16_9.mp3"
-        },
-        {
-          "id": "t_16_10",
-          "text": "I inspected it.",
-          "audio": "assets/audio/t_16_10.mp3"
         },
         {
           "id": "t_16_11",
@@ -732,11 +702,6 @@
           "audio": "assets/audio/t_16_12.mp3"
         },
         {
-          "id": "t_16_13",
-          "text": "We might need to order a stronger frame.",
-          "audio": "assets/audio/t_16_13.mp3"
-        },
-        {
           "id": "t_16_14",
           "text": "Another issue, the lathe machine display was blurry last night.",
           "audio": "assets/audio/t_16_14.mp3"
@@ -747,24 +712,9 @@
           "audio": "assets/audio/t_16_15.mp3"
         },
         {
-          "id": "t_16_16",
-          "text": "I tested the wiring earlier today.",
-          "audio": "assets/audio/t_16_16.mp3"
-        },
-        {
           "id": "t_16_17",
           "text": "Everything was normal, but the bulb behind the display might be failing.",
           "audio": "assets/audio/t_16_17.mp3"
-        },
-        {
-          "id": "t_16_18",
-          "text": "I ordered a new one, and it should arrive this evening.",
-          "audio": "assets/audio/t_16_18.mp3"
-        },
-        {
-          "id": "t_16_19",
-          "text": "There is one more problem.",
-          "audio": "assets/audio/t_16_19.mp3"
         },
         {
           "id": "t_16_20",
@@ -777,27 +727,73 @@
           "audio": "assets/audio/t_16_21.mp3"
         },
         {
-          "id": "t_16_22",
-          "text": "Yes, the motor was dusty, so I cleaned it.",
-          "audio": "assets/audio/t_16_22.mp3"
+          "id": "t_16_24",
+          "text": "Thank you, sir. We can’t continue any precision work until everything is stable.",
+          "audio": "assets/audio/t_16_24.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_16_2",
+          "text": "I think the belt-driven grinder is making a strange knocking sound.",
+          "audio": "assets/audio/t_16_2.mp3"
         },
         {
-          "id": "t_16_23",
-          "text": "But I will inspect the bearings after tea.",
-          "audio": "assets/audio/t_16_23.mp3"
+          "id": "t_16_5",
+          "text": "It was fine, but this morning the top door is not closing properly because one of the hinges is bent.",
+          "audio": "assets/audio/t_16_5.mp3"
+        },
+        {
+          "id": "t_16_7",
+          "text": "I adjusted it, but we might need to replace it later.",
+          "audio": "assets/audio/t_16_7.mp3"
+        },
+        {
+          "id": "t_16_9",
+          "text": "The trainees cleaned it yesterday evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_16_9.mp3"
+        },
+        {
+          "id": "t_16_11",
+          "text": "One support screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_16_11.mp3"
+        },
+        {
+          "id": "t_16_12",
+          "text": "But that rack was unstable for a long time.",
+          "audio": "assets/audio/t_16_12.mp3"
+        },
+        {
+          "id": "t_16_14",
+          "text": "Another issue, the lathe machine display was blurry last night.",
+          "audio": "assets/audio/t_16_14.mp3"
+        },
+        {
+          "id": "t_16_15",
+          "text": "We cleaned the screen, but the numbers are still unclear.",
+          "audio": "assets/audio/t_16_15.mp3"
+        },
+        {
+          "id": "t_16_17",
+          "text": "Everything was normal, but the bulb behind the display might be failing.",
+          "audio": "assets/audio/t_16_17.mp3"
+        },
+        {
+          "id": "t_16_20",
+          "text": "The small workshop compressor was shaking this morning.",
+          "audio": "assets/audio/t_16_20.mp3"
+        },
+        {
+          "id": "t_16_21",
+          "text": "When I opened the side cover, I saw that the motor was dusty.",
+          "audio": "assets/audio/t_16_21.mp3"
         },
         {
           "id": "t_16_24",
           "text": "Thank you, sir. We can’t continue any precision work until everything is stable.",
           "audio": "assets/audio/t_16_24.mp3"
-        },
-        {
-          "id": "t_16_25",
-          "text": "No worries. I will finish all the checks before 11.30 a.m.",
-          "audio": "assets/audio/t_16_25.mp3"
         }
-      ],
-      "activity_e": 0
+      ]
     }
   },
   "activity_5": {

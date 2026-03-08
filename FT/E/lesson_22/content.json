@@ -708,26 +708,6 @@
       ],
       "activity_d": [
         {
-          "id": "t_14_1",
-          "text": "Good morning, sir. The bakery floor is a bit noisy today.",
-          "audio": "assets/audio/t_14_1.mp3"
-        },
-        {
-          "id": "t_14_2",
-          "text": "I think one of the mixers is making a strange sound.",
-          "audio": "assets/audio/t_14_2.mp3"
-        },
-        {
-          "id": "t_14_3",
-          "text": "Morning, Ruwan. I’m the maintenance person here, so I’ve been checking the machines since 7 a.m.",
-          "audio": "assets/audio/t_14_3.mp3"
-        },
-        {
-          "id": "t_14_4",
-          "text": "Yes, I heard that sound too.",
-          "audio": "assets/audio/t_14_4.mp3"
-        },
-        {
           "id": "t_14_5",
           "text": "When I checked it earlier, the belt was a bit loose.",
           "audio": "assets/audio/t_14_5.mp3"
@@ -736,16 +716,6 @@
           "id": "t_14_6",
           "text": "I tightened it, but it is still making a light knocking noise.",
           "audio": "assets/audio/t_14_6.mp3"
-        },
-        {
-          "id": "t_14_7",
-          "text": "I also noticed the dough proofer door.",
-          "audio": "assets/audio/t_14_7.mp3"
-        },
-        {
-          "id": "t_14_8",
-          "text": "Yesterday it was fine, but this morning it is not closing properly.",
-          "audio": "assets/audio/t_14_8.mp3"
         },
         {
           "id": "t_14_9",
@@ -758,29 +728,9 @@
           "audio": "assets/audio/t_14_10.mp3"
         },
         {
-          "id": "t_14_11",
-          "text": "Can you also look at the cooling rack?",
-          "audio": "assets/audio/t_14_11.mp3"
-        },
-        {
-          "id": "t_14_12",
-          "text": "The trainees are cleaning it now, but yesterday it collapsed slightly on one side.",
-          "audio": "assets/audio/t_14_12.mp3"
-        },
-        {
-          "id": "t_14_13",
-          "text": "I inspected it.",
-          "audio": "assets/audio/t_14_13.mp3"
-        },
-        {
           "id": "t_14_14",
           "text": "One screw was missing, so I added a new one.",
           "audio": "assets/audio/t_14_14.mp3"
-        },
-        {
-          "id": "t_14_15",
-          "text": "Tell the trainees to be careful when they move it.",
-          "audio": "assets/audio/t_14_15.mp3"
         },
         {
           "id": "t_14_16",
@@ -798,24 +748,9 @@
           "audio": "assets/audio/t_14_18.mp3"
         },
         {
-          "id": "t_14_19",
-          "text": "Everything was fine, but the bulb might be failing.",
-          "audio": "assets/audio/t_14_19.mp3"
-        },
-        {
-          "id": "t_14_20",
-          "text": "I ordered a replacement. It should arrive this evening.",
-          "audio": "assets/audio/t_14_20.mp3"
-        },
-        {
           "id": "t_14_21",
           "text": "Another thing, yesterday we washed all the mixing bowls and stored them on the top rack.",
           "audio": "assets/audio/t_14_21.mp3"
-        },
-        {
-          "id": "t_14_22",
-          "text": "This morning, a tray fell when I pulled it.",
-          "audio": "assets/audio/t_14_22.mp3"
         },
         {
           "id": "t_14_23",
@@ -828,47 +763,73 @@
           "audio": "assets/audio/t_14_24.mp3"
         },
         {
-          "id": "t_14_25",
-          "text": "I will place an order for a new one.",
-          "audio": "assets/audio/t_14_25.mp3"
+          "id": "t_14_31",
+          "text": "Thanks, sir. We can’t start packing until it’s stable.",
+          "audio": "assets/audio/t_14_31.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_14_5",
+          "text": "When I checked it earlier, the belt was a bit loose.",
+          "audio": "assets/audio/t_14_5.mp3"
         },
         {
-          "id": "t_14_26",
-          "text": "Can you check the packaging machine too?",
-          "audio": "assets/audio/t_14_26.mp3"
+          "id": "t_14_6",
+          "text": "I tightened it, but it is still making a light knocking noise.",
+          "audio": "assets/audio/t_14_6.mp3"
         },
         {
-          "id": "t_14_27",
-          "text": "It is shaking more than usual.",
-          "audio": "assets/audio/t_14_27.mp3"
+          "id": "t_14_9",
+          "text": "Yes, one of the hinges was bent.",
+          "audio": "assets/audio/t_14_9.mp3"
         },
         {
-          "id": "t_14_28",
-          "text": "I checked it briefly.",
-          "audio": "assets/audio/t_14_28.mp3"
+          "id": "t_14_10",
+          "text": "I adjusted it, but we might need to replace the rubber seal later.",
+          "audio": "assets/audio/t_14_10.mp3"
         },
         {
-          "id": "t_14_29",
-          "text": "The motor was dusty, so I cleaned it.",
-          "audio": "assets/audio/t_14_29.mp3"
+          "id": "t_14_14",
+          "text": "One screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_14_14.mp3"
         },
         {
-          "id": "t_14_30",
-          "text": "But I’ll inspect the bearings after lunch.",
-          "audio": "assets/audio/t_14_30.mp3"
+          "id": "t_14_16",
+          "text": "By the way, the oven temperature display was blurry last night.",
+          "audio": "assets/audio/t_14_16.mp3"
+        },
+        {
+          "id": "t_14_17",
+          "text": "We cleaned the panel, but it is still dim.",
+          "audio": "assets/audio/t_14_17.mp3"
+        },
+        {
+          "id": "t_14_18",
+          "text": "I tested the wiring in the morning.",
+          "audio": "assets/audio/t_14_18.mp3"
+        },
+        {
+          "id": "t_14_21",
+          "text": "Another thing, yesterday we washed all the mixing bowls and stored them on the top rack.",
+          "audio": "assets/audio/t_14_21.mp3"
+        },
+        {
+          "id": "t_14_23",
+          "text": "That rack was unstable for a long time.",
+          "audio": "assets/audio/t_14_23.mp3"
+        },
+        {
+          "id": "t_14_24",
+          "text": "I repaired two joints, but we might need a full replacement.",
+          "audio": "assets/audio/t_14_24.mp3"
         },
         {
           "id": "t_14_31",
           "text": "Thanks, sir. We can’t start packing until it’s stable.",
           "audio": "assets/audio/t_14_31.mp3"
-        },
-        {
-          "id": "t_14_32",
-          "text": "No worries. I’ll finish it by 11 a.m.",
-          "audio": "assets/audio/t_14_32.mp3"
         }
-      ],
-      "activity_e": 0
+      ]
     }
   },
   "activity_5": {

@@ -677,19 +677,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_15_1",
-          "text": "Good morning, sir. The ICT lab is a bit noisy today.",
-          "audio": "assets/audio/t_15_1.mp3"
-        },
-        {
           "id": "t_15_2",
           "text": "I think the large network server is making a strange pulsing sound.",
           "audio": "assets/audio/t_15_2.mp3"
-        },
-        {
-          "id": "t_15_3",
-          "text": "Morning, Meena. I’ve been checking the equipment since 7 a.m.",
-          "audio": "assets/audio/t_15_3.mp3"
         },
         {
           "id": "t_15_4",
@@ -702,39 +692,14 @@
           "audio": "assets/audio/t_15_5.mp3"
         },
         {
-          "id": "t_15_6",
-          "text": "I also noticed the printer cabinet yesterday.",
-          "audio": "assets/audio/t_15_6.mp3"
-        },
-        {
           "id": "t_15_7",
           "text": "It was fine, but this morning the side door is not closing properly because one of the hinges is bent.",
           "audio": "assets/audio/t_15_7.mp3"
         },
         {
-          "id": "t_15_8",
-          "text": "Yes, the hinge was bent.",
-          "audio": "assets/audio/t_15_8.mp3"
-        },
-        {
-          "id": "t_15_9",
-          "text": "I adjusted it, but we might need to replace it later.",
-          "audio": "assets/audio/t_15_9.mp3"
-        },
-        {
-          "id": "t_15_10",
-          "text": "Can you also check the storage rack near the routers?",
-          "audio": "assets/audio/t_15_10.mp3"
-        },
-        {
           "id": "t_15_11",
           "text": "The trainees cleaned it yesterday evening, but this morning it looked unstable on the right side.",
           "audio": "assets/audio/t_15_11.mp3"
-        },
-        {
-          "id": "t_15_12",
-          "text": "I inspected it.",
-          "audio": "assets/audio/t_15_12.mp3"
         },
         {
           "id": "t_15_13",
@@ -747,11 +712,6 @@
           "audio": "assets/audio/t_15_14.mp3"
         },
         {
-          "id": "t_15_15",
-          "text": "We might need a new frame.",
-          "audio": "assets/audio/t_15_15.mp3"
-        },
-        {
           "id": "t_15_16",
           "text": "Another issue, the UPS display was blurry last night.",
           "audio": "assets/audio/t_15_16.mp3"
@@ -760,11 +720,6 @@
           "id": "t_15_17",
           "text": "We cleaned the panel, but the numbers are still unclear.",
           "audio": "assets/audio/t_15_17.mp3"
-        },
-        {
-          "id": "t_15_18",
-          "text": "I tested the wiring early this morning.",
-          "audio": "assets/audio/t_15_18.mp3"
         },
         {
           "id": "t_15_19",
@@ -777,37 +732,73 @@
           "audio": "assets/audio/t_15_20.mp3"
         },
         {
-          "id": "t_15_21",
-          "text": "Sir, one more thing. The small desktop cooling unit was shaking.",
-          "audio": "assets/audio/t_15_21.mp3"
+          "id": "t_15_22",
+          "text": "When I opened the back cover, I saw that the motor was dusty.",
+          "audio": "assets/audio/t_15_22.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_15_2",
+          "text": "I think the large network server is making a strange pulsing sound.",
+          "audio": "assets/audio/t_15_2.mp3"
+        },
+        {
+          "id": "t_15_4",
+          "text": "When I checked that server, the cooling unit belt was a little loose.",
+          "audio": "assets/audio/t_15_4.mp3"
+        },
+        {
+          "id": "t_15_5",
+          "text": "I tightened it, but it is still making a soft vibration.",
+          "audio": "assets/audio/t_15_5.mp3"
+        },
+        {
+          "id": "t_15_7",
+          "text": "It was fine, but this morning the side door is not closing properly because one of the hinges is bent.",
+          "audio": "assets/audio/t_15_7.mp3"
+        },
+        {
+          "id": "t_15_11",
+          "text": "The trainees cleaned it yesterday evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_15_11.mp3"
+        },
+        {
+          "id": "t_15_13",
+          "text": "One screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_15_13.mp3"
+        },
+        {
+          "id": "t_15_14",
+          "text": "But that rack was unstable for a long time.",
+          "audio": "assets/audio/t_15_14.mp3"
+        },
+        {
+          "id": "t_15_16",
+          "text": "Another issue, the UPS display was blurry last night.",
+          "audio": "assets/audio/t_15_16.mp3"
+        },
+        {
+          "id": "t_15_17",
+          "text": "We cleaned the panel, but the numbers are still unclear.",
+          "audio": "assets/audio/t_15_17.mp3"
+        },
+        {
+          "id": "t_15_19",
+          "text": "Everything was normal, but the display bulb might be failing.",
+          "audio": "assets/audio/t_15_19.mp3"
+        },
+        {
+          "id": "t_15_20",
+          "text": "I ordered a replacement, and it should arrive in the afternoon.",
+          "audio": "assets/audio/t_15_20.mp3"
         },
         {
           "id": "t_15_22",
           "text": "When I opened the back cover, I saw that the motor was dusty.",
           "audio": "assets/audio/t_15_22.mp3"
-        },
-        {
-          "id": "t_15_23",
-          "text": "Yes, the motor was dusty, so I cleaned it.",
-          "audio": "assets/audio/t_15_23.mp3"
-        },
-        {
-          "id": "t_15_24",
-          "text": "But I will inspect the fan bearings after tea.",
-          "audio": "assets/audio/t_15_24.mp3"
-        },
-        {
-          "id": "t_15_25",
-          "text": "Thank you, sir. We can’t start today’s configurations until everything is stable.",
-          "audio": "assets/audio/t_15_25.mp3"
-        },
-        {
-          "id": "t_15_26",
-          "text": "No worries. I will finish all the checks before 11.30 a.m.",
-          "audio": "assets/audio/t_15_26.mp3"
         }
-      ],
-      "activity_e": 0
+      ]
     }
   },
   "activity_5": {

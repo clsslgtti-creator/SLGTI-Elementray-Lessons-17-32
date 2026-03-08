@@ -680,19 +680,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_12_1",
-          "text": "Good morning, sir. The site workshop is a bit noisy today.",
-          "audio": "assets/audio/t_12_1.mp3"
-        },
-        {
           "id": "t_12_2",
           "text": "I think the cement mixer is making an unusual rattling sound.",
           "audio": "assets/audio/t_12_2.mp3"
-        },
-        {
-          "id": "t_12_3",
-          "text": "Morning, Nalin. I’ve been checking the equipment since 7 a.m.",
-          "audio": "assets/audio/t_12_3.mp3"
         },
         {
           "id": "t_12_4",
@@ -700,44 +690,14 @@
           "audio": "assets/audio/t_12_4.mp3"
         },
         {
-          "id": "t_12_5",
-          "text": "I tightened it, but it is still making a light knocking noise.",
-          "audio": "assets/audio/t_12_5.mp3"
-        },
-        {
-          "id": "t_12_6",
-          "text": "I also noticed the concrete cutter cabinet yesterday.",
-          "audio": "assets/audio/t_12_6.mp3"
-        },
-        {
           "id": "t_12_7",
           "text": "It was fine, but this morning the main door hinge is bent and it is not closing properly.",
           "audio": "assets/audio/t_12_7.mp3"
         },
         {
-          "id": "t_12_8",
-          "text": "Yes, the hinge was bent.",
-          "audio": "assets/audio/t_12_8.mp3"
-        },
-        {
-          "id": "t_12_9",
-          "text": "I adjusted it, but we might need to replace it later.",
-          "audio": "assets/audio/t_12_9.mp3"
-        },
-        {
-          "id": "t_12_10",
-          "text": "Can you also check the scaffold storage rack?",
-          "audio": "assets/audio/t_12_10.mp3"
-        },
-        {
           "id": "t_12_11",
           "text": "The trainees cleaned it yesterday evening, but today it looked unstable on one side.",
           "audio": "assets/audio/t_12_11.mp3"
-        },
-        {
-          "id": "t_12_12",
-          "text": "I inspected it.",
-          "audio": "assets/audio/t_12_12.mp3"
         },
         {
           "id": "t_12_13",
@@ -748,11 +708,6 @@
           "id": "t_12_14",
           "text": "But that rack was unstable for a long time.",
           "audio": "assets/audio/t_12_14.mp3"
-        },
-        {
-          "id": "t_12_15",
-          "text": "We might need a brand-new frame.",
-          "audio": "assets/audio/t_12_15.mp3"
         },
         {
           "id": "t_12_16",
@@ -775,14 +730,66 @@
           "audio": "assets/audio/t_12_19.mp3"
         },
         {
-          "id": "t_12_20",
-          "text": "I ordered a replacement unit.",
-          "audio": "assets/audio/t_12_20.mp3"
+          "id": "t_12_22",
+          "text": "When I opened the top cover, the motor was dusty.",
+          "audio": "assets/audio/t_12_22.mp3"
         },
         {
-          "id": "t_12_21",
-          "text": "Finally, the water pump was shaking unusually.",
-          "audio": "assets/audio/t_12_21.mp3"
+          "id": "t_12_25",
+          "text": "Thank you, sir. We can’t continue the concrete work until these are sorted out.",
+          "audio": "assets/audio/t_12_25.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_12_2",
+          "text": "I think the cement mixer is making an unusual rattling sound.",
+          "audio": "assets/audio/t_12_2.mp3"
+        },
+        {
+          "id": "t_12_4",
+          "text": "When I checked the mixer earlier, the drive belt was loose.",
+          "audio": "assets/audio/t_12_4.mp3"
+        },
+        {
+          "id": "t_12_7",
+          "text": "It was fine, but this morning the main door hinge is bent and it is not closing properly.",
+          "audio": "assets/audio/t_12_7.mp3"
+        },
+        {
+          "id": "t_12_11",
+          "text": "The trainees cleaned it yesterday evening, but today it looked unstable on one side.",
+          "audio": "assets/audio/t_12_11.mp3"
+        },
+        {
+          "id": "t_12_13",
+          "text": "One supporting screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_12_13.mp3"
+        },
+        {
+          "id": "t_12_14",
+          "text": "But that rack was unstable for a long time.",
+          "audio": "assets/audio/t_12_14.mp3"
+        },
+        {
+          "id": "t_12_16",
+          "text": "Another thing, the laser level display was blurry last night.",
+          "audio": "assets/audio/t_12_16.mp3"
+        },
+        {
+          "id": "t_12_17",
+          "text": "We cleaned the screen, but the numbers are still unclear.",
+          "audio": "assets/audio/t_12_17.mp3"
+        },
+        {
+          "id": "t_12_18",
+          "text": "I tested the wiring this morning.",
+          "audio": "assets/audio/t_12_18.mp3"
+        },
+        {
+          "id": "t_12_19",
+          "text": "Everything was normal, but the internal bulb might be failing.",
+          "audio": "assets/audio/t_12_19.mp3"
         },
         {
           "id": "t_12_22",
@@ -790,27 +797,11 @@
           "audio": "assets/audio/t_12_22.mp3"
         },
         {
-          "id": "t_12_23",
-          "text": "Yes, the motor was dusty, so I cleaned it.",
-          "audio": "assets/audio/t_12_23.mp3"
-        },
-        {
-          "id": "t_12_24",
-          "text": "But I’ll inspect the bearings after lunch.",
-          "audio": "assets/audio/t_12_24.mp3"
-        },
-        {
           "id": "t_12_25",
           "text": "Thank you, sir. We can’t continue the concrete work until these are sorted out.",
           "audio": "assets/audio/t_12_25.mp3"
-        },
-        {
-          "id": "t_12_26",
-          "text": "No worries. I’ll finish all remaining checks before 11.30 a.m.",
-          "audio": "assets/audio/t_12_26.mp3"
         }
-      ],
-      "activity_e": 0
+      ]
     }
   },
   "activity_5": {
