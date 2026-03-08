@@ -412,6 +412,7 @@ const buildMatchingSlide = (data = {}, context = {}) => {
   let secondPlaybackRemaining = 0;
   let isPlaying = false;
   let answersChecked = false;
+  let autoTriggered = false;
 
   const areAllPlaced = () =>
     dropzones.length > 0 &&
@@ -790,6 +791,15 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     beginPlayback();
   });
 
+  const triggerAutoPlay = () => {
+    if (autoTriggered || isPlaying || playbackCount >= 2) {
+      return;
+    }
+    autoTriggered = true;
+    slide._autoTriggered = true;
+    beginPlayback();
+  };
+
   const onEnter = () => {
     setupInteractions();
   };
@@ -802,11 +812,14 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     playbackCount = 0;
     isPlaying = false;
     answersChecked = false;
+    autoTriggered = false;
+    slide._autoTriggered = false;
     status.textContent = "";
     resetMatching();
   };
 
   const suffixSegment = subActivityLetter ? `-${subActivityLetter}` : "";
+  const instructionCountdownSeconds = 3;
 
   clearEvaluationState();
   updateButtonState();
@@ -816,8 +829,14 @@ const buildMatchingSlide = (data = {}, context = {}) => {
       ? `activity-${activityNumber}${suffixSegment}-pre-listening`
       : "activity-pre-listening",
     element: slide,
+    autoPlay: {
+      button: playBtn,
+      trigger: triggerAutoPlay,
+      status,
+    },
     onEnter,
     onLeave,
+    instructionCountdownSeconds,
   };
 };
 
