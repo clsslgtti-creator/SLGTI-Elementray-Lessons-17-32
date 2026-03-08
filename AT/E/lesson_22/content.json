@@ -826,13 +826,13 @@
     "content": [
       {
         "id": "v_1",
-        "audio": "assets/videos/1B.mp4",
-        "instrction": "instrction_b"
+        "audio": "assets/videos/1A.mp4",
+        "instrction": "instrction_a"
       },
       {
         "id": "v_2",
-        "audio": "assets/videos/2C.mp4",
-        "instrction": "instrction_c"
+        "audio": "assets/videos/2A.mp4",
+        "instrction": "instrction_a"
       }
     ]
   }

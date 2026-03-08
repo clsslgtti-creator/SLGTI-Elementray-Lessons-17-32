@@ -493,7 +493,7 @@
         "Questions": [
           {
             "id": "l_13_1",
-            "question": "Why was the alternator tester making a strange sound?",
+            "question": "Why was the grinder making a strange sound?",
             "answer": "The drive belt was loose.",
             "options": [
               "The motor was burnt.",
@@ -504,11 +504,11 @@
           {
             "id": "l_13_2",
             "question": "Why is the tool cabinet door not closing properly?",
-            "answer": "A hinge was bent.",
+            "answer": "One of the hinges was bent.",
             "options": [
-              "The handle fell off.",
+              "The lock was new.",
               "All the hinges were bent.",
-              "A hinge was bent."
+              "One of the hinges was bent."
             ]
           },
           {
@@ -516,27 +516,27 @@
             "question": "What problem did the storage rack have?",
             "answer": "It was unstable and a screw was missing.",
             "options": [
-              "It was overloaded with parts.",
-              "It was unstable because all the screws were missing.",
-              "It was unstable and a screw was missing."
+              "It was overloaded with heavy tools.",
+              "It was unstable and a screw was missing.",
+              "It was unstable and the screws were missing."
             ]
           },
           {
             "id": "l_13_4",
-            "question": "Why is the compressor display still unclear?",
+            "question": "Why is the lathe display still unclear?",
             "answer": "The display bulb might be failing.",
             "options": [
+              "The glass panel shattered.",
               "The display bulb might be failing.",
-              "The display bulb might be broken.",
-              "The numbers were painted over."
+              "The display bulb might be broken."
             ]
           },
           {
             "id": "l_13_5",
-            "question": "Why was the tyre inflator shaking?",
+            "question": "Why was the workshop compressor shaking?",
             "answer": "The motor was dusty.",
             "options": [
-              "The belt snapped.",
+              "The tank was full.",
               "The motor was dusty.",
               "The bearings were dusty."
             ]
@@ -545,260 +545,259 @@
       },
       "activity_c": [
         {
-          "id": "t_11_1",
-          "text": "Good morning, sir. The workshop floor is a bit noisy today.",
-          "audio": "assets/audio/t_11_1.mp3"
+          "id": "t_16_1",
+          "text": "Good morning, sir. The mechanical workshop is a bit noisy today.",
+          "audio": "assets/audio/t_16_1.mp3"
         },
         {
-          "id": "t_11_2",
-          "text": "I think the alternator testing unit is making a strange whirring sound.",
-          "audio": "assets/audio/t_11_2.mp3"
+          "id": "t_16_2",
+          "text": "I think the belt-driven grinder is making a strange knocking sound.",
+          "audio": "assets/audio/t_16_2.mp3"
         },
         {
-          "id": "t_11_3",
-          "text": "Morning, Kasun. I’ve been checking the machines since early morning.",
-          "audio": "assets/audio/t_11_3.mp3"
+          "id": "t_16_3",
+          "text": "Morning, Ruwan. I have been checking the machines since around 7 a.m.",
+          "audio": "assets/audio/t_16_3.mp3"
         },
         {
-          "id": "t_11_4",
-          "text": "When I checked that tester, the drive belt was a little loose.",
-          "audio": "assets/audio/t_11_4.mp3"
-        },
-        {
-          "id": "t_11_5",
-          "text": "I tightened it, but it is still making a light vibration.",
-          "audio": "assets/audio/t_11_5.mp3"
-        },
-        {
-          "id": "t_11_6",
+          "id": "t_16_4",
           "text": "I also noticed the tool cabinet yesterday.",
-          "audio": "assets/audio/t_11_6.mp3"
+          "audio": "assets/audio/t_16_4.mp3"
         },
         {
-          "id": "t_11_7",
-          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
-          "audio": "assets/audio/t_11_7.mp3"
+          "id": "t_16_5",
+          "text": "It was fine, but this morning the top door is not closing properly because one of the hinges is bent.",
+          "audio": "assets/audio/t_16_5.mp3"
         },
         {
-          "id": "t_11_8",
-          "text": "Yes, one of the hinges was bent.",
-          "audio": "assets/audio/t_11_8.mp3"
+          "id": "t_16_6",
+          "text": "Yes, the hinge was bent.",
+          "audio": "assets/audio/t_16_6.mp3"
         },
         {
-          "id": "t_11_9",
-          "text": "I adjusted it, but we might need to replace the whole hinge later.",
-          "audio": "assets/audio/t_11_9.mp3"
+          "id": "t_16_7",
+          "text": "I adjusted it, but we might need to replace it later.",
+          "audio": "assets/audio/t_16_7.mp3"
         },
         {
-          "id": "t_11_10",
+          "id": "t_16_8",
           "text": "Can you also look at the storage rack?",
-          "audio": "assets/audio/t_11_10.mp3"
+          "audio": "assets/audio/t_16_8.mp3"
         },
         {
-          "id": "t_11_11",
-          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
-          "audio": "assets/audio/t_11_11.mp3"
+          "id": "t_16_9",
+          "text": "The trainees cleaned it yesterday evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_16_9.mp3"
         },
         {
-          "id": "t_11_12",
+          "id": "t_16_10",
           "text": "I inspected it.",
-          "audio": "assets/audio/t_11_12.mp3"
+          "audio": "assets/audio/t_16_10.mp3"
         },
         {
-          "id": "t_11_13",
+          "id": "t_16_11",
           "text": "One support screw was missing, so I added a new one.",
-          "audio": "assets/audio/t_11_13.mp3"
+          "audio": "assets/audio/t_16_11.mp3"
         },
         {
-          "id": "t_11_14",
-          "text": "But the frame was unstable for a long time.",
-          "audio": "assets/audio/t_11_14.mp3"
+          "id": "t_16_12",
+          "text": "But that rack was unstable for a long time.",
+          "audio": "assets/audio/t_16_12.mp3"
         },
         {
-          "id": "t_11_15",
-          "text": "We might need a new rack.",
-          "audio": "assets/audio/t_11_15.mp3"
+          "id": "t_16_13",
+          "text": "We might need to order a stronger frame.",
+          "audio": "assets/audio/t_16_13.mp3"
         },
         {
-          "id": "t_11_16",
-          "text": "Another issue, the air compressor temperature display was blurry last night.",
-          "audio": "assets/audio/t_11_16.mp3"
+          "id": "t_16_14",
+          "text": "Another issue, the lathe machine display was blurry last night.",
+          "audio": "assets/audio/t_16_14.mp3"
         },
         {
-          "id": "t_11_17",
-          "text": "We cleaned the panel, but the numbers are still unclear.",
-          "audio": "assets/audio/t_11_17.mp3"
+          "id": "t_16_15",
+          "text": "We cleaned the screen, but the numbers are still unclear.",
+          "audio": "assets/audio/t_16_15.mp3"
         },
         {
-          "id": "t_11_18",
-          "text": "I tested the wiring.",
-          "audio": "assets/audio/t_11_18.mp3"
+          "id": "t_16_16",
+          "text": "I tested the wiring earlier today.",
+          "audio": "assets/audio/t_16_16.mp3"
         },
         {
-          "id": "t_11_19",
-          "text": "Everything was fine, but the display bulb might be failing.",
-          "audio": "assets/audio/t_11_19.mp3"
+          "id": "t_16_17",
+          "text": "Everything was normal, but the bulb behind the display might be failing.",
+          "audio": "assets/audio/t_16_17.mp3"
         },
         {
-          "id": "t_11_20",
-          "text": "I ordered a replacement.",
-          "audio": "assets/audio/t_11_20.mp3"
+          "id": "t_16_18",
+          "text": "I ordered a new one, and it should arrive this evening.",
+          "audio": "assets/audio/t_16_18.mp3"
         },
         {
-          "id": "t_11_21",
-          "text": "Good. This morning the tyre inflator was shaking badly.",
-          "audio": "assets/audio/t_11_21.mp3"
+          "id": "t_16_19",
+          "text": "There is one more problem.",
+          "audio": "assets/audio/t_16_19.mp3"
         },
         {
-          "id": "t_11_22",
-          "text": "When I opened the cover, the motor was dusty.",
-          "audio": "assets/audio/t_11_22.mp3"
+          "id": "t_16_20",
+          "text": "The small workshop compressor was shaking this morning.",
+          "audio": "assets/audio/t_16_20.mp3"
         },
         {
-          "id": "t_11_23",
+          "id": "t_16_21",
+          "text": "When I opened the side cover, I saw that the motor was dusty.",
+          "audio": "assets/audio/t_16_21.mp3"
+        },
+        {
+          "id": "t_16_22",
           "text": "Yes, the motor was dusty, so I cleaned it.",
-          "audio": "assets/audio/t_11_23.mp3"
+          "audio": "assets/audio/t_16_22.mp3"
         },
         {
-          "id": "t_11_24",
+          "id": "t_16_23",
           "text": "But I will inspect the bearings after tea.",
-          "audio": "assets/audio/t_11_24.mp3"
+          "audio": "assets/audio/t_16_23.mp3"
         },
         {
-          "id": "t_11_25",
-          "text": "Thank you, sir. We can’t continue the servicing until everything is stable.",
-          "audio": "assets/audio/t_11_25.mp3"
+          "id": "t_16_24",
+          "text": "Thank you, sir. We can’t continue any precision work until everything is stable.",
+          "audio": "assets/audio/t_16_24.mp3"
         },
         {
-          "id": "t_11_26",
-          "text": "No problem, Kasun. I’ll finish all remaining checks before 11 a.m.",
-          "audio": "assets/audio/t_11_26.mp3"
+          "id": "t_16_25",
+          "text": "No worries. I will finish all the checks before 11.30 a.m.",
+          "audio": "assets/audio/t_16_25.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_11_2",
-          "text": "I think the alternator testing unit is making a strange whirring sound.",
-          "audio": "assets/audio/t_11_2.mp3"
+          "id": "t_16_1",
+          "text": "Good morning, sir. The mechanical workshop is a bit noisy today.",
+          "audio": "assets/audio/t_16_1.mp3"
         },
         {
-          "id": "t_11_4",
-          "text": "When I checked that tester, the drive belt was a little loose.",
-          "audio": "assets/audio/t_11_4.mp3"
+          "id": "t_16_2",
+          "text": "I think the belt-driven grinder is making a strange knocking sound.",
+          "audio": "assets/audio/t_16_2.mp3"
         },
         {
-          "id": "t_11_5",
-          "text": "I tightened it, but it is still making a light vibration.",
-          "audio": "assets/audio/t_11_5.mp3"
+          "id": "t_16_3",
+          "text": "Morning, Ruwan. I have been checking the machines since around 7 a.m.",
+          "audio": "assets/audio/t_16_3.mp3"
         },
         {
-          "id": "t_11_7",
-          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
-          "audio": "assets/audio/t_11_7.mp3"
+          "id": "t_16_4",
+          "text": "I also noticed the tool cabinet yesterday.",
+          "audio": "assets/audio/t_16_4.mp3"
         },
         {
-          "id": "t_11_9",
-          "text": "I adjusted it, but we might need to replace the whole hinge later.",
-          "audio": "assets/audio/t_11_9.mp3"
+          "id": "t_16_5",
+          "text": "It was fine, but this morning the top door is not closing properly because one of the hinges is bent.",
+          "audio": "assets/audio/t_16_5.mp3"
         },
         {
-          "id": "t_11_11",
-          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
-          "audio": "assets/audio/t_11_11.mp3"
+          "id": "t_16_6",
+          "text": "Yes, the hinge was bent.",
+          "audio": "assets/audio/t_16_6.mp3"
         },
         {
-          "id": "t_11_13",
+          "id": "t_16_7",
+          "text": "I adjusted it, but we might need to replace it later.",
+          "audio": "assets/audio/t_16_7.mp3"
+        },
+        {
+          "id": "t_16_8",
+          "text": "Can you also look at the storage rack?",
+          "audio": "assets/audio/t_16_8.mp3"
+        },
+        {
+          "id": "t_16_9",
+          "text": "The trainees cleaned it yesterday evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_16_9.mp3"
+        },
+        {
+          "id": "t_16_10",
+          "text": "I inspected it.",
+          "audio": "assets/audio/t_16_10.mp3"
+        },
+        {
+          "id": "t_16_11",
           "text": "One support screw was missing, so I added a new one.",
-          "audio": "assets/audio/t_11_13.mp3"
+          "audio": "assets/audio/t_16_11.mp3"
         },
         {
-          "id": "t_11_16",
-          "text": "Another issue, the air compressor temperature display was blurry last night.",
-          "audio": "assets/audio/t_11_16.mp3"
+          "id": "t_16_12",
+          "text": "But that rack was unstable for a long time.",
+          "audio": "assets/audio/t_16_12.mp3"
         },
         {
-          "id": "t_11_17",
-          "text": "We cleaned the panel, but the numbers are still unclear.",
-          "audio": "assets/audio/t_11_17.mp3"
+          "id": "t_16_13",
+          "text": "We might need to order a stronger frame.",
+          "audio": "assets/audio/t_16_13.mp3"
         },
         {
-          "id": "t_11_19",
-          "text": "Everything was fine, but the display bulb might be failing.",
-          "audio": "assets/audio/t_11_19.mp3"
+          "id": "t_16_14",
+          "text": "Another issue, the lathe machine display was blurry last night.",
+          "audio": "assets/audio/t_16_14.mp3"
         },
         {
-          "id": "t_11_21",
-          "text": "Good. This morning the tyre inflator was shaking badly.",
-          "audio": "assets/audio/t_11_21.mp3"
+          "id": "t_16_15",
+          "text": "We cleaned the screen, but the numbers are still unclear.",
+          "audio": "assets/audio/t_16_15.mp3"
         },
         {
-          "id": "t_11_22",
-          "text": "When I opened the cover, the motor was dusty.",
-          "audio": "assets/audio/t_11_22.mp3"
+          "id": "t_16_16",
+          "text": "I tested the wiring earlier today.",
+          "audio": "assets/audio/t_16_16.mp3"
+        },
+        {
+          "id": "t_16_17",
+          "text": "Everything was normal, but the bulb behind the display might be failing.",
+          "audio": "assets/audio/t_16_17.mp3"
+        },
+        {
+          "id": "t_16_18",
+          "text": "I ordered a new one, and it should arrive this evening.",
+          "audio": "assets/audio/t_16_18.mp3"
+        },
+        {
+          "id": "t_16_19",
+          "text": "There is one more problem.",
+          "audio": "assets/audio/t_16_19.mp3"
+        },
+        {
+          "id": "t_16_20",
+          "text": "The small workshop compressor was shaking this morning.",
+          "audio": "assets/audio/t_16_20.mp3"
+        },
+        {
+          "id": "t_16_21",
+          "text": "When I opened the side cover, I saw that the motor was dusty.",
+          "audio": "assets/audio/t_16_21.mp3"
+        },
+        {
+          "id": "t_16_22",
+          "text": "Yes, the motor was dusty, so I cleaned it.",
+          "audio": "assets/audio/t_16_22.mp3"
+        },
+        {
+          "id": "t_16_23",
+          "text": "But I will inspect the bearings after tea.",
+          "audio": "assets/audio/t_16_23.mp3"
+        },
+        {
+          "id": "t_16_24",
+          "text": "Thank you, sir. We can’t continue any precision work until everything is stable.",
+          "audio": "assets/audio/t_16_24.mp3"
+        },
+        {
+          "id": "t_16_25",
+          "text": "No worries. I will finish all the checks before 11.30 a.m.",
+          "audio": "assets/audio/t_16_25.mp3"
         }
       ],
-      "activity_e": [
-        {
-          "id": "t_11_2",
-          "text": "I think the alternator testing unit is making a strange whirring sound.",
-          "audio": "assets/audio/t_11_2.mp3"
-        },
-        {
-          "id": "t_11_4",
-          "text": "When I checked that tester, the drive belt was a little loose.",
-          "audio": "assets/audio/t_11_4.mp3"
-        },
-        {
-          "id": "t_11_5",
-          "text": "I tightened it, but it is still making a light vibration.",
-          "audio": "assets/audio/t_11_5.mp3"
-        },
-        {
-          "id": "t_11_7",
-          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
-          "audio": "assets/audio/t_11_7.mp3"
-        },
-        {
-          "id": "t_11_9",
-          "text": "I adjusted it, but we might need to replace the whole hinge later.",
-          "audio": "assets/audio/t_11_9.mp3"
-        },
-        {
-          "id": "t_11_11",
-          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
-          "audio": "assets/audio/t_11_11.mp3"
-        },
-        {
-          "id": "t_11_13",
-          "text": "One support screw was missing, so I added a new one.",
-          "audio": "assets/audio/t_11_13.mp3"
-        },
-        {
-          "id": "t_11_16",
-          "text": "Another issue, the air compressor temperature display was blurry last night.",
-          "audio": "assets/audio/t_11_16.mp3"
-        },
-        {
-          "id": "t_11_17",
-          "text": "We cleaned the panel, but the numbers are still unclear.",
-          "audio": "assets/audio/t_11_17.mp3"
-        },
-        {
-          "id": "t_11_19",
-          "text": "Everything was fine, but the display bulb might be failing.",
-          "audio": "assets/audio/t_11_19.mp3"
-        },
-        {
-          "id": "t_11_21",
-          "text": "Good. This morning the tyre inflator was shaking badly.",
-          "audio": "assets/audio/t_11_21.mp3"
-        },
-        {
-          "id": "t_11_22",
-          "text": "When I opened the cover, the motor was dusty.",
-          "audio": "assets/audio/t_11_22.mp3"
-        }
-      ]
+      "activity_e": 0
     }
   },
   "activity_5": {
@@ -826,13 +825,13 @@
     "content": [
       {
         "id": "v_1",
-        "audio": "assets/videos/1B.mp4",
-        "instrction": "instrction_b"
+        "audio": "assets/videos/1A.mp4",
+        "instrction": "instrction_a"
       },
       {
         "id": "v_2",
-        "audio": "assets/videos/2C.mp4",
-        "instrction": "instrction_c"
+        "audio": "assets/videos/2A.mp4",
+        "instrction": "instrction_a"
       }
     ]
   }
