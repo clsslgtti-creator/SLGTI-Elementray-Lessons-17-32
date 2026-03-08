@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "dish",
+        "word_text": "'d'ish",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "She served the Indonesian dish a minute ago.",
+        "sentence_text": "She served the Indonesian 'd'ish a minute ago.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "dough",
+        "word_text": "'d'ough",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They mixed the dough slowly a while ago.",
+        "sentence_text": "They mixed the 'd'ough slowly a while ago.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "salad",
+        "word_text": "sala'd'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "He prepared a salad for lunch last Sunday.",
+        "sentence_text": "He prepared a sala'd' for lunch last Sunday.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "bread",
+        "word_text": "brea'd'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The bread was soft and fresh this morning.",
+        "sentence_text": "The brea'd' was soft and fresh this morning.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
