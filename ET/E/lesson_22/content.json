@@ -1,0 +1,839 @@
+{
+  "meta": {
+    "lesson_no": 21,
+    "level": "Elementary",
+    "section": "Electrical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "D",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "diagram",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "He corrected a diagram of the circuit a minute ago.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "display",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The high-resolution display indicated the voltage a second ago.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.jpeg"
+      },
+      {
+        "id": "p_3",
+        "word_text": "ground",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "They connected the earth wire to the ground yesterday afternoon.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.jpeg"
+      },
+      {
+        "id": "p_4",
+        "word_text": "board",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "He fixed the board inside the wooden box last Tuesday.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Simple Present, regular verbs",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [["I work every day."], ["I worked yesterday."]],
+      [["I play the piano every day."], ["I played the piano yesterday."]],
+      [["I rest every day."], ["I rested yesterday."]]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "I baked cupcakes all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "I served vegetarian meals all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "I fixed motor bikes all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "watched training videos"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "listened to interviews"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "studied our notes"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "waited at the service centre"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "cried"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "played cricket"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "I watched training videos all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "I listened to interviews all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "We studied our notes all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "We waited at the service centre all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "We cried all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "You look very tired. What did you do yesterday?",
+        "text_b": "I played cricket all day.",
+        "audio_a": "assets/audio/a_2_d_q.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-4",
+    "instructions": {
+      "activity_a": {
+        "text": "Put the words in the correct order. The first word in each sentence is in bold.\nවචන නිවැරදි අනුපිළිවෙලට තබන්න. සෑම වාක්‍යයකම පළමු වචනය තද අකුරින් ලියවා ඇත.\nசொற்களை சரியான வரிசையில் வைக்கவும். ஒவ்வொரு வாக்கியத்திலும் முதல் வார்த்தை திட எழுத்தில் உள்ளது.",
+        "audio": "assets/audio/a_3_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "n_3_a_1",
+            "audio": "assets/audio/a_3_1.mp3",
+            "words": [
+              "She",
+              "painted",
+              "the",
+              "old",
+              "service",
+              "trolley",
+              "yesterday",
+              "."
+            ],
+            "sentence": "She painted the old service trolley yesterday."
+          },
+          {
+            "id": "n_3_a_2",
+            "audio": "assets/audio/a_3_2.mp3",
+            "words": [
+              "He",
+              "opened",
+              "the",
+              "workshop",
+              "shutter",
+              "last",
+              "Wednesday",
+              "."
+            ],
+            "sentence": "He opened the workshop shutter last Wednesday."
+          },
+          {
+            "id": "n_3_a_3",
+            "audio": "assets/audio/a_3_3.mp3",
+            "words": [
+              "They",
+              "washed",
+              "the",
+              "dusty",
+              "windshields",
+              "yesterday",
+              "morning",
+              "."
+            ],
+            "sentence": "They washed the dusty windshields yesterday morning."
+          },
+          {
+            "id": "n_3_a_4",
+            "audio": "assets/audio/a_3_4.mp3",
+            "words": [
+              "I",
+              "collected",
+              "the",
+              "spare",
+              "parts",
+              "last",
+              "Tuesday",
+              "."
+            ],
+            "sentence": "I collected the spare parts last Tuesday."
+          },
+          {
+            "id": "n_3_a_5",
+            "audio": "assets/audio/a_3_5.mp3",
+            "words": [
+              "We",
+              "repaired",
+              "the",
+              "broken",
+              "jack",
+              "last",
+              "month",
+              "."
+            ],
+            "sentence": "We repaired the broken jack last month."
+          },
+          {
+            "id": "n_3_a_6",
+            "audio": "assets/audio/a_3_6.mp3",
+            "words": [
+              "She",
+              "finished",
+              "the",
+              "inspection",
+              "checklist",
+              "yesterday",
+              "afternoon",
+              "."
+            ],
+            "sentence": "She finished the inspection checklist yesterday afternoon."
+          },
+          {
+            "id": "n_3_a_7",
+            "audio": "assets/audio/a_3_7.mp3",
+            "words": [
+              "He",
+              "started",
+              "the",
+              "automotive",
+              "training",
+              "course",
+              "."
+            ],
+            "sentence": "He started the automotive training course."
+          },
+          {
+            "id": "n_3_a_8",
+            "audio": "assets/audio/a_3_8.mp3",
+            "words": [
+              "They",
+              "placed",
+              "safety",
+              "cones",
+              "along",
+              "the",
+              "driveway",
+              "."
+            ],
+            "sentence": "They placed safety cones along the driveway."
+          },
+          {
+            "id": "n_3_a_9",
+            "audio": "assets/audio/a_3_9.mp3",
+            "words": [
+              "I",
+              "cleaned",
+              "the",
+              "testing",
+              "bay",
+              "yesterday",
+              "."
+            ],
+            "sentence": "I cleaned the testing bay yesterday."
+          },
+          {
+            "id": "n_3_a_10",
+            "audio": "assets/audio/a_3_10.mp3",
+            "words": [
+              "We",
+              "mailed",
+              "the",
+              "service",
+              "reports",
+              "last",
+              "Friday",
+              "."
+            ],
+            "sentence": "We mailed the service reports last Friday."
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "a_3_1",
+          "text": "She painted the old service trolley yesterday.",
+          "audio": "assets/audio/a_3_1.mp3"
+        },
+        {
+          "id": "a_3_2",
+          "text": "He opened the workshop shutter last Wednesday.",
+          "audio": "assets/audio/a_3_2.mp3"
+        },
+        {
+          "id": "a_3_3",
+          "text": "They washed the dusty windshields yesterday morning.",
+          "audio": "assets/audio/a_3_3.mp3"
+        },
+        {
+          "id": "a_3_4",
+          "text": "I collected the spare parts last Tuesday.",
+          "audio": "assets/audio/a_3_4.mp3"
+        },
+        {
+          "id": "a_3_5",
+          "text": "We repaired the broken jack last month.",
+          "audio": "assets/audio/a_3_5.mp3"
+        },
+        {
+          "id": "a_3_6",
+          "text": "She finished the inspection checklist yesterday afternoon.",
+          "audio": "assets/audio/a_3_6.mp3"
+        },
+        {
+          "id": "a_3_7",
+          "text": "He started the automotive training course.",
+          "audio": "assets/audio/a_3_7.mp3"
+        },
+        {
+          "id": "a_3_8",
+          "text": "They placed safety cones along the driveway.",
+          "audio": "assets/audio/a_3_8.mp3"
+        },
+        {
+          "id": "a_3_9",
+          "text": "I cleaned the testing bay yesterday.",
+          "audio": "assets/audio/a_3_9.mp3"
+        },
+        {
+          "id": "a_3_10",
+          "text": "We mailed the service reports last Friday.",
+          "audio": "assets/audio/a_3_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-9",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the recording and match the words to the  pictures. \nපටිගත කිරීම අසන්න සහ වචන පින්තූර සමඟ ගැලපෙන්න.\nபதிவை கேட்டு, சொற்களை படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_i.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "word": "Bent hinges",
+            "image": "assets/img/a_4_1_1.png"
+          },
+          {
+            "id": "n_4_a_2",
+            "word": "Blurry display",
+            "image": "assets/img/a_4_1_2.png"
+          },
+          {
+            "id": "n_4_a_3",
+            "word": "Loose belt",
+            "image": "assets/img/a_4_1_3.png"
+          },
+          {
+            "id": "n_4_a_4",
+            "word": "Missing screw",
+            "image": "assets/img/a_4_1_4.png"
+          },
+          {
+            "id": "n_4_a_5",
+            "word": "Unstable rack",
+            "image": "assets/img/a_4_1_5.png"
+          },
+          {
+            "id": "n_4_a_6",
+            "word": "Dusty motor",
+            "image": "assets/img/a_4_1_6.png"
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_13_1",
+            "question": "Why was the alternator tester making a strange sound?",
+            "answer": "The drive belt was loose.",
+            "options": [
+              "The motor was burnt.",
+              "The drive belt was loose.",
+              "The drive belt was very loose."
+            ]
+          },
+          {
+            "id": "l_13_2",
+            "question": "Why is the tool cabinet door not closing properly?",
+            "answer": "A hinge was bent.",
+            "options": [
+              "The handle fell off.",
+              "All the hinges were bent.",
+              "A hinge was bent."
+            ]
+          },
+          {
+            "id": "l_13_3",
+            "question": "What problem did the storage rack have?",
+            "answer": "It was unstable and a screw was missing.",
+            "options": [
+              "It was overloaded with parts.",
+              "It was unstable because all the screws were missing.",
+              "It was unstable and a screw was missing."
+            ]
+          },
+          {
+            "id": "l_13_4",
+            "question": "Why is the compressor display still unclear?",
+            "answer": "The display bulb might be failing.",
+            "options": [
+              "The display bulb might be failing.",
+              "The display bulb might be broken.",
+              "The numbers were painted over."
+            ]
+          },
+          {
+            "id": "l_13_5",
+            "question": "Why was the tyre inflator shaking?",
+            "answer": "The motor was dusty.",
+            "options": [
+              "The belt snapped.",
+              "The motor was dusty.",
+              "The bearings were dusty."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_11_1",
+          "text": "Good morning, sir. The workshop floor is a bit noisy today.",
+          "audio": "assets/audio/t_11_1.mp3"
+        },
+        {
+          "id": "t_11_2",
+          "text": "I think the alternator testing unit is making a strange whirring sound.",
+          "audio": "assets/audio/t_11_2.mp3"
+        },
+        {
+          "id": "t_11_3",
+          "text": "Morning, Kasun. I’ve been checking the machines since early morning.",
+          "audio": "assets/audio/t_11_3.mp3"
+        },
+        {
+          "id": "t_11_4",
+          "text": "When I checked that tester, the drive belt was a little loose.",
+          "audio": "assets/audio/t_11_4.mp3"
+        },
+        {
+          "id": "t_11_5",
+          "text": "I tightened it, but it is still making a light vibration.",
+          "audio": "assets/audio/t_11_5.mp3"
+        },
+        {
+          "id": "t_11_6",
+          "text": "I also noticed the tool cabinet yesterday.",
+          "audio": "assets/audio/t_11_6.mp3"
+        },
+        {
+          "id": "t_11_7",
+          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
+          "audio": "assets/audio/t_11_7.mp3"
+        },
+        {
+          "id": "t_11_8",
+          "text": "Yes, one of the hinges was bent.",
+          "audio": "assets/audio/t_11_8.mp3"
+        },
+        {
+          "id": "t_11_9",
+          "text": "I adjusted it, but we might need to replace the whole hinge later.",
+          "audio": "assets/audio/t_11_9.mp3"
+        },
+        {
+          "id": "t_11_10",
+          "text": "Can you also look at the storage rack?",
+          "audio": "assets/audio/t_11_10.mp3"
+        },
+        {
+          "id": "t_11_11",
+          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_11_11.mp3"
+        },
+        {
+          "id": "t_11_12",
+          "text": "I inspected it.",
+          "audio": "assets/audio/t_11_12.mp3"
+        },
+        {
+          "id": "t_11_13",
+          "text": "One support screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_11_13.mp3"
+        },
+        {
+          "id": "t_11_14",
+          "text": "But the frame was unstable for a long time.",
+          "audio": "assets/audio/t_11_14.mp3"
+        },
+        {
+          "id": "t_11_15",
+          "text": "We might need a new rack.",
+          "audio": "assets/audio/t_11_15.mp3"
+        },
+        {
+          "id": "t_11_16",
+          "text": "Another issue, the air compressor temperature display was blurry last night.",
+          "audio": "assets/audio/t_11_16.mp3"
+        },
+        {
+          "id": "t_11_17",
+          "text": "We cleaned the panel, but the numbers are still unclear.",
+          "audio": "assets/audio/t_11_17.mp3"
+        },
+        {
+          "id": "t_11_18",
+          "text": "I tested the wiring.",
+          "audio": "assets/audio/t_11_18.mp3"
+        },
+        {
+          "id": "t_11_19",
+          "text": "Everything was fine, but the display bulb might be failing.",
+          "audio": "assets/audio/t_11_19.mp3"
+        },
+        {
+          "id": "t_11_20",
+          "text": "I ordered a replacement.",
+          "audio": "assets/audio/t_11_20.mp3"
+        },
+        {
+          "id": "t_11_21",
+          "text": "Good. This morning the tyre inflator was shaking badly.",
+          "audio": "assets/audio/t_11_21.mp3"
+        },
+        {
+          "id": "t_11_22",
+          "text": "When I opened the cover, the motor was dusty.",
+          "audio": "assets/audio/t_11_22.mp3"
+        },
+        {
+          "id": "t_11_23",
+          "text": "Yes, the motor was dusty, so I cleaned it.",
+          "audio": "assets/audio/t_11_23.mp3"
+        },
+        {
+          "id": "t_11_24",
+          "text": "But I will inspect the bearings after tea.",
+          "audio": "assets/audio/t_11_24.mp3"
+        },
+        {
+          "id": "t_11_25",
+          "text": "Thank you, sir. We can’t continue the servicing until everything is stable.",
+          "audio": "assets/audio/t_11_25.mp3"
+        },
+        {
+          "id": "t_11_26",
+          "text": "No problem, Kasun. I’ll finish all remaining checks before 11 a.m.",
+          "audio": "assets/audio/t_11_26.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_11_2",
+          "text": "I think the alternator testing unit is making a strange whirring sound.",
+          "audio": "assets/audio/t_11_2.mp3"
+        },
+        {
+          "id": "t_11_4",
+          "text": "When I checked that tester, the drive belt was a little loose.",
+          "audio": "assets/audio/t_11_4.mp3"
+        },
+        {
+          "id": "t_11_5",
+          "text": "I tightened it, but it is still making a light vibration.",
+          "audio": "assets/audio/t_11_5.mp3"
+        },
+        {
+          "id": "t_11_7",
+          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
+          "audio": "assets/audio/t_11_7.mp3"
+        },
+        {
+          "id": "t_11_9",
+          "text": "I adjusted it, but we might need to replace the whole hinge later.",
+          "audio": "assets/audio/t_11_9.mp3"
+        },
+        {
+          "id": "t_11_11",
+          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_11_11.mp3"
+        },
+        {
+          "id": "t_11_13",
+          "text": "One support screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_11_13.mp3"
+        },
+        {
+          "id": "t_11_16",
+          "text": "Another issue, the air compressor temperature display was blurry last night.",
+          "audio": "assets/audio/t_11_16.mp3"
+        },
+        {
+          "id": "t_11_17",
+          "text": "We cleaned the panel, but the numbers are still unclear.",
+          "audio": "assets/audio/t_11_17.mp3"
+        },
+        {
+          "id": "t_11_19",
+          "text": "Everything was fine, but the display bulb might be failing.",
+          "audio": "assets/audio/t_11_19.mp3"
+        },
+        {
+          "id": "t_11_21",
+          "text": "Good. This morning the tyre inflator was shaking badly.",
+          "audio": "assets/audio/t_11_21.mp3"
+        },
+        {
+          "id": "t_11_22",
+          "text": "When I opened the cover, the motor was dusty.",
+          "audio": "assets/audio/t_11_22.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_11_2",
+          "text": "I think the alternator testing unit is making a strange whirring sound.",
+          "audio": "assets/audio/t_11_2.mp3"
+        },
+        {
+          "id": "t_11_4",
+          "text": "When I checked that tester, the drive belt was a little loose.",
+          "audio": "assets/audio/t_11_4.mp3"
+        },
+        {
+          "id": "t_11_5",
+          "text": "I tightened it, but it is still making a light vibration.",
+          "audio": "assets/audio/t_11_5.mp3"
+        },
+        {
+          "id": "t_11_7",
+          "text": "It was fine, but today the main door hinge is bent and it is not closing properly.",
+          "audio": "assets/audio/t_11_7.mp3"
+        },
+        {
+          "id": "t_11_9",
+          "text": "I adjusted it, but we might need to replace the whole hinge later.",
+          "audio": "assets/audio/t_11_9.mp3"
+        },
+        {
+          "id": "t_11_11",
+          "text": "The trainees cleaned it last evening, but this morning it looked unstable on the right side.",
+          "audio": "assets/audio/t_11_11.mp3"
+        },
+        {
+          "id": "t_11_13",
+          "text": "One support screw was missing, so I added a new one.",
+          "audio": "assets/audio/t_11_13.mp3"
+        },
+        {
+          "id": "t_11_16",
+          "text": "Another issue, the air compressor temperature display was blurry last night.",
+          "audio": "assets/audio/t_11_16.mp3"
+        },
+        {
+          "id": "t_11_17",
+          "text": "We cleaned the panel, but the numbers are still unclear.",
+          "audio": "assets/audio/t_11_17.mp3"
+        },
+        {
+          "id": "t_11_19",
+          "text": "Everything was fine, but the display bulb might be failing.",
+          "audio": "assets/audio/t_11_19.mp3"
+        },
+        {
+          "id": "t_11_21",
+          "text": "Good. This morning the tyre inflator was shaking badly.",
+          "audio": "assets/audio/t_11_21.mp3"
+        },
+        {
+          "id": "t_11_22",
+          "text": "When I opened the cover, the motor was dusty.",
+          "audio": "assets/audio/t_11_22.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
