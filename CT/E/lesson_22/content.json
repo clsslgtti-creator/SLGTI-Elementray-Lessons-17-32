@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "door",
+        "word_text": "'d'oor",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "They fixed the door of the room last night.",
+        "sentence_text": "They fixed the 'd'oor of the room last night.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "design",
+        "word_text": "'d'esign",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He corrected the design on paper a while ago.",
+        "sentence_text": "He corrected the 'd'esign on paper a while ago.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "wood",
+        "word_text": "woo'd'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The wood was strong and dry yesterday.",
+        "sentence_text": "The woo'd' was strong and dry yesterday.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sand",
+        "word_text": "san'd'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "They carried the sand for the bricks on their backs.",
+        "sentence_text": "They carried the san'd' for the bricks on their backs.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
