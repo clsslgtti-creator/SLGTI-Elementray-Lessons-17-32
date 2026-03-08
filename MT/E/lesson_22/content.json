@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "drill",
+        "word_text": "'d'rill",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He used a drill to make holes in the wall yesterday.",
+        "sentence_text": "He used a 'd'rill to make holes in the wall yesterday.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "device",
+        "word_text": "'d'evice",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The device was on the table a minute ago.",
+        "sentence_text": "The 'd'evice was on the table a minute ago.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "thread",
+        "word_text": "threa'd'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "She lubricated the thread a while ago.",
+        "sentence_text": "She lubricated the threa'd' a while ago.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "rod",
+        "word_text": "ro'd'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This rod is made of high-carbon steel.",
+        "sentence_text": "This ro'd' is made of high-carbon steel.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
