@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "cake",
+        "word_text": "'c'a'k'e",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "She ate a cake at the event yesterday evening.",
+        "sentence_text": "She ate a 'c'a'k'e at the event yesterday evening.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "cook",
+        "word_text": "'c'oo'k'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The cook prepared some food in the kitchen last Sunday.",
+        "sentence_text": "The 'c'oo'k' prepared some food in the kitchen last Sunday.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "milk",
+        "word_text": "mil'k'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "They drank milk this morning.",
+        "sentence_text": "They drank mil'k' this morning.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "snack",
+        "word_text": "sna'ck'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He left the hot snack on the kitchen table.",
+        "sentence_text": "He left the hot sna'ck' on the kitchen table.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
