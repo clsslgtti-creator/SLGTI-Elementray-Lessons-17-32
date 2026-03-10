@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "column",
+        "word_text": "'c'olumn",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The main hall is supported by four strong columns.",
+        "sentence_text": "The main hall is supported by four strong 'c'olumns.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "brick",
+        "word_text": "bri'ck'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He set one brick at a time last Friday.",
+        "sentence_text": "He set one bri'ck' at a time last Friday.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "block",
+        "word_text": "blo'ck'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "They carried the heavy block carefully two days ago.",
+        "sentence_text": "They carried the heavy blo'ck' carefully two days ago.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pick",
+        "word_text": "pi'ck'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He dug the soil with a pick yesterday morning.",
+        "sentence_text": "He dug the soil with a pi'ck' yesterday morning.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
