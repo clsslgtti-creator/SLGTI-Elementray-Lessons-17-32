@@ -511,59 +511,54 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "q_1",
-            "sentence": "Why was the burn gel finished?",
-            "audio": "assets/audio/q_1.mp3",
+            "id": "l_14_1",
+            "question": "Why was the burn gel finished?",
+            "answer": "It was used when Nirmal touched a hot radiator pipe.",
             "options": [
               "It was used when Aisha touched a rusty clamp.",
               "It was used when Nirmal touched a hot radiator pipe.",
               "It was misplaced by Nirmal when he worked on the radiator pipe."
-            ],
-            "answer": "It was used when Nirmal touched a hot radiator pipe."
+            ]
           },
           {
-            "id": "q_2",
-            "sentence": "Why did Kasun need the tweezers?",
-            "audio": "assets/audio/q_2.mp3",
+            "id": "l_14_2",
+            "question": "Why did Kasun need the tweezers?",
+            "answer": "He had a splinter in his finger.",
             "options": [
               "He had a splinter in his arm.",
               "He had dust in his eye.",
               "He had a splinter in his finger."
-            ],
-            "answer": "He had a splinter in his finger."
+            ]
           },
           {
-            "id": "q_3",
-            "sentence": "Why were the eye drops used?",
-            "audio": "assets/audio/q_3.mp3",
+            "id": "l_14_3",
+            "question": "Why were the eye drops used?",
+            "answer": "Saman got dust in his eye.",
             "options": [
               "Saman got dust in his eye.",
               "Saman knocked his eye against the tyre-balancing machine.",
               "Malik got dust in his eye."
-            ],
-            "answer": "Saman got dust in his eye."
+            ]
           },
           {
-            "id": "q_4",
-            "sentence": "Why did Malik have a sore shoulder?",
-            "audio": "assets/audio/q_4.mp3",
+            "id": "l_14_4",
+            "question": "Why did Malik have a sore shoulder?",
+            "answer": "He lifted heavy rims without warming up.",
             "options": [
               "He lifted heavy rims without warming up.",
               "He slipped on oil.",
               "He carried a toolbox for too long."
-            ],
-            "answer": "He lifted heavy rims without warming up."
+            ]
           },
           {
-            "id": "q_5",
-            "sentence": "What is the trainee going to request today?",
-            "audio": "assets/audio/q_5.mp3",
+            "id": "l_14_5",
+            "question": "What is the trainee going to request today?",
+            "answer": "A new box of gloves.",
             "options": [
               "A new box of gloves.",
               "A new set of overalls.",
               "A new pair of gloves."
-            ],
-            "answer": "A new box of gloves."
+            ]
           }
         ]
       },

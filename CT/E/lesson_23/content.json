@@ -1,0 +1,923 @@
+{
+  "meta": {
+    "lesson_no": 23,
+    "level": "Elementary",
+    "section": "Construction Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "K",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "column",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The main hall is supported by four strong columns.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "brick",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "He set one brick at a time last Friday.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "block",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "They carried the heavy block carefully two days ago.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "pick",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "He dug the soil with a pick yesterday morning.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Past tense irregular",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [["I eat rice every day."], ["I ate rice yesterday."]],
+      [["I go to the gym every day."], ["I ate rice yesterday."]],
+      [["I meet my friends every day."], ["I met my friends yesterday."]]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Sunil is not feeling too well. He has a headache.",
+        "text_c": "A headache? How did he get it?",
+        "text_d": "He drove an open car all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_1_b.mp3",
+        "audio_c": "assets/audio/d_1_c.mp3",
+        "audio_d": "assets/audio/d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Ravi is not feeling too well. He has a sore throat.",
+        "text_c": "A sore throat? How did he get it?",
+        "text_d": "He ate mangoes all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_2_b.mp3",
+        "audio_c": "assets/audio/d_2_c.mp3",
+        "audio_d": "assets/audio/d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Meena is not feeling too well. She has a backache.",
+        "text_c": "A backache? How did she get it?",
+        "text_d": "She bent metal sheets all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_3_b.mp3",
+        "audio_c": "assets/audio/d_3_c.mp3",
+        "audio_d": "assets/audio/d_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "fever"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "stomachache"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "sprained ankle"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "bad cough"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "red eyes"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "pulled muscle"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Sunil is not feeling too well. He has a fever.",
+        "text_c": "A fever? How did he get it?",
+        "text_d": "He stood near the cold air compressor all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_4_b.mp3",
+        "audio_c": "assets/audio/d_4_c.mp3",
+        "audio_d": "assets/audio/d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Thilini is not feeling too well. She has a stomachache.",
+        "text_c": "A stomachache? How did she get it?",
+        "text_d": "She drank spoilt milk all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_5_b.mp3",
+        "audio_c": "assets/audio/d_5_c.mp3",
+        "audio_d": "assets/audio/d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Kasun is not feeling too well. He has a sprained ankle.",
+        "text_c": "A sprained ankle? How did he get it?",
+        "text_d": "He rode the workshop motorbike around the yard all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_6_b.mp3",
+        "audio_c": "assets/audio/d_6_c.mp3",
+        "audio_d": "assets/audio/d_6_d.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Nadeesha is not feeling too well. She has a bad cough.",
+        "text_c": "A bad cough? How did she get it?",
+        "text_d": "She spoke to the workmen in the dusty carpentry room all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_7_b.mp3",
+        "audio_c": "assets/audio/d_7_c.mp3",
+        "audio_d": "assets/audio/d_7_d.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Janani is not feeling too well. She has red eyes.",
+        "text_c": "Red eyes? How did she get them?",
+        "text_d": "She wore her contact lenses all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_8_b.mp3",
+        "audio_c": "assets/audio/d_8_c.mp3",
+        "audio_d": "assets/audio/d_8_d.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "What’s the matter?",
+        "text_b": "Dilshan is not feeling too well. He has a pulled muscle.",
+        "text_c": "A pulled muscle? How did he get it?",
+        "text_d": "He ran around the mechanical yard all day yesterday.",
+        "audio_a": "assets/audio/d_x_a.mp3",
+        "audio_b": "assets/audio/d_9_b.mp3",
+        "audio_c": "assets/audio/d_9_c.mp3",
+        "audio_d": "assets/audio/d_9_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "I have a splinter in my finger.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "I think you should run cool water over the burn for a few minutes.",
+              "I think we should remove the splinter gently with clean tweezers.",
+              "I think you should stretch your neck and take a short break."
+            ],
+            "answer": "I think we should remove the splinter gently with clean tweezers.",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "I have a mild burn on my hand.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "I think you should run cool water over the burn for a few minutes.",
+              "I think we should apply a cold compress to the bruise.",
+              "I think you should flush your eye with clean water immediately."
+            ],
+            "answer": "I think you should run cool water over the burn for a few minutes.",
+            "image": "assets/img/g_b_2.png"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "I have a small cut on my finger.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "I think we should clean the wound and put a small plaster on it.",
+              "I think you should rest your shoulder and do a gentle stretch.",
+              "I think you should stretch your neck and take a short break."
+            ],
+            "answer": "I think we should clean the wound and put a small plaster on it.",
+            "image": "assets/img/g_b_3.png"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "I have a stiff neck.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "I think you should stretch your neck and take a short break.",
+              "I think you should flush your eye with clean water immediately.",
+              "I think you should do steam inhalation as soon as possible."
+            ],
+            "answer": "I think you should stretch your neck and take a short break.",
+            "image": "assets/img/g_b_4.png"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "I have dust in my eye.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "I think you should flush your eye with clean water immediately.",
+              "I think we should apply a cold compress to the bruise.",
+              "I think you should put some ice on it to reduce the swelling."
+            ],
+            "answer": "I think you should flush your eye with clean water immediately.",
+            "image": "assets/img/g_b_5.jpeg"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "I have a bruise on my arm.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "I think we should apply a cold compress to the bruise.",
+              "I think you should run cool water over the burn for a few minutes.",
+              "I think you should rest your shoulder and do a gentle stretch."
+            ],
+            "answer": "I think we should apply a cold compress to the bruise.",
+            "image": "assets/img/g_b_6.jpeg"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "I have a stubbed toe.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "You should put some ice on it to reduce the swelling.",
+              "I think you should rest your knee and avoid leaning or kneeling.",
+              "I think you should do steam inhalation as soon as possible."
+            ],
+            "answer": "You should put some ice on it to reduce the swelling.",
+            "image": "assets/img/g_b_7.jpeg"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "I have a sore shoulder.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "I think you should rest your shoulder and do a gentle stretch.",
+              "I think you should stretch your neck and take a short break.",
+              "I think you should flush your eye with clean water immediately."
+            ],
+            "answer": "I think you should rest your shoulder and do a gentle stretch.",
+            "image": "assets/img/g_b_8.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "I have a sore knee.",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "I think you should rest your knee and avoid leaning or kneeling.",
+              "I think we should clean the wound and put a small plaster on it.",
+              "I think you should put some ice on it to reduce the swelling."
+            ],
+            "answer": "I think you should rest your knee and avoid leaning or kneeling.",
+            "image": "assets/img/g_b_9.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "I have a blocked nose.",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "I think you should do steam inhalation as soon as possible.",
+              "I think we should remove the splinter gently with clean tweezers.",
+              "I think you should run cool water over the burn for a few minutes."
+            ],
+            "answer": "I think you should do steam inhalation as soon as possible.",
+            "image": "assets/img/g_b_10.png"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "I have a splinter in my finger.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "I think we should remove the splinter gently with clean tweezers.",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "I have a mild burn on my hand.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "I think you should run cool water over the burn for a few minutes.",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "I have a small cut on my finger.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "I think we should clean the wound and put a small plaster on it.",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "I have a stiff neck.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "I think you should stretch your neck and take a short break.",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "I have dust in my eye.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "I think you should flush your eye with clean water immediately.",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "I have a bruise on my arm.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "I think we should apply a cold compress to the bruise.",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "I have a stubbed toe.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "You should put some ice on it to reduce the swelling.",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "I have a sore shoulder.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "I think you should rest your shoulder and do a gentle stretch.",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "I have a sore knee.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_9_a",
+          "text": "I think you should rest your knee and avoid leaning or kneeling.",
+          "audio": "assets/audio/g_b_9_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "I have a blocked nose.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "I think you should do steam inhalation as soon as possible.",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_14_1",
+            "question": "Why was the burn gel finished?",
+            "answer": "It was used when Nadee touched a hot cement-mixing ring.",
+            "options": [
+              "It was used when Nadee touched hot metal mesh.",
+              "It was used when Nadee touched a hot cement-mixing ring.",
+              "It was used because Haran injured his knee."
+            ]
+          },
+          {
+            "id": "l_14_2",
+            "question": "Why did Haran need the tweezers?",
+            "answer": "He had a splinter from a cracked formwork panel.",
+            "options": [
+              "He had a splinter from a cracked formwork panel.",
+              "He had a bruise from scaffolding.",
+              "He slipped on wet cement."
+            ]
+          },
+          {
+            "id": "l_14_3",
+            "question": "Why were the eye drops used?",
+            "answer": "Suresh got cement dust in his eye.",
+            "options": [
+              "Suresh got cement dust in his eye.",
+              "Lalith bumped his eye on the cement bags.",
+              "Suresh removed dust from his eye."
+            ]
+          },
+          {
+            "id": "l_14_4",
+            "question": "Why did Arjun have a sore shoulder?",
+            "answer": "He lifted cement bags without warming up.",
+            "options": [
+              "He lifted cement bags without warming up.",
+              "He tripped over metal rods.",
+              "He stacked cement bags after warming up."
+            ]
+          },
+          {
+            "id": "l_14_5",
+            "question": "What is the trainee going to request today?",
+            "answer": "A new box of gloves.",
+            "options": [
+              "A new pair of gloves.",
+              "A new box of gloves.",
+              "A new batch of concrete."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_18_1",
+          "text": "Good morning. I’m doing my safety inspection in the construction workshop.",
+          "audio": "assets/audio/t_18_1.mp3"
+        },
+        {
+          "id": "t_18_2",
+          "text": "I noticed your first-aid kit looks almost empty.",
+          "audio": "assets/audio/t_18_2.mp3"
+        },
+        {
+          "id": "t_18_3",
+          "text": "Before I file a report, can you tell me what happened?",
+          "audio": "assets/audio/t_18_3.mp3"
+        },
+        {
+          "id": "t_18_4",
+          "text": "I heard there were a few small accidents this week.",
+          "audio": "assets/audio/t_18_4.mp3"
+        },
+        {
+          "id": "t_18_5",
+          "text": "Good morning, sir. Yes, there were several minor incidents.",
+          "audio": "assets/audio/t_18_5.mp3"
+        },
+        {
+          "id": "t_18_6",
+          "text": "On Monday, Janith got a small cut on his finger while trimming metal mesh for the concrete reinforcement frame.",
+          "audio": "assets/audio/t_18_6.mp3"
+        },
+        {
+          "id": "t_18_7",
+          "text": "We used the last pack of sterile wipes for that.",
+          "audio": "assets/audio/t_18_7.mp3"
+        },
+        {
+          "id": "t_18_8",
+          "text": "Then yesterday, Nadee got a mild burn on her hand after touching a hot cement-mixing ring that had been running for a long time.",
+          "audio": "assets/audio/t_18_8.mp3"
+        },
+        {
+          "id": "t_18_9",
+          "text": "So the burn gel finished.",
+          "audio": "assets/audio/t_18_9.mp3"
+        },
+        {
+          "id": "t_18_10",
+          "text": "And what about the missing tweezers and eye drops?",
+          "audio": "assets/audio/t_18_10.mp3"
+        },
+        {
+          "id": "t_18_11",
+          "text": "They should always be in the kit.",
+          "audio": "assets/audio/t_18_11.mp3"
+        },
+        {
+          "id": "t_18_12",
+          "text": "Those were used on Tuesday.",
+          "audio": "assets/audio/t_18_12.mp3"
+        },
+        {
+          "id": "t_18_13",
+          "text": "Haran got a splinter in his finger from a cracked wooden formwork panel.",
+          "audio": "assets/audio/t_18_13.mp3"
+        },
+        {
+          "id": "t_18_14",
+          "text": "We removed it with the only tweezers, but they slipped and broke.",
+          "audio": "assets/audio/t_18_14.mp3"
+        },
+        {
+          "id": "t_18_15",
+          "text": "The eye drops finished because Suresh got dust in his eye near the tile-cutting area.",
+          "audio": "assets/audio/t_18_15.mp3"
+        },
+        {
+          "id": "t_18_16",
+          "text": "There was too much cement powder in the air.",
+          "audio": "assets/audio/t_18_16.mp3"
+        },
+        {
+          "id": "t_18_17",
+          "text": "I also noticed empty bandages and no cold pack.",
+          "audio": "assets/audio/t_18_17.mp3"
+        },
+        {
+          "id": "t_18_18",
+          "text": "Was there another incident?",
+          "audio": "assets/audio/t_18_18.mp3"
+        },
+        {
+          "id": "t_18_19",
+          "text": "Yesterday afternoon, Lalith had a bruise on his arm after bumping into the scaffolding frame while carrying bricks.",
+          "audio": "assets/audio/t_18_19.mp3"
+        },
+        {
+          "id": "t_18_20",
+          "text": "This morning, Arjun complained about a stiff neck and sore shoulder after lifting cement bags without warming up.",
+          "audio": "assets/audio/t_18_20.mp3"
+        },
+        {
+          "id": "t_18_21",
+          "text": "Later, Piyal mentioned a sore knee from kneeling on rough concrete during tile-alignment work.",
+          "audio": "assets/audio/t_18_21.mp3"
+        },
+        {
+          "id": "t_18_22",
+          "text": "These are avoidable.",
+          "audio": "assets/audio/t_18_22.mp3"
+        },
+        {
+          "id": "t_18_23",
+          "text": "And where are the gloves?",
+          "audio": "assets/audio/t_18_23.mp3"
+        },
+        {
+          "id": "t_18_24",
+          "text": "They were listed in last month’s inventory.",
+          "audio": "assets/audio/t_18_24.mp3"
+        },
+        {
+          "id": "t_18_25",
+          "text": "The gloves finished last week.",
+          "audio": "assets/audio/t_18_25.mp3"
+        },
+        {
+          "id": "t_18_26",
+          "text": "Everyone has dry hands from constant mixing, washing tools, and handling cement.",
+          "audio": "assets/audio/t_18_26.mp3"
+        },
+        {
+          "id": "t_18_27",
+          "text": "And who had the blocked nose that was written in your log?",
+          "audio": "assets/audio/t_18_27.mp3"
+        },
+        {
+          "id": "t_18_28",
+          "text": "That was Saman.",
+          "audio": "assets/audio/t_18_28.mp3"
+        },
+        {
+          "id": "t_18_29",
+          "text": "He stood too close to the mortar-mixing area, and the dust irritated his nose.",
+          "audio": "assets/audio/t_18_29.mp3"
+        },
+        {
+          "id": "t_18_30",
+          "text": "Alright. The accidents are small, but missing items are serious.",
+          "audio": "assets/audio/t_18_30.mp3"
+        },
+        {
+          "id": "t_18_31",
+          "text": "Restock everything before tomorrow.",
+          "audio": "assets/audio/t_18_31.mp3"
+        },
+        {
+          "id": "t_18_32",
+          "text": "I’ll check again in the afternoon.",
+          "audio": "assets/audio/t_18_32.mp3"
+        },
+        {
+          "id": "t_18_33",
+          "text": "Yes, sir. We’re going to order wipes, tweezers, burn gel, bandages, cold packs, and gloves today.",
+          "audio": "assets/audio/t_18_33.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_18_1",
+          "text": "Good morning. I’m doing my safety inspection in the construction workshop.",
+          "audio": "assets/audio/t_18_1.mp3"
+        },
+        {
+          "id": "t_18_2",
+          "text": "I noticed your first-aid kit looks almost empty.",
+          "audio": "assets/audio/t_18_2.mp3"
+        },
+        {
+          "id": "t_18_6",
+          "text": "On Monday, Janith got a small cut on his finger while trimming metal mesh for the concrete reinforcement frame.",
+          "audio": "assets/audio/t_18_6.mp3"
+        },
+        {
+          "id": "t_18_7",
+          "text": "We used the last pack of sterile wipes for that.",
+          "audio": "assets/audio/t_18_7.mp3"
+        },
+        {
+          "id": "t_18_8",
+          "text": "Then yesterday, Nadee got a mild burn on her hand after touching a hot cement-mixing ring that had been running for a long time.",
+          "audio": "assets/audio/t_18_8.mp3"
+        },
+        {
+          "id": "t_18_14",
+          "text": "We removed it with the only tweezers, but they slipped and broke.",
+          "audio": "assets/audio/t_18_14.mp3"
+        },
+        {
+          "id": "t_18_15",
+          "text": "The eye drops finished because Suresh got dust in his eye near the tile-cutting area.",
+          "audio": "assets/audio/t_18_15.mp3"
+        },
+        {
+          "id": "t_18_16",
+          "text": "There was too much cement powder in the air.",
+          "audio": "assets/audio/t_18_16.mp3"
+        },
+        {
+          "id": "t_18_17",
+          "text": "I also noticed empty bandages and no cold pack.",
+          "audio": "assets/audio/t_18_17.mp3"
+        },
+        {
+          "id": "t_18_20",
+          "text": "This morning, Arjun complained about a stiff neck and sore shoulder after lifting cement bags without warming up.",
+          "audio": "assets/audio/t_18_20.mp3"
+        },
+        {
+          "id": "t_18_21",
+          "text": "Later, Piyal mentioned a sore knee from kneeling on rough concrete during tile-alignment work.",
+          "audio": "assets/audio/t_18_21.mp3"
+        },
+        {
+          "id": "t_18_24",
+          "text": "They were listed in last month’s inventory.",
+          "audio": "assets/audio/t_18_24.mp3"
+        },
+        {
+          "id": "t_18_26",
+          "text": "Everyone has dry hands from constant mixing, washing tools, and handling cement.",
+          "audio": "assets/audio/t_18_26.mp3"
+        },
+        {
+          "id": "t_18_29",
+          "text": "He stood too close to the mortar-mixing area, and the dust irritated his nose.",
+          "audio": "assets/audio/t_18_29.mp3"
+        },
+        {
+          "id": "t_18_30",
+          "text": "Alright. The accidents are small, but missing items are serious.",
+          "audio": "assets/audio/t_18_30.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_18_1",
+          "text": "Good morning. I’m doing my safety inspection in the construction workshop.",
+          "audio": "assets/audio/t_18_1.mp3"
+        },
+        {
+          "id": "t_18_2",
+          "text": "I noticed your first-aid kit looks almost empty.",
+          "audio": "assets/audio/t_18_2.mp3"
+        },
+        {
+          "id": "t_18_6",
+          "text": "On Monday, Janith got a small cut on his finger while trimming metal mesh for the concrete reinforcement frame.",
+          "audio": "assets/audio/t_18_6.mp3"
+        },
+        {
+          "id": "t_18_7",
+          "text": "We used the last pack of sterile wipes for that.",
+          "audio": "assets/audio/t_18_7.mp3"
+        },
+        {
+          "id": "t_18_8",
+          "text": "Then yesterday, Nadee got a mild burn on her hand after touching a hot cement-mixing ring that had been running for a long time.",
+          "audio": "assets/audio/t_18_8.mp3"
+        },
+        {
+          "id": "t_18_14",
+          "text": "We removed it with the only tweezers, but they slipped and broke.",
+          "audio": "assets/audio/t_18_14.mp3"
+        },
+        {
+          "id": "t_18_15",
+          "text": "The eye drops finished because Suresh got dust in his eye near the tile-cutting area.",
+          "audio": "assets/audio/t_18_15.mp3"
+        },
+        {
+          "id": "t_18_16",
+          "text": "There was too much cement powder in the air.",
+          "audio": "assets/audio/t_18_16.mp3"
+        },
+        {
+          "id": "t_18_17",
+          "text": "I also noticed empty bandages and no cold pack.",
+          "audio": "assets/audio/t_18_17.mp3"
+        },
+        {
+          "id": "t_18_20",
+          "text": "This morning, Arjun complained about a stiff neck and sore shoulder after lifting cement bags without warming up.",
+          "audio": "assets/audio/t_18_20.mp3"
+        },
+        {
+          "id": "t_18_21",
+          "text": "Later, Piyal mentioned a sore knee from kneeling on rough concrete during tile-alignment work.",
+          "audio": "assets/audio/t_18_21.mp3"
+        },
+        {
+          "id": "t_18_24",
+          "text": "They were listed in last month’s inventory.",
+          "audio": "assets/audio/t_18_24.mp3"
+        },
+        {
+          "id": "t_18_26",
+          "text": "Everyone has dry hands from constant mixing, washing tools, and handling cement.",
+          "audio": "assets/audio/t_18_26.mp3"
+        },
+        {
+          "id": "t_18_29",
+          "text": "He stood too close to the mortar-mixing area, and the dust irritated his nose.",
+          "audio": "assets/audio/t_18_29.mp3"
+        },
+        {
+          "id": "t_18_30",
+          "text": "Alright. The accidents are small, but missing items are serious.",
+          "audio": "assets/audio/t_18_30.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
