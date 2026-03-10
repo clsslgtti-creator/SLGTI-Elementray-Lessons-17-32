@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "cutter",
+        "word_text": "'c'utter",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He cut the metal sheet with a cutter yesterday afternoon.",
+        "sentence_text": "He cut the metal sheet with a 'c'utter yesterday afternoon.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "clamp",
+        "word_text": "'c'lamp",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They kept the clamp tightly last week.",
+        "sentence_text": "They kept the 'c'lamp tightly last week.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "block",
+        "word_text": "blo'ck'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "She saw that the block had cracks this morning.",
+        "sentence_text": "She saw that the blo'ck' had cracks this morning.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "shock",
+        "word_text": "sho'ck'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The damaged shock part affected the machine’s stability.",
+        "sentence_text": "The damaged sho'ck' part affected the machine’s stability.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
