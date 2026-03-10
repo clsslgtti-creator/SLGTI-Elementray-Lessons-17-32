@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "computer",
+        "word_text": "'c'omputer",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "He shut down the computer early this morning.",
+        "sentence_text": "He shut down the 'c'omputer early this morning.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "keyboard",
+        "word_text": "'k'eyboard",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "She spoke about cleaning her keyboard last week.",
+        "sentence_text": "She spoke about cleaning her 'k'eyboard last week.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "click",
+        "word_text": "'c'li'ck'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "They chose this link to click on to translate the manual.",
+        "sentence_text": "They chose this link to 'c'li'ck' on to translate the manual.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "network",
+        "word_text": "networ'k'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The network became faster yesterday.",
+        "sentence_text": "The networ'k' became faster yesterday.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
