@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "gigabyte",
+        "word_text": "'g'i'g'abyte",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Is this file only one gigabyte in size?",
+        "sentence_text": "Is this file only one 'g'i'g'abyte in size?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "google",
+        "word_text": "'g'oo'g'le",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Does he always search for interesting topics on Google?",
+        "sentence_text": "Does he always search for interesting topics on 'G'oo'g'le?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "program",
+        "word_text": "pro'g'ram",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did they write a program for testing last week?",
+        "sentence_text": "Did they write a pro'g'ram for testing last week?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "plug",
+        "word_text": "plu'g'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did she connect the plug to the port last week?",
+        "sentence_text": "Did she connect the plu'g' to the port last week?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
