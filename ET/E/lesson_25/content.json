@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "gasket",
+        "word_text": "'g'asket",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "A cylinder head gasket stops engine oil and coolant from leaking.",
+        "sentence_text": "A cylinder head 'g'asket stops engine oil and coolant from leaking.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "gauge",
+        "word_text": "'g'auge",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Does he check the gauge on the panel quite regularly?",
+        "sentence_text": "Does he check the 'g'auge on the panel quite regularly?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "plug",
+        "word_text": "plu'g'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did she burn the drill plug by mistake two days ago?",
+        "sentence_text": "Did she burn the drill plu'g' by mistake two days ago?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "grease",
+        "word_text": "'g'rease",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did you apply some grease to this electrical connector last night?",
+        "sentence_text": "Did you apply some 'g'rease to this electrical connector last night?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
