@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "gate",
+        "word_text": "'g'ate",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Do they open the gate of the site early in the morning?",
+        "sentence_text": "Do they open the 'g'ate of the site early in the morning?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "glass",
+        "word_text": "'g'lass",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Did he fix the glass to the broken windows in this building yesterday morning?",
+        "sentence_text": "Did he fix the 'g'lass to the broken windows in this building yesterday morning?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "gravel",
+        "word_text": "'g'ravel",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did they spread gravel on the ground yesterday?",
+        "sentence_text": "Did they spread 'g'ravel on the ground yesterday?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "bag",
+        "word_text": "ba'g'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Is she carrying a heavy bag of cement now?",
+        "sentence_text": "Is she carrying a heavy ba'g' of cement now?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
