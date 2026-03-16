@@ -1,0 +1,838 @@
+{
+  "meta": {
+    "lesson_no": 25,
+    "level": "Elementary",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "K",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'g'auge",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Does he use a 'g'auge to measure pressure every day?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'g'rease",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Is the worker applying 'g'rease to the rotors now?",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'g'asket",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "A cylinder head 'g'asket stops engine oil and coolant from leaking.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "plu'g'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Did she break the milling machine plu'g' two days ago?",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Past tense irregular",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["Did you work yesterday?", "No, I didn’t, I was sick."],
+        ["Did Mary cook rice yesterday?", "No, she didn’t. She was busy."],
+        [
+          "Did your friends play cricket yesterday?",
+          "No, they didn’t. They were too tired."
+        ]
+      ],
+      [
+        ["No,", "I", "didn't"],
+        [null, "you", null],
+        [null, "he", null],
+        [null, "she", null],
+        [null, "it", null],
+        [null, "we", null],
+        [null, "they", null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "Did you fit the metal frame together near the fitter’s workstation yesterday afternoon?",
+        "text_b": "No, I didn’t. I was too exhausted.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "Did he re-gauge the pressure reading with the instructor’s tools yesterday morning?",
+        "text_b": "No, he didn’t. He was too tired.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "Did your coworker secure the bolts firmly on the machinist’s table last night?",
+        "text_b": "No, he didn’t. He was too sleepy.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "make a complaint about new printers"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "synchronise the gear system"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "install the new bearings"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "trace the hydraulic lines"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "log the tool usage"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "adjust the lathe settings"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "Did the supervisor re-set the lathe controls in the technician’s corner yesterday evening?",
+        "text_b": "No, he didn’t. He was too sick.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Did the trainees synchronise the gear system in the engineer’s section yesterday morning?",
+        "text_b": "No, they didn’t. They were too busy.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "Did the instructor install the new bearings in the storage area yesterday afternoon?",
+        "text_b": "No, she didn’t. She was too tired.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "Did they trace the hydraulic lines behind the machine room last night?",
+        "text_b": "No, they didn’t. They were too exhausted.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "Did your coworker log the tool usage in the foreman’s logbook yesterday evening?",
+        "text_b": "No, he didn’t. He was too sleepy.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "Did the supervisor adjust the lathe settings in the technician’s corner yesterday evening?",
+        "text_b": "No, he didn’t. He was too sick.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "The machinist __________ the hydraulic press without checking the pressure gauge, and the metal plate shot forward dangerously.",
+            "options": ["using", "uses", "used", "use"],
+            "answer": "used",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "Yesterday, the trainees __________ the coolant level on the milling machine, so the tool overheated and cracked.",
+            "options": [
+              "don’t check",
+              "didn’t check",
+              "didn’t checking",
+              "checked not"
+            ],
+            "answer": "didn’t check",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "__________ the technician __________ the emergency stop button when the lathe started shaking violently?",
+            "options": [
+              "Does / press",
+              "Do / pressed",
+              "Did / press",
+              "Did / presses"
+            ],
+            "answer": "Did / press",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "The maintenance team __________ the loose belt properly, so the motor made a loud screeching noise.",
+            "options": [
+              "doesn’t tighten",
+              "didn’t tighten",
+              "didn’t tightening",
+              "tightened not"
+            ],
+            "answer": "didn’t tighten",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "The welder __________ the gas cylinder valve correctly, and the workshop avoided a major fire.",
+            "options": ["closing", "closes", "closed", "close"],
+            "answer": "closed",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "The supervisor __________ the main switch immediately after seeing sparks under the metal cutting table.",
+            "options": ["shutting off", "shuts off", "shut off", "shut offed"],
+            "answer": "shut off",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "__________ the trainees __________ all the moving parts before restarting the conveyor system?",
+            "options": [
+              "Does / inspect",
+              "Do / inspected",
+              "Did / inspect",
+              "Did / inspects"
+            ],
+            "answer": "Did / inspect",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "The mechanic __________ the vibrating gearbox in time, so it completely failed during operation.",
+            "options": [
+              "don’t stop",
+              "didn’t stop",
+              "didn’t stopping",
+              "stopped not"
+            ],
+            "answer": "didn’t stop",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "The technician __________ the worn-out bearing and prevented the machine from collapsing.",
+            "options": ["noticing", "notice", "noticed", "notices"],
+            "answer": "noticed",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "The machinist __________ the safety guard wrongly, and the cutting blade snapped suddenly.",
+            "options": ["fitting", "fitted", "fits", "fit"],
+            "answer": "fitted",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "__________ the instructor __________ the alignment before allowing the students to run the drill press?",
+            "options": [
+              "Does / check",
+              "Do / checked",
+              "Did / check",
+              "Did / checks"
+            ],
+            "answer": "Did / check",
+            "image": "assets/img/g_b_1.png"
+          },
+          {
+            "id": "g_b_12",
+            "sentence": "The repair team __________ the cracked joint properly, so the entire frame collapsed during the test run.",
+            "options": [
+              "doesn’t weld",
+              "didn’t weld",
+              "didn’t welding",
+              "welded not"
+            ],
+            "answer": "didn’t weld",
+            "image": "assets/img/g_b_1.png"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "The machinist used the hydraulic press without checking the pressure gauge, and the metal plate shot forward dangerously.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "Yesterday, the trainees didn’t check the coolant level on the milling machine, so the tool overheated and cracked.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "Did the technician press the emergency stop button when the lathe started shaking violently?",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "The maintenance team didn’t tighten the loose belt properly, so the motor made a loud screeching noise.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "The welder closed the gas cylinder valve correctly, and the workshop avoided a major fire.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "The supervisor shut off the main switch immediately after seeing sparks under the metal cutting table.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "Did the trainees inspect all the moving parts before restarting the conveyor system?",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "The mechanic didn’t stop the vibrating gearbox in time, so it completely failed during operation.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "The technician noticed the worn-out bearing and prevented the machine from collapsing.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "The machinist fitted the safety guard wrongly, and the cutting blade snapped suddenly.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "Did the instructor check the alignment before allowing the students to run the drill press?",
+          "audio": "assets/audio/g_b_11.mp3"
+        },
+        {
+          "id": "g_b_12",
+          "text": "The repair team didn’t weld the cracked joint properly, so the entire frame collapsed during the test run.",
+          "audio": "assets/audio/g_b_12.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "follow the checklist",
+            "item_b": "read and do as it says"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "create a lot of stress",
+            "item_b": "make it happen"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "notice a possible gas leak",
+            "item_b": "become aware of its existence"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "pay attention to electrical safety",
+            "item_b": "focus on it"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "prevent a big problem",
+            "item_b": "stop it from happening"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "look for the evacuation path",
+            "item_b": "try to find it"
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_15_1",
+            "question": "What caused the steam incident last month?",
+            "answer": "The students didn’t follow the checklist.",
+            "options": [
+              "The students did not check the temperature carefully.",
+              "The students partly followed the checklist.",
+              "The students didn’t follow the checklist."
+            ]
+          },
+          {
+            "id": "l_15_2",
+            "question": "How should trainees react if they smell gas?",
+            "answer": "Move away and inform a supervisor immediately.",
+            "options": [
+              "Move away and inform a supervisor immediately.",
+              "Move slowly and continue working.",
+              "Move away and inform the student in charge."
+            ]
+          },
+          {
+            "id": "l_15_3",
+            "question": "What happened when a student mixed chemicals last week?",
+            "answer": "The fumes irritated everyone’s eyes.",
+            "options": [
+              "The fumes irritated everyone’s eyes.",
+              "The smell improved ventilation.",
+              "The fumes irritated someone’s eyes."
+            ]
+          },
+          {
+            "id": "l_15_4",
+            "question": "How should trainees respond to exposed electrical wires?",
+            "answer": "Switch off the machine and inform the instructor.",
+            "options": [
+              "Ignore them and keep working.",
+              "Switch off the machine and inform the instructor.",
+              "Switch off all machines and inform some fellow students."
+            ]
+          },
+          {
+            "id": "l_15_5",
+            "question": "What is the main message about emergencies?",
+            "answer": "Stay calm and look for the evacuation path.",
+            "options": [
+              "Work fast and complete your task.",
+              "Stay calm and move away from the evacuation path.",
+              "Stay calm and look for the evacuation path."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_26_1",
+          "text": "Good morning, everyone. I’m glad you’re all here on time.",
+          "audio": "assets/audio/t_26_1.mp3"
+        },
+        {
+          "id": "t_26_2",
+          "text": "Today, I want to talk to you about handling some of the more serious emergencies that can occur on the workshop floor.",
+          "audio": "assets/audio/t_26_2.mp3"
+        },
+        {
+          "id": "t_26_3",
+          "text": "These situations are not meant to scare you, but to help you stay safe and confident while you work.",
+          "audio": "assets/audio/t_26_3.mp3"
+        },
+        {
+          "id": "t_26_4",
+          "text": "A few of these incidents happened last term, so it’s good for us to learn from them and do better next time.",
+          "audio": "assets/audio/t_26_4.mp3"
+        },
+        {
+          "id": "t_26_5",
+          "text": "Let’s start with the industrial steamers.",
+          "audio": "assets/audio/t_26_5.mp3"
+        },
+        {
+          "id": "t_26_6",
+          "text": "Always take a moment to check the pressure gauge before you begin.",
+          "audio": "assets/audio/t_26_6.mp3"
+        },
+        {
+          "id": "t_26_7",
+          "text": "Last month, one group didn’t follow the checklist properly, and the steamer released hot steam all of a sudden.",
+          "audio": "assets/audio/t_26_7.mp3"
+        },
+        {
+          "id": "t_26_8",
+          "text": "No one was seriously hurt, but it created a lot of stress.",
+          "audio": "assets/audio/t_26_8.mp3"
+        },
+        {
+          "id": "t_26_9",
+          "text": "So please follow the checklist, watch the gauge, and let someone know if you hear anything unusual.",
+          "audio": "assets/audio/t_26_9.mp3"
+        },
+        {
+          "id": "t_26_10",
+          "text": "Early warning signs are important.",
+          "audio": "assets/audio/t_26_10.mp3"
+        },
+        {
+          "id": "t_26_11",
+          "text": "This morning, we noticed a possible gas leak, so the maintenance team is working on it right now.",
+          "audio": "assets/audio/t_26_11.mp3"
+        },
+        {
+          "id": "t_26_12",
+          "text": "If this ever happens while you’re around, don’t switch on any electrical device and step away from the area.",
+          "audio": "assets/audio/t_26_12.mp3"
+        },
+        {
+          "id": "t_26_13",
+          "text": "Then inform a supervisor as soon as you can.",
+          "audio": "assets/audio/t_26_13.mp3"
+        },
+        {
+          "id": "t_26_14",
+          "text": "Gas leaks can be risky, but when we respond calmly and quickly, everything stays under control.",
+          "audio": "assets/audio/t_26_14.mp3"
+        },
+        {
+          "id": "t_26_15",
+          "text": "Another point I want to highlight is the safe handling of chemicals.",
+          "audio": "assets/audio/t_26_15.mp3"
+        },
+        {
+          "id": "t_26_16",
+          "text": "Sometimes students mix cleaning products without realising how strong they are.",
+          "audio": "assets/audio/t_26_16.mp3"
+        },
+        {
+          "id": "t_26_17",
+          "text": "Last week, someone accidentally mixed two powerful sanitisers, and the fumes irritated people’s eyes.",
+          "audio": "assets/audio/t_26_17.mp3"
+        },
+        {
+          "id": "t_26_18",
+          "text": "So when you’re working with chemicals, wear gloves, open the windows, and follow the instructions on the label.",
+          "audio": "assets/audio/t_26_18.mp3"
+        },
+        {
+          "id": "t_26_19",
+          "text": "These simple steps keep everyone comfortable and safe.",
+          "audio": "assets/audio/t_26_19.mp3"
+        },
+        {
+          "id": "t_26_20",
+          "text": "We also need to pay attention to electrical safety.",
+          "audio": "assets/audio/t_26_20.mp3"
+        },
+        {
+          "id": "t_26_21",
+          "text": "Yesterday, a damaged cable was left near the chiller, and the student who noticed it didn’t report it.",
+          "audio": "assets/audio/t_26_21.mp3"
+        },
+        {
+          "id": "t_26_22",
+          "text": "It’s an easy thing to miss, but exposed wires can become serious very quickly.",
+          "audio": "assets/audio/t_26_22.mp3"
+        },
+        {
+          "id": "t_26_23",
+          "text": "If you ever see something like that, just switch off the machine, move back, and inform the instructor.",
+          "audio": "assets/audio/t_26_23.mp3"
+        },
+        {
+          "id": "t_26_24",
+          "text": "A quick report can prevent a big problem.",
+          "audio": "assets/audio/t_26_24.mp3"
+        },
+        {
+          "id": "t_26_25",
+          "text": "While some of you are practising with the large mixer today, please remember to keep your hands away from the moving parts and use the safety guard.",
+          "audio": "assets/audio/t_26_25.mp3"
+        },
+        {
+          "id": "t_26_26",
+          "text": "The guard may seem small, but it does an important job.",
+          "audio": "assets/audio/t_26_26.mp3"
+        },
+        {
+          "id": "t_26_27",
+          "text": "In any emergency—fire, chemical spill, injury, or equipment trouble—try to stay calm, help each other, and look for the evacuation path immediately.",
+          "audio": "assets/audio/t_26_27.mp3"
+        },
+        {
+          "id": "t_26_28",
+          "text": "We’re here to learn, but we’re also here to look out for one another.",
+          "audio": "assets/audio/t_26_28.mp3"
+        },
+        {
+          "id": "t_26_29",
+          "text": "That’s what makes a workshop safe and supportive.",
+          "audio": "assets/audio/t_26_29.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_26_2",
+          "text": "Today, I want to talk to you about handling some of the more serious emergencies that can occur on the workshop floor.",
+          "audio": "assets/audio/t_26_2.mp3"
+        },
+        {
+          "id": "t_26_3",
+          "text": "These situations are not meant to scare you, but to help you stay safe and confident while you work.",
+          "audio": "assets/audio/t_26_3.mp3"
+        },
+        {
+          "id": "t_26_6",
+          "text": "Always take a moment to check the pressure gauge before you begin.",
+          "audio": "assets/audio/t_26_6.mp3"
+        },
+        {
+          "id": "t_26_7",
+          "text": "Last month, one group didn’t follow the checklist properly, and the steamer released hot steam all of a sudden.",
+          "audio": "assets/audio/t_26_7.mp3"
+        },
+        {
+          "id": "t_26_11",
+          "text": "This morning, we noticed a possible gas leak, so the maintenance team is working on it right now.",
+          "audio": "assets/audio/t_26_11.mp3"
+        },
+        {
+          "id": "t_26_12",
+          "text": "If this ever happens while you’re around, don’t switch on any electrical device and step away from the area.",
+          "audio": "assets/audio/t_26_12.mp3"
+        },
+        {
+          "id": "t_26_17",
+          "text": "Last week, someone accidentally mixed two powerful sanitisers, and the fumes irritated people’s eyes.",
+          "audio": "assets/audio/t_26_17.mp3"
+        },
+        {
+          "id": "t_26_20",
+          "text": "We also need to pay attention to electrical safety.",
+          "audio": "assets/audio/t_26_20.mp3"
+        },
+        {
+          "id": "t_26_21",
+          "text": "Yesterday, a damaged cable was left near the chiller, and the student who noticed it didn’t report it.",
+          "audio": "assets/audio/t_26_21.mp3"
+        },
+        {
+          "id": "t_26_24",
+          "text": "A quick report can prevent a big problem.",
+          "audio": "assets/audio/t_26_24.mp3"
+        },
+        {
+          "id": "t_26_25",
+          "text": "While some of you are practising with the large mixer today, please remember to keep your hands away from the moving parts and use the safety guard.",
+          "audio": "assets/audio/t_26_25.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_26_2",
+          "text": "Today, I want to talk to you about handling some of the more serious emergencies that can occur on the workshop floor.",
+          "audio": "assets/audio/t_26_2.mp3"
+        },
+        {
+          "id": "t_26_3",
+          "text": "These situations are not meant to scare you, but to help you stay safe and confident while you work.",
+          "audio": "assets/audio/t_26_3.mp3"
+        },
+        {
+          "id": "t_26_6",
+          "text": "Always take a moment to check the pressure gauge before you begin.",
+          "audio": "assets/audio/t_26_6.mp3"
+        },
+        {
+          "id": "t_26_7",
+          "text": "Last month, one group didn’t follow the checklist properly, and the steamer released hot steam all of a sudden.",
+          "audio": "assets/audio/t_26_7.mp3"
+        },
+        {
+          "id": "t_26_11",
+          "text": "This morning, we noticed a possible gas leak, so the maintenance team is working on it right now.",
+          "audio": "assets/audio/t_26_11.mp3"
+        },
+        {
+          "id": "t_26_12",
+          "text": "If this ever happens while you’re around, don’t switch on any electrical device and step away from the area.",
+          "audio": "assets/audio/t_26_12.mp3"
+        },
+        {
+          "id": "t_26_17",
+          "text": "Last week, someone accidentally mixed two powerful sanitisers, and the fumes irritated people’s eyes.",
+          "audio": "assets/audio/t_26_17.mp3"
+        },
+        {
+          "id": "t_26_20",
+          "text": "We also need to pay attention to electrical safety.",
+          "audio": "assets/audio/t_26_20.mp3"
+        },
+        {
+          "id": "t_26_21",
+          "text": "Yesterday, a damaged cable was left near the chiller, and the student who noticed it didn’t report it.",
+          "audio": "assets/audio/t_26_21.mp3"
+        },
+        {
+          "id": "t_26_24",
+          "text": "A quick report can prevent a big problem.",
+          "audio": "assets/audio/t_26_24.mp3"
+        },
+        {
+          "id": "t_26_25",
+          "text": "While some of you are practising with the large mixer today, please remember to keep your hands away from the moving parts and use the safety guard.",
+          "audio": "assets/audio/t_26_25.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
