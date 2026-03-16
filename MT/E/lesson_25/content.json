@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "gauge",
+        "word_text": "'g'auge",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Does he use a gauge to measure pressure every day?",
+        "sentence_text": "Does he use a 'g'auge to measure pressure every day?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.PNG"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "grease",
+        "word_text": "'g'rease",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Is the worker applying grease to the rotors now?",
+        "sentence_text": "Is the worker applying 'g'rease to the rotors now?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "gasket",
+        "word_text": "'g'asket",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A cylinder head gasket stops engine oil and coolant from leaking.",
+        "sentence_text": "A cylinder head 'g'asket stops engine oil and coolant from leaking.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "plug",
+        "word_text": "plu'g'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did she break the milling machine plug two days ago?",
+        "sentence_text": "Did she break the milling machine plu'g' two days ago?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
