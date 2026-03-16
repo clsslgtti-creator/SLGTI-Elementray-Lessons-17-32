@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "garlic",
+        "word_text": "'g'arlic",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Did he cut the garlic into small pieces 10 minutes ago?",
+        "sentence_text": "Did he cut the 'g'arlic into small pieces 10 minutes ago?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "grill",
+        "word_text": "'g'rill",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Do they always cook meat on the grill?",
+        "sentence_text": "Do they always cook meat on the 'g'rill?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sugar",
+        "word_text": "su'g'ar",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Is she adding sugar to her tea right now?",
+        "sentence_text": "Is she adding su'g'ar to her tea right now?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "egg",
+        "word_text": "e'gg'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did they break fresh eggs by mistake?",
+        "sentence_text": "Did they break fresh e'gg's by mistake?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
