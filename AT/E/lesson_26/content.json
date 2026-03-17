@@ -1,0 +1,1195 @@
+{
+  "meta": {
+    "lesson_no": 26,
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "S",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'s'en's'or",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Why was the 's'en's'or so sensitive during the test?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "ga's'",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The ga's' tank was full before the mechanic checked the engine.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "bra'ss'",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Where can we find two-inch bra'ss' screws?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "fu's'e",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "When did you last see the fu's'e boxes on the left side of the chassis?",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Past tense irregular",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["Why did you go to the shop?", "To buy a newspaper."],
+        [null, "I went to the shop to buy a newspaper."]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Why did you wipe the dashboard with a microfiber cloth this morning?",
+        "text_b": "I wiped it with a microfiber cloth to remove the fine dust.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Why did you tighten the wheel nuts with the torque wrench yesterday?",
+        "text_b": "I tightened them with the torque wrench to reach the correct pressure.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Why did you raise the van on the two-post hoist last evening?",
+        "text_b": "I lifted it on the hoist to inspect the underbody safely.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "polish the headlamp cover with a soft pad"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "clean the air filter with the blower"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "roll the tire across the workshop floor"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "mark the damaged bumper with yellow tape"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "apply grease to the door hinges"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "brush the radiator fins with a soft brush"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Why did you polish the headlamp cover with a soft pad this morning?",
+        "text_b": "I polished it with a soft pad to restore the brightness.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why did you clean the air filter with the blower yesterday afternoon?",
+        "text_b": "I cleaned it with the blower to remove the trapped particles.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Why did you roll the tire across the workshop floor so slowly?",
+        "text_b": "I rolled it slowly to keep it upright.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Why did you mark the damaged bumper with yellow tape yesterday?",
+        "text_b": "I marked it with yellow tape to highlight the cracks.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Why did you apply grease to the door hinges last night?",
+        "text_b": "I applied it to stop the hinges squeaking.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Why did you brush the radiator fins with a soft brush this morning?",
+        "text_b": "I brushed it with a soft brush to avoid bending them.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-8.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "My teacher patiently explained the difficult lesson in class yesterday afternoon.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "What did your teacher explain yesterday afternoon?",
+              "What does your teacher explain yesterday afternoon?",
+              "When did your teacher explain the difficult lesson?"
+            ],
+            "answer": "What did your teacher explain yesterday afternoon?"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "They clean the large workshop area twice a week.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "How often do they clean the large workshop area?",
+              "When did they clean the large workshop area?",
+              "Why do they clean the large workshop area?"
+            ],
+            "answer": "How often do they clean the large workshop area?"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "His relatives spoke to him about his career choices last week.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "When did his relatives speak to him about his career choices?",
+              "When do his relatives speak to him about his career choices?",
+              "Who do his relatives speak to about his career choices?"
+            ],
+            "answer": "When did his relatives speak to him about his career choices?"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "She arrives at the busy campus at eight every morning.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "When does she arrive at the busy campus?",
+              "When did she arrive at the busy campus?",
+              "Where does she arrive at eight every morning?"
+            ],
+            "answer": "When does she arrive at the busy campus?"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "We are going to start the practical session later this evening.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "When are you going to start the practical session?",
+              "When do you start the practical session later this evening?",
+              "Who is going to start the practical session?"
+            ],
+            "answer": "When are you going to start the practical session?"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "I am going to meet my cousin in town tomorrow morning.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "Who are you going to meet tomorrow morning?",
+              "Who did you meet tomorrow morning?",
+              "When are you going to meet your cousin?"
+            ],
+            "answer": "Who are you going to meet tomorrow morning?"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Her supervisor was in the noisy workshop at noon today.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "Where was her supervisor at noon today?",
+              "Where is her supervisor at noon today?",
+              "When was her supervisor in the noisy workshop?"
+            ],
+            "answer": "Where was her supervisor at noon today?"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "My friends were at the crowded bus stop at six yesterday.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "Where were your friends at six yesterday?",
+              "Where are your friends at six yesterday?",
+              "When were your friends at the crowded bus stop?"
+            ],
+            "answer": "Where were your friends at six yesterday?"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "The trainees practiced several complex safety drills last Tuesday afternoon.",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "What did the trainees practice last Tuesday afternoon?",
+              "What do the trainees practice last Tuesday afternoon?",
+              "When did the trainees practice several complex safety drills?"
+            ],
+            "answer": "What did the trainees practice last Tuesday afternoon?"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "He usually writes his weekly progress reports on Mondays before lunch.",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "When does he write his weekly progress reports?",
+              "When did he write his weekly progress reports?",
+              "Why does he write his weekly progress reports?"
+            ],
+            "answer": "When does he write his weekly progress reports?"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "We were in the small meeting room at ten yesterday morning.",
+            "audio": "assets/audio/g_b_11.mp3",
+            "options": [
+              "Where were you at ten yesterday morning?",
+              "Where are you at ten yesterday morning?",
+              "When were you in the small meeting room?"
+            ],
+            "answer": "Where were you at ten yesterday morning?"
+          },
+          {
+            "id": "g_b_12",
+            "sentence": "I am going to help my younger brother with homework tonight.",
+            "audio": "assets/audio/g_b_12.mp3",
+            "options": [
+              "Who are you going to help tonight?",
+              "Who did you help tonight?",
+              "When are you going to help your brother?"
+            ],
+            "answer": "Who are you going to help tonight?"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "My teacher patiently explained the difficult lesson in class yesterday afternoon.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "What did your teacher explain yesterday afternoon?",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "They clean the large workshop area twice a week.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "How often do they clean the large workshop area?",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "His relatives spoke to him about his career choices last week.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "When did his relatives speak to him about his career choices?",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "She arrives at the busy campus at eight every morning.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "When does she arrive at the busy campus?",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "We are going to start the practical session later this evening.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "When are you going to start the practical session?",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "I am going to meet my cousin in town tomorrow morning.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "Who are you going to meet tomorrow morning?",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "Her supervisor was in the noisy workshop at noon today.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "Where was her supervisor at noon today?",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "My friends were at the crowded bus stop at six yesterday.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "Where were your friends at six yesterday?",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "The trainees practiced several complex safety drills last Tuesday afternoon.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_9_a",
+          "text": "What did the trainees practice last Tuesday afternoon?",
+          "audio": "assets/audio/g_b_9_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "He usually writes his weekly progress reports on Mondays before lunch.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "When does he write his weekly progress reports?",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "We were in the small meeting room at ten yesterday morning.",
+          "audio": "assets/audio/g_b_11.mp3"
+        },
+        {
+          "id": "g_b_11_a",
+          "text": "Where were you at ten yesterday morning?",
+          "audio": "assets/audio/g_b_11_a.mp3"
+        },
+        {
+          "id": "g_b_12",
+          "text": "I am going to help my younger brother with homework tonight.",
+          "audio": "assets/audio/g_b_12.mp3"
+        },
+        {
+          "id": "g_b_12_a",
+          "text": "Who are you going to help tonight?",
+          "audio": "assets/audio/g_b_12_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-7",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "You will hear each recording twice. Listen and mark who says the following sentences.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. පහත වාක්‍ය කියන්නේ කව්දැයි සලකුණු කරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கீழே உள்ள வாக்கியங்களை யார் கூறுகிறார்கள் என்பதை கேட்டு குறியிடுங்கள்.",
+        "audio": "assets/audio/a_4_i_f.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_16_1",
+            "question": "Where was Rafiq when his mistake happened?",
+            "answer": "Near the hydraulic lift.",
+            "options": [
+              "Near the paint booth",
+              "Near the alignment pit",
+              "Near the hydraulic lift"
+            ]
+          },
+          {
+            "id": "l_16_2",
+            "question": "What tool did Rafiq use too quickly?",
+            "answer": "The impact wrench.",
+            "options": [
+              "The torque wrench",
+              "The spanner set",
+              "The impact wrench"
+            ]
+          },
+          {
+            "id": "l_16_3",
+            "question": "What caused Niyas’s readings to become inaccurate?",
+            "answer": "Placing the scanner on an unstable stool.",
+            "options": [
+              "Using the wrong fuel type",
+              "Placing the scanner on an unstable desk",
+              "Placing the scanner on an unstable stool"
+            ]
+          },
+          {
+            "id": "l_16_4",
+            "question": "When did Niyas’s mistake occur?",
+            "answer": "Thursday at 3.00 p.m.",
+            "options": [
+              "Thursday at 3.00 p.m.",
+              "Wednesday at 11.30 a.m.",
+              "Friday at 1.00 p.m."
+            ]
+          },
+          {
+            "id": "l_16_5",
+            "question": "What did both trainees admit?",
+            "answer": "They rushed their work.",
+            "options": [
+              "They forgot to clean the tools",
+              "They rushed their work",
+              "They rushed their work"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "l_1_1",
+          "question_audio": "assets/audio/t_27_4.mp3",
+          "answer": "Rafiq",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_2",
+          "question_audio": "assets/audio/t_27_6.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_3",
+          "question_audio": "assets/audio/t_27_30.mp3",
+          "answer": "Niyas",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_4",
+          "question_audio": "assets/audio/t_27_39.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_5",
+          "question_audio": "assets/audio/t_27_17.mp3",
+          "answer": "Rafiq",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_6",
+          "question_audio": "assets/audio/t_27_43.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_7",
+          "question_audio": "assets/audio/t_27_38.mp3",
+          "answer": "Niyas",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_8",
+          "question_audio": "assets/audio/t_27_20.mp3",
+          "answer": "Rafiq",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_9",
+          "question_audio": "assets/audio/t_27_39.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_10",
+          "question_audio": "assets/audio/t_27_34.mp3",
+          "answer": "Niyas",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_11",
+          "question_audio": "assets/audio/t_27_33.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_12",
+          "question_audio": "assets/audio/t_27_24.mp3",
+          "answer": "Rafiq",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_27_1",
+          "text": "Rafiq and Niyas walked up to Mr. Ranjith after the morning toolbox meeting.",
+          "audio": "assets/audio/t_27_1.mp3"
+        },
+        {
+          "id": "t_27_2",
+          "text": "Both looked slightly tense, and Rafiq spoke first.",
+          "audio": "assets/audio/t_27_2.mp3"
+        },
+        {
+          "id": "t_27_3",
+          "text": "Good morning, Sir, we need to talk to you.",
+          "audio": "assets/audio/t_27_3.mp3"
+        },
+        {
+          "id": "t_27_4",
+          "text": "We realised we made a couple of mistakes last week, and we want to explain them properly.",
+          "audio": "assets/audio/t_27_4.mp3"
+        },
+        {
+          "id": "t_27_5",
+          "text": "Assalamu Alaikum, both of you. Thank you for being honest.",
+          "audio": "assets/audio/t_27_5.mp3"
+        },
+        {
+          "id": "t_27_6",
+          "text": "Let’s go through them one by one.",
+          "audio": "assets/audio/t_27_6.mp3"
+        },
+        {
+          "id": "t_27_7",
+          "text": "Rafiq, tell me then , what happened?",
+          "audio": "assets/audio/t_27_7.mp3"
+        },
+        {
+          "id": "t_27_8",
+          "text": "I tightened the wheel nuts unevenly.",
+          "audio": "assets/audio/t_27_8.mp3"
+        },
+        {
+          "id": "t_27_9",
+          "text": "Where exactly were you when your problem occurred?",
+          "audio": "assets/audio/t_27_9.mp3"
+        },
+        {
+          "id": "t_27_10",
+          "text": "I was near the hydraulic lift, right beside the tyre-changing machine.",
+          "audio": "assets/audio/t_27_10.mp3"
+        },
+        {
+          "id": "t_27_11",
+          "text": "And when did it happen?",
+          "audio": "assets/audio/t_27_11.mp3"
+        },
+        {
+          "id": "t_27_12",
+          "text": "What time was it?",
+          "audio": "assets/audio/t_27_12.mp3"
+        },
+        {
+          "id": "t_27_13",
+          "text": "It was Tuesday, around half past nine, just before the inspection round.",
+          "audio": "assets/audio/t_27_13.mp3"
+        },
+        {
+          "id": "t_27_14",
+          "text": "Alright.",
+          "audio": "assets/audio/t_27_14.mp3"
+        },
+        {
+          "id": "t_27_15",
+          "text": "Now tell me—how did you end up tightening the wheel nuts unevenly?",
+          "audio": "assets/audio/t_27_15.mp3"
+        },
+        {
+          "id": "t_27_16",
+          "text": "Sir… I used the impact wrench too quickly.",
+          "audio": "assets/audio/t_27_16.mp3"
+        },
+        {
+          "id": "t_27_17",
+          "text": "I should have checked the torque settings first, but I didn’t.",
+          "audio": "assets/audio/t_27_17.mp3"
+        },
+        {
+          "id": "t_27_18",
+          "text": "I usually check the settings, but not every day—maybe two or three times a week.",
+          "audio": "assets/audio/t_27_18.mp3"
+        },
+        {
+          "id": "t_27_19",
+          "text": "And why didn’t you check them that morning?",
+          "audio": "assets/audio/t_27_19.mp3"
+        },
+        {
+          "id": "t_27_20",
+          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
+          "audio": "assets/audio/t_27_20.mp3"
+        },
+        {
+          "id": "t_27_21",
+          "text": "But now I know that’s not safe.",
+          "audio": "assets/audio/t_27_21.mp3"
+        },
+        {
+          "id": "t_27_22",
+          "text": "Good.",
+          "audio": "assets/audio/t_27_22.mp3"
+        },
+        {
+          "id": "t_27_23",
+          "text": "So how are you going to make sure it doesn’t happen again?",
+          "audio": "assets/audio/t_27_23.mp3"
+        },
+        {
+          "id": "t_27_24",
+          "text": "I’m going to check the torque settings every morning and note them in the maintenance sheet.",
+          "audio": "assets/audio/t_27_24.mp3"
+        },
+        {
+          "id": "t_27_25",
+          "text": "I’ll also tighten the nuts in the correct sequence.",
+          "audio": "assets/audio/t_27_25.mp3"
+        },
+        {
+          "id": "t_27_26",
+          "text": "Alright.",
+          "audio": "assets/audio/t_27_26.mp3"
+        },
+        {
+          "id": "t_27_27",
+          "text": "Now, Niyas, what was your mistake?",
+          "audio": "assets/audio/t_27_27.mp3"
+        },
+        {
+          "id": "t_27_28",
+          "text": "The first readings from the digital scanner were inaccurate.",
+          "audio": "assets/audio/t_27_28.mp3"
+        },
+        {
+          "id": "t_27_29",
+          "text": "Where were you when your mistake happened?",
+          "audio": "assets/audio/t_27_29.mp3"
+        },
+        {
+          "id": "t_27_30",
+          "text": "I was near the engine-bay workbench, right beside the diagnostic scanner.",
+          "audio": "assets/audio/t_27_30.mp3"
+        },
+        {
+          "id": "t_27_31",
+          "text": "And when was that?",
+          "audio": "assets/audio/t_27_31.mp3"
+        },
+        {
+          "id": "t_27_32",
+          "text": "Thursday around 3.00 p.m., during the engine-tuning session.",
+          "audio": "assets/audio/t_27_32.mp3"
+        },
+        {
+          "id": "t_27_33",
+          "text": "And how did the first set of readings become so inaccurate?",
+          "audio": "assets/audio/t_27_33.mp3"
+        },
+        {
+          "id": "t_27_34",
+          "text": "Sir, I connected the sensors correctly, but I placed the scanner on the unstable stool, and it kept vibrating.",
+          "audio": "assets/audio/t_27_34.mp3"
+        },
+        {
+          "id": "t_27_35",
+          "text": "I also used the older probe set, and the signal became slightly distorted.",
+          "audio": "assets/audio/t_27_35.mp3"
+        },
+        {
+          "id": "t_27_36",
+          "text": "Why didn’t you check the probe set?",
+          "audio": "assets/audio/t_27_36.mp3"
+        },
+        {
+          "id": "t_27_37",
+          "text": "I was trying to save time, sir.",
+          "audio": "assets/audio/t_27_37.mp3"
+        },
+        {
+          "id": "t_27_38",
+          "text": "I check it most of the time, but this time I rushed because another vehicle was waiting.",
+          "audio": "assets/audio/t_27_38.mp3"
+        },
+        {
+          "id": "t_27_39",
+          "text": "So, how are you going to avoid these problems next time?",
+          "audio": "assets/audio/t_27_39.mp3"
+        },
+        {
+          "id": "t_27_40",
+          "text": "I’m going to secure the scanner on a stable surface, use the newer probe set, and follow the proper tuning sequence.",
+          "audio": "assets/audio/t_27_40.mp3"
+        },
+        {
+          "id": "t_27_41",
+          "text": "I’ll also double-check the connections before starting.",
+          "audio": "assets/audio/t_27_41.mp3"
+        },
+        {
+          "id": "t_27_42",
+          "text": "Good.",
+          "audio": "assets/audio/t_27_42.mp3"
+        },
+        {
+          "id": "t_27_43",
+          "text": "These are small mistakes—not disasters—but they matter.",
+          "audio": "assets/audio/t_27_43.mp3"
+        },
+        {
+          "id": "t_27_44",
+          "text": "Let’s be more consistent this week.",
+          "audio": "assets/audio/t_27_44.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "l_1_1",
+          "question_audio": "assets/audio/t_27_4.mp3",
+          "answer": "Rafiq",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_2",
+          "question_audio": "assets/audio/t_27_6.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_3",
+          "question_audio": "assets/audio/t_27_30.mp3",
+          "answer": "Niyas",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_4",
+          "question_audio": "assets/audio/t_27_39.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_5",
+          "question_audio": "assets/audio/t_27_17.mp3",
+          "answer": "Rafiq",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_6",
+          "question_audio": "assets/audio/t_27_43.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_7",
+          "question_audio": "assets/audio/t_27_38.mp3",
+          "answer": "Niyas",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_8",
+          "question_audio": "assets/audio/t_27_20.mp3",
+          "answer": "Rafiq",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_9",
+          "question_audio": "assets/audio/t_27_39.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_10",
+          "question_audio": "assets/audio/t_27_34.mp3",
+          "answer": "Niyas",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_11",
+          "question_audio": "assets/audio/t_27_33.mp3",
+          "answer": "Instructor Ranjith",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        },
+        {
+          "id": "l_1_12",
+          "question_audio": "assets/audio/t_27_24.mp3",
+          "answer": "Rafiq",
+          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_27_1",
+          "text": "Rafiq and Niyas walked up to Mr. Ranjith after the morning toolbox meeting.",
+          "audio": "assets/audio/t_27_1.mp3"
+        },
+        {
+          "id": "t_27_2",
+          "text": "Both looked slightly tense, and Rafiq spoke first.",
+          "audio": "assets/audio/t_27_2.mp3"
+        },
+        {
+          "id": "t_27_3",
+          "text": "Good morning, Sir, we need to talk to you.",
+          "audio": "assets/audio/t_27_3.mp3"
+        },
+        {
+          "id": "t_27_4",
+          "text": "We realised we made a couple of mistakes last week, and we want to explain them properly.",
+          "audio": "assets/audio/t_27_4.mp3"
+        },
+        {
+          "id": "t_27_5",
+          "text": "Assalamu Alaikum, both of you. Thank you for being honest.",
+          "audio": "assets/audio/t_27_5.mp3"
+        },
+        {
+          "id": "t_27_6",
+          "text": "Let’s go through them one by one.",
+          "audio": "assets/audio/t_27_6.mp3"
+        },
+        {
+          "id": "t_27_7",
+          "text": "Rafiq, tell me then , what happened?",
+          "audio": "assets/audio/t_27_7.mp3"
+        },
+        {
+          "id": "t_27_8",
+          "text": "I tightened the wheel nuts unevenly.",
+          "audio": "assets/audio/t_27_8.mp3"
+        },
+        {
+          "id": "t_27_9",
+          "text": "Where exactly were you when your problem occurred?",
+          "audio": "assets/audio/t_27_9.mp3"
+        },
+        {
+          "id": "t_27_10",
+          "text": "I was near the hydraulic lift, right beside the tyre-changing machine.",
+          "audio": "assets/audio/t_27_10.mp3"
+        },
+        {
+          "id": "t_27_11",
+          "text": "And when did it happen?",
+          "audio": "assets/audio/t_27_11.mp3"
+        },
+        {
+          "id": "t_27_12",
+          "text": "What time was it?",
+          "audio": "assets/audio/t_27_12.mp3"
+        },
+        {
+          "id": "t_27_13",
+          "text": "It was Tuesday, around half past nine, just before the inspection round.",
+          "audio": "assets/audio/t_27_13.mp3"
+        },
+        {
+          "id": "t_27_14",
+          "text": "Alright.",
+          "audio": "assets/audio/t_27_14.mp3"
+        },
+        {
+          "id": "t_27_15",
+          "text": "Now tell me—how did you end up tightening the wheel nuts unevenly?",
+          "audio": "assets/audio/t_27_15.mp3"
+        },
+        {
+          "id": "t_27_16",
+          "text": "Sir… I used the impact wrench too quickly.",
+          "audio": "assets/audio/t_27_16.mp3"
+        },
+        {
+          "id": "t_27_17",
+          "text": "I should have checked the torque settings first, but I didn’t.",
+          "audio": "assets/audio/t_27_17.mp3"
+        },
+        {
+          "id": "t_27_18",
+          "text": "I usually check the settings, but not every day—maybe two or three times a week.",
+          "audio": "assets/audio/t_27_18.mp3"
+        },
+        {
+          "id": "t_27_19",
+          "text": "And why didn’t you check them that morning?",
+          "audio": "assets/audio/t_27_19.mp3"
+        },
+        {
+          "id": "t_27_20",
+          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
+          "audio": "assets/audio/t_27_20.mp3"
+        },
+        {
+          "id": "t_27_21",
+          "text": "But now I know that’s not safe.",
+          "audio": "assets/audio/t_27_21.mp3"
+        },
+        {
+          "id": "t_27_22",
+          "text": "Good.",
+          "audio": "assets/audio/t_27_22.mp3"
+        },
+        {
+          "id": "t_27_23",
+          "text": "So how are you going to make sure it doesn’t happen again?",
+          "audio": "assets/audio/t_27_23.mp3"
+        },
+        {
+          "id": "t_27_24",
+          "text": "I’m going to check the torque settings every morning and note them in the maintenance sheet.",
+          "audio": "assets/audio/t_27_24.mp3"
+        },
+        {
+          "id": "t_27_25",
+          "text": "I’ll also tighten the nuts in the correct sequence.",
+          "audio": "assets/audio/t_27_25.mp3"
+        },
+        {
+          "id": "t_27_26",
+          "text": "Alright.",
+          "audio": "assets/audio/t_27_26.mp3"
+        },
+        {
+          "id": "t_27_27",
+          "text": "Now, Niyas, what was your mistake?",
+          "audio": "assets/audio/t_27_27.mp3"
+        },
+        {
+          "id": "t_27_28",
+          "text": "The first readings from the digital scanner were inaccurate.",
+          "audio": "assets/audio/t_27_28.mp3"
+        },
+        {
+          "id": "t_27_29",
+          "text": "Where were you when your mistake happened?",
+          "audio": "assets/audio/t_27_29.mp3"
+        },
+        {
+          "id": "t_27_30",
+          "text": "I was near the engine-bay workbench, right beside the diagnostic scanner.",
+          "audio": "assets/audio/t_27_30.mp3"
+        },
+        {
+          "id": "t_27_31",
+          "text": "And when was that?",
+          "audio": "assets/audio/t_27_31.mp3"
+        },
+        {
+          "id": "t_27_32",
+          "text": "Thursday around 3.00 p.m., during the engine-tuning session.",
+          "audio": "assets/audio/t_27_32.mp3"
+        },
+        {
+          "id": "t_27_33",
+          "text": "And how did the first set of readings become so inaccurate?",
+          "audio": "assets/audio/t_27_33.mp3"
+        },
+        {
+          "id": "t_27_34",
+          "text": "Sir, I connected the sensors correctly, but I placed the scanner on the unstable stool, and it kept vibrating.",
+          "audio": "assets/audio/t_27_34.mp3"
+        },
+        {
+          "id": "t_27_35",
+          "text": "I also used the older probe set, and the signal became slightly distorted.",
+          "audio": "assets/audio/t_27_35.mp3"
+        },
+        {
+          "id": "t_27_36",
+          "text": "Why didn’t you check the probe set?",
+          "audio": "assets/audio/t_27_36.mp3"
+        },
+        {
+          "id": "t_27_37",
+          "text": "I was trying to save time, sir.",
+          "audio": "assets/audio/t_27_37.mp3"
+        },
+        {
+          "id": "t_27_38",
+          "text": "I check it most of the time, but this time I rushed because another vehicle was waiting.",
+          "audio": "assets/audio/t_27_38.mp3"
+        },
+        {
+          "id": "t_27_39",
+          "text": "So, how are you going to avoid these problems next time?",
+          "audio": "assets/audio/t_27_39.mp3"
+        },
+        {
+          "id": "t_27_40",
+          "text": "I’m going to secure the scanner on a stable surface, use the newer probe set, and follow the proper tuning sequence.",
+          "audio": "assets/audio/t_27_40.mp3"
+        },
+        {
+          "id": "t_27_41",
+          "text": "I’ll also double-check the connections before starting.",
+          "audio": "assets/audio/t_27_41.mp3"
+        },
+        {
+          "id": "t_27_42",
+          "text": "Good.",
+          "audio": "assets/audio/t_27_42.mp3"
+        },
+        {
+          "id": "t_27_43",
+          "text": "These are small mistakes—not disasters—but they matter.",
+          "audio": "assets/audio/t_27_43.mp3"
+        },
+        {
+          "id": "t_27_44",
+          "text": "Let’s be more consistent this week.",
+          "audio": "assets/audio/t_27_44.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
