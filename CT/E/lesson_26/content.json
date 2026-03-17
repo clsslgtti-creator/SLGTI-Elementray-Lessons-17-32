@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'s'en's'or",
+        "word_text": "'s'ite",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Why was the 's'en's'or so sensitive during the test?",
+        "sentence_text": "When was the construction 's'ite very busy last week?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "ga's'",
+        "word_text": "'s'tep",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The ga's' tank was full before the mechanic checked the engine.",
+        "sentence_text": "How was this 's'tep repaired before the inspection?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "bra'ss'",
+        "word_text": "'s'and",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Where can we find two-inch bra'ss' screws?",
+        "sentence_text": "Where did you see 's'and yesterday?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "fu's'e",
+        "word_text": "hou's'e",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "When did you last see the fu's'e boxes on the left side of the chassis?",
+        "sentence_text": "Why was the hou's'e plan corrected by the supervisor?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

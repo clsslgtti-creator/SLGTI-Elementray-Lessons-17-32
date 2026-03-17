@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'s'en's'or",
+        "word_text": "'s'erver",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Why was the 's'en's'or so sensitive during the test?",
+        "sentence_text": "Why was the 's'erver down during the online class?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "ga's'",
+        "word_text": "'s'y's'tem",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The ga's' tank was full before the mechanic checked the engine.",
+        "sentence_text": "When did the 's'y's'tem undergo maintenance last?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "bra'ss'",
+        "word_text": "proce'ss'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Where can we find two-inch bra'ss' screws?",
+        "sentence_text": "How did they decide on the proce'ss' to recruit new trainees? ",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "fu's'e",
+        "word_text": "file's'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "When did you last see the fu's'e boxes on the left side of the chassis?",
+        "sentence_text": "When do they usually back up the file's' on the secure drive? ",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
