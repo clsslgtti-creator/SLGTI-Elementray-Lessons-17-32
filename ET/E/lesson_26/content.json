@@ -104,24 +104,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why did you wipe the dashboard with a microfiber cloth this morning?",
-        "text_b": "I wiped it with a microfiber cloth to remove the fine dust.",
+        "text_a": "Why did you strip the cable ends with the insulated cutter this morning?",
+        "text_b": "I stripped them with the insulated cutter to make a clean connection.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why did you tighten the wheel nuts with the torque wrench yesterday?",
-        "text_b": "I tightened them with the torque wrench to reach the correct pressure.",
+        "text_a": "Why did you label the distribution board wires yesterday afternoon?",
+        "text_b": "I labelled them to identify each circuit clearly.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why did you raise the van on the two-post hoist last evening?",
-        "text_b": "I lifted it on the hoist to inspect the underbody safely.",
+        "text_a": "Why did you test the socket with the voltage tester before lunch?",
+        "text_b": "I tested it with the voltage tester to check if it was live.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -130,80 +130,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "polish the headlamp cover with a soft pad"
+        "word": "wrap the exposed joint with PVC tape"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "clean the air filter with the blower"
+        "word": "check the coil resistance with the multimeter"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "roll the tire across the workshop floor"
+        "word": "clean the fuse holder with a small brush"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "mark the damaged bumper with yellow tape"
+        "word": "tighten the terminal screws with the insulated screwdriver"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "apply grease to the door hinges"
+        "word": "mount the LED driver on the metal plate"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "brush the radiator fins with a soft brush"
+        "word": "secure the panel door with the safety latch"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why did you polish the headlamp cover with a soft pad this morning?",
-        "text_b": "I polished it with a soft pad to restore the brightness.",
+        "text_a": "Why did you wrap the exposed joint with PVC tape last night?",
+        "text_b": "I wrapped  it with PVC tape  to cover the bare copper safely.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why did you clean the air filter with the blower yesterday afternoon?",
-        "text_b": "I cleaned it with the blower to remove the trapped particles.",
+        "text_a": "Why did you check the coil resistance with the multimeter yesterday morning?",
+        "text_b": "I checked it with the multimeter to confirm the correct reading.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why did you roll the tire across the workshop floor so slowly?",
-        "text_b": "I rolled it slowly to keep it upright.",
+        "text_a": "Why did you clean the fuse holder with a small brush yesterday?",
+        "text_b": "I cleaned it with a brush to remove the carbon dust.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Why did you mark the damaged bumper with yellow tape yesterday?",
-        "text_b": "I marked it with yellow tape to highlight the cracks.",
+        "text_a": "Why did you tighten the terminal screws with the insulated screwdriver?",
+        "text_b": "I tightened them with the insulated screwdriver to avoid loose contacts.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Why did you apply grease to the door hinges last night?",
-        "text_b": "I applied it to stop the hinges squeaking.",
+        "text_a": "Why did you mount the LED driver on the metal plate last evening?",
+        "text_b": "I mounted it on the plate to help it cool properly.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Why did you brush the radiator fins with a soft brush this morning?",
-        "text_b": "I brushed it with a soft brush to avoid bending them.",
+        "text_a": "Why did you secure the panel door with the safety latch this morning?",
+        "text_b": "I secured it with the safety latch to prevent accidental opening.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }

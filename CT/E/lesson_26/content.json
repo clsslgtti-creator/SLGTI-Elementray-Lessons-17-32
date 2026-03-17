@@ -104,24 +104,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why did you wipe the dashboard with a microfiber cloth this morning?",
-        "text_b": "I wiped it with a microfiber cloth to remove the fine dust.",
+        "text_a": "Why did you brush the concrete dust off the floor with a wide broom this morning?",
+        "text_b": "I brushed it off with a wide broom to keep the walkway clear.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why did you tighten the wheel nuts with the torque wrench yesterday?",
-        "text_b": "I tightened them with the torque wrench to reach the correct pressure.",
+        "text_a": "Why did you tighten the scaffolding clamps yesterday afternoon?",
+        "text_b": "I tightened them  to make the platform stable.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why did you raise the van on the two-post hoist last evening?",
-        "text_b": "I lifted it on the hoist to inspect the underbody safely.",
+        "text_a": "Why did you cover the cement bags with a plastic sheet before lunch?",
+        "text_b": "I covered them with a plastic sheet to protect them from moisture.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -130,80 +130,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "polish the headlamp cover with a soft pad"
+        "word": "mark the wall line with chalk reel"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "clean the air filter with the blower"
+        "word": "spray the brick joints with water"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "roll the tire across the workshop floor"
+        "word": "stack the paving blocks on the wooden pallet"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "mark the damaged bumper with yellow tape"
+        "word": "smooth the plaster on the wall with the steel trowel"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "apply grease to the door hinges"
+        "word": "secure the ladder with a rope"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "brush the radiator fins with a soft brush"
+        "word": "draw the cutting line on the tile with a marker pen"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why did you polish the headlamp cover with a soft pad this morning?",
-        "text_b": "I polished it with a soft pad to restore the brightness.",
+        "text_a": "Why did you mark the wall line with chalk reel last evening?",
+        "text_b": "I marked it  with the chalk reel to get a straight guide.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why did you clean the air filter with the blower yesterday afternoon?",
-        "text_b": "I cleaned it with the blower to remove the trapped particles.",
+        "text_a": "Why did you spray the brick joints with water before laying the next row?",
+        "text_b": "I sprayed them  with water to strengthen the bond.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why did you roll the tire across the workshop floor so slowly?",
-        "text_b": "I rolled it slowly to keep it upright.",
+        "text_a": "Why did you stack the paving blocks on the wooden pallet so neatly?",
+        "text_b": "I stacked them neatly on the pallet to move them safely.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Why did you mark the damaged bumper with yellow tape yesterday?",
-        "text_b": "I marked it with yellow tape to highlight the cracks.",
+        "text_a": "Why did you smooth the plaster on the wall with the steel trowel last night?",
+        "text_b": "I smoothed it with the steel trowel to get a clean finish.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Why did you apply grease to the door hinges last night?",
-        "text_b": "I applied it to stop the hinges squeaking.",
+        "text_a": "Why did you secure the ladder with a rope yesterday?",
+        "text_b": "I secured it  with a rope to stop it from slipping.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Why did you brush the radiator fins with a soft brush this morning?",
-        "text_b": "I brushed it with a soft brush to avoid bending them.",
+        "text_a": "Why did you draw the cutting line on the tile with a marker pen this morning?",
+        "text_b": "I drew it with the marker to make an accurate cut.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }

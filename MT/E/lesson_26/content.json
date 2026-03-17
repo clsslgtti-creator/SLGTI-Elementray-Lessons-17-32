@@ -104,24 +104,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why did you wipe the dashboard with a microfiber cloth this morning?",
-        "text_b": "I wiped it with a microfiber cloth to remove the fine dust.",
+        "text_a": "Why did you oil the machine’s guide rails with the long-neck oil can this morning?",
+        "text_b": "I oiled them with the long-neck oil can to reduce the friction.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why did you tighten the wheel nuts with the torque wrench yesterday?",
-        "text_b": "I tightened them with the torque wrench to reach the correct pressure.",
+        "text_a": "Why did you tighten the clamp on the metal sheet yesterday afternoon?",
+        "text_b": "I tightened it to hold the sheet firmly.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why did you raise the van on the two-post hoist last evening?",
-        "text_b": "I lifted it on the hoist to inspect the underbody safely.",
+        "text_a": "Why did you brush the metal shavings off the bench with the hand brush before lunch?",
+        "text_b": "I brushed them off with the hand brush to keep the work area clean.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -130,80 +130,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "polish the headlamp cover with a soft pad"
+        "word": "mark the cutting line on the steel bar"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "clean the air filter with the blower"
+        "word": "grease the moving joints with the grease gun"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "roll the tire across the workshop floor"
+        "word": "align the pulley with the laser alignment tool"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "mark the damaged bumper with yellow tape"
+        "word": "blow the dust out of the gearbox with the air compressor"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "apply grease to the door hinges"
+        "word": "secure the heavy block on the vice"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "brush the radiator fins with a soft brush"
+        "word": "measure the shaft diameter with the vernier caliper"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why did you polish the headlamp cover with a soft pad this morning?",
-        "text_b": "I polished it with a soft pad to restore the brightness.",
+        "text_a": "Why did you mark the cutting line on the steel bar last night?",
+        "text_b": "I marked it to ensure an accurate cut.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why did you clean the air filter with the blower yesterday afternoon?",
-        "text_b": "I cleaned it with the blower to remove the trapped particles.",
+        "text_a": "Why did you grease the moving joints with the grease gun yesterday morning?",
+        "text_b": "I greased them with the grease gun to keep the movement smooth.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why did you roll the tire across the workshop floor so slowly?",
-        "text_b": "I rolled it slowly to keep it upright.",
+        "text_a": "Why did you align the pulley with the laser alignment tool yesterday?",
+        "text_b": "I aligned it with the laser tool to prevent belt wear.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Why did you mark the damaged bumper with yellow tape yesterday?",
-        "text_b": "I marked it with yellow tape to highlight the cracks.",
+        "text_a": "Why did you blow the dust out of the gearbox with the air compressor?",
+        "text_b": "I blew it out with the compressor to protect the gears.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Why did you apply grease to the door hinges last night?",
-        "text_b": "I applied it to stop the hinges squeaking.",
+        "text_a": "Why did you secure the heavy block on the vice last evening?",
+        "text_b": "I secured it on the vice to stop it from shifting.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Why did you brush the radiator fins with a soft brush this morning?",
-        "text_b": "I brushed it with a soft brush to avoid bending them.",
+        "text_a": "Why did you measure the shaft diameter with the vernier caliper this morning?",
+        "text_b": "I measured it with the vernier caliper to confirm the exact size.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
