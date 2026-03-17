@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "How did they get the pre'ss' machine ready for the morning class?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
@@ -45,7 +45,7 @@
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "How did the compre'ss'or  work yesterday?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
@@ -103,7 +103,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
+        "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "Why did you oil the machine’s guide rails with the long-neck oil can this morning?",
         "text_b": "I oiled them with the long-neck oil can to reduce the friction.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
@@ -129,7 +129,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.png",
+        "image": "assets/img/a_2_d_4.jpeg",
         "word": "mark the cutting line on the steel bar"
       },
       {
@@ -139,7 +139,7 @@
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.png",
+        "image": "assets/img/a_2_d_6.jpeg",
         "word": "align the pulley with the laser alignment tool"
       },
       {
@@ -161,7 +161,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
+        "img": "assets/img/a_2_d_4.jpeg",
         "text_a": "Why did you mark the cutting line on the steel bar last night?",
         "text_b": "I marked it to ensure an accurate cut.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
@@ -177,7 +177,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "Why did you align the pulley with the laser alignment tool yesterday?",
         "text_b": "I aligned it with the laser tool to prevent belt wear.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",

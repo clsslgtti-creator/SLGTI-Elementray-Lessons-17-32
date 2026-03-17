@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "Why was the pork 's'au's'age on the hot plate during the morning class?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
@@ -129,7 +129,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.png",
+        "image": "assets/img/a_2_d_4.jpeg",
         "word": "press the pastry edges with a fork"
       },
       {
@@ -161,7 +161,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
+        "img": "assets/img/a_2_d_4.jpeg",
         "text_a": "Why did you press the pastry edges with a fork last night?",
         "text_b": "I pressed them with a fork to seal the filling tightly.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",

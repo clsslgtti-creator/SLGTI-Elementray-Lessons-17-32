@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "Why was the 's'erver down during the online class?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
@@ -111,7 +111,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
+        "img": "assets/img/a_2_d_2.jpeg",
         "text_a": "Why did you clean the laptop vents with the air blower yesterday afternoon?",
         "text_b": "I cleaned them with the air blower to remove the trapped dust.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
@@ -119,7 +119,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
+        "img": "assets/img/a_2_d_3.jpeg",
         "text_a": "Why did you label the network cables before lunch?",
         "text_b": "I labelled them to identify each connection clearly.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",

@@ -37,7 +37,7 @@
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
         "sentence_text": "When was the construction 's'ite very busy last week?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
@@ -111,7 +111,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
+        "img": "assets/img/a_2_d_2.jpeg",
         "text_a": "Why did you tighten the scaffolding clamps yesterday afternoon?",
         "text_b": "I tightened them  to make the platform stable.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
@@ -134,7 +134,7 @@
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_5.png",
+        "image": "assets/img/a_2_d_5.jpeg",
         "word": "spray the brick joints with water"
       },
       {
@@ -149,7 +149,7 @@
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_8.png",
+        "image": "assets/img/a_2_d_8.jpeg",
         "word": "secure the ladder with a rope"
       },
       {
@@ -169,7 +169,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
+        "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "Why did you spray the brick joints with water before laying the next row?",
         "text_b": "I sprayed them  with water to strengthen the bond.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
@@ -193,7 +193,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.png",
+        "img": "assets/img/a_2_d_8.jpeg",
         "text_a": "Why did you secure the ladder with a rope yesterday?",
         "text_b": "I secured it  with a rope to stop it from slipping.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",

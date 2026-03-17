@@ -45,7 +45,7 @@
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "Why was the pul's'e weak when the current passed through the wire?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
@@ -103,7 +103,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
+        "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "Why did you strip the cable ends with the insulated cutter this morning?",
         "text_b": "I stripped them with the insulated cutter to make a clean connection.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
@@ -129,7 +129,7 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.png",
+        "image": "assets/img/a_2_d_4.jpeg",
         "word": "wrap the exposed joint with PVC tape"
       },
       {
@@ -139,7 +139,7 @@
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.png",
+        "image": "assets/img/a_2_d_6.jpeg",
         "word": "clean the fuse holder with a small brush"
       },
       {
@@ -161,7 +161,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
+        "img": "assets/img/a_2_d_4.jpeg",
         "text_a": "Why did you wrap the exposed joint with PVC tape last night?",
         "text_b": "I wrapped  it with PVC tape  to cover the bare copper safely.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
@@ -177,7 +177,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "Why did you clean the fuse holder with a small brush yesterday?",
         "text_b": "I cleaned it with a brush to remove the carbon dust.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
