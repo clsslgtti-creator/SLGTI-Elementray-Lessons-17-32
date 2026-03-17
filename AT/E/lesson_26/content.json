@@ -861,76 +861,64 @@
       ],
       "activity_d": [
         {
-          "id": "l_1_1",
-          "question_audio": "assets/audio/t_27_4.mp3",
-          "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_4",
+          "text": "We realised we made a couple of mistakes last week, and we want to explain them properly.",
+          "audio": "assets/audio/t_27_4.mp3"
         },
         {
-          "id": "l_1_2",
-          "question_audio": "assets/audio/t_27_6.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_6",
+          "text": "Let’s go through them one by one.",
+          "audio": "assets/audio/t_27_6.mp3"
         },
         {
-          "id": "l_1_3",
-          "question_audio": "assets/audio/t_27_30.mp3",
-          "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_30",
+          "text": "I was near the engine-bay workbench, right beside the diagnostic scanner.",
+          "audio": "assets/audio/t_27_30.mp3"
         },
         {
-          "id": "l_1_4",
-          "question_audio": "assets/audio/t_27_39.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_39",
+          "text": "So, how are you going to avoid these problems next time?",
+          "audio": "assets/audio/t_27_39.mp3"
         },
         {
-          "id": "l_1_5",
-          "question_audio": "assets/audio/t_27_17.mp3",
-          "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_17",
+          "text": "I should have checked the torque settings first, but I didn’t.",
+          "audio": "assets/audio/t_27_17.mp3"
         },
         {
-          "id": "l_1_6",
-          "question_audio": "assets/audio/t_27_43.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_43",
+          "text": "These are small mistakes—not disasters—but they matter.",
+          "audio": "assets/audio/t_27_43.mp3"
         },
         {
-          "id": "l_1_7",
-          "question_audio": "assets/audio/t_27_38.mp3",
-          "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_38",
+          "text": "I check it most of the time, but this time I rushed because another vehicle was waiting.",
+          "audio": "assets/audio/t_27_38.mp3"
         },
         {
-          "id": "l_1_8",
-          "question_audio": "assets/audio/t_27_20.mp3",
-          "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_20",
+          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
+          "audio": "assets/audio/t_27_20.mp3"
         },
         {
-          "id": "l_1_9",
-          "question_audio": "assets/audio/t_27_39.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_39",
+          "text": "So, how are you going to avoid these problems next time?",
+          "audio": "assets/audio/t_27_39.mp3"
         },
         {
-          "id": "l_1_10",
-          "question_audio": "assets/audio/t_27_34.mp3",
-          "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_34",
+          "text": "Sir, I connected the sensors correctly, but I placed the scanner on the unstable stool, and it kept vibrating.",
+          "audio": "assets/audio/t_27_34.mp3"
         },
         {
-          "id": "l_1_11",
-          "question_audio": "assets/audio/t_27_33.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_33",
+          "text": "And how did the first set of readings become so inaccurate?",
+          "audio": "assets/audio/t_27_33.mp3"
         },
         {
-          "id": "l_1_12",
-          "question_audio": "assets/audio/t_27_24.mp3",
-          "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "id": "t_27_24",
+          "text": "I’m going to check the torque settings every morning and note them in the maintenance sheet.",
+          "audio": "assets/audio/t_27_24.mp3"
         }
       ],
       "activity_e": [
