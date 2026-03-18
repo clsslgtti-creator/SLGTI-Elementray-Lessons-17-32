@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 26,
     "level": "Elementary",
-    "section": "Automobile Technology",
+    "section": "Electrical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'s'en's'or",
+        "word_text": "ca's'e",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Why was the 's'en's'or so sensitive during the test?",
+        "sentence_text": "When did the trainees open the ca's'e?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "ga's'",
+        "word_text": "pul's'e",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The ga's' tank was full before the mechanic checked the engine.",
+        "sentence_text": "Why was the pul's'e weak when the current passed through the wire?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "bra'ss'",
+        "word_text": "tran's'mission",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Where can we find two-inch bra'ss' screws?",
+        "sentence_text": "How did the electrician check the tran's'mission last week?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "fu's'e",
+        "word_text": "'s'witch",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "When did you last see the fu's'e boxes on the left side of the chassis?",
+        "sentence_text": "Where can I find the emergency  's'witch?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -103,25 +103,25 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why did you wipe the dashboard with a microfiber cloth this morning?",
-        "text_b": "I wiped it with a microfiber cloth to remove the fine dust.",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "Why did you strip the cable ends with the insulated cutter this morning?",
+        "text_b": "I stripped them with the insulated cutter to make a clean connection.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why did you tighten the wheel nuts with the torque wrench yesterday?",
-        "text_b": "I tightened them with the torque wrench to reach the correct pressure.",
+        "text_a": "Why did you label the distribution board wires yesterday afternoon?",
+        "text_b": "I labelled them to identify each circuit clearly.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why did you raise the van on the two-post hoist last evening?",
-        "text_b": "I lifted it on the hoist to inspect the underbody safely.",
+        "text_a": "Why did you test the socket with the voltage tester before lunch?",
+        "text_b": "I tested it with the voltage tester to check if it was live.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -129,81 +129,81 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.png",
-        "word": "polish the headlamp cover with a soft pad"
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "wrap the exposed joint with PVC tape"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "clean the air filter with the blower"
+        "word": "check the coil resistance with the multimeter"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.png",
-        "word": "roll the tire across the workshop floor"
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "clean the fuse holder with a small brush"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "mark the damaged bumper with yellow tape"
+        "word": "tighten the terminal screws with the insulated screwdriver"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "apply grease to the door hinges"
+        "word": "mount the LED driver on the metal plate"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "brush the radiator fins with a soft brush"
+        "word": "secure the panel door with the safety latch"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why did you polish the headlamp cover with a soft pad this morning?",
-        "text_b": "I polished it with a soft pad to restore the brightness.",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "Why did you wrap the exposed joint with PVC tape last night?",
+        "text_b": "I wrapped  it with PVC tape  to cover the bare copper safely.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why did you clean the air filter with the blower yesterday afternoon?",
-        "text_b": "I cleaned it with the blower to remove the trapped particles.",
+        "text_a": "Why did you check the coil resistance with the multimeter yesterday morning?",
+        "text_b": "I checked it with the multimeter to confirm the correct reading.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why did you roll the tire across the workshop floor so slowly?",
-        "text_b": "I rolled it slowly to keep it upright.",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "Why did you clean the fuse holder with a small brush yesterday?",
+        "text_b": "I cleaned it with a brush to remove the carbon dust.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Why did you mark the damaged bumper with yellow tape yesterday?",
-        "text_b": "I marked it with yellow tape to highlight the cracks.",
+        "text_a": "Why did you tighten the terminal screws with the insulated screwdriver?",
+        "text_b": "I tightened them with the insulated screwdriver to avoid loose contacts.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Why did you apply grease to the door hinges last night?",
-        "text_b": "I applied it to stop the hinges squeaking.",
+        "text_a": "Why did you mount the LED driver on the metal plate last evening?",
+        "text_b": "I mounted it on the plate to help it cool properly.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Why did you brush the radiator fins with a soft brush this morning?",
-        "text_b": "I brushed it with a soft brush to avoid bending them.",
+        "text_a": "Why did you secure the panel door with the safety latch this morning?",
+        "text_b": "I secured it with the safety latch to prevent accidental opening.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
@@ -513,42 +513,42 @@
         "Questions": [
           {
             "id": "l_16_1",
-            "question": "Where was Rafiq when his mistake happened?",
-            "answer": "Near the hydraulic lift.",
+            "question": "Where was Farhan when his mistake happened?",
+            "answer": "Near the distribution board.",
             "options": [
-              "Near the paint booth",
-              "Near the alignment pit",
-              "Near the hydraulic lift"
+              "Near the solar array.",
+              "Near the distribution board.",
+              "Near the workshop entrance."
             ]
           },
           {
             "id": "l_16_2",
-            "question": "What tool did Rafiq use too quickly?",
-            "answer": "The impact wrench.",
+            "question": "What caused Farhan’s incorrect connection?",
+            "answer": "He read the label too quickly.",
             "options": [
-              "The torque wrench",
-              "The spanner set",
-              "The impact wrench"
+              "He used the wrong screwdriver.",
+              "He followed an old diagram.",
+              "He read the label too quickly."
             ]
           },
           {
             "id": "l_16_3",
-            "question": "What caused Niyas’s readings to become inaccurate?",
-            "answer": "Placing the scanner on an unstable stool.",
+            "question": "Where was Thenu during her mistake?",
+            "answer": "Near the inverter panel.",
             "options": [
-              "Using the wrong fuel type",
-              "Placing the scanner on an unstable desk",
-              "Placing the scanner on an unstable stool"
+              "Near the battery bank.",
+              "Near the inverter panel.",
+              "Near the generator room."
             ]
           },
           {
             "id": "l_16_4",
-            "question": "When did Niyas’s mistake occur?",
-            "answer": "Thursday at 3.00 p.m.",
+            "question": "Why were Thenu’s readings inaccurate?",
+            "answer": "She held the probes too loosely.",
             "options": [
-              "Thursday at 3.00 p.m.",
-              "Wednesday at 11.30 a.m.",
-              "Friday at 1.00 p.m."
+              "She used the wrong voltage scale.",
+              "She held the probes too loosely.",
+              "She measured the wrong circuit."
             ]
           },
           {
@@ -556,9 +556,9 @@
             "question": "What did both trainees admit?",
             "answer": "They rushed their work.",
             "options": [
-              "They forgot to clean the tools",
-              "They rushed their work",
-              "They rushed their work"
+              "They lacked the tools.",
+              "They forgot their safety gear.",
+              "They rushed their work."
             ]
           }
         ]
@@ -566,581 +566,521 @@
       "activity_b": [
         {
           "id": "l_1_1",
-          "question_audio": "assets/audio/t_27_4.mp3",
-          "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_37.mp3",
+          "answer": "Instructor Nadee",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_2",
-          "question_audio": "assets/audio/t_27_6.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_33.mp3",
+          "answer": "Thenu",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_3",
-          "question_audio": "assets/audio/t_27_30.mp3",
-          "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_21.mp3",
+          "answer": "Farhan",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_4",
-          "question_audio": "assets/audio/t_27_39.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_13.mp3",
+          "answer": "Instructor Nadee",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_5",
-          "question_audio": "assets/audio/t_27_17.mp3",
-          "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_15.mp3",
+          "answer": "Farhan",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_6",
-          "question_audio": "assets/audio/t_27_43.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_28.mp3",
+          "answer": "Instructor Nadee",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_7",
-          "question_audio": "assets/audio/t_27_38.mp3",
-          "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_18.mp3",
+          "answer": "Farhan",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_8",
-          "question_audio": "assets/audio/t_27_20.mp3",
-          "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_20.mp3",
+          "answer": "Instructor Nadee",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_9",
-          "question_audio": "assets/audio/t_27_39.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_29.mp3",
+          "answer": "Thenu",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_10",
-          "question_audio": "assets/audio/t_27_34.mp3",
-          "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_5.mp3",
+          "answer": "Instructor Nadee",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_11",
-          "question_audio": "assets/audio/t_27_33.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_4.mp3",
+          "answer": "Farhan",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         },
         {
           "id": "l_1_12",
-          "question_audio": "assets/audio/t_27_24.mp3",
-          "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "question_audio": "assets/audio/t_30_35.mp3",
+          "answer": "Thenu",
+          "options": ["Farhan", "Thenu", "Instructor Nadee"]
         }
       ],
       "activity_c": [
         {
-          "id": "t_27_1",
-          "text": "Rafiq and Niyas walked up to Mr. Ranjith after the morning toolbox meeting.",
-          "audio": "assets/audio/t_27_1.mp3"
+          "id": "t_30_1",
+          "text": "Farhan and Thenu walked up to Ms. Nadee after the morning safety briefing.",
+          "audio": "assets/audio/t_30_1.mp3"
         },
         {
-          "id": "t_27_2",
-          "text": "Both looked slightly tense, and Rafiq spoke first.",
-          "audio": "assets/audio/t_27_2.mp3"
+          "id": "t_30_2",
+          "text": "Both looked slightly nervous, and Farhan spoke first.",
+          "audio": "assets/audio/t_30_2.mp3"
         },
         {
-          "id": "t_27_3",
-          "text": "Good morning, Sir, we need to talk to you.",
-          "audio": "assets/audio/t_27_3.mp3"
+          "id": "t_30_3",
+          "text": "Good morning, Madam, we need to talk to you.",
+          "audio": "assets/audio/t_30_3.mp3"
         },
         {
-          "id": "t_27_4",
-          "text": "We realised we made a couple of mistakes last week, and we want to explain them properly.",
-          "audio": "assets/audio/t_27_4.mp3"
+          "id": "t_30_4",
+          "text": "We realised we made a few mistakes last week, and we want to explain them properly.",
+          "audio": "assets/audio/t_30_4.mp3"
         },
         {
-          "id": "t_27_5",
-          "text": "Assalamu Alaikum, both of you. Thank you for being honest.",
-          "audio": "assets/audio/t_27_5.mp3"
+          "id": "t_30_5",
+          "text": "Ayubowan, both of you. Thank you for coming to me directly.",
+          "audio": "assets/audio/t_30_5.mp3"
         },
         {
-          "id": "t_27_6",
+          "id": "t_30_6",
           "text": "Let’s go through them one by one.",
-          "audio": "assets/audio/t_27_6.mp3"
+          "audio": "assets/audio/t_30_6.mp3"
         },
         {
-          "id": "t_27_7",
-          "text": "Rafiq, tell me then , what happened?",
-          "audio": "assets/audio/t_27_7.mp3"
+          "id": "t_30_7",
+          "text": "Farhan, tell me then , what happened?",
+          "audio": "assets/audio/t_30_7.mp3"
         },
         {
-          "id": "t_27_8",
-          "text": "I tightened the wheel nuts unevenly.",
-          "audio": "assets/audio/t_27_8.mp3"
+          "id": "t_30_8",
+          "text": "I connected the wrong circuit to the breaker.",
+          "audio": "assets/audio/t_30_8.mp3"
         },
         {
-          "id": "t_27_9",
+          "id": "t_30_9",
           "text": "Where exactly were you when your problem occurred?",
-          "audio": "assets/audio/t_27_9.mp3"
+          "audio": "assets/audio/t_30_9.mp3"
         },
         {
-          "id": "t_27_10",
-          "text": "I was near the hydraulic lift, right beside the tyre-changing machine.",
-          "audio": "assets/audio/t_27_10.mp3"
+          "id": "t_30_10",
+          "text": "I was near the distribution board, right beside the cable-routing tray.",
+          "audio": "assets/audio/t_30_10.mp3"
         },
         {
-          "id": "t_27_11",
-          "text": "And when did it happen?",
-          "audio": "assets/audio/t_27_11.mp3"
+          "id": "t_30_11",
+          "text": "And when did it happen? What time was it?",
+          "audio": "assets/audio/t_30_11.mp3"
         },
         {
-          "id": "t_27_12",
-          "text": "What time was it?",
-          "audio": "assets/audio/t_27_12.mp3"
+          "id": "t_30_12",
+          "text": "It was Tuesday, around ten thirty, just before the safety inspection.",
+          "audio": "assets/audio/t_30_12.mp3"
         },
         {
-          "id": "t_27_13",
-          "text": "It was Tuesday, around half past nine, just before the inspection round.",
-          "audio": "assets/audio/t_27_13.mp3"
+          "id": "t_30_13",
+          "text": "Alright. Now tell me—how did you end up connecting the wrong circuit to the breaker?",
+          "audio": "assets/audio/t_30_13.mp3"
         },
         {
-          "id": "t_27_14",
-          "text": "Alright.",
-          "audio": "assets/audio/t_27_14.mp3"
+          "id": "t_30_14",
+          "text": "Madam… I read the label too quickly.",
+          "audio": "assets/audio/t_30_14.mp3"
         },
         {
-          "id": "t_27_15",
-          "text": "Now tell me—how did you end up tightening the wheel nuts unevenly?",
-          "audio": "assets/audio/t_27_15.mp3"
+          "id": "t_30_15",
+          "text": "I should have checked the wiring diagram first, but I didn’t.",
+          "audio": "assets/audio/t_30_15.mp3"
         },
         {
-          "id": "t_27_16",
-          "text": "Sir… I used the impact wrench too quickly.",
-          "audio": "assets/audio/t_27_16.mp3"
+          "id": "t_30_16",
+          "text": "I usually check diagrams, but not every morning—maybe two or three times a week.",
+          "audio": "assets/audio/t_30_16.mp3"
         },
         {
-          "id": "t_27_17",
-          "text": "I should have checked the torque settings first, but I didn’t.",
-          "audio": "assets/audio/t_27_17.mp3"
+          "id": "t_30_17",
+          "text": "And why didn’t you check it that morning?",
+          "audio": "assets/audio/t_30_17.mp3"
         },
         {
-          "id": "t_27_18",
-          "text": "I usually check the settings, but not every day—maybe two or three times a week.",
-          "audio": "assets/audio/t_27_18.mp3"
+          "id": "t_30_18",
+          "text": "Honestly, madam, I thought the labels were still correct from the previous job.",
+          "audio": "assets/audio/t_30_18.mp3"
         },
         {
-          "id": "t_27_19",
-          "text": "And why didn’t you check them that morning?",
-          "audio": "assets/audio/t_27_19.mp3"
+          "id": "t_30_19",
+          "text": "But now I understand that I must double-check everything.",
+          "audio": "assets/audio/t_30_19.mp3"
         },
         {
-          "id": "t_27_20",
-          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
-          "audio": "assets/audio/t_27_20.mp3"
+          "id": "t_30_20",
+          "text": "Good. So how will you make sure this doesn’t happen again?",
+          "audio": "assets/audio/t_30_20.mp3"
         },
         {
-          "id": "t_27_21",
-          "text": "But now I know that’s not safe.",
-          "audio": "assets/audio/t_27_21.mp3"
+          "id": "t_30_21",
+          "text": "I’m going to check the diagram every morning, confirm the labels, and trace each wire slowly before connecting anything.",
+          "audio": "assets/audio/t_30_21.mp3"
         },
         {
-          "id": "t_27_22",
-          "text": "Good.",
-          "audio": "assets/audio/t_27_22.mp3"
+          "id": "t_30_22",
+          "text": "Alright. Now, Thenu, what was your mistake?",
+          "audio": "assets/audio/t_30_22.mp3"
         },
         {
-          "id": "t_27_23",
-          "text": "So how are you going to make sure it doesn’t happen again?",
-          "audio": "assets/audio/t_27_23.mp3"
+          "id": "t_30_23",
+          "text": "The first readings of the voltage were inaccurate.",
+          "audio": "assets/audio/t_30_23.mp3"
         },
         {
-          "id": "t_27_24",
-          "text": "I’m going to check the torque settings every morning and note them in the maintenance sheet.",
-          "audio": "assets/audio/t_27_24.mp3"
-        },
-        {
-          "id": "t_27_25",
-          "text": "I’ll also tighten the nuts in the correct sequence.",
-          "audio": "assets/audio/t_27_25.mp3"
-        },
-        {
-          "id": "t_27_26",
-          "text": "Alright.",
-          "audio": "assets/audio/t_27_26.mp3"
-        },
-        {
-          "id": "t_27_27",
-          "text": "Now, Niyas, what was your mistake?",
-          "audio": "assets/audio/t_27_27.mp3"
-        },
-        {
-          "id": "t_27_28",
-          "text": "The first readings from the digital scanner were inaccurate.",
-          "audio": "assets/audio/t_27_28.mp3"
-        },
-        {
-          "id": "t_27_29",
+          "id": "t_30_24",
           "text": "Where were you when your mistake happened?",
-          "audio": "assets/audio/t_27_29.mp3"
+          "audio": "assets/audio/t_30_24.mp3"
         },
         {
-          "id": "t_27_30",
-          "text": "I was near the engine-bay workbench, right beside the diagnostic scanner.",
-          "audio": "assets/audio/t_27_30.mp3"
+          "id": "t_30_25",
+          "text": "I was near the inverter panel, right beside the multimeter rack.",
+          "audio": "assets/audio/t_30_25.mp3"
         },
         {
-          "id": "t_27_31",
+          "id": "t_30_26",
           "text": "And when was that?",
-          "audio": "assets/audio/t_27_31.mp3"
+          "audio": "assets/audio/t_30_26.mp3"
         },
         {
-          "id": "t_27_32",
-          "text": "Thursday around 3.00 p.m., during the engine-tuning session.",
-          "audio": "assets/audio/t_27_32.mp3"
+          "id": "t_30_27",
+          "text": "Friday around 2.45 p.m., during the voltage-testing session.",
+          "audio": "assets/audio/t_30_27.mp3"
         },
         {
-          "id": "t_27_33",
-          "text": "And how did the first set of readings become so inaccurate?",
-          "audio": "assets/audio/t_27_33.mp3"
+          "id": "t_30_28",
+          "text": "And how did your first set of readings become so inaccurate?",
+          "audio": "assets/audio/t_30_28.mp3"
         },
         {
-          "id": "t_27_34",
-          "text": "Sir, I connected the sensors correctly, but I placed the scanner on the unstable stool, and it kept vibrating.",
-          "audio": "assets/audio/t_27_34.mp3"
+          "id": "t_30_29",
+          "text": "Madam, I set the multimeter correctly, but I placed the probes too loosely and didn’t hold them steady.",
+          "audio": "assets/audio/t_30_29.mp3"
         },
         {
-          "id": "t_27_35",
-          "text": "I also used the older probe set, and the signal became slightly distorted.",
-          "audio": "assets/audio/t_27_35.mp3"
+          "id": "t_30_30",
+          "text": "I also used the older probe set, and the contact point wasn’t clean.",
+          "audio": "assets/audio/t_30_30.mp3"
         },
         {
-          "id": "t_27_36",
-          "text": "Why didn’t you check the probe set?",
-          "audio": "assets/audio/t_27_36.mp3"
+          "id": "t_30_31",
+          "text": "Why didn’t you check the probes?",
+          "audio": "assets/audio/t_30_31.mp3"
         },
         {
-          "id": "t_27_37",
-          "text": "I was trying to save time, sir.",
-          "audio": "assets/audio/t_27_37.mp3"
+          "id": "t_30_32",
+          "text": "I was rushing, madam.",
+          "audio": "assets/audio/t_30_32.mp3"
         },
         {
-          "id": "t_27_38",
-          "text": "I check it most of the time, but this time I rushed because another vehicle was waiting.",
-          "audio": "assets/audio/t_27_38.mp3"
+          "id": "t_30_33",
+          "text": "I check them most of the time, but that day I hurried because I thought the next test would take long.",
+          "audio": "assets/audio/t_30_33.mp3"
         },
         {
-          "id": "t_27_39",
-          "text": "So, how are you going to avoid these problems next time?",
-          "audio": "assets/audio/t_27_39.mp3"
+          "id": "t_30_34",
+          "text": "So how will you avoid this next time?",
+          "audio": "assets/audio/t_30_34.mp3"
         },
         {
-          "id": "t_27_40",
-          "text": "I’m going to secure the scanner on a stable surface, use the newer probe set, and follow the proper tuning sequence.",
-          "audio": "assets/audio/t_27_40.mp3"
+          "id": "t_30_35",
+          "text": "I’m going to clean the probe tips, secure the contacts properly, and use the newer set for testing.",
+          "audio": "assets/audio/t_30_35.mp3"
         },
         {
-          "id": "t_27_41",
-          "text": "I’ll also double-check the connections before starting.",
-          "audio": "assets/audio/t_27_41.mp3"
+          "id": "t_30_36",
+          "text": "I’ll also take my time with each reading.",
+          "audio": "assets/audio/t_30_36.mp3"
         },
         {
-          "id": "t_27_42",
-          "text": "Good.",
-          "audio": "assets/audio/t_27_42.mp3"
+          "id": "t_30_37",
+          "text": "Good. These are small mistakes—not big failures—but they matter.",
+          "audio": "assets/audio/t_30_37.mp3"
         },
         {
-          "id": "t_27_43",
-          "text": "These are small mistakes—not disasters—but they matter.",
-          "audio": "assets/audio/t_27_43.mp3"
-        },
-        {
-          "id": "t_27_44",
-          "text": "Let’s be more consistent this week.",
-          "audio": "assets/audio/t_27_44.mp3"
+          "id": "t_30_38",
+          "text": "Let’s stay consistent this week.",
+          "audio": "assets/audio/t_30_38.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_27_4",
-          "text": "We realised we made a couple of mistakes last week, and we want to explain them properly.",
-          "audio": "assets/audio/t_27_4.mp3"
+          "id": "t_30_37",
+          "text": "Good. These are small mistakes—not big failures—but they matter.",
+          "audio": "assets/audio/t_30_37.mp3"
         },
         {
-          "id": "t_27_6",
-          "text": "Let’s go through them one by one.",
-          "audio": "assets/audio/t_27_6.mp3"
+          "id": "t_30_33",
+          "text": "I check them most of the time, but that day I hurried because I thought the next test would take long.",
+          "audio": "assets/audio/t_30_33.mp3"
         },
         {
-          "id": "t_27_30",
-          "text": "I was near the engine-bay workbench, right beside the diagnostic scanner.",
-          "audio": "assets/audio/t_27_30.mp3"
+          "id": "t_30_21",
+          "text": "I’m going to check the diagram every morning, confirm the labels, and trace each wire slowly before connecting anything.",
+          "audio": "assets/audio/t_30_21.mp3"
         },
         {
-          "id": "t_27_39",
-          "text": "So, how are you going to avoid these problems next time?",
-          "audio": "assets/audio/t_27_39.mp3"
+          "id": "t_30_13",
+          "text": "Alright. Now tell me—how did you end up connecting the wrong circuit to the breaker?",
+          "audio": "assets/audio/t_30_13.mp3"
         },
         {
-          "id": "t_27_17",
-          "text": "I should have checked the torque settings first, but I didn’t.",
-          "audio": "assets/audio/t_27_17.mp3"
+          "id": "t_30_15",
+          "text": "I should have checked the wiring diagram first, but I didn’t.",
+          "audio": "assets/audio/t_30_15.mp3"
         },
         {
-          "id": "t_27_43",
-          "text": "These are small mistakes—not disasters—but they matter.",
-          "audio": "assets/audio/t_27_43.mp3"
+          "id": "t_30_28",
+          "text": "And how did your first set of readings become so inaccurate?",
+          "audio": "assets/audio/t_30_28.mp3"
         },
         {
-          "id": "t_27_38",
-          "text": "I check it most of the time, but this time I rushed because another vehicle was waiting.",
-          "audio": "assets/audio/t_27_38.mp3"
+          "id": "t_30_18",
+          "text": "Honestly, madam, I thought the labels were still correct from the previous job.",
+          "audio": "assets/audio/t_30_18.mp3"
         },
         {
-          "id": "t_27_20",
-          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
-          "audio": "assets/audio/t_27_20.mp3"
+          "id": "t_30_20",
+          "text": "Good. So how will you make sure this doesn’t happen again?",
+          "audio": "assets/audio/t_30_20.mp3"
         },
         {
-          "id": "t_27_39",
-          "text": "So, how are you going to avoid these problems next time?",
-          "audio": "assets/audio/t_27_39.mp3"
+          "id": "t_30_29",
+          "text": "Madam, I set the multimeter correctly, but I placed the probes too loosely and didn’t hold them steady.",
+          "audio": "assets/audio/t_30_29.mp3"
         },
         {
-          "id": "t_27_34",
-          "text": "Sir, I connected the sensors correctly, but I placed the scanner on the unstable stool, and it kept vibrating.",
-          "audio": "assets/audio/t_27_34.mp3"
+          "id": "t_30_5",
+          "text": "Ayubowan, both of you. Thank you for coming to me directly.",
+          "audio": "assets/audio/t_30_5.mp3"
         },
         {
-          "id": "t_27_33",
-          "text": "And how did the first set of readings become so inaccurate?",
-          "audio": "assets/audio/t_27_33.mp3"
+          "id": "t_30_4",
+          "text": "We realised we made a few mistakes last week, and we want to explain them properly.",
+          "audio": "assets/audio/t_30_4.mp3"
         },
         {
-          "id": "t_27_24",
-          "text": "I’m going to check the torque settings every morning and note them in the maintenance sheet.",
-          "audio": "assets/audio/t_27_24.mp3"
+          "id": "t_30_35",
+          "text": "I’m going to clean the probe tips, secure the contacts properly, and use the newer set for testing.",
+          "audio": "assets/audio/t_30_35.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_27_1",
-          "text": "Rafiq and Niyas walked up to Mr. Ranjith after the morning toolbox meeting.",
-          "audio": "assets/audio/t_27_1.mp3"
+          "id": "t_30_1",
+          "text": "Farhan and Thenu walked up to Ms. Nadee after the morning safety briefing.",
+          "audio": "assets/audio/t_30_1.mp3"
         },
         {
-          "id": "t_27_2",
-          "text": "Both looked slightly tense, and Rafiq spoke first.",
-          "audio": "assets/audio/t_27_2.mp3"
+          "id": "t_30_2",
+          "text": "Both looked slightly nervous, and Farhan spoke first.",
+          "audio": "assets/audio/t_30_2.mp3"
         },
         {
-          "id": "t_27_3",
-          "text": "Good morning, Sir, we need to talk to you.",
-          "audio": "assets/audio/t_27_3.mp3"
+          "id": "t_30_3",
+          "text": "Good morning, Madam, we need to talk to you.",
+          "audio": "assets/audio/t_30_3.mp3"
         },
         {
-          "id": "t_27_4",
-          "text": "We realised we made a couple of mistakes last week, and we want to explain them properly.",
-          "audio": "assets/audio/t_27_4.mp3"
+          "id": "t_30_4",
+          "text": "We realised we made a few mistakes last week, and we want to explain them properly.",
+          "audio": "assets/audio/t_30_4.mp3"
         },
         {
-          "id": "t_27_5",
-          "text": "Assalamu Alaikum, both of you. Thank you for being honest.",
-          "audio": "assets/audio/t_27_5.mp3"
+          "id": "t_30_5",
+          "text": "Ayubowan, both of you. Thank you for coming to me directly.",
+          "audio": "assets/audio/t_30_5.mp3"
         },
         {
-          "id": "t_27_6",
+          "id": "t_30_6",
           "text": "Let’s go through them one by one.",
-          "audio": "assets/audio/t_27_6.mp3"
+          "audio": "assets/audio/t_30_6.mp3"
         },
         {
-          "id": "t_27_7",
-          "text": "Rafiq, tell me then , what happened?",
-          "audio": "assets/audio/t_27_7.mp3"
+          "id": "t_30_7",
+          "text": "Farhan, tell me then , what happened?",
+          "audio": "assets/audio/t_30_7.mp3"
         },
         {
-          "id": "t_27_8",
-          "text": "I tightened the wheel nuts unevenly.",
-          "audio": "assets/audio/t_27_8.mp3"
+          "id": "t_30_8",
+          "text": "I connected the wrong circuit to the breaker.",
+          "audio": "assets/audio/t_30_8.mp3"
         },
         {
-          "id": "t_27_9",
+          "id": "t_30_9",
           "text": "Where exactly were you when your problem occurred?",
-          "audio": "assets/audio/t_27_9.mp3"
+          "audio": "assets/audio/t_30_9.mp3"
         },
         {
-          "id": "t_27_10",
-          "text": "I was near the hydraulic lift, right beside the tyre-changing machine.",
-          "audio": "assets/audio/t_27_10.mp3"
+          "id": "t_30_10",
+          "text": "I was near the distribution board, right beside the cable-routing tray.",
+          "audio": "assets/audio/t_30_10.mp3"
         },
         {
-          "id": "t_27_11",
-          "text": "And when did it happen?",
-          "audio": "assets/audio/t_27_11.mp3"
+          "id": "t_30_11",
+          "text": "And when did it happen? What time was it?",
+          "audio": "assets/audio/t_30_11.mp3"
         },
         {
-          "id": "t_27_12",
-          "text": "What time was it?",
-          "audio": "assets/audio/t_27_12.mp3"
+          "id": "t_30_12",
+          "text": "It was Tuesday, around ten thirty, just before the safety inspection.",
+          "audio": "assets/audio/t_30_12.mp3"
         },
         {
-          "id": "t_27_13",
-          "text": "It was Tuesday, around half past nine, just before the inspection round.",
-          "audio": "assets/audio/t_27_13.mp3"
+          "id": "t_30_13",
+          "text": "Alright. Now tell me—how did you end up connecting the wrong circuit to the breaker?",
+          "audio": "assets/audio/t_30_13.mp3"
         },
         {
-          "id": "t_27_14",
-          "text": "Alright.",
-          "audio": "assets/audio/t_27_14.mp3"
+          "id": "t_30_14",
+          "text": "Madam… I read the label too quickly.",
+          "audio": "assets/audio/t_30_14.mp3"
         },
         {
-          "id": "t_27_15",
-          "text": "Now tell me—how did you end up tightening the wheel nuts unevenly?",
-          "audio": "assets/audio/t_27_15.mp3"
+          "id": "t_30_15",
+          "text": "I should have checked the wiring diagram first, but I didn’t.",
+          "audio": "assets/audio/t_30_15.mp3"
         },
         {
-          "id": "t_27_16",
-          "text": "Sir… I used the impact wrench too quickly.",
-          "audio": "assets/audio/t_27_16.mp3"
+          "id": "t_30_16",
+          "text": "I usually check diagrams, but not every morning—maybe two or three times a week.",
+          "audio": "assets/audio/t_30_16.mp3"
         },
         {
-          "id": "t_27_17",
-          "text": "I should have checked the torque settings first, but I didn’t.",
-          "audio": "assets/audio/t_27_17.mp3"
+          "id": "t_30_17",
+          "text": "And why didn’t you check it that morning?",
+          "audio": "assets/audio/t_30_17.mp3"
         },
         {
-          "id": "t_27_18",
-          "text": "I usually check the settings, but not every day—maybe two or three times a week.",
-          "audio": "assets/audio/t_27_18.mp3"
+          "id": "t_30_18",
+          "text": "Honestly, madam, I thought the labels were still correct from the previous job.",
+          "audio": "assets/audio/t_30_18.mp3"
         },
         {
-          "id": "t_27_19",
-          "text": "And why didn’t you check them that morning?",
-          "audio": "assets/audio/t_27_19.mp3"
+          "id": "t_30_19",
+          "text": "But now I understand that I must double-check everything.",
+          "audio": "assets/audio/t_30_19.mp3"
         },
         {
-          "id": "t_27_20",
-          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
-          "audio": "assets/audio/t_27_20.mp3"
+          "id": "t_30_20",
+          "text": "Good. So how will you make sure this doesn’t happen again?",
+          "audio": "assets/audio/t_30_20.mp3"
         },
         {
-          "id": "t_27_21",
-          "text": "But now I know that’s not safe.",
-          "audio": "assets/audio/t_27_21.mp3"
+          "id": "t_30_21",
+          "text": "I’m going to check the diagram every morning, confirm the labels, and trace each wire slowly before connecting anything.",
+          "audio": "assets/audio/t_30_21.mp3"
         },
         {
-          "id": "t_27_22",
-          "text": "Good.",
-          "audio": "assets/audio/t_27_22.mp3"
+          "id": "t_30_22",
+          "text": "Alright. Now, Thenu, what was your mistake?",
+          "audio": "assets/audio/t_30_22.mp3"
         },
         {
-          "id": "t_27_23",
-          "text": "So how are you going to make sure it doesn’t happen again?",
-          "audio": "assets/audio/t_27_23.mp3"
+          "id": "t_30_23",
+          "text": "The first readings of the voltage were inaccurate.",
+          "audio": "assets/audio/t_30_23.mp3"
         },
         {
-          "id": "t_27_24",
-          "text": "I’m going to check the torque settings every morning and note them in the maintenance sheet.",
-          "audio": "assets/audio/t_27_24.mp3"
-        },
-        {
-          "id": "t_27_25",
-          "text": "I’ll also tighten the nuts in the correct sequence.",
-          "audio": "assets/audio/t_27_25.mp3"
-        },
-        {
-          "id": "t_27_26",
-          "text": "Alright.",
-          "audio": "assets/audio/t_27_26.mp3"
-        },
-        {
-          "id": "t_27_27",
-          "text": "Now, Niyas, what was your mistake?",
-          "audio": "assets/audio/t_27_27.mp3"
-        },
-        {
-          "id": "t_27_28",
-          "text": "The first readings from the digital scanner were inaccurate.",
-          "audio": "assets/audio/t_27_28.mp3"
-        },
-        {
-          "id": "t_27_29",
+          "id": "t_30_24",
           "text": "Where were you when your mistake happened?",
-          "audio": "assets/audio/t_27_29.mp3"
+          "audio": "assets/audio/t_30_24.mp3"
         },
         {
-          "id": "t_27_30",
-          "text": "I was near the engine-bay workbench, right beside the diagnostic scanner.",
-          "audio": "assets/audio/t_27_30.mp3"
+          "id": "t_30_25",
+          "text": "I was near the inverter panel, right beside the multimeter rack.",
+          "audio": "assets/audio/t_30_25.mp3"
         },
         {
-          "id": "t_27_31",
+          "id": "t_30_26",
           "text": "And when was that?",
-          "audio": "assets/audio/t_27_31.mp3"
+          "audio": "assets/audio/t_30_26.mp3"
         },
         {
-          "id": "t_27_32",
-          "text": "Thursday around 3.00 p.m., during the engine-tuning session.",
-          "audio": "assets/audio/t_27_32.mp3"
+          "id": "t_30_27",
+          "text": "Friday around 2.45 p.m., during the voltage-testing session.",
+          "audio": "assets/audio/t_30_27.mp3"
         },
         {
-          "id": "t_27_33",
-          "text": "And how did the first set of readings become so inaccurate?",
-          "audio": "assets/audio/t_27_33.mp3"
+          "id": "t_30_28",
+          "text": "And how did your first set of readings become so inaccurate?",
+          "audio": "assets/audio/t_30_28.mp3"
         },
         {
-          "id": "t_27_34",
-          "text": "Sir, I connected the sensors correctly, but I placed the scanner on the unstable stool, and it kept vibrating.",
-          "audio": "assets/audio/t_27_34.mp3"
+          "id": "t_30_29",
+          "text": "Madam, I set the multimeter correctly, but I placed the probes too loosely and didn’t hold them steady.",
+          "audio": "assets/audio/t_30_29.mp3"
         },
         {
-          "id": "t_27_35",
-          "text": "I also used the older probe set, and the signal became slightly distorted.",
-          "audio": "assets/audio/t_27_35.mp3"
+          "id": "t_30_30",
+          "text": "I also used the older probe set, and the contact point wasn’t clean.",
+          "audio": "assets/audio/t_30_30.mp3"
         },
         {
-          "id": "t_27_36",
-          "text": "Why didn’t you check the probe set?",
-          "audio": "assets/audio/t_27_36.mp3"
+          "id": "t_30_31",
+          "text": "Why didn’t you check the probes?",
+          "audio": "assets/audio/t_30_31.mp3"
         },
         {
-          "id": "t_27_37",
-          "text": "I was trying to save time, sir.",
-          "audio": "assets/audio/t_27_37.mp3"
+          "id": "t_30_32",
+          "text": "I was rushing, madam.",
+          "audio": "assets/audio/t_30_32.mp3"
         },
         {
-          "id": "t_27_38",
-          "text": "I check it most of the time, but this time I rushed because another vehicle was waiting.",
-          "audio": "assets/audio/t_27_38.mp3"
+          "id": "t_30_33",
+          "text": "I check them most of the time, but that day I hurried because I thought the next test would take long.",
+          "audio": "assets/audio/t_30_33.mp3"
         },
         {
-          "id": "t_27_39",
-          "text": "So, how are you going to avoid these problems next time?",
-          "audio": "assets/audio/t_27_39.mp3"
+          "id": "t_30_34",
+          "text": "So how will you avoid this next time?",
+          "audio": "assets/audio/t_30_34.mp3"
         },
         {
-          "id": "t_27_40",
-          "text": "I’m going to secure the scanner on a stable surface, use the newer probe set, and follow the proper tuning sequence.",
-          "audio": "assets/audio/t_27_40.mp3"
+          "id": "t_30_35",
+          "text": "I’m going to clean the probe tips, secure the contacts properly, and use the newer set for testing.",
+          "audio": "assets/audio/t_30_35.mp3"
         },
         {
-          "id": "t_27_41",
-          "text": "I’ll also double-check the connections before starting.",
-          "audio": "assets/audio/t_27_41.mp3"
+          "id": "t_30_36",
+          "text": "I’ll also take my time with each reading.",
+          "audio": "assets/audio/t_30_36.mp3"
         },
         {
-          "id": "t_27_42",
-          "text": "Good.",
-          "audio": "assets/audio/t_27_42.mp3"
+          "id": "t_30_37",
+          "text": "Good. These are small mistakes—not big failures—but they matter.",
+          "audio": "assets/audio/t_30_37.mp3"
         },
         {
-          "id": "t_27_43",
-          "text": "These are small mistakes—not disasters—but they matter.",
-          "audio": "assets/audio/t_27_43.mp3"
-        },
-        {
-          "id": "t_27_44",
-          "text": "Let’s be more consistent this week.",
-          "audio": "assets/audio/t_27_44.mp3"
+          "id": "t_30_38",
+          "text": "Let’s stay consistent this week.",
+          "audio": "assets/audio/t_30_38.mp3"
         }
       ]
     }

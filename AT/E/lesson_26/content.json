@@ -516,9 +516,9 @@
             "question": "Where was Rafiq when his mistake happened?",
             "answer": "Near the hydraulic lift.",
             "options": [
-              "Near the paint booth",
-              "Near the alignment pit",
-              "Near the hydraulic lift"
+              "Near the paint booth.",
+              "Near the alignment pit.",
+              "Near the hydraulic lift."
             ]
           },
           {
@@ -526,9 +526,9 @@
             "question": "What tool did Rafiq use too quickly?",
             "answer": "The impact wrench.",
             "options": [
-              "The torque wrench",
-              "The spanner set",
-              "The impact wrench"
+              "The torque wrench.",
+              "The spanner set.",
+              "The impact wrench."
             ]
           },
           {
@@ -536,9 +536,9 @@
             "question": "What caused Niyas’s readings to become inaccurate?",
             "answer": "Placing the scanner on an unstable stool.",
             "options": [
-              "Using the wrong fuel type",
-              "Placing the scanner on an unstable desk",
-              "Placing the scanner on an unstable stool"
+              "Using the wrong fuel type.",
+              "Placing the scanner on an unstable desk.",
+              "Placing the scanner on an unstable stool."
             ]
           },
           {
@@ -556,9 +556,9 @@
             "question": "What did both trainees admit?",
             "answer": "They rushed their work.",
             "options": [
-              "They forgot to clean the tools",
-              "They rushed their work",
-              "They rushed their work"
+              "They forgot to clean the tools.",
+              "They rushed their work.",
+              "They rushed their work."
             ]
           }
         ]
