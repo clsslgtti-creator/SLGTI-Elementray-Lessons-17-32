@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "wa'sh'er",
+        "word_text": "ma'ch'ine",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The wa'sh'er we used yesterday was smaller than the one we used today.",
+        "sentence_text": "This ma'ch'ine was a little faster than the one I used last week.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "poli'sh'",
+        "word_text": "'sh'aft",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This poli'sh' is much stronger than the other brands we used before.",
+        "sentence_text": "This 'sh'aft is much shorter than the replacement 'sh'aft.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'sh'ock",
+        "word_text": "wa'sh'er",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This 'sh'ock absorber is a little longer than the previous model.",
+        "sentence_text": "The wa'sh'er we used last week was thicker than the one we added today.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pre'ss'ure",
+        "word_text": "'sh'ine",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The tyre pre'ss'ure was lower than the reading yesterday morning.",
+        "sentence_text": "The 'sh'ine on the car yesterday was weaker than the shine today.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
