@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lesson_no": 26,
+    "lesson_no": 27,
     "level": "Elementary",
     "section": "Automobile Technology",
     "prepared_by": "Colombo Language School"
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "washer",
+        "word_text": "wa'sh'er",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The washer we used yesterday was smaller than the one we used today.",
+        "sentence_text": "The wa'sh'er we used yesterday was smaller than the one we used today.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "polish",
+        "word_text": "poli'sh'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This polish is much stronger than the other brands we used before.",
+        "sentence_text": "This poli'sh' is much stronger than the other brands we used before.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "shock",
+        "word_text": "'sh'ock",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This shock absorber is a little longer than the previous model.",
+        "sentence_text": "This 'sh'ock absorber is a little longer than the previous model.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pressure",
+        "word_text": "pre'ss'ure",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The tyre pressure was lower than the reading yesterday morning.",
+        "sentence_text": "The tyre pre'ss'ure was lower than the reading yesterday morning.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -96,34 +96,40 @@
     },
     "tables": [
       [
-        ["Why did you go to the shop?", "To buy a newspaper."],
-        [null, "I went to the shop to buy a newspaper."]
+        ["soft - softer", "dirty - dirtier", "hot - hotter"],
+        ["small - smaller", "pretty - prettier", "big - bigger"]
       ]
     ],
     "example_dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "I think you’ll like my new curtains. Really? But I liked your old curtains. They were thick.",
-        "text_b": "That’s true. But my new curtains are thicker.",
+        "text_a": "I think you’ll like my new curtains.",
+        "text_b": "Really? But I liked your old curtains. They were thick.",
+        "text_c": "That’s true. But my new curtains are thicker.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "I think you’ll like my new desk. Really? But I liked your old desk. It was big.",
-        "text_b": "That’s true. But my new desk is bigger.",
+        "text_a": "I think you’ll like my new desk.",
+        "text_b": "Really? But I liked your old desk. It was big.",
+        "text_c": "That’s true. But my new desk is bigger.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "I think you’ll like my new bike. Really? But I liked your old bike. It was fancy.",
-        "text_b": "That’s true. But my new bike is fancier.",
+        "text_a": "I think you’ll like my new bike.",
+        "text_b": "Really? But I liked your old bike. It was fancy.",
+        "text_c": "That’s true. But my new bike is fancier.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3"
       }
     ],
     "keywords": [
@@ -162,50 +168,62 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "I think you’ll like my new chair. Really? But I liked your old chair. It was strong.",
-        "text_b": "That’s true. But my new chair is stronger.",
+        "text_a": "I think you’ll like my new chair.",
+        "text_b": "Really? But I liked your old chair. It was strong.",
+        "text_c": "That’s true. But my new chair is stronger.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "I think you’ll like my new router. Really? But I liked your old router. It was fast.",
-        "text_b": "That’s true. But my new router is faster.",
+        "text_a": "I think you’ll like my new router.",
+        "text_b": "Really? But I liked your old router. It was fast.",
+        "text_c": "That’s true. But my new router is faster.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "I think you’ll like my new recipe for pies. Really? But I liked your old recipe for pies. They were tasty.",
-        "text_b": "That’s true. But my new recipe for pies is tastier.",
+        "text_a": "I think you’ll like my new recipe for pies.",
+        "text_b": "Really? But I liked your old recipe for pies. They were tasty.",
+        "text_c": "That’s true. But my new recipe for pies is tastier.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
-        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "I think you’ll like my new mobile phone. Really? But I liked your old mobile phone. It was slim.",
-        "text_b": "That’s true. But my new mobile phone is slimmer.",
+        "text_a": "I think you’ll like my new mobile phone.",
+        "text_b": "Really? But I liked your old mobile phone. It was slim.",
+        "text_c": "That’s true. But my new mobile phone is slimmer.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
-        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "I think you’ll like my new book. Really? But I liked your old book. It was funny.",
-        "text_b": "That’s true. But my new book is funnier.",
+        "text_a": "I think you’ll like my new book.",
+        "text_b": "Really? But I liked your old book. It was funny.",
+        "text_c": "That’s true. But my new book is funnier.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
-        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "I think you’ll like my new neighbourhood. Really? But I liked your old neighbourhood. It was quiet.",
-        "text_b": "That’s true. But my new neighbourhood is quieter.",
+        "text_a": "I think you’ll like my new neighbourhood.",
+        "text_b": "Really? But I liked your old neighbourhood. It was quiet.",
+        "text_c": "That’s true. But my new neighbourhood is quieter.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
-        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3"
       }
     ]
   },
