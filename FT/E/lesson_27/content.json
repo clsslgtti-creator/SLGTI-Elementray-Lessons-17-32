@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "wa'sh'er",
+        "word_text": "di'sh'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The wa'sh'er we used yesterday was smaller than the one we used today.",
+        "sentence_text": "The Indian di'sh' was a little hotter than the same preparation at yesterday’s lunch.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "poli'sh'",
+        "word_text": "fre'sh'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This poli'sh' is much stronger than the other brands we used before.",
+        "sentence_text": "The vegetables we got this morning were fre'sh'er than the order we received last week.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'sh'ock",
+        "word_text": "'s'ugar",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This 'sh'ock absorber is a little longer than the previous model.",
+        "sentence_text": "The sugar delivered this morning was drier than the container of 's'ugar we received last month.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pre'ss'ure",
+        "word_text": "ma'sh'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The tyre pre'ss'ure was lower than the reading yesterday morning.",
+        "sentence_text": "The potato ma'sh' yesterday was much softer than today’s batch.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -246,116 +246,116 @@
           {
             "id": "g_b_1",
             "options": [
-              "Ladder  A is taller  than ladder  B.",
-              "Ladder  B is taller  than ladder A."
+              "Industrial oven A is hotter than the gas oven B.",
+              "Gas oven B is hotter than industrial oven A."
             ],
-            "answer": "Ladder  A is taller  than ladder  B.",
-            "image": "assets/img/g_b_1.png"
+            "answer": "Industrial oven A is hotter than the gas oven B.",
+            "image": "assets/img/g_b_1.jpeg"
           },
           {
             "id": "g_b_2",
             "options": [
-              "Hammer A is sturdier than hammer B.",
-              "Hammer B is sturdier than hammer A."
+              "Leather apron A is heavier than cloth apron B.",
+              "Cloth apron B is heavier than leather apron A."
             ],
-            "answer": "Hammer A is sturdier than hammer B.",
-            "image": "assets/img/g_b_2.png"
+            "answer": "Leather apron A is heavier than cloth apron B.",
+            "image": "assets/img/g_b_2.jpeg"
           },
           {
             "id": "g_b_3",
             "options": [
-              "Pulley A is bigger than pulley B.",
-              "Pulley B is bigger than pulley A."
+              "Electric mixer A is faster than hand mixer B.",
+              "Hand mixer B is faster than electric mixer A"
             ],
-            "answer": "Pulley A is bigger than pulley B.",
-            "image": "assets/img/g_b_3.png"
+            "answer": "Electric mixer A is faster than hand mixer B.",
+            "image": "assets/img/g_b_3.jpeg"
           },
           {
             "id": "g_b_4",
             "options": [
-              "Safety boots are daintier than ladies’ shoes.",
-              "Ladies’ shoes are daintier than safety boots."
+              "Ceramic mixing bowl A is sturdier than plastic mixing bowl B.",
+              "Plastic mixing bowl B is sturdier than ceramic mixing bowl A."
             ],
-            "answer": "Safety boots are daintier than ladies’ shoes.",
-            "image": "assets/img/g_b_4.png"
+            "answer": "Ceramic mixing bowl A is sturdier than plastic mixing bowl B.",
+            "image": "assets/img/g_b_4.jpeg"
           },
           {
             "id": "g_b_5",
             "options": [
-              "Nail A is slimmer than nail B.",
-              "Nail B is slimmer than nail A."
+              "Flour bins A are larger than spice jars B.",
+              "Spice jars B are larger than flour bins A."
             ],
-            "answer": "Nail A is slimmer than nail B.",
-            "image": "assets/img/g_b_5.png"
+            "answer": "Flour bins A are larger than spice jars B.",
+            "image": "assets/img/g_b_5.jpeg"
           },
           {
             "id": "g_b_6",
             "options": [
-              "Mechanic A is taller than mechanic B.",
-              "Mechanic B is taller than mechanic A."
+              "Coffee machine A is bigger than percolator B.",
+              "Percolator B is bigger than coffee machine A."
             ],
-            "answer": "Mechanic A is taller than mechanic B.",
-            "image": "assets/img/g_b_6.png"
+            "answer": "Coffee machine A is bigger than percolator B.",
+            "image": "assets/img/g_b_6.jpeg"
           },
           {
             "id": "g_b_7",
             "options": [
-              "Generator A is noisier than inverter B.",
-              "Inverter B is noisier than generator A."
+              "Tablespoon A is lighter than ladle B.",
+              "Ladle B is lighter than tablespoon A."
             ],
-            "answer": "Generator A is noisier than inverter B.",
-            "image": "assets/img/g_b_7.png"
+            "answer": "Tablespoon A is lighter than ladle B.",
+            "image": "assets/img/g_b_7.jpeg"
           },
           {
             "id": "g_b_8",
             "options": [
-              "Safety vest A is dirtier than safety vest B.",
-              "Safety vest B is dirtier than safety vest A."
+              "Baking is oilier than frying",
+              "Frying B is oilier than baking A."
             ],
-            "answer": "Safety vest A is dirtier than safety vest B.",
-            "image": "assets/img/g_b_8.png"
+            "answer": "Frying B is oilier than baking A.",
+            "image": "assets/img/g_b_8.jpeg"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Ladder  A is taller  than ladder  B.",
+          "text": "Industrial oven A is hotter than the gas oven B.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "Hammer A is sturdier than hammer B.",
+          "text": "Leather apron A is heavier than cloth apron B.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "Pulley A is bigger than pulley B.",
+          "text": "Electric mixer A is faster than hand mixer B.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "Safety boots are daintier than ladies’ shoes.",
+          "text": "Ceramic mixing bowl A is sturdier than plastic mixing bowl B.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Nail A is slimmer than nail B.",
+          "text": "Flour bins A are larger than spice jars B.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "Mechanic A is taller than mechanic B.",
+          "text": "Coffee machine A is bigger than percolator B.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "Generator A is noisier than inverter B.",
+          "text": "Tablespoon A is lighter than ladle B.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "Safety vest A is dirtier than safety vest B.",
+          "text": "Frying B is oilier than baking A.",
           "audio": "assets/audio/g_b_8.mp3"
         }
       ]
