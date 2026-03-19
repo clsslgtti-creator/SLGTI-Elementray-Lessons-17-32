@@ -250,7 +250,7 @@
               "Ladder  B is taller  than ladder A."
             ],
             "answer": "Ladder  A is taller  than ladder  B.",
-            "image": "assets/img/g_b_1.jpeg"
+            "image": "assets/img/g_b_1.png"
           },
           {
             "id": "g_b_2",
@@ -259,7 +259,7 @@
               "Hammer B is sturdier than hammer A."
             ],
             "answer": "Hammer A is sturdier than hammer B.",
-            "image": "assets/img/g_b_2.jpeg"
+            "image": "assets/img/g_b_2.png"
           },
           {
             "id": "g_b_3",
@@ -268,7 +268,7 @@
               "Pulley B is bigger than pulley A."
             ],
             "answer": "Pulley A is bigger than pulley B.",
-            "image": "assets/img/g_b_3.jpeg"
+            "image": "assets/img/g_b_3.png"
           },
           {
             "id": "g_b_4",
@@ -277,7 +277,7 @@
               "Ladies’ shoes are daintier than safety boots."
             ],
             "answer": "Safety boots are daintier than ladies’ shoes.",
-            "image": "assets/img/g_b_4.jpeg"
+            "image": "assets/img/g_b_4.png"
           },
           {
             "id": "g_b_5",
@@ -286,7 +286,7 @@
               "Nail B is slimmer than nail A."
             ],
             "answer": "Nail A is slimmer than nail B.",
-            "image": "assets/img/g_b_5.jpeg"
+            "image": "assets/img/g_b_5.png"
           },
           {
             "id": "g_b_6",
@@ -295,7 +295,7 @@
               "Mechanic B is taller than mechanic A."
             ],
             "answer": "Mechanic A is taller than mechanic B.",
-            "image": "assets/img/g_b_6.jpeg"
+            "image": "assets/img/g_b_6.png"
           },
           {
             "id": "g_b_7",
@@ -304,7 +304,7 @@
               "Inverter B is noisier than generator A."
             ],
             "answer": "Generator A is noisier than inverter B.",
-            "image": "assets/img/g_b_7.jpeg"
+            "image": "assets/img/g_b_7.png"
           },
           {
             "id": "g_b_8",
@@ -313,7 +313,7 @@
               "Safety vest B is dirtier than safety vest A."
             ],
             "answer": "Safety vest A is dirtier than safety vest B.",
-            "image": "assets/img/g_b_8.jpeg"
+            "image": "assets/img/g_b_8.png"
           }
         ]
       },
