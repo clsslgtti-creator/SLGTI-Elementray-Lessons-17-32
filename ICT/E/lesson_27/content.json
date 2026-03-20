@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "wa'sh'er",
+        "word_text": "cra'sh'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The wa'sh'er we used yesterday was smaller than the one we used today.",
+        "sentence_text": "Yesterday’s computer cra'sh' was much quicker than last week’s.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "poli'sh'",
+        "word_text": "fla'sh'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This poli'sh' is much stronger than the other brands we used before.",
+        "sentence_text": "The fla'sh' drive we used last week was smaller than the one we used today.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
+        "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'sh'ock",
+        "word_text": "ca'ch'e",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This 'sh'ock absorber is a little longer than the previous model.",
+        "sentence_text": "The browser ca'ch'e was a little emptier than what we saw 3 days ago.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pre'ss'ure",
+        "word_text": "pu'sh'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The tyre pre'ss'ure was lower than the reading yesterday morning.",
+        "sentence_text": "The pu'sh' to complete the software was harder than any deadline we faced before.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -246,73 +246,73 @@
           {
             "id": "g_b_1",
             "options": [
-              "Ladder  A is taller  than ladder  B.",
-              "Ladder  B is taller  than ladder A."
+              "A desktop computer A is slimmer than a laptop B.",
+              "Laptop B is slimmer than desktop computer A."
             ],
-            "answer": "Ladder  A is taller  than ladder  B.",
+            "answer": "Laptop B is slimmer than desktop computer A.",
             "image": "assets/img/g_b_1.png"
           },
           {
             "id": "g_b_2",
             "options": [
-              "Hammer A is sturdier than hammer B.",
-              "Hammer B is sturdier than hammer A."
+              "Analogue mobile phone A is larger than smartphone B.",
+              "Smartphone B is larger than analogue mobile phone A."
             ],
-            "answer": "Hammer A is sturdier than hammer B.",
+            "answer": "Analogue mobile phone A is larger than smartphone B.",
             "image": "assets/img/g_b_2.png"
           },
           {
             "id": "g_b_3",
             "options": [
-              "Pulley A is bigger than pulley B.",
-              "Pulley B is bigger than pulley A."
+              "Headset A is daintier than blue tooth B.",
+              "Bluetooth B is daintier than headset A."
             ],
-            "answer": "Pulley A is bigger than pulley B.",
+            "answer": "Bluetooth B is daintier than headset A.",
             "image": "assets/img/g_b_3.png"
           },
           {
             "id": "g_b_4",
             "options": [
-              "Safety boots are daintier than ladies’ shoes.",
-              "Ladies’ shoes are daintier than safety boots."
+              "Transformer A is quieter than the router B.",
+              "The router B is quieter than transformer A."
             ],
-            "answer": "Safety boots are daintier than ladies’ shoes.",
+            "answer": "Transformer A is quieter than the router B.",
             "image": "assets/img/g_b_4.png"
           },
           {
             "id": "g_b_5",
             "options": [
-              "Nail A is slimmer than nail B.",
-              "Nail B is slimmer than nail A."
+              "Cable A is longer than cable B.",
+              "Cable B is longer than cable A."
             ],
-            "answer": "Nail A is slimmer than nail B.",
+            "answer": "Cable A is longer than cable B.",
             "image": "assets/img/g_b_5.png"
           },
           {
             "id": "g_b_6",
             "options": [
-              "Mechanic A is taller than mechanic B.",
-              "Mechanic B is taller than mechanic A."
+              "Server rack A is sturdier than server rack B.",
+              "Server rack B is sturdier than server rack A."
             ],
-            "answer": "Mechanic A is taller than mechanic B.",
+            "answer": "Server rack A is sturdier than server rack B.",
             "image": "assets/img/g_b_6.png"
           },
           {
             "id": "g_b_7",
             "options": [
-              "Generator A is noisier than inverter B.",
-              "Inverter B is noisier than generator A."
+              "The 3- in- one Scanner A is quicker than the desktop printer B.",
+              "The desktop printer B is quicker than the 3- in- one Scanner A."
             ],
-            "answer": "Generator A is noisier than inverter B.",
+            "answer": "The 3- in- one Scanner A is quicker than the desktop printer B.",
             "image": "assets/img/g_b_7.png"
           },
           {
             "id": "g_b_8",
             "options": [
-              "Safety vest A is dirtier than safety vest B.",
-              "Safety vest B is dirtier than safety vest A."
+              "The external hard drive A is bigger than pendrive B.",
+              "Pendrive B is bigger than external hard drive A."
             ],
-            "answer": "Safety vest A is dirtier than safety vest B.",
+            "answer": "The external hard drive A is bigger than pendrive B.",
             "image": "assets/img/g_b_8.png"
           }
         ]
@@ -320,42 +320,42 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Ladder  A is taller  than ladder  B.",
+          "text": "Laptop B is slimmer than desktop computer A.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "Hammer A is sturdier than hammer B.",
+          "text": "Analogue mobile phone A is larger than smartphone B.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "Pulley A is bigger than pulley B.",
+          "text": "Bluetooth B is daintier than headset A.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "Safety boots are daintier than ladies’ shoes.",
+          "text": "Transformer A is quieter than the router B.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Nail A is slimmer than nail B.",
+          "text": "Cable A is longer than cable B.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "Mechanic A is taller than mechanic B.",
+          "text": "Server rack A is sturdier than server rack B.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "Generator A is noisier than inverter B.",
+          "text": "The 3- in- one Scanner A is quicker than the desktop printer B.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "Safety vest A is dirtier than safety vest B.",
+          "text": "The external hard drive A is bigger than pendrive B.",
           "audio": "assets/audio/g_b_8.mp3"
         }
       ]
