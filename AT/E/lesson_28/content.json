@@ -378,288 +378,382 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-6",
+    "type": "LISTENING-2",
     "instructions": {
       "activity_a": {
-        "text": "Match the questions to the responses. \nප්‍රශ්නවලට සුදුසු පිළිතුරු ගැළපවන්න. \n கேள்விகளை சரியான பதில்களுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_j.mp3"
-      },
-      "activity_b": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
         "audio": "assets/audio/a_4_i_a.mp3"
       },
-      "activity_c": {
+      "activity_b": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
         "audio": "assets/audio/a_2_i_b.mp3"
       },
-      "activity_d": {
+      "activity_c": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       },
-      "activity_e": {
+      "activity_d": {
         "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
         "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "content": [
-          {
-            "id": "n_4_b_1",
-            "item_a": "May I leave an hour earlier tomorrow, Sir?",
-            "item_b": "Yes, you may. You haven’t taken any leave for a couple of months."
-          },
-          {
-            "id": "n_4_b_2",
-            "item_a": "Could I use the office account to order some new software for our computers?",
-            "item_b": "Of course you can. The new software will benefit everyone."
-          },
-          {
-            "id": "n_4_b_3",
-            "item_a": "Can I place the weekly order today instead of Friday?",
-            "item_b": "No, you can’t. The orders from the other departments haven’t come in yet."
-          },
-          {
-            "id": "n_4_b_4",
-            "item_a": "Do you think I can rearrange the visitors lobby to create more space?",
-            "item_b": "Yes, you can. But it’s better to speak to the Operations manager first."
-          },
-          {
-            "id": "n_4_b_5",
-            "item_a": "May I organize a cake to celebrate a co-worker’s birthday on Friday?",
-            "item_b": "No, that might not be a good idea. If we do it we’ll have to celebrate everyone’s birthdays."
-          }
-        ]
-      },
-      "activity_b": {
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_17_1",
-            "question": "Can I adjust the work order slightly and finish the drawer units first?",
-            "answer": "Sure, you can. That sounds practical.",
+            "id": "l_18_1",
+            "question": "What is Ashfaq doing?",
+            "answer": "Checking the inventory list.",
             "options": [
-              "No, you can’t. We must follow the original order.",
-              "Sure, you can. That sounds practical.",
-              "I’m sorry, it might be a bit of a problem."
+              "Conducting a suspension service.",
+              "Checking the stock levels.",
+              "Checking the inventory list."
             ]
           },
           {
-            "id": "l_17_2",
-            "question": "May I use the inspection table near the office?",
-            "answer": "Of course, you may. That table is free today.",
+            "id": "l_18_2",
+            "question": "Which torque multiplier brand was better?",
+            "answer": "Blue model.",
+            "options": ["Blue model.", "Red model.", "The medium sized model."]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why did Ashfaq prefer the metal clip remover?",
+            "answer": "It was sturdier.",
             "options": [
-              "You can’t use it today.",
-              "Of course, you may. That table is free today.",
-              "I’m sorry, it might be a bit of a problem."
+              "It bent easily.",
+              "It was sturdier.",
+              "It was lighter."
             ]
           },
           {
-            "id": "l_17_3",
-            "question": "Do you think I can bring one of the helpers from the sanding section?",
-            "answer": "I’m sorry, it might be a bit of a problem at the moment.",
+            "id": "l_18_4",
+            "question": "What happened to two insulated spanners?",
+            "answer": "Their coating was damaged.",
             "options": [
-              "Yes, you may take one immediately.",
-              "Sure, you can. It’s not a problem.",
-              "I’m sorry, it might be a bit of a problem at the moment."
+              "They were from the old batch.",
+              "Their coating was damaged.",
+              "They were kept anyway."
             ]
           },
           {
-            "id": "l_17_4",
-            "question": "Can I temporarily store the finished units near the loading bay?",
-            "answer": "Yes, you may, as long as the pathway stays clear.",
-            "options": [
-              "No, you can’t. The area is closed.",
-              "Yes, you may, as long as the pathway stays clear.",
-              "I’m sorry, it might be a problem later."
-            ]
-          },
-          {
-            "id": "l_17_5",
-            "question": "Could you ask the supervisor to instruct the new helpers on safety rules?",
-            "answer": "Yes, I will. Thanks for reminding me.",
-            "options": [
-              "Yes, you might do that when you meet him.",
-              "No, you shouldn’t ask him.",
-              "Yes, I will. Thanks for reminding me."
-            ]
+            "id": "l_18_5",
+            "question": "Which diagnostic probe lead brand was more accurate?",
+            "answer": "Green.",
+            "options": ["Yellow.", "Red.", "Green."]
           }
         ]
       },
+      "activity_b": [
+        {
+          "id": "t_34_1",
+          "text": "Good morning, Ashfaq. I need to check our stock levels.",
+          "audio": "assets/audio/t_34_1.mp3"
+        },
+        {
+          "id": "t_34_2",
+          "text": "What are you doing now?",
+          "audio": "assets/audio/t_34_2.mp3"
+        },
+        {
+          "id": "t_34_3",
+          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
+          "audio": "assets/audio/t_34_3.mp3"
+        },
+        {
+          "id": "t_34_4",
+          "text": "Some items ran out after the suspension service.",
+          "audio": "assets/audio/t_34_4.mp3"
+        },
+        {
+          "id": "t_34_5",
+          "text": "I see. Yesterday was busy.",
+          "audio": "assets/audio/t_34_5.mp3"
+        },
+        {
+          "id": "t_34_6",
+          "text": "Did you notice which tools were missing?",
+          "audio": "assets/audio/t_34_6.mp3"
+        },
+        {
+          "id": "t_34_7",
+          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
+          "audio": "assets/audio/t_34_7.mp3"
+        },
+        {
+          "id": "t_34_8",
+          "text": "The blue model worked well, but the red one felt weak.",
+          "audio": "assets/audio/t_34_8.mp3"
+        },
+        {
+          "id": "t_34_9",
+          "text": "Yes, the blue model is definitely better.",
+          "audio": "assets/audio/t_34_9.mp3"
+        },
+        {
+          "id": "t_34_10",
+          "text": "We are going to order more of those.",
+          "audio": "assets/audio/t_34_10.mp3"
+        },
+        {
+          "id": "t_34_11",
+          "text": "What about the rubber-coated impact sockets?",
+          "audio": "assets/audio/t_34_11.mp3"
+        },
+        {
+          "id": "t_34_12",
+          "text": "We finished the medium sizes.",
+          "audio": "assets/audio/t_34_12.mp3"
+        },
+        {
+          "id": "t_34_13",
+          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
+          "audio": "assets/audio/t_34_13.mp3"
+        },
+        {
+          "id": "t_34_14",
+          "text": "The plastic clips kept bending.",
+          "audio": "assets/audio/t_34_14.mp3"
+        },
+        {
+          "id": "t_34_15",
+          "text": "I agree. Let’s order the metal ones.",
+          "audio": "assets/audio/t_34_15.mp3"
+        },
+        {
+          "id": "t_34_16",
+          "text": "Did you also check the EV-safe insulated spanners?",
+          "audio": "assets/audio/t_34_16.mp3"
+        },
+        {
+          "id": "t_34_17",
+          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
+          "audio": "assets/audio/t_34_17.mp3"
+        },
+        {
+          "id": "t_34_18",
+          "text": "Yes, sir. I checked them.",
+          "audio": "assets/audio/t_34_18.mp3"
+        },
+        {
+          "id": "t_34_19",
+          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
+          "audio": "assets/audio/t_34_19.mp3"
+        },
+        {
+          "id": "t_34_20",
+          "text": "I returned them to the supplier yesterday.",
+          "audio": "assets/audio/t_34_20.mp3"
+        },
+        {
+          "id": "t_34_21",
+          "text": "Good. We must keep safety standards.",
+          "audio": "assets/audio/t_34_21.mp3"
+        },
+        {
+          "id": "t_34_22",
+          "text": "Now, I’m going to prepare a new purchase order.",
+          "audio": "assets/audio/t_34_22.mp3"
+        },
+        {
+          "id": "t_34_23",
+          "text": "What quantities do we need?",
+          "audio": "assets/audio/t_34_23.mp3"
+        },
+        {
+          "id": "t_34_24",
+          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
+          "audio": "assets/audio/t_34_24.mp3"
+        },
+        {
+          "id": "t_34_25",
+          "text": "Perfect. What about diagnostic probe leads?",
+          "audio": "assets/audio/t_34_25.mp3"
+        },
+        {
+          "id": "t_34_26",
+          "text": "The instructor said the green brand was more accurate during voltage testing.",
+          "audio": "assets/audio/t_34_26.mp3"
+        },
+        {
+          "id": "t_34_27",
+          "text": "Yes, sir. Yesterday I compared them.",
+          "audio": "assets/audio/t_34_27.mp3"
+        },
+        {
+          "id": "t_34_28",
+          "text": "The green brand gave clearer readings.",
+          "audio": "assets/audio/t_34_28.mp3"
+        },
+        {
+          "id": "t_34_29",
+          "text": "The yellow brand was slower.",
+          "audio": "assets/audio/t_34_29.mp3"
+        },
+        {
+          "id": "t_34_30",
+          "text": "Then we will switch to the green brand.",
+          "audio": "assets/audio/t_34_30.mp3"
+        },
+        {
+          "id": "t_34_31",
+          "text": "Anything else?",
+          "audio": "assets/audio/t_34_31.mp3"
+        },
+        {
+          "id": "t_34_32",
+          "text": "Yes, sir. We also need oil-filter pliers.",
+          "audio": "assets/audio/t_34_32.mp3"
+        },
+        {
+          "id": "t_34_33",
+          "text": "The adjustable model is stronger and more practical than the fixed one.",
+          "audio": "assets/audio/t_34_33.mp3"
+        },
+        {
+          "id": "t_34_34",
+          "text": "And maybe 10 cans of oil.",
+          "audio": "assets/audio/t_34_34.mp3"
+        },
+        {
+          "id": "t_34_35",
+          "text": "Good point. I’ll add them.",
+          "audio": "assets/audio/t_34_35.mp3"
+        },
+        {
+          "id": "t_34_36",
+          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
+          "audio": "assets/audio/t_34_36.mp3"
+        },
+        {
+          "id": "t_34_37",
+          "text": "Thank you, sir. I enjoy learning about different tools.",
+          "audio": "assets/audio/t_34_37.mp3"
+        }
+      ],
       "activity_c": [
         {
-          "id": "t_33_1",
-          "text": "Good morning, Saman.",
-          "audio": "assets/audio/t_33_1.mp3"
+          "id": "t_34_3",
+          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
+          "audio": "assets/audio/t_34_3.mp3"
         },
         {
-          "id": "t_33_2",
-          "text": "Before we start, I want to confirm today’s work plan.",
-          "audio": "assets/audio/t_33_2.mp3"
+          "id": "t_34_7",
+          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
+          "audio": "assets/audio/t_34_7.mp3"
         },
         {
-          "id": "t_33_3",
-          "text": "We need all the finished cupboards ready for packing by late afternoon.",
-          "audio": "assets/audio/t_33_3.mp3"
+          "id": "t_34_13",
+          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
+          "audio": "assets/audio/t_34_13.mp3"
         },
         {
-          "id": "t_33_4",
-          "text": "Good morning, sir. I understand.",
-          "audio": "assets/audio/t_33_4.mp3"
+          "id": "t_34_17",
+          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
+          "audio": "assets/audio/t_34_17.mp3"
         },
         {
-          "id": "t_33_5",
-          "text": "Sir, can I adjust the work order slightly and finish the drawer units first?",
-          "audio": "assets/audio/t_33_5.mp3"
+          "id": "t_34_19",
+          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
+          "audio": "assets/audio/t_34_19.mp3"
         },
         {
-          "id": "t_33_6",
-          "text": "That section is smaller, and it allows the packing team to start earlier.",
-          "audio": "assets/audio/t_33_6.mp3"
+          "id": "t_34_22",
+          "text": "Now, I’m going to prepare a new purchase order.",
+          "audio": "assets/audio/t_34_22.mp3"
         },
         {
-          "id": "t_33_7",
-          "text": "Sure, you can. That sounds practical.",
-          "audio": "assets/audio/t_33_7.mp3"
+          "id": "t_34_24",
+          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
+          "audio": "assets/audio/t_34_24.mp3"
         },
         {
-          "id": "t_33_8",
-          "text": "Just keep the main schedule in mind.",
-          "audio": "assets/audio/t_33_8.mp3"
+          "id": "t_34_26",
+          "text": "The instructor said the green brand was more accurate during voltage testing.",
+          "audio": "assets/audio/t_34_26.mp3"
         },
         {
-          "id": "t_33_9",
-          "text": "Thank you, sir.",
-          "audio": "assets/audio/t_33_9.mp3"
+          "id": "t_34_28",
+          "text": "The green brand gave clearer readings.",
+          "audio": "assets/audio/t_34_28.mp3"
         },
         {
-          "id": "t_33_10",
-          "text": "Also, may I use the inspection table near the office?",
-          "audio": "assets/audio/t_33_10.mp3"
+          "id": "t_34_33",
+          "text": "The adjustable model is stronger and more practical than the fixed one.",
+          "audio": "assets/audio/t_34_33.mp3"
         },
         {
-          "id": "t_33_11",
-          "text": "It is closer to the packing area, and communication is easier there.",
-          "audio": "assets/audio/t_33_11.mp3"
+          "id": "t_34_36",
+          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
+          "audio": "assets/audio/t_34_36.mp3"
         },
         {
-          "id": "t_33_12",
-          "text": "Of course, you may. That table is free today, and it helps reduce delays.",
-          "audio": "assets/audio/t_33_12.mp3"
-        },
-        {
-          "id": "t_33_13",
-          "text": "Sir, do you think I can bring one of the helpers from the sanding section for an hour?",
-          "audio": "assets/audio/t_33_13.mp3"
-        },
-        {
-          "id": "t_33_14",
-          "text": "The frames need checking, and two people make the work faster and safer.",
-          "audio": "assets/audio/t_33_14.mp3"
-        },
-        {
-          "id": "t_33_15",
-          "text": "I’m sorry, it might be a bit of a problem at the moment.",
-          "audio": "assets/audio/t_33_15.mp3"
-        },
-        {
-          "id": "t_33_16",
-          "text": "The sanding section is busy right now, but you can request help after lunch.",
-          "audio": "assets/audio/t_33_16.mp3"
-        },
-        {
-          "id": "t_33_17",
-          "text": "That’s fine, sir.",
-          "audio": "assets/audio/t_33_17.mp3"
-        },
-        {
-          "id": "t_33_18",
-          "text": "One more thing — can I temporarily store the finished units near the loading bay?",
-          "audio": "assets/audio/t_33_18.mp3"
-        },
-        {
-          "id": "t_33_19",
-          "text": "That area is closer, and handling is easier for the transport team.",
-          "audio": "assets/audio/t_33_19.mp3"
-        },
-        {
-          "id": "t_33_20",
-          "text": "Yes, you may, as long as the pathway stays clear and safety rules are followed.",
-          "audio": "assets/audio/t_33_20.mp3"
-        },
-        {
-          "id": "t_33_21",
-          "text": "Thank you, sir. I appreciate that.",
-          "audio": "assets/audio/t_33_21.mp3"
-        },
-        {
-          "id": "t_33_22",
-          "text": "Could you ask the supervisor to instruct the new helpers on safety rules?",
-          "audio": "assets/audio/t_33_22.mp3"
-        },
-        {
-          "id": "t_33_23",
-          "text": "Sure, I will. Clear instructions make the workshop safer for everyone.",
-          "audio": "assets/audio/t_33_23.mp3"
-        },
-        {
-          "id": "t_33_24",
-          "text": "Thanks for reminding me.",
-          "audio": "assets/audio/t_33_24.mp3"
+          "id": "t_34_37",
+          "text": "Thank you, sir. I enjoy learning about different tools.",
+          "audio": "assets/audio/t_34_37.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_17_1",
-          "text": "Can I adjust the work order slightly and finish the drawer units first?",
-          "audio": "assets/audio/t_17_1.mp3"
+          "id": "t_34_3",
+          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
+          "audio": "assets/audio/t_34_3.mp3"
         },
         {
-          "id": "t_17_2",
-          "text": "May I use the inspection table near the office?",
-          "audio": "assets/audio/t_17_2.mp3"
+          "id": "t_34_7",
+          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
+          "audio": "assets/audio/t_34_7.mp3"
         },
         {
-          "id": "t_17_3",
-          "text": "Do you think I can bring one of the helpers from the sanding section?",
-          "audio": "assets/audio/t_17_3.mp3"
+          "id": "t_34_13",
+          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
+          "audio": "assets/audio/t_34_13.mp3"
         },
         {
-          "id": "t_17_4",
-          "text": "Can I temporarily store the finished units near the loading bay?",
-          "audio": "assets/audio/t_17_4.mp3"
+          "id": "t_34_17",
+          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
+          "audio": "assets/audio/t_34_17.mp3"
         },
         {
-          "id": "t_17_5",
-          "text": "Could you ask the supervisor to instruct the new helpers on safety rules?",
-          "audio": "assets/audio/t_17_5.mp3"
-        }
-      ],
-      "activity_e": [
-        {
-          "id": "t_17_1",
-          "text": "Can I adjust the work order slightly and finish the drawer units first?",
-          "audio": "assets/audio/t_17_1.mp3"
+          "id": "t_34_19",
+          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
+          "audio": "assets/audio/t_34_19.mp3"
         },
         {
-          "id": "t_17_2",
-          "text": "May I use the inspection table near the office?",
-          "audio": "assets/audio/t_17_2.mp3"
+          "id": "t_34_22",
+          "text": "Now, I’m going to prepare a new purchase order.",
+          "audio": "assets/audio/t_34_22.mp3"
         },
         {
-          "id": "t_17_3",
-          "text": "Do you think I can bring one of the helpers from the sanding section?",
-          "audio": "assets/audio/t_17_3.mp3"
+          "id": "t_34_24",
+          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
+          "audio": "assets/audio/t_34_24.mp3"
         },
         {
-          "id": "t_17_4",
-          "text": "Can I temporarily store the finished units near the loading bay?",
-          "audio": "assets/audio/t_17_4.mp3"
+          "id": "t_34_26",
+          "text": "The instructor said the green brand was more accurate during voltage testing.",
+          "audio": "assets/audio/t_34_26.mp3"
         },
         {
-          "id": "t_17_5",
-          "text": "Could you ask the supervisor to instruct the new helpers on safety rules?",
-          "audio": "assets/audio/t_17_5.mp3"
+          "id": "t_34_28",
+          "text": "The green brand gave clearer readings.",
+          "audio": "assets/audio/t_34_28.mp3"
+        },
+        {
+          "id": "t_34_33",
+          "text": "The adjustable model is stronger and more practical than the fixed one.",
+          "audio": "assets/audio/t_34_33.mp3"
+        },
+        {
+          "id": "t_34_36",
+          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
+          "audio": "assets/audio/t_34_36.mp3"
+        },
+        {
+          "id": "t_34_37",
+          "text": "Thank you, sir. I enjoy learning about different tools.",
+          "audio": "assets/audio/t_34_37.mp3"
         }
       ]
     }
