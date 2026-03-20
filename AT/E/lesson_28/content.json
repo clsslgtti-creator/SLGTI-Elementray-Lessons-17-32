@@ -1,0 +1,702 @@
+{
+  "meta": {
+    "lesson_no": 28,
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "K",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "fan",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The cooling fan was noisier than the generator in the next room.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "fuel",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The fuel pipeline was wider than the fuel hose.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "filter",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The air filter was dirtier than the A/C unit.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "fault",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The main fault in the car was greater than the variety of faults reported.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Comparative",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["fast- faster", "comfortable - more comfortable"],
+        ["nice - nicer", "beautiful - more beautiful"],
+        ["big - bigger", "interesting - more interesting"],
+        ["pretty - prettier", "intelligent- more intelligent"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "I bought a new chair for my desk yesterday.",
+        "text_b": "Really? But I liked your old chair. It was comfortable.",
+        "text_c": "That’s true. But my new chair is more comfortable.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "I bought a new laptop for work yesterday.",
+        "text_b": "Really? But I liked your old laptop. It was reliable.",
+        "text_c": "That’s true. But my new laptop is more reliable.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "I bought a new car for myself yesterday.",
+        "text_b": "Really? But I liked your old car. It was powerful.",
+        "text_c": "That’s true. But my new car is more powerful.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "my new sofa is more modern"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "my new  watch is more attractive"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "my new oven is more efficient"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "my new multimetre is more accurate"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "new desk organizer  is more practical"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "my new microwave is more economical"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "I bought a new sofa for my flat yesterday.",
+        "text_b": "Really? But I liked your old sofa. It was modern.",
+        "text_c": "That’s true. But my new sofa is more modern.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "I bought a new smart watch for myself yesterday.",
+        "text_b": "Really? But I liked your old smart watch. It was attractive.",
+        "text_c": "That’s true. But my new watch is more attractive.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "I bought a new oven for my kitchen yesterday.",
+        "text_b": "Really? But I liked your old oven. It was efficient.",
+        "text_c": "That’s true. But my new oven is more efficient.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "I bought a new multimetre for my home yesterday.",
+        "text_b": "Really? But I liked your old multimetre. It was accurate.",
+        "text_c": "That’s true. But my new multimetre is more accurate.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "I bought a new desk organizer for my workstation yesterday.",
+        "text_b": "Really? But I liked your old desk organizer. It was practical.",
+        "text_c": "That’s true. But my new desk organizer is more practical.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "I bought a new microwave for my flat yesterday.",
+        "text_b": "Really? But I liked your old microwave. It was economical.",
+        "text_c": "That’s true. But my new microwave is more economical.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "At the beauty contest, the first runner-up was __________ than the winner.",
+            "options": ["beautifuller", "more beautiful", "more beautifuller"],
+            "answer": "more beautiful"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "It was __________ to cook once a week than to cook daily.",
+            "options": [
+              "more practical",
+              "more practicaler",
+              "most practicable"
+            ],
+            "answer": "more practical"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "It was __________ to buy some groceries wholesale than in smaller quantities.",
+            "options": ["economicaler", "more economically", "more economical"],
+            "answer": "more economical"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "They wanted a __________ house than their current house.",
+            "options": ["more modern", "more moderner", "morderner"],
+            "answer": "more modern"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "The new technician was __________ than the previous one and could manage the repairs and office administration.",
+            "options": ["more efficienter", "an efficient", "more efficient"],
+            "answer": "more efficient"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "His new job at a high-rise building was __________ than the work he did before.",
+            "options": ["more dangerouser", "dangerously", "more dangerous"],
+            "answer": "more dangerous"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "The practical examination was __________ than the theory exam.",
+            "options": [
+              "more difficult",
+              "more difficulter",
+              "more than difficult"
+            ],
+            "answer": "more difficult"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "The practical sessions were __________ than the theory classes.",
+            "options": [
+              "more interestingly",
+              "more interesting",
+              "interesting"
+            ],
+            "answer": "more interesting"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "The marketing team in her new job was __________ than the team she worked with before.",
+            "options": [
+              "more professionaler",
+              "professionals",
+              "more professional"
+            ],
+            "answer": "more professional"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "The design exhibition by the seniors this year was __________ than the exhibition held last year.",
+            "options": ["impressively", "more impressiver", "more impressive"],
+            "answer": "more impressive"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "At the beauty contest, the first runner-up was more beautiful than the winner.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "It was more practical to cook once a week than to cook daily.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "It was more economical to buy some groceries wholesale than in smaller quantities.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "They wanted a more modern house than their current house.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "The new technician was more efficient than the previous one and could manage the repairs and office administration.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "His new job at a high-rise building was more dangerous than the work he did before.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "The practical examination was more difficult than the theory exam.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "The practical sessions were more interesting than the theory classes.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "The marketing team in her new job was more professional than the team she worked with before.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "The design exhibition by the seniors this year was more impressive than the exhibition held last year.",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the questions to the responses. \nප්‍රශ්නවලට සුදුසු පිළිතුරු ගැළපවන්න. \n கேள்விகளை சரியான பதில்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_j.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_b_1",
+            "item_a": "May I leave an hour earlier tomorrow, Sir?",
+            "item_b": "Yes, you may. You haven’t taken any leave for a couple of months."
+          },
+          {
+            "id": "n_4_b_2",
+            "item_a": "Could I use the office account to order some new software for our computers?",
+            "item_b": "Of course you can. The new software will benefit everyone."
+          },
+          {
+            "id": "n_4_b_3",
+            "item_a": "Can I place the weekly order today instead of Friday?",
+            "item_b": "No, you can’t. The orders from the other departments haven’t come in yet."
+          },
+          {
+            "id": "n_4_b_4",
+            "item_a": "Do you think I can rearrange the visitors lobby to create more space?",
+            "item_b": "Yes, you can. But it’s better to speak to the Operations manager first."
+          },
+          {
+            "id": "n_4_b_5",
+            "item_a": "May I organize a cake to celebrate a co-worker’s birthday on Friday?",
+            "item_b": "No, that might not be a good idea. If we do it we’ll have to celebrate everyone’s birthdays."
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_17_1",
+            "question": "Can I adjust the work order slightly and finish the drawer units first?",
+            "answer": "Sure, you can. That sounds practical.",
+            "options": [
+              "No, you can’t. We must follow the original order.",
+              "Sure, you can. That sounds practical.",
+              "I’m sorry, it might be a bit of a problem."
+            ]
+          },
+          {
+            "id": "l_17_2",
+            "question": "May I use the inspection table near the office?",
+            "answer": "Of course, you may. That table is free today.",
+            "options": [
+              "You can’t use it today.",
+              "Of course, you may. That table is free today.",
+              "I’m sorry, it might be a bit of a problem."
+            ]
+          },
+          {
+            "id": "l_17_3",
+            "question": "Do you think I can bring one of the helpers from the sanding section?",
+            "answer": "I’m sorry, it might be a bit of a problem at the moment.",
+            "options": [
+              "Yes, you may take one immediately.",
+              "Sure, you can. It’s not a problem.",
+              "I’m sorry, it might be a bit of a problem at the moment."
+            ]
+          },
+          {
+            "id": "l_17_4",
+            "question": "Can I temporarily store the finished units near the loading bay?",
+            "answer": "Yes, you may, as long as the pathway stays clear.",
+            "options": [
+              "No, you can’t. The area is closed.",
+              "Yes, you may, as long as the pathway stays clear.",
+              "I’m sorry, it might be a problem later."
+            ]
+          },
+          {
+            "id": "l_17_5",
+            "question": "Could you ask the supervisor to instruct the new helpers on safety rules?",
+            "answer": "Yes, I will. Thanks for reminding me.",
+            "options": [
+              "Yes, you might do that when you meet him.",
+              "No, you shouldn’t ask him.",
+              "Yes, I will. Thanks for reminding me."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_33_1",
+          "text": "Good morning, Saman.",
+          "audio": "assets/audio/t_33_1.mp3"
+        },
+        {
+          "id": "t_33_2",
+          "text": "Before we start, I want to confirm today’s work plan.",
+          "audio": "assets/audio/t_33_2.mp3"
+        },
+        {
+          "id": "t_33_3",
+          "text": "We need all the finished cupboards ready for packing by late afternoon.",
+          "audio": "assets/audio/t_33_3.mp3"
+        },
+        {
+          "id": "t_33_4",
+          "text": "Good morning, sir. I understand.",
+          "audio": "assets/audio/t_33_4.mp3"
+        },
+        {
+          "id": "t_33_5",
+          "text": "Sir, can I adjust the work order slightly and finish the drawer units first?",
+          "audio": "assets/audio/t_33_5.mp3"
+        },
+        {
+          "id": "t_33_6",
+          "text": "That section is smaller, and it allows the packing team to start earlier.",
+          "audio": "assets/audio/t_33_6.mp3"
+        },
+        {
+          "id": "t_33_7",
+          "text": "Sure, you can. That sounds practical.",
+          "audio": "assets/audio/t_33_7.mp3"
+        },
+        {
+          "id": "t_33_8",
+          "text": "Just keep the main schedule in mind.",
+          "audio": "assets/audio/t_33_8.mp3"
+        },
+        {
+          "id": "t_33_9",
+          "text": "Thank you, sir.",
+          "audio": "assets/audio/t_33_9.mp3"
+        },
+        {
+          "id": "t_33_10",
+          "text": "Also, may I use the inspection table near the office?",
+          "audio": "assets/audio/t_33_10.mp3"
+        },
+        {
+          "id": "t_33_11",
+          "text": "It is closer to the packing area, and communication is easier there.",
+          "audio": "assets/audio/t_33_11.mp3"
+        },
+        {
+          "id": "t_33_12",
+          "text": "Of course, you may. That table is free today, and it helps reduce delays.",
+          "audio": "assets/audio/t_33_12.mp3"
+        },
+        {
+          "id": "t_33_13",
+          "text": "Sir, do you think I can bring one of the helpers from the sanding section for an hour?",
+          "audio": "assets/audio/t_33_13.mp3"
+        },
+        {
+          "id": "t_33_14",
+          "text": "The frames need checking, and two people make the work faster and safer.",
+          "audio": "assets/audio/t_33_14.mp3"
+        },
+        {
+          "id": "t_33_15",
+          "text": "I’m sorry, it might be a bit of a problem at the moment.",
+          "audio": "assets/audio/t_33_15.mp3"
+        },
+        {
+          "id": "t_33_16",
+          "text": "The sanding section is busy right now, but you can request help after lunch.",
+          "audio": "assets/audio/t_33_16.mp3"
+        },
+        {
+          "id": "t_33_17",
+          "text": "That’s fine, sir.",
+          "audio": "assets/audio/t_33_17.mp3"
+        },
+        {
+          "id": "t_33_18",
+          "text": "One more thing — can I temporarily store the finished units near the loading bay?",
+          "audio": "assets/audio/t_33_18.mp3"
+        },
+        {
+          "id": "t_33_19",
+          "text": "That area is closer, and handling is easier for the transport team.",
+          "audio": "assets/audio/t_33_19.mp3"
+        },
+        {
+          "id": "t_33_20",
+          "text": "Yes, you may, as long as the pathway stays clear and safety rules are followed.",
+          "audio": "assets/audio/t_33_20.mp3"
+        },
+        {
+          "id": "t_33_21",
+          "text": "Thank you, sir. I appreciate that.",
+          "audio": "assets/audio/t_33_21.mp3"
+        },
+        {
+          "id": "t_33_22",
+          "text": "Could you ask the supervisor to instruct the new helpers on safety rules?",
+          "audio": "assets/audio/t_33_22.mp3"
+        },
+        {
+          "id": "t_33_23",
+          "text": "Sure, I will. Clear instructions make the workshop safer for everyone.",
+          "audio": "assets/audio/t_33_23.mp3"
+        },
+        {
+          "id": "t_33_24",
+          "text": "Thanks for reminding me.",
+          "audio": "assets/audio/t_33_24.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_17_1",
+          "text": "Can I adjust the work order slightly and finish the drawer units first?",
+          "audio": "assets/audio/t_17_1.mp3"
+        },
+        {
+          "id": "t_17_2",
+          "text": "May I use the inspection table near the office?",
+          "audio": "assets/audio/t_17_2.mp3"
+        },
+        {
+          "id": "t_17_3",
+          "text": "Do you think I can bring one of the helpers from the sanding section?",
+          "audio": "assets/audio/t_17_3.mp3"
+        },
+        {
+          "id": "t_17_4",
+          "text": "Can I temporarily store the finished units near the loading bay?",
+          "audio": "assets/audio/t_17_4.mp3"
+        },
+        {
+          "id": "t_17_5",
+          "text": "Could you ask the supervisor to instruct the new helpers on safety rules?",
+          "audio": "assets/audio/t_17_5.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_17_1",
+          "text": "Can I adjust the work order slightly and finish the drawer units first?",
+          "audio": "assets/audio/t_17_1.mp3"
+        },
+        {
+          "id": "t_17_2",
+          "text": "May I use the inspection table near the office?",
+          "audio": "assets/audio/t_17_2.mp3"
+        },
+        {
+          "id": "t_17_3",
+          "text": "Do you think I can bring one of the helpers from the sanding section?",
+          "audio": "assets/audio/t_17_3.mp3"
+        },
+        {
+          "id": "t_17_4",
+          "text": "Can I temporarily store the finished units near the loading bay?",
+          "audio": "assets/audio/t_17_4.mp3"
+        },
+        {
+          "id": "t_17_5",
+          "text": "Could you ask the supervisor to instruct the new helpers on safety rules?",
+          "audio": "assets/audio/t_17_5.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
