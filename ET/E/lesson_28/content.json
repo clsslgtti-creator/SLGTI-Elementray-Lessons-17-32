@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 28,
     "level": "Elementary",
-    "section": "Automobile Technology",
+    "section": "Electrical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'f'an",
+        "word_text": "fuse",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The cooling 'f'an was noisier than the generator in the next room.",
+        "sentence_text": "This fuse was cheaper than the ones we bought before.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "'f'uel",
+        "word_text": "fault",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The 'f'uel pipeline was wider than the 'f'uel hose.",
+        "sentence_text": "The fault in the transformer was easier to repair than the one in the junction box.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "'f'ilter",
+        "word_text": "flash",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The air 'f'ilter was dirtier than the A/C unit.",
+        "sentence_text": "The flash in the transformer was shorter than the previous ones.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'f'ault",
+        "word_text": "flow",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The main 'f'ault in the car was greater than the variety of 'f'aults reported.",
+        "sentence_text": "The current flow today was smoother than yesterday.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -403,359 +403,409 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What is Ashfaq doing?",
-            "answer": "Checking the inventory list.",
+            "question": "What was Dilshan doing at the beginning of the dialogue?",
+            "answer": "Reviewing service records.",
             "options": [
-              "Conducting a suspension service.",
-              "Checking the stock levels.",
-              "Checking the inventory list."
+              "Fixing a circuit breaker.",
+              "Updating the equipment list.",
+              "Reviewing service records."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Which torque multiplier brand was better?",
-            "answer": "Blue model.",
-            "options": ["Blue model.", "Red model.", "The medium sized model."]
+            "question": "Which voltage calibration meter was better?",
+            "answer": "Silver meter.",
+            "options": ["Black meter.", "Silver meter.", "Red meter."]
           },
           {
             "id": "l_18_3",
-            "question": "Why did Ashfaq prefer the metal clip remover?",
+            "question": "Why did Dilshan prefer the fiberglass fish tape?",
             "answer": "It was sturdier.",
-            "options": [
-              "It bent easily.",
-              "It was sturdier.",
-              "It was lighter."
-            ]
+            "options": ["It was cheaper.", "It was longer.", "It was sturdier."]
           },
           {
             "id": "l_18_4",
-            "question": "What happened to two insulated spanners?",
-            "answer": "Their coating was damaged.",
+            "question": "What problem did two high-current test clamps have?",
+            "answer": "They overheated.",
             "options": [
-              "They were from the old batch.",
-              "Their coating was damaged.",
-              "They were kept anyway."
+              "They were from the older series.",
+              "They overheated.",
+              "They were delivered damaged."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Which diagnostic probe lead brand was more accurate?",
-            "answer": "Green.",
-            "options": ["Yellow.", "Red.", "Green."]
+            "question": "Which phase-rotation indicator was more accurate?",
+            "answer": "Orange.",
+            "options": ["Blue.", "Green.", "Orange."]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_34_1",
-          "text": "Good morning, Ashfaq. I need to check our stock levels.",
-          "audio": "assets/audio/t_34_1.mp3"
+          "id": "t_36_1",
+          "text": "Good morning, Dilshan. I need to update our equipment list for this week.",
+          "audio": "assets/audio/t_36_1.mp3"
         },
         {
-          "id": "t_34_2",
+          "id": "t_36_2",
           "text": "What are you doing now?",
-          "audio": "assets/audio/t_34_2.mp3"
+          "audio": "assets/audio/t_36_2.mp3"
         },
         {
-          "id": "t_34_3",
-          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
-          "audio": "assets/audio/t_34_3.mp3"
+          "id": "t_36_3",
+          "text": "Good morning, sir. I’m reviewing yesterday’s service records.",
+          "audio": "assets/audio/t_36_3.mp3"
         },
         {
-          "id": "t_34_4",
-          "text": "Some items ran out after the suspension service.",
-          "audio": "assets/audio/t_34_4.mp3"
+          "id": "t_36_4",
+          "text": "We ran out of several electrical tools during the wiring and testing work.",
+          "audio": "assets/audio/t_36_4.mp3"
         },
         {
-          "id": "t_34_5",
-          "text": "I see. Yesterday was busy.",
-          "audio": "assets/audio/t_34_5.mp3"
+          "id": "t_36_5",
+          "text": "Yes, yesterday was quite busy.",
+          "audio": "assets/audio/t_36_5.mp3"
         },
         {
-          "id": "t_34_6",
-          "text": "Did you notice which tools were missing?",
-          "audio": "assets/audio/t_34_6.mp3"
+          "id": "t_36_6",
+          "text": "Did you check which items are missing?",
+          "audio": "assets/audio/t_36_6.mp3"
         },
         {
-          "id": "t_34_7",
-          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
-          "audio": "assets/audio/t_34_7.mp3"
+          "id": "t_36_7",
+          "text": "Yes, sir. We used many new voltage calibration meters, but one brand was more accurate and more durable than the other.",
+          "audio": "assets/audio/t_36_7.mp3"
         },
         {
-          "id": "t_34_8",
-          "text": "The blue model worked well, but the red one felt weak.",
-          "audio": "assets/audio/t_34_8.mp3"
+          "id": "t_36_8",
+          "text": "The silver meter worked well, but the black one gave weaker readings.",
+          "audio": "assets/audio/t_36_8.mp3"
         },
         {
-          "id": "t_34_9",
-          "text": "Yes, the blue model is definitely better.",
-          "audio": "assets/audio/t_34_9.mp3"
+          "id": "t_36_9",
+          "text": "I see. The silver meter is definitely better.",
+          "audio": "assets/audio/t_36_9.mp3"
         },
         {
-          "id": "t_34_10",
-          "text": "We are going to order more of those.",
-          "audio": "assets/audio/t_34_10.mp3"
+          "id": "t_36_10",
+          "text": "We are going to order more of that model.",
+          "audio": "assets/audio/t_36_10.mp3"
         },
         {
-          "id": "t_34_11",
-          "text": "What about the rubber-coated impact sockets?",
-          "audio": "assets/audio/t_34_11.mp3"
+          "id": "t_36_11",
+          "text": "What about the insulated wire strippers?",
+          "audio": "assets/audio/t_36_11.mp3"
         },
         {
-          "id": "t_34_12",
-          "text": "We finished the medium sizes.",
-          "audio": "assets/audio/t_34_12.mp3"
+          "id": "t_36_12",
+          "text": "We finished the medium-gauge ones.",
+          "audio": "assets/audio/t_36_12.mp3"
         },
         {
-          "id": "t_34_13",
-          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
-          "audio": "assets/audio/t_34_13.mp3"
+          "id": "t_36_13",
+          "text": "We also need cable-routing fish tapes, but I think the fiberglass version is sturdier than the nylon one.",
+          "audio": "assets/audio/t_36_13.mp3"
         },
         {
-          "id": "t_34_14",
-          "text": "The plastic clips kept bending.",
-          "audio": "assets/audio/t_34_14.mp3"
+          "id": "t_36_14",
+          "text": "The nylon tapes kept bending.",
+          "audio": "assets/audio/t_36_14.mp3"
         },
         {
-          "id": "t_34_15",
-          "text": "I agree. Let’s order the metal ones.",
-          "audio": "assets/audio/t_34_15.mp3"
+          "id": "t_36_15",
+          "text": "Good point. Let’s order the fiberglass type.",
+          "audio": "assets/audio/t_36_15.mp3"
         },
         {
-          "id": "t_34_16",
-          "text": "Did you also check the EV-safe insulated spanners?",
-          "audio": "assets/audio/t_34_16.mp3"
+          "id": "t_36_16",
+          "text": "Did you examine the high-current test clamps?",
+          "audio": "assets/audio/t_36_16.mp3"
         },
         {
-          "id": "t_34_17",
-          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
-          "audio": "assets/audio/t_34_17.mp3"
+          "id": "t_36_17",
+          "text": "Last week, the supplier said the new clamps were more reliable than the older series.",
+          "audio": "assets/audio/t_36_17.mp3"
         },
         {
-          "id": "t_34_18",
-          "text": "Yes, sir. I checked them.",
-          "audio": "assets/audio/t_34_18.mp3"
+          "id": "t_36_18",
+          "text": "Yes, sir. I tested them.",
+          "audio": "assets/audio/t_36_18.mp3"
         },
         {
-          "id": "t_34_19",
-          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
-          "audio": "assets/audio/t_34_19.mp3"
+          "id": "t_36_19",
+          "text": "The new clamps had a better grip, but two of them overheated.",
+          "audio": "assets/audio/t_36_19.mp3"
         },
         {
-          "id": "t_34_20",
-          "text": "I returned them to the supplier yesterday.",
-          "audio": "assets/audio/t_34_20.mp3"
+          "id": "t_36_20",
+          "text": "I reported the issue to the supplier yesterday.",
+          "audio": "assets/audio/t_36_20.mp3"
         },
         {
-          "id": "t_34_21",
-          "text": "Good. We must keep safety standards.",
-          "audio": "assets/audio/t_34_21.mp3"
+          "id": "t_36_21",
+          "text": "Excellent. We must avoid tools that fail under load.",
+          "audio": "assets/audio/t_36_21.mp3"
         },
         {
-          "id": "t_34_22",
-          "text": "Now, I’m going to prepare a new purchase order.",
-          "audio": "assets/audio/t_34_22.mp3"
+          "id": "t_36_22",
+          "text": "Now, I’m going to prepare a new order.",
+          "audio": "assets/audio/t_36_22.mp3"
         },
         {
-          "id": "t_34_23",
+          "id": "t_36_23",
           "text": "What quantities do we need?",
-          "audio": "assets/audio/t_34_23.mp3"
+          "audio": "assets/audio/t_36_23.mp3"
         },
         {
-          "id": "t_34_24",
-          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
-          "audio": "assets/audio/t_34_24.mp3"
+          "id": "t_36_24",
+          "text": "Order eight voltage calibration meters, twelve insulated wire strippers because they are lighter and easier to use, and six fiberglass fish tapes.",
+          "audio": "assets/audio/t_36_24.mp3"
         },
         {
-          "id": "t_34_25",
-          "text": "Perfect. What about diagnostic probe leads?",
-          "audio": "assets/audio/t_34_25.mp3"
+          "id": "t_36_25",
+          "text": "Good. What about digital phase-rotation indicators?",
+          "audio": "assets/audio/t_36_25.mp3"
         },
         {
-          "id": "t_34_26",
-          "text": "The instructor said the green brand was more accurate during voltage testing.",
-          "audio": "assets/audio/t_34_26.mp3"
+          "id": "t_36_26",
+          "text": "The instructor said the orange model was more accurate during motor installation.",
+          "audio": "assets/audio/t_36_26.mp3"
         },
         {
-          "id": "t_34_27",
-          "text": "Yes, sir. Yesterday I compared them.",
-          "audio": "assets/audio/t_34_27.mp3"
+          "id": "t_36_27",
+          "text": "Yes, sir. I compared them yesterday.",
+          "audio": "assets/audio/t_36_27.mp3"
         },
         {
-          "id": "t_34_28",
-          "text": "The green brand gave clearer readings.",
-          "audio": "assets/audio/t_34_28.mp3"
+          "id": "t_36_28",
+          "text": "The orange indicator gave clearer results.",
+          "audio": "assets/audio/t_36_28.mp3"
         },
         {
-          "id": "t_34_29",
-          "text": "The yellow brand was slower.",
-          "audio": "assets/audio/t_34_29.mp3"
+          "id": "t_36_29",
+          "text": "The blue indicator was slower and less stable.",
+          "audio": "assets/audio/t_36_29.mp3"
         },
         {
-          "id": "t_34_30",
-          "text": "Then we will switch to the green brand.",
-          "audio": "assets/audio/t_34_30.mp3"
+          "id": "t_36_30",
+          "text": "Then we will change to the orange model.",
+          "audio": "assets/audio/t_36_30.mp3"
         },
         {
-          "id": "t_34_31",
+          "id": "t_36_31",
           "text": "Anything else?",
-          "audio": "assets/audio/t_34_31.mp3"
+          "audio": "assets/audio/t_36_31.mp3"
         },
         {
-          "id": "t_34_32",
-          "text": "Yes, sir. We also need oil-filter pliers.",
-          "audio": "assets/audio/t_34_32.mp3"
+          "id": "t_36_32",
+          "text": "Yes, sir. We also need cable-lug crimping pliers.",
+          "audio": "assets/audio/t_36_32.mp3"
         },
         {
-          "id": "t_34_33",
-          "text": "The adjustable model is stronger and more practical than the fixed one.",
-          "audio": "assets/audio/t_34_33.mp3"
+          "id": "t_36_33",
+          "text": "The ratchet model is stronger and more practical than the simple manual one.",
+          "audio": "assets/audio/t_36_33.mp3"
         },
         {
-          "id": "t_34_34",
-          "text": "And maybe 10 cans of oil.",
-          "audio": "assets/audio/t_34_34.mp3"
+          "id": "t_36_34",
+          "text": "That’s true. I’ll add them to the order.",
+          "audio": "assets/audio/t_36_34.mp3"
         },
         {
-          "id": "t_34_35",
-          "text": "Good point. I’ll add them.",
-          "audio": "assets/audio/t_34_35.mp3"
+          "id": "t_36_35",
+          "text": "Thank you, Dilshan. Your understanding of electrical tools is getting better every week.",
+          "audio": "assets/audio/t_36_35.mp3"
         },
         {
-          "id": "t_34_36",
-          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
-          "audio": "assets/audio/t_34_36.mp3"
-        },
-        {
-          "id": "t_34_37",
-          "text": "Thank you, sir. I enjoy learning about different tools.",
-          "audio": "assets/audio/t_34_37.mp3"
+          "id": "t_36_36",
+          "text": "Thank you, sir. I like learning about equipment selection and safety.",
+          "audio": "assets/audio/t_36_36.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_34_3",
-          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
-          "audio": "assets/audio/t_34_3.mp3"
+          "id": "t_36_1",
+          "text": "Good morning, Dilshan. I need to update our equipment list for this week.",
+          "audio": "assets/audio/t_36_1.mp3"
         },
         {
-          "id": "t_34_7",
-          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
-          "audio": "assets/audio/t_34_7.mp3"
+          "id": "t_36_2",
+          "text": "What are you doing now?",
+          "audio": "assets/audio/t_36_2.mp3"
         },
         {
-          "id": "t_34_13",
-          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
-          "audio": "assets/audio/t_34_13.mp3"
+          "id": "t_36_3",
+          "text": "Good morning, sir. I’m reviewing yesterday’s service records.",
+          "audio": "assets/audio/t_36_3.mp3"
         },
         {
-          "id": "t_34_17",
-          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
-          "audio": "assets/audio/t_34_17.mp3"
+          "id": "t_36_4",
+          "text": "We ran out of several electrical tools during the wiring and testing work.",
+          "audio": "assets/audio/t_36_4.mp3"
         },
         {
-          "id": "t_34_19",
-          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
-          "audio": "assets/audio/t_34_19.mp3"
+          "id": "t_36_5",
+          "text": "Yes, yesterday was quite busy.",
+          "audio": "assets/audio/t_36_5.mp3"
         },
         {
-          "id": "t_34_22",
-          "text": "Now, I’m going to prepare a new purchase order.",
-          "audio": "assets/audio/t_34_22.mp3"
+          "id": "t_36_6",
+          "text": "Did you check which items are missing?",
+          "audio": "assets/audio/t_36_6.mp3"
         },
         {
-          "id": "t_34_24",
-          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
-          "audio": "assets/audio/t_34_24.mp3"
+          "id": "t_36_7",
+          "text": "Yes, sir. We used many new voltage calibration meters, but one brand was more accurate and more durable than the other.",
+          "audio": "assets/audio/t_36_7.mp3"
         },
         {
-          "id": "t_34_26",
-          "text": "The instructor said the green brand was more accurate during voltage testing.",
-          "audio": "assets/audio/t_34_26.mp3"
+          "id": "t_36_8",
+          "text": "The silver meter worked well, but the black one gave weaker readings.",
+          "audio": "assets/audio/t_36_8.mp3"
         },
         {
-          "id": "t_34_28",
-          "text": "The green brand gave clearer readings.",
-          "audio": "assets/audio/t_34_28.mp3"
+          "id": "t_36_9",
+          "text": "I see. The silver meter is definitely better.",
+          "audio": "assets/audio/t_36_9.mp3"
         },
         {
-          "id": "t_34_33",
-          "text": "The adjustable model is stronger and more practical than the fixed one.",
-          "audio": "assets/audio/t_34_33.mp3"
+          "id": "t_36_10",
+          "text": "We are going to order more of that model.",
+          "audio": "assets/audio/t_36_10.mp3"
         },
         {
-          "id": "t_34_36",
-          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
-          "audio": "assets/audio/t_34_36.mp3"
+          "id": "t_36_11",
+          "text": "What about the insulated wire strippers?",
+          "audio": "assets/audio/t_36_11.mp3"
         },
         {
-          "id": "t_34_37",
-          "text": "Thank you, sir. I enjoy learning about different tools.",
-          "audio": "assets/audio/t_34_37.mp3"
+          "id": "t_36_12",
+          "text": "We finished the medium-gauge ones.",
+          "audio": "assets/audio/t_36_12.mp3"
+        },
+        {
+          "id": "t_36_13",
+          "text": "We also need cable-routing fish tapes, but I think the fiberglass version is sturdier than the nylon one.",
+          "audio": "assets/audio/t_36_13.mp3"
+        },
+        {
+          "id": "t_36_14",
+          "text": "The nylon tapes kept bending.",
+          "audio": "assets/audio/t_36_14.mp3"
+        },
+        {
+          "id": "t_36_15",
+          "text": "Good point. Let’s order the fiberglass type.",
+          "audio": "assets/audio/t_36_15.mp3"
+        },
+        {
+          "id": "t_36_16",
+          "text": "Did you examine the high-current test clamps?",
+          "audio": "assets/audio/t_36_16.mp3"
+        },
+        {
+          "id": "t_36_17",
+          "text": "Last week, the supplier said the new clamps were more reliable than the older series.",
+          "audio": "assets/audio/t_36_17.mp3"
+        },
+        {
+          "id": "t_36_18",
+          "text": "Yes, sir. I tested them.",
+          "audio": "assets/audio/t_36_18.mp3"
+        },
+        {
+          "id": "t_36_19",
+          "text": "The new clamps had a better grip, but two of them overheated.",
+          "audio": "assets/audio/t_36_19.mp3"
+        },
+        {
+          "id": "t_36_20",
+          "text": "I reported the issue to the supplier yesterday.",
+          "audio": "assets/audio/t_36_20.mp3"
+        },
+        {
+          "id": "t_36_21",
+          "text": "Excellent. We must avoid tools that fail under load.",
+          "audio": "assets/audio/t_36_21.mp3"
+        },
+        {
+          "id": "t_36_22",
+          "text": "Now, I’m going to prepare a new order.",
+          "audio": "assets/audio/t_36_22.mp3"
+        },
+        {
+          "id": "t_36_23",
+          "text": "What quantities do we need?",
+          "audio": "assets/audio/t_36_23.mp3"
+        },
+        {
+          "id": "t_36_24",
+          "text": "Order eight voltage calibration meters, twelve insulated wire strippers because they are lighter and easier to use, and six fiberglass fish tapes.",
+          "audio": "assets/audio/t_36_24.mp3"
+        },
+        {
+          "id": "t_36_25",
+          "text": "Good. What about digital phase-rotation indicators?",
+          "audio": "assets/audio/t_36_25.mp3"
+        },
+        {
+          "id": "t_36_26",
+          "text": "The instructor said the orange model was more accurate during motor installation.",
+          "audio": "assets/audio/t_36_26.mp3"
+        },
+        {
+          "id": "t_36_27",
+          "text": "Yes, sir. I compared them yesterday.",
+          "audio": "assets/audio/t_36_27.mp3"
+        },
+        {
+          "id": "t_36_28",
+          "text": "The orange indicator gave clearer results.",
+          "audio": "assets/audio/t_36_28.mp3"
+        },
+        {
+          "id": "t_36_29",
+          "text": "The blue indicator was slower and less stable.",
+          "audio": "assets/audio/t_36_29.mp3"
+        },
+        {
+          "id": "t_36_30",
+          "text": "Then we will change to the orange model.",
+          "audio": "assets/audio/t_36_30.mp3"
+        },
+        {
+          "id": "t_36_31",
+          "text": "Anything else?",
+          "audio": "assets/audio/t_36_31.mp3"
+        },
+        {
+          "id": "t_36_32",
+          "text": "Yes, sir. We also need cable-lug crimping pliers.",
+          "audio": "assets/audio/t_36_32.mp3"
+        },
+        {
+          "id": "t_36_33",
+          "text": "The ratchet model is stronger and more practical than the simple manual one.",
+          "audio": "assets/audio/t_36_33.mp3"
+        },
+        {
+          "id": "t_36_34",
+          "text": "That’s true. I’ll add them to the order.",
+          "audio": "assets/audio/t_36_34.mp3"
+        },
+        {
+          "id": "t_36_35",
+          "text": "Thank you, Dilshan. Your understanding of electrical tools is getting better every week.",
+          "audio": "assets/audio/t_36_35.mp3"
+        },
+        {
+          "id": "t_36_36",
+          "text": "Thank you, sir. I like learning about equipment selection and safety.",
+          "audio": "assets/audio/t_36_36.mp3"
         }
       ],
-      "activity_d": [
-        {
-          "id": "t_34_3",
-          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
-          "audio": "assets/audio/t_34_3.mp3"
-        },
-        {
-          "id": "t_34_7",
-          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
-          "audio": "assets/audio/t_34_7.mp3"
-        },
-        {
-          "id": "t_34_13",
-          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
-          "audio": "assets/audio/t_34_13.mp3"
-        },
-        {
-          "id": "t_34_17",
-          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
-          "audio": "assets/audio/t_34_17.mp3"
-        },
-        {
-          "id": "t_34_19",
-          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
-          "audio": "assets/audio/t_34_19.mp3"
-        },
-        {
-          "id": "t_34_22",
-          "text": "Now, I’m going to prepare a new purchase order.",
-          "audio": "assets/audio/t_34_22.mp3"
-        },
-        {
-          "id": "t_34_24",
-          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
-          "audio": "assets/audio/t_34_24.mp3"
-        },
-        {
-          "id": "t_34_26",
-          "text": "The instructor said the green brand was more accurate during voltage testing.",
-          "audio": "assets/audio/t_34_26.mp3"
-        },
-        {
-          "id": "t_34_28",
-          "text": "The green brand gave clearer readings.",
-          "audio": "assets/audio/t_34_28.mp3"
-        },
-        {
-          "id": "t_34_33",
-          "text": "The adjustable model is stronger and more practical than the fixed one.",
-          "audio": "assets/audio/t_34_33.mp3"
-        },
-        {
-          "id": "t_34_36",
-          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
-          "audio": "assets/audio/t_34_36.mp3"
-        },
-        {
-          "id": "t_34_37",
-          "text": "Thank you, sir. I enjoy learning about different tools.",
-          "audio": "assets/audio/t_34_37.mp3"
-        }
-      ]
+      "activity_d": 0
     }
   },
   "activity_5": {
