@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "file",
+        "word_text": "'f'ile",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The project file was thicker than the employees’ files.",
+        "sentence_text": "The project 'f'ile was thicker than the employees’ 'f'iles.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "forge",
+        "word_text": "'f'orge",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The forged metal parts were weaker than the original parts.",
+        "sentence_text": "The 'f'orged metal parts were weaker than the original parts.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "fit",
+        "word_text": "'f'it",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This new shaft was easier to fit than the one we tried last week.",
+        "sentence_text": "This new shaft was easier to 'f'it than the one we tried last week.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "finish",
+        "word_text": "'f'inish",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The surface finish was finer than the photo in the advertising brochure.",
+        "sentence_text": "The surface 'f'inish was 'f'iner than the photo in the advertising brochure.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
