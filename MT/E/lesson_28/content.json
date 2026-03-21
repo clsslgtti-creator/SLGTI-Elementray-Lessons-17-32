@@ -633,35 +633,67 @@
       ],
       "activity_c": [
         {
-          "id": "t_39_1",
-          "text": "Good morning, Faris. I need to update our equipment log for this week.",
-          "audio": "assets/audio/t_39_1.mp3"
+          "id": "t_39_7",
+          "text": "Yes, sir. We used many precision torque extensions, but one brand was more stable and more durable than the other.",
+          "audio": "assets/audio/t_39_7.mp3"
         },
         {
-          "id": "t_39_2",
-          "text": "What are you doing now?",
-          "audio": "assets/audio/t_39_2.mp3"
+          "id": "t_39_8",
+          "text": "The silver extension worked well, but the blue one slipped more easily.",
+          "audio": "assets/audio/t_39_8.mp3"
         },
         {
-          "id": "t_39_3",
-          "text": "Good morning, sir. I’m checking the maintenance sheets from yesterday.",
-          "audio": "assets/audio/t_39_3.mp3"
+          "id": "t_39_9",
+          "text": "I noticed that too. The silver extension is definitely better.",
+          "audio": "assets/audio/t_39_9.mp3"
         },
         {
-          "id": "t_39_4",
-          "text": "We ran out of several mechanical tools during the assembly and alignment tasks.",
-          "audio": "assets/audio/t_39_4.mp3"
+          "id": "t_39_13",
+          "text": "We also need shaft-centering dowels, but I think the hardened-steel type is sturdier than the aluminium one.",
+          "audio": "assets/audio/t_39_13.mp3"
         },
         {
-          "id": "t_39_5",
-          "text": "Yes, the workshop was very active yesterday.",
-          "audio": "assets/audio/t_39_5.mp3"
+          "id": "t_39_17",
+          "text": "Last week, the supplier said the newest batch was more reliable than the previous one.",
+          "audio": "assets/audio/t_39_17.mp3"
         },
         {
-          "id": "t_39_6",
-          "text": "Did you see which items are missing?",
-          "audio": "assets/audio/t_39_6.mp3"
+          "id": "t_39_19",
+          "text": "The new gauges had a better display, but two gauges leaked slightly.",
+          "audio": "assets/audio/t_39_19.mp3"
         },
+        {
+          "id": "t_39_26",
+          "text": "The instructor said the red model was more accurate when checking misalignment.",
+          "audio": "assets/audio/t_39_26.mp3"
+        },
+        {
+          "id": "t_39_28",
+          "text": "The red indicator gave clearer readings.",
+          "audio": "assets/audio/t_39_28.mp3"
+        },
+        {
+          "id": "t_39_29",
+          "text": "The grey indicator was slower and less stable during measurement.",
+          "audio": "assets/audio/t_39_29.mp3"
+        },
+        {
+          "id": "t_39_33",
+          "text": "The modular type is stronger and more practical than the fixed one.",
+          "audio": "assets/audio/t_39_33.mp3"
+        },
+        {
+          "id": "t_39_35",
+          "text": "Thank you, Faris. You are getting better at identifying high-quality tools.",
+          "audio": "assets/audio/t_39_35.mp3"
+        },
+        {
+          "id": "t_39_36",
+          "text": "Thank you, sir. I enjoy learning more about mechanical equipment.",
+          "audio": "assets/audio/t_39_36.mp3"
+        }
+      ],
+      "activity_d": [
         {
           "id": "t_39_7",
           "text": "Yes, sir. We used many precision torque extensions, but one brand was more stable and more durable than the other.",
@@ -678,39 +710,9 @@
           "audio": "assets/audio/t_39_9.mp3"
         },
         {
-          "id": "t_39_10",
-          "text": "We are going to order more of that model.",
-          "audio": "assets/audio/t_39_10.mp3"
-        },
-        {
-          "id": "t_39_11",
-          "text": "What about the adjustable bearing pullers?",
-          "audio": "assets/audio/t_39_11.mp3"
-        },
-        {
-          "id": "t_39_12",
-          "text": "We used the last few.",
-          "audio": "assets/audio/t_39_12.mp3"
-        },
-        {
           "id": "t_39_13",
           "text": "We also need shaft-centering dowels, but I think the hardened-steel type is sturdier than the aluminium one.",
           "audio": "assets/audio/t_39_13.mp3"
-        },
-        {
-          "id": "t_39_14",
-          "text": "The aluminium dowels bent during the test run.",
-          "audio": "assets/audio/t_39_14.mp3"
-        },
-        {
-          "id": "t_39_15",
-          "text": "Then we will order the hardened-steel ones.",
-          "audio": "assets/audio/t_39_15.mp3"
-        },
-        {
-          "id": "t_39_16",
-          "text": "Did you check the hydraulic line-pressure gauges?",
-          "audio": "assets/audio/t_39_16.mp3"
         },
         {
           "id": "t_39_17",
@@ -718,54 +720,14 @@
           "audio": "assets/audio/t_39_17.mp3"
         },
         {
-          "id": "t_39_18",
-          "text": "Yes, sir. I tested them.",
-          "audio": "assets/audio/t_39_18.mp3"
-        },
-        {
           "id": "t_39_19",
           "text": "The new gauges had a better display, but two gauges leaked slightly.",
           "audio": "assets/audio/t_39_19.mp3"
         },
         {
-          "id": "t_39_20",
-          "text": "I informed the supplier yesterday and returned them.",
-          "audio": "assets/audio/t_39_20.mp3"
-        },
-        {
-          "id": "t_39_21",
-          "text": "Good decision. Leaking gauges can cause serious problems.",
-          "audio": "assets/audio/t_39_21.mp3"
-        },
-        {
-          "id": "t_39_22",
-          "text": "Now, I’m going to prepare a new supply request.",
-          "audio": "assets/audio/t_39_22.mp3"
-        },
-        {
-          "id": "t_39_23",
-          "text": "What quantities do we need?",
-          "audio": "assets/audio/t_39_23.mp3"
-        },
-        {
-          "id": "t_39_24",
-          "text": "Order ten precision torque extensions, eight adjustable bearing pullers because they are lighter and easier to handle, and twelve hardened-steel centering dowels.",
-          "audio": "assets/audio/t_39_24.mp3"
-        },
-        {
-          "id": "t_39_25",
-          "text": "Excellent. What about dynamic vibration indicators?",
-          "audio": "assets/audio/t_39_25.mp3"
-        },
-        {
           "id": "t_39_26",
           "text": "The instructor said the red model was more accurate when checking misalignment.",
           "audio": "assets/audio/t_39_26.mp3"
-        },
-        {
-          "id": "t_39_27",
-          "text": "Yes, sir. I compared them yesterday.",
-          "audio": "assets/audio/t_39_27.mp3"
         },
         {
           "id": "t_39_28",
@@ -778,29 +740,9 @@
           "audio": "assets/audio/t_39_29.mp3"
         },
         {
-          "id": "t_39_30",
-          "text": "Then we will change to the red model.",
-          "audio": "assets/audio/t_39_30.mp3"
-        },
-        {
-          "id": "t_39_31",
-          "text": "Anything else?",
-          "audio": "assets/audio/t_39_31.mp3"
-        },
-        {
-          "id": "t_39_32",
-          "text": "Yes, sir. We also need flexible coolant-delivery nozzles.",
-          "audio": "assets/audio/t_39_32.mp3"
-        },
-        {
           "id": "t_39_33",
           "text": "The modular type is stronger and more practical than the fixed one.",
           "audio": "assets/audio/t_39_33.mp3"
-        },
-        {
-          "id": "t_39_34",
-          "text": "Good idea. I’ll add them to the list.",
-          "audio": "assets/audio/t_39_34.mp3"
         },
         {
           "id": "t_39_35",
@@ -812,8 +754,7 @@
           "text": "Thank you, sir. I enjoy learning more about mechanical equipment.",
           "audio": "assets/audio/t_39_36.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {
