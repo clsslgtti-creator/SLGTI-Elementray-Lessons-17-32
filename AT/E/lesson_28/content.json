@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "fan",
+        "word_text": "'f'an",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The cooling fan was noisier than the generator in the next room.",
+        "sentence_text": "The cooling 'f'an was noisier than the generator in the next room.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "fuel",
+        "word_text": "'f'uel",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The fuel pipeline was wider than the fuel hose.",
+        "sentence_text": "The 'f'uel pipeline was wider than the 'f'uel hose.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "filter",
+        "word_text": "'f'ilter",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The air filter was dirtier than the A/C unit.",
+        "sentence_text": "The air 'f'ilter was dirtier than the A/C unit.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "fault",
+        "word_text": "'f'ault",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The main fault in the car was greater than the variety of faults reported.",
+        "sentence_text": "The main 'f'ault in the car was greater than the variety of 'f'aults reported.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
