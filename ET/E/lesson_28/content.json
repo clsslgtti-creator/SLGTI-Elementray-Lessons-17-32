@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "fuse",
+        "word_text": "'f'use",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This fuse was cheaper than the ones we bought before.",
+        "sentence_text": "This 'f'use was cheaper than the ones we bought before.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "fault",
+        "word_text": "'f'ault",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The fault in the transformer was easier to repair than the one in the junction box.",
+        "sentence_text": "The 'f'ault in the transformer was easier to repair than the one in the junction box.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "flash",
+        "word_text": "'f'lash",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The flash in the transformer was shorter than the previous ones.",
+        "sentence_text": "The 'f'lash in the transformer was shorter than the previous ones.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "flow",
+        "word_text": "'f'low",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The current flow today was smoother than yesterday.",
+        "sentence_text": "The current 'f'low today was smoother than yesterday.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
