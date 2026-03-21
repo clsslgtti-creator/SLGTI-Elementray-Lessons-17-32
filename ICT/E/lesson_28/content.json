@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "file",
+        "word_text": "'f'ile",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The system file was faster than the previous software.",
+        "sentence_text": "The system 'f'ile was faster than the previous software.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "firewall",
+        "word_text": "'f'irewall",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The network security firewalls installed were better than the system we had before.",
+        "sentence_text": "The network security 'f'irewalls installed were better than the system we had before.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "interface",
+        "word_text": "inter'f'ace",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The new interface was more user-friendly than the one designed before.",
+        "sentence_text": "The new inter'f'ace was more user-friendly than the one designed before.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "failure",
+        "word_text": "'f'ailure",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The server failure was worse than any failure we had before.",
+        "sentence_text": "The server 'f'ailure was worse than any 'f'ailure we had before.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }
