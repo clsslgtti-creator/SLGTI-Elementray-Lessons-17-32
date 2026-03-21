@@ -1,0 +1,795 @@
+{
+  "meta": {
+    "lesson_no": 28,
+    "level": "Elementary",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "K",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'f'lour",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The 'f'lour in yesterday’s order was softer than the flour we received before.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'f'ruit",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The 'f'ruit from the shop was sweeter than the ones from our garden.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'f'resh",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The vegetables delivered today were 'f'resher than the ones delivered yesterday.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "'f'at",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The 'f'at content was higher than the acceptable amount.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Comparative",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["fast- faster", "comfortable - more comfortable"],
+        ["nice - nicer", "beautiful - more beautiful"],
+        ["big - bigger", "interesting - more interesting"],
+        ["pretty - prettier", "intelligent- more intelligent"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "I bought a new chair for my desk yesterday.",
+        "text_b": "Really? But I liked your old chair. It was comfortable.",
+        "text_c": "That’s true. But my new chair is more comfortable.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "I bought a new laptop for work yesterday.",
+        "text_b": "Really? But I liked your old laptop. It was reliable.",
+        "text_c": "That’s true. But my new laptop is more reliable.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "I bought a new car for myself yesterday.",
+        "text_b": "Really? But I liked your old car. It was powerful.",
+        "text_c": "That’s true. But my new car is more powerful.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "my new sofa is more modern"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "my new  watch is more attractive"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "my new oven is more efficient"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "my new multimetre is more accurate"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "new desk organizer  is more practical"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "my new microwave is more economical"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "I bought a new sofa for my flat yesterday.",
+        "text_b": "Really? But I liked your old sofa. It was modern.",
+        "text_c": "That’s true. But my new sofa is more modern.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "I bought a new smart watch for myself yesterday.",
+        "text_b": "Really? But I liked your old smart watch. It was attractive.",
+        "text_c": "That’s true. But my new watch is more attractive.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "I bought a new oven for my kitchen yesterday.",
+        "text_b": "Really? But I liked your old oven. It was efficient.",
+        "text_c": "That’s true. But my new oven is more efficient.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "I bought a new multimetre for my home yesterday.",
+        "text_b": "Really? But I liked your old multimetre. It was accurate.",
+        "text_c": "That’s true. But my new multimetre is more accurate.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "I bought a new desk organizer for my workstation yesterday.",
+        "text_b": "Really? But I liked your old desk organizer. It was practical.",
+        "text_c": "That’s true. But my new desk organizer is more practical.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "I bought a new microwave for my flat yesterday.",
+        "text_b": "Really? But I liked your old microwave. It was economical.",
+        "text_c": "That’s true. But my new microwave is more economical.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "At the beauty contest, the first runner-up was __________ than the winner.",
+            "options": ["beautifuller", "more beautiful", "more beautifuller"],
+            "answer": "more beautiful"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "It was __________ to cook once a week than to cook daily.",
+            "options": [
+              "more practical",
+              "more practicaler",
+              "most practicable"
+            ],
+            "answer": "more practical"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "It was __________ to buy some groceries wholesale than in smaller quantities.",
+            "options": ["economicaler", "more economically", "more economical"],
+            "answer": "more economical"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "They wanted a __________ house than their current house.",
+            "options": ["more modern", "more moderner", "morderner"],
+            "answer": "more modern"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "The new technician was __________ than the previous one and could manage the repairs and office administration.",
+            "options": ["more efficienter", "an efficient", "more efficient"],
+            "answer": "more efficient"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "His new job at a high-rise building was __________ than the work he did before.",
+            "options": ["more dangerouser", "dangerously", "more dangerous"],
+            "answer": "more dangerous"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "The practical examination was __________ than the theory exam.",
+            "options": [
+              "more difficult",
+              "more difficulter",
+              "more than difficult"
+            ],
+            "answer": "more difficult"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "The practical sessions were __________ than the theory classes.",
+            "options": [
+              "more interestingly",
+              "more interesting",
+              "interesting"
+            ],
+            "answer": "more interesting"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "The marketing team in her new job was __________ than the team she worked with before.",
+            "options": [
+              "more professionaler",
+              "professionals",
+              "more professional"
+            ],
+            "answer": "more professional"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "The design exhibition by the seniors this year was __________ than the exhibition held last year.",
+            "options": ["impressively", "more impressiver", "more impressive"],
+            "answer": "more impressive"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "At the beauty contest, the first runner-up was more beautiful than the winner.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "It was more practical to cook once a week than to cook daily.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "It was more economical to buy some groceries wholesale than in smaller quantities.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "They wanted a more modern house than their current house.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "The new technician was more efficient than the previous one and could manage the repairs and office administration.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "His new job at a high-rise building was more dangerous than the work he did before.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "The practical examination was more difficult than the theory exam.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "The practical sessions were more interesting than the theory classes.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "The marketing team in her new job was more professional than the team she worked with before.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "The design exhibition by the seniors this year was more impressive than the exhibition held last year.",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What was Kavindya doing at the beginning of the dialogue?",
+            "answer": "Updating the processing logs.",
+            "options": [
+              "Updating inventory.",
+              "Reviewing supply checklist.",
+              "Updating the processing logs."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Which dough scraper was better?",
+            "answer": "Black-handled scraper.",
+            "options": [
+              "White-handled scraper.",
+              "Red-handled scraper.",
+              "Black-handled scraper."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why did Kavindya prefer the bamboo paddle?",
+            "answer": "It was sturdier.",
+            "options": [
+              "It was cheaper.",
+              "It was sturdier.",
+              "It was heavier."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "What problem did two pH testing spoons have?",
+            "answer": "They showed inaccurate colour changes.",
+            "options": [
+              "They were from the older batch.",
+              "They showed inaccurate colour changes.",
+              "They were delivered late."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Which thermometer model was more accurate?",
+            "answer": "Metal-probe.",
+            "options": ["Plastic-probe.", "Wooden-stem.", "Metal-probe."]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_37_1",
+          "text": "Good morning, Kavindya. I need to review our supply checklist for this week.",
+          "audio": "assets/audio/t_37_1.mp3"
+        },
+        {
+          "id": "t_37_2",
+          "text": "What are you doing now?",
+          "audio": "assets/audio/t_37_2.mp3"
+        },
+        {
+          "id": "t_37_3",
+          "text": "Good morning, madam. I’m updating the processing logs from yesterday.",
+          "audio": "assets/audio/t_37_3.mp3"
+        },
+        {
+          "id": "t_37_4",
+          "text": "Several items ran out during the dough preparation and temperature-control tasks.",
+          "audio": "assets/audio/t_37_4.mp3"
+        },
+        {
+          "id": "t_37_5",
+          "text": "Yes, yesterday was quite demanding.",
+          "audio": "assets/audio/t_37_5.mp3"
+        },
+        {
+          "id": "t_37_6",
+          "text": "Did you see which tools are missing?",
+          "audio": "assets/audio/t_37_6.mp3"
+        },
+        {
+          "id": "t_37_7",
+          "text": "Yes, madam. We used many stainless-steel dough scrapers, but one brand was more flexible and more durable than the other.",
+          "audio": "assets/audio/t_37_7.mp3"
+        },
+        {
+          "id": "t_37_8",
+          "text": "The black-handled scraper worked well, but the white one cracked easily.",
+          "audio": "assets/audio/t_37_8.mp3"
+        },
+        {
+          "id": "t_37_9",
+          "text": "That matches what I saw. The black-handled scraper is definitely better.",
+          "audio": "assets/audio/t_37_9.mp3"
+        },
+        {
+          "id": "t_37_10",
+          "text": "We are going to order more of that model.",
+          "audio": "assets/audio/t_37_10.mp3"
+        },
+        {
+          "id": "t_37_11",
+          "text": "What about the digital ingredient scales?",
+          "audio": "assets/audio/t_37_11.mp3"
+        },
+        {
+          "id": "t_37_12",
+          "text": "We used the last few.",
+          "audio": "assets/audio/t_37_12.mp3"
+        },
+        {
+          "id": "t_37_13",
+          "text": "We also need moisture-checking paddles, but I think the bamboo paddle is sturdier than the plastic one.",
+          "audio": "assets/audio/t_37_13.mp3"
+        },
+        {
+          "id": "t_37_14",
+          "text": "The plastic paddles bent during the mixing process.",
+          "audio": "assets/audio/t_37_14.mp3"
+        },
+        {
+          "id": "t_37_15",
+          "text": "Then we will order bamboo paddles.",
+          "audio": "assets/audio/t_37_15.mp3"
+        },
+        {
+          "id": "t_37_16",
+          "text": "Did you check the pH testing spoons?",
+          "audio": "assets/audio/t_37_16.mp3"
+        },
+        {
+          "id": "t_37_17",
+          "text": "Last week, the supplier said the updated version was more reliable than the older batch.",
+          "audio": "assets/audio/t_37_17.mp3"
+        },
+        {
+          "id": "t_37_18",
+          "text": "Yes, madam. I tested them.",
+          "audio": "assets/audio/t_37_18.mp3"
+        },
+        {
+          "id": "t_37_19",
+          "text": "The new spoons had a better reading strip, but two spoons showed inaccurate colour changes.",
+          "audio": "assets/audio/t_37_19.mp3"
+        },
+        {
+          "id": "t_37_20",
+          "text": "I returned them to the supplier yesterday.",
+          "audio": "assets/audio/t_37_20.mp3"
+        },
+        {
+          "id": "t_37_21",
+          "text": "Good work. Accurate pH readings are essential for food safety.",
+          "audio": "assets/audio/t_37_21.mp3"
+        },
+        {
+          "id": "t_37_22",
+          "text": "Now, I’m going to prepare a new order.",
+          "audio": "assets/audio/t_37_22.mp3"
+        },
+        {
+          "id": "t_37_23",
+          "text": "What quantities do we need?",
+          "audio": "assets/audio/t_37_23.mp3"
+        },
+        {
+          "id": "t_37_24",
+          "text": "Order ten dough scrapers, eight ingredient scales because they are lighter and easier to calibrate, and six bamboo moisture-checking paddles.",
+          "audio": "assets/audio/t_37_24.mp3"
+        },
+        {
+          "id": "t_37_25",
+          "text": "What about fermentation-room thermometers?",
+          "audio": "assets/audio/t_37_25.mp3"
+        },
+        {
+          "id": "t_37_26",
+          "text": "The instructor said the metal-probe model was more accurate during yeast development.",
+          "audio": "assets/audio/t_37_26.mp3"
+        },
+        {
+          "id": "t_37_27",
+          "text": "Yes, madam. I compared them yesterday.",
+          "audio": "assets/audio/t_37_27.mp3"
+        },
+        {
+          "id": "t_37_28",
+          "text": "The metal-probe thermometer gave clearer readings.",
+          "audio": "assets/audio/t_37_28.mp3"
+        },
+        {
+          "id": "t_37_29",
+          "text": "The plastic-probe thermometer was slower and less stable.",
+          "audio": "assets/audio/t_37_29.mp3"
+        },
+        {
+          "id": "t_37_30",
+          "text": "Then we will switch to the metal-probe type.",
+          "audio": "assets/audio/t_37_30.mp3"
+        },
+        {
+          "id": "t_37_31",
+          "text": "Anything else?",
+          "audio": "assets/audio/t_37_31.mp3"
+        },
+        {
+          "id": "t_37_32",
+          "text": "Yes, madam. We also need batter-dispensing funnels.",
+          "audio": "assets/audio/t_37_32.mp3"
+        },
+        {
+          "id": "t_37_33",
+          "text": "The adjustable-flow model is stronger and more practical than the fixed-flow funnel.",
+          "audio": "assets/audio/t_37_33.mp3"
+        },
+        {
+          "id": "t_37_34",
+          "text": "Excellent. I’ll add them.",
+          "audio": "assets/audio/t_37_34.mp3"
+        },
+        {
+          "id": "t_37_35",
+          "text": "You are getting better at choosing suitable equipment.",
+          "audio": "assets/audio/t_37_35.mp3"
+        },
+        {
+          "id": "t_37_36",
+          "text": "Thank you, madam. I enjoy learning about food-processing tools.",
+          "audio": "assets/audio/t_37_36.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_37_7",
+          "text": "Yes, madam. We used many stainless-steel dough scrapers, but one brand was more flexible and more durable than the other.",
+          "audio": "assets/audio/t_37_7.mp3"
+        },
+        {
+          "id": "t_37_8",
+          "text": "The black-handled scraper worked well, but the white one cracked easily.",
+          "audio": "assets/audio/t_37_8.mp3"
+        },
+        {
+          "id": "t_37_9",
+          "text": "That matches what I saw. The black-handled scraper is definitely better.",
+          "audio": "assets/audio/t_37_9.mp3"
+        },
+        {
+          "id": "t_37_13",
+          "text": "We also need moisture-checking paddles, but I think the bamboo paddle is sturdier than the plastic one.",
+          "audio": "assets/audio/t_37_13.mp3"
+        },
+        {
+          "id": "t_37_17",
+          "text": "Last week, the supplier said the updated version was more reliable than the older batch.",
+          "audio": "assets/audio/t_37_17.mp3"
+        },
+        {
+          "id": "t_37_19",
+          "text": "The new spoons had a better reading strip, but two spoons showed inaccurate colour changes.",
+          "audio": "assets/audio/t_37_19.mp3"
+        },
+        {
+          "id": "t_37_24",
+          "text": "Order ten dough scrapers, eight ingredient scales because they are lighter and easier to calibrate, and six bamboo moisture-checking paddles.",
+          "audio": "assets/audio/t_37_24.mp3"
+        },
+        {
+          "id": "t_37_26",
+          "text": "The instructor said the metal-probe model was more accurate during yeast development.",
+          "audio": "assets/audio/t_37_26.mp3"
+        },
+        {
+          "id": "t_37_28",
+          "text": "The metal-probe thermometer gave clearer readings.",
+          "audio": "assets/audio/t_37_28.mp3"
+        },
+        {
+          "id": "t_37_29",
+          "text": "The plastic-probe thermometer was slower and less stable.",
+          "audio": "assets/audio/t_37_29.mp3"
+        },
+        {
+          "id": "t_37_33",
+          "text": "The adjustable-flow model is stronger and more practical than the fixed-flow funnel.",
+          "audio": "assets/audio/t_37_33.mp3"
+        },
+        {
+          "id": "t_37_35",
+          "text": "You are getting better at choosing suitable equipment.",
+          "audio": "assets/audio/t_37_35.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_37_7",
+          "text": "Yes, madam. We used many stainless-steel dough scrapers, but one brand was more flexible and more durable than the other.",
+          "audio": "assets/audio/t_37_7.mp3"
+        },
+        {
+          "id": "t_37_8",
+          "text": "The black-handled scraper worked well, but the white one cracked easily.",
+          "audio": "assets/audio/t_37_8.mp3"
+        },
+        {
+          "id": "t_37_9",
+          "text": "That matches what I saw. The black-handled scraper is definitely better.",
+          "audio": "assets/audio/t_37_9.mp3"
+        },
+        {
+          "id": "t_37_13",
+          "text": "We also need moisture-checking paddles, but I think the bamboo paddle is sturdier than the plastic one.",
+          "audio": "assets/audio/t_37_13.mp3"
+        },
+        {
+          "id": "t_37_17",
+          "text": "Last week, the supplier said the updated version was more reliable than the older batch.",
+          "audio": "assets/audio/t_37_17.mp3"
+        },
+        {
+          "id": "t_37_19",
+          "text": "The new spoons had a better reading strip, but two spoons showed inaccurate colour changes.",
+          "audio": "assets/audio/t_37_19.mp3"
+        },
+        {
+          "id": "t_37_24",
+          "text": "Order ten dough scrapers, eight ingredient scales because they are lighter and easier to calibrate, and six bamboo moisture-checking paddles.",
+          "audio": "assets/audio/t_37_24.mp3"
+        },
+        {
+          "id": "t_37_26",
+          "text": "The instructor said the metal-probe model was more accurate during yeast development.",
+          "audio": "assets/audio/t_37_26.mp3"
+        },
+        {
+          "id": "t_37_28",
+          "text": "The metal-probe thermometer gave clearer readings.",
+          "audio": "assets/audio/t_37_28.mp3"
+        },
+        {
+          "id": "t_37_29",
+          "text": "The plastic-probe thermometer was slower and less stable.",
+          "audio": "assets/audio/t_37_29.mp3"
+        },
+        {
+          "id": "t_37_33",
+          "text": "The adjustable-flow model is stronger and more practical than the fixed-flow funnel.",
+          "audio": "assets/audio/t_37_33.mp3"
+        },
+        {
+          "id": "t_37_35",
+          "text": "You are getting better at choosing suitable equipment.",
+          "audio": "assets/audio/t_37_35.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_c"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2C.mp4",
+        "instrction": "instrction_c"
+      }
+    ]
+  }
+}
