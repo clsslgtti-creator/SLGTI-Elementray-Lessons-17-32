@@ -633,35 +633,67 @@
       ],
       "activity_c": [
         {
-          "id": "t_37_1",
-          "text": "Good morning, Kavindya. I need to review our supply checklist for this week.",
-          "audio": "assets/audio/t_37_1.mp3"
+          "id": "t_37_7",
+          "text": "Yes, madam. We used many stainless-steel dough scrapers, but one brand was more flexible and more durable than the other.",
+          "audio": "assets/audio/t_37_7.mp3"
         },
         {
-          "id": "t_37_2",
-          "text": "What are you doing now?",
-          "audio": "assets/audio/t_37_2.mp3"
+          "id": "t_37_8",
+          "text": "The black-handled scraper worked well, but the white one cracked easily.",
+          "audio": "assets/audio/t_37_8.mp3"
         },
         {
-          "id": "t_37_3",
-          "text": "Good morning, madam. I’m updating the processing logs from yesterday.",
-          "audio": "assets/audio/t_37_3.mp3"
+          "id": "t_37_9",
+          "text": "That matches what I saw. The black-handled scraper is definitely better.",
+          "audio": "assets/audio/t_37_9.mp3"
         },
         {
-          "id": "t_37_4",
-          "text": "Several items ran out during the dough preparation and temperature-control tasks.",
-          "audio": "assets/audio/t_37_4.mp3"
+          "id": "t_37_13",
+          "text": "We also need moisture-checking paddles, but I think the bamboo paddle is sturdier than the plastic one.",
+          "audio": "assets/audio/t_37_13.mp3"
         },
         {
-          "id": "t_37_5",
-          "text": "Yes, yesterday was quite demanding.",
-          "audio": "assets/audio/t_37_5.mp3"
+          "id": "t_37_17",
+          "text": "Last week, the supplier said the updated version was more reliable than the older batch.",
+          "audio": "assets/audio/t_37_17.mp3"
         },
         {
-          "id": "t_37_6",
-          "text": "Did you see which tools are missing?",
-          "audio": "assets/audio/t_37_6.mp3"
+          "id": "t_37_19",
+          "text": "The new spoons had a better reading strip, but two spoons showed inaccurate colour changes.",
+          "audio": "assets/audio/t_37_19.mp3"
         },
+        {
+          "id": "t_37_24",
+          "text": "Order ten dough scrapers, eight ingredient scales because they are lighter and easier to calibrate, and six bamboo moisture-checking paddles.",
+          "audio": "assets/audio/t_37_24.mp3"
+        },
+        {
+          "id": "t_37_26",
+          "text": "The instructor said the metal-probe model was more accurate during yeast development.",
+          "audio": "assets/audio/t_37_26.mp3"
+        },
+        {
+          "id": "t_37_28",
+          "text": "The metal-probe thermometer gave clearer readings.",
+          "audio": "assets/audio/t_37_28.mp3"
+        },
+        {
+          "id": "t_37_29",
+          "text": "The plastic-probe thermometer was slower and less stable.",
+          "audio": "assets/audio/t_37_29.mp3"
+        },
+        {
+          "id": "t_37_33",
+          "text": "The adjustable-flow model is stronger and more practical than the fixed-flow funnel.",
+          "audio": "assets/audio/t_37_33.mp3"
+        },
+        {
+          "id": "t_37_35",
+          "text": "You are getting better at choosing suitable equipment.",
+          "audio": "assets/audio/t_37_35.mp3"
+        }
+      ],
+      "activity_d": [
         {
           "id": "t_37_7",
           "text": "Yes, madam. We used many stainless-steel dough scrapers, but one brand was more flexible and more durable than the other.",
@@ -678,39 +710,9 @@
           "audio": "assets/audio/t_37_9.mp3"
         },
         {
-          "id": "t_37_10",
-          "text": "We are going to order more of that model.",
-          "audio": "assets/audio/t_37_10.mp3"
-        },
-        {
-          "id": "t_37_11",
-          "text": "What about the digital ingredient scales?",
-          "audio": "assets/audio/t_37_11.mp3"
-        },
-        {
-          "id": "t_37_12",
-          "text": "We used the last few.",
-          "audio": "assets/audio/t_37_12.mp3"
-        },
-        {
           "id": "t_37_13",
           "text": "We also need moisture-checking paddles, but I think the bamboo paddle is sturdier than the plastic one.",
           "audio": "assets/audio/t_37_13.mp3"
-        },
-        {
-          "id": "t_37_14",
-          "text": "The plastic paddles bent during the mixing process.",
-          "audio": "assets/audio/t_37_14.mp3"
-        },
-        {
-          "id": "t_37_15",
-          "text": "Then we will order bamboo paddles.",
-          "audio": "assets/audio/t_37_15.mp3"
-        },
-        {
-          "id": "t_37_16",
-          "text": "Did you check the pH testing spoons?",
-          "audio": "assets/audio/t_37_16.mp3"
         },
         {
           "id": "t_37_17",
@@ -718,34 +720,9 @@
           "audio": "assets/audio/t_37_17.mp3"
         },
         {
-          "id": "t_37_18",
-          "text": "Yes, madam. I tested them.",
-          "audio": "assets/audio/t_37_18.mp3"
-        },
-        {
           "id": "t_37_19",
           "text": "The new spoons had a better reading strip, but two spoons showed inaccurate colour changes.",
           "audio": "assets/audio/t_37_19.mp3"
-        },
-        {
-          "id": "t_37_20",
-          "text": "I returned them to the supplier yesterday.",
-          "audio": "assets/audio/t_37_20.mp3"
-        },
-        {
-          "id": "t_37_21",
-          "text": "Good work. Accurate pH readings are essential for food safety.",
-          "audio": "assets/audio/t_37_21.mp3"
-        },
-        {
-          "id": "t_37_22",
-          "text": "Now, I’m going to prepare a new order.",
-          "audio": "assets/audio/t_37_22.mp3"
-        },
-        {
-          "id": "t_37_23",
-          "text": "What quantities do we need?",
-          "audio": "assets/audio/t_37_23.mp3"
         },
         {
           "id": "t_37_24",
@@ -753,19 +730,9 @@
           "audio": "assets/audio/t_37_24.mp3"
         },
         {
-          "id": "t_37_25",
-          "text": "What about fermentation-room thermometers?",
-          "audio": "assets/audio/t_37_25.mp3"
-        },
-        {
           "id": "t_37_26",
           "text": "The instructor said the metal-probe model was more accurate during yeast development.",
           "audio": "assets/audio/t_37_26.mp3"
-        },
-        {
-          "id": "t_37_27",
-          "text": "Yes, madam. I compared them yesterday.",
-          "audio": "assets/audio/t_37_27.mp3"
         },
         {
           "id": "t_37_28",
@@ -778,42 +745,16 @@
           "audio": "assets/audio/t_37_29.mp3"
         },
         {
-          "id": "t_37_30",
-          "text": "Then we will switch to the metal-probe type.",
-          "audio": "assets/audio/t_37_30.mp3"
-        },
-        {
-          "id": "t_37_31",
-          "text": "Anything else?",
-          "audio": "assets/audio/t_37_31.mp3"
-        },
-        {
-          "id": "t_37_32",
-          "text": "Yes, madam. We also need batter-dispensing funnels.",
-          "audio": "assets/audio/t_37_32.mp3"
-        },
-        {
           "id": "t_37_33",
           "text": "The adjustable-flow model is stronger and more practical than the fixed-flow funnel.",
           "audio": "assets/audio/t_37_33.mp3"
         },
         {
-          "id": "t_37_34",
-          "text": "Excellent. I’ll add them.",
-          "audio": "assets/audio/t_37_34.mp3"
-        },
-        {
           "id": "t_37_35",
           "text": "You are getting better at choosing suitable equipment.",
           "audio": "assets/audio/t_37_35.mp3"
-        },
-        {
-          "id": "t_37_36",
-          "text": "Thank you, madam. I enjoy learning about food-processing tools.",
-          "audio": "assets/audio/t_37_36.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {
