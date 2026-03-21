@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "floor",
+        "word_text": "'f'loor",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The floor was wetter after the rain than after mopping.",
+        "sentence_text": "The 'f'loor was wetter after the rain than after mopping.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "roof",
+        "word_text": "roo'f'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The angle of the roof was worse than the angle of the ceiling.",
+        "sentence_text": "The angle of the roo'f' was worse than the angle of the ceiling.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "finish",
+        "word_text": "'f'inish",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The wall finish was smoother than before the final coat.",
+        "sentence_text": "The wall 'f'inish was smoother than before the final coat.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "formwork",
+        "word_text": "'f'ormwork",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The formwork was stronger than the one done in the previous building.",
+        "sentence_text": "The 'f'ormwork was stronger than the one done in the previous building.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
