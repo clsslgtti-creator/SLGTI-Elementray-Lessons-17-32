@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "browser",
+        "word_text": "b'r'owser",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The technician installed a new browser to improve system performance.",
+        "sentence_text": "The technician installed a new b'r'owser to improve system performance.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "breaker",
+        "word_text": "b'r'eake'r'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The breaker is constantly failing during testing.",
+        "sentence_text": "The b'r'eake'r' is constantly failing during testing.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "transformer",
+        "word_text": "t'r'ansfo'r'me'r'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The transformer supplied power to the lamps yesterday.",
+        "sentence_text": "The t'r'ansfo'r'me'r' supplied power to the lamps yesterday.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "repair",
+        "word_text": "'r'epai'r'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The electrician repairs fans from 9 a.m. to 5 p.m. every day.",
+        "sentence_text": "The electrician 'r'epai'r's fans from 9 a.m. to 5 p.m. every day.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -676,21 +676,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_42_1",
-          "text": "Good morning, please have a seat.",
-          "audio": "assets/audio/t_42_1.mp3"
-        },
-        {
-          "id": "t_42_2",
-          "text": "I’m Mr. Senarath, the electrical training supervisor.",
-          "audio": "assets/audio/t_42_2.mp3"
-        },
-        {
-          "id": "t_42_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_42_3.mp3"
-        },
-        {
           "id": "t_42_4",
           "text": "Good morning, sir. I’m doing fine, thank you.",
           "audio": "assets/audio/t_42_4.mp3"
@@ -699,26 +684,6 @@
           "id": "t_42_5",
           "text": "I’m a little nervous, but I’m ready to try my best.",
           "audio": "assets/audio/t_42_5.mp3"
-        },
-        {
-          "id": "t_42_6",
-          "text": "That’s perfectly alright.",
-          "audio": "assets/audio/t_42_6.mp3"
-        },
-        {
-          "id": "t_42_7",
-          "text": "This is a friendly interview.",
-          "audio": "assets/audio/t_42_7.mp3"
-        },
-        {
-          "id": "t_42_8",
-          "text": "So, Ramesh, I see that you completed school last year.",
-          "audio": "assets/audio/t_42_8.mp3"
-        },
-        {
-          "id": "t_42_9",
-          "text": "Can you tell me a bit about your background?",
-          "audio": "assets/audio/t_42_9.mp3"
         },
         {
           "id": "t_42_10",
@@ -734,16 +699,6 @@
           "id": "t_42_12",
           "text": "I don’t have much experience yet, but I can handle basic electrical tasks safely.",
           "audio": "assets/audio/t_42_12.mp3"
-        },
-        {
-          "id": "t_42_13",
-          "text": "Good to hear.",
-          "audio": "assets/audio/t_42_13.mp3"
-        },
-        {
-          "id": "t_42_14",
-          "text": "What kind of work did you support during your time there?",
-          "audio": "assets/audio/t_42_14.mp3"
         },
         {
           "id": "t_42_15",
@@ -766,14 +721,96 @@
           "audio": "assets/audio/t_42_18.mp3"
         },
         {
-          "id": "t_42_19",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_42_19.mp3"
+          "id": "t_42_21",
+          "text": "I can test voltage levels using a multimeter, sir.",
+          "audio": "assets/audio/t_42_21.mp3"
         },
         {
-          "id": "t_42_20",
-          "text": "What skills do you think you can bring to our training programme?",
-          "audio": "assets/audio/t_42_20.mp3"
+          "id": "t_42_22",
+          "text": "I know how to identify faulty connections, and I recently started learning how to install miniature circuit breakers.",
+          "audio": "assets/audio/t_42_22.mp3"
+        },
+        {
+          "id": "t_42_23",
+          "text": "I also learnt how to stay calm when dealing with tight deadlines.",
+          "audio": "assets/audio/t_42_23.mp3"
+        },
+        {
+          "id": "t_42_24",
+          "text": "I might need some guidance with reading full wiring diagrams and troubleshooting complex faults, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_42_24.mp3"
+        },
+        {
+          "id": "t_42_27",
+          "text": "I’m not fully confident yet, but I can already handle simple panel tasks and basic earthing checks.",
+          "audio": "assets/audio/t_42_27.mp3"
+        },
+        {
+          "id": "t_42_28",
+          "text": "I might take more time with advanced control panels and three-phase systems.",
+          "audio": "assets/audio/t_42_28.mp3"
+        },
+        {
+          "id": "t_42_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_42_31.mp3"
+        },
+        {
+          "id": "t_42_32",
+          "text": "I might also follow short electrical safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_42_32.mp3"
+        },
+        {
+          "id": "t_42_35",
+          "text": "Thank you very much, sir. I appreciate the opportunity.",
+          "audio": "assets/audio/t_42_35.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_42_4",
+          "text": "Good morning, sir. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_42_4.mp3"
+        },
+        {
+          "id": "t_42_5",
+          "text": "I’m a little nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_42_5.mp3"
+        },
+        {
+          "id": "t_42_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_42_10.mp3"
+        },
+        {
+          "id": "t_42_11",
+          "text": "During my final year, I worked part-time with a small electrical maintenance team in Kurunegala.",
+          "audio": "assets/audio/t_42_11.mp3"
+        },
+        {
+          "id": "t_42_12",
+          "text": "I don’t have much experience yet, but I can handle basic electrical tasks safely.",
+          "audio": "assets/audio/t_42_12.mp3"
+        },
+        {
+          "id": "t_42_15",
+          "text": "I assisted the electrician with wiring new circuits, fixing loose switches, and replacing worn-out sockets.",
+          "audio": "assets/audio/t_42_15.mp3"
+        },
+        {
+          "id": "t_42_16",
+          "text": "I also helped pull cables through conduits and sometimes labelled wires in the distribution board.",
+          "audio": "assets/audio/t_42_16.mp3"
+        },
+        {
+          "id": "t_42_17",
+          "text": "When the workload increased, I checked toolkits and prepared insulation tape and testers for the team.",
+          "audio": "assets/audio/t_42_17.mp3"
+        },
+        {
+          "id": "t_42_18",
+          "text": "I wasn’t in charge of major repairs, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_42_18.mp3"
         },
         {
           "id": "t_42_21",
@@ -796,16 +833,6 @@
           "audio": "assets/audio/t_42_24.mp3"
         },
         {
-          "id": "t_42_25",
-          "text": "That’s a positive attitude.",
-          "audio": "assets/audio/t_42_25.mp3"
-        },
-        {
-          "id": "t_42_26",
-          "text": "How comfortable are you with earthing systems and basic panel work?",
-          "audio": "assets/audio/t_42_26.mp3"
-        },
-        {
           "id": "t_42_27",
           "text": "I’m not fully confident yet, but I can already handle simple panel tasks and basic earthing checks.",
           "audio": "assets/audio/t_42_27.mp3"
@@ -814,16 +841,6 @@
           "id": "t_42_28",
           "text": "I might take more time with advanced control panels and three-phase systems.",
           "audio": "assets/audio/t_42_28.mp3"
-        },
-        {
-          "id": "t_42_29",
-          "text": "That’s understandable.",
-          "audio": "assets/audio/t_42_29.mp3"
-        },
-        {
-          "id": "t_42_30",
-          "text": "What are your plans for the next few years?",
-          "audio": "assets/audio/t_42_30.mp3"
         },
         {
           "id": "t_42_31",
@@ -836,22 +853,11 @@
           "audio": "assets/audio/t_42_32.mp3"
         },
         {
-          "id": "t_42_33",
-          "text": "That sounds good.",
-          "audio": "assets/audio/t_42_33.mp3"
-        },
-        {
-          "id": "t_42_34",
-          "text": "Thank you, Ramesh. We’ll contact you soon.",
-          "audio": "assets/audio/t_42_34.mp3"
-        },
-        {
           "id": "t_42_35",
           "text": "Thank you very much, sir. I appreciate the opportunity.",
           "audio": "assets/audio/t_42_35.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {

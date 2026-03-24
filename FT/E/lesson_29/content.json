@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "rice",
+        "word_text": "'r'ice",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The cook is good at making rice dishes and atta flour parathas.",
+        "sentence_text": "The cook is good at making 'r'ice dishes and atta flour parathas.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "grinds",
+        "word_text": "g'r'inds",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The worker grinds chillies to make curry powder once a week.",
+        "sentence_text": "The worker g'r'inds chillies to make curry powder once a week.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "flour",
+        "word_text": "flou'r'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The baker mixed the flour with warm water yesterday.",
+        "sentence_text": "The baker mixed the flou'r' with warm water yesterday.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "fryer",
+        "word_text": "f'r'ye'r'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The chef is going to use the fryer for the potato chips this evening.",
+        "sentence_text": "The chef is going to use the f'r'ye'r' for the potato chips this evening.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -680,21 +680,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_43_1",
-          "text": "Good morning, please have a seat.",
-          "audio": "assets/audio/t_43_1.mp3"
-        },
-        {
-          "id": "t_43_2",
-          "text": "I’m Ms. Perera, the food processing training supervisor.",
-          "audio": "assets/audio/t_43_2.mp3"
-        },
-        {
-          "id": "t_43_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_43_3.mp3"
-        },
-        {
           "id": "t_43_4",
           "text": "Good morning, madam. I’m doing well, thank you.",
           "audio": "assets/audio/t_43_4.mp3"
@@ -703,26 +688,6 @@
           "id": "t_43_5",
           "text": "I’m a bit nervous, but I’m ready to do my best.",
           "audio": "assets/audio/t_43_5.mp3"
-        },
-        {
-          "id": "t_43_6",
-          "text": "That’s completely fine.",
-          "audio": "assets/audio/t_43_6.mp3"
-        },
-        {
-          "id": "t_43_7",
-          "text": "This is a friendly interview.",
-          "audio": "assets/audio/t_43_7.mp3"
-        },
-        {
-          "id": "t_43_8",
-          "text": "So, Nadee, I see you finished school last year.",
-          "audio": "assets/audio/t_43_8.mp3"
-        },
-        {
-          "id": "t_43_9",
-          "text": "Can you tell me a little about your background?",
-          "audio": "assets/audio/t_43_9.mp3"
         },
         {
           "id": "t_43_10",
@@ -738,16 +703,6 @@
           "id": "t_43_12",
           "text": "I don’t have a lot of experience yet, but I can manage basic food processing tasks carefully.",
           "audio": "assets/audio/t_43_12.mp3"
-        },
-        {
-          "id": "t_43_13",
-          "text": "Good.",
-          "audio": "assets/audio/t_43_13.mp3"
-        },
-        {
-          "id": "t_43_14",
-          "text": "What kind of work did you support at the production unit?",
-          "audio": "assets/audio/t_43_14.mp3"
         },
         {
           "id": "t_43_15",
@@ -770,14 +725,96 @@
           "audio": "assets/audio/t_43_18.mp3"
         },
         {
-          "id": "t_43_19",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_43_19.mp3"
+          "id": "t_43_21",
+          "text": "I can check food temperatures accurately, madam.",
+          "audio": "assets/audio/t_43_21.mp3"
         },
         {
-          "id": "t_43_20",
-          "text": "What skills do you think you can contribute to our training programme?",
-          "audio": "assets/audio/t_43_20.mp3"
+          "id": "t_43_22",
+          "text": "I know how to portion mixtures correctly, and I recently started learning how to adjust the steam kettle settings.",
+          "audio": "assets/audio/t_43_22.mp3"
+        },
+        {
+          "id": "t_43_23",
+          "text": "I also learnt how to stay calm when production targets are tight.",
+          "audio": "assets/audio/t_43_23.mp3"
+        },
+        {
+          "id": "t_43_24",
+          "text": "I might need some guidance with calibration of weighing scales and completing full quality-control forms, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_43_24.mp3"
+        },
+        {
+          "id": "t_43_27",
+          "text": "I’m not fully confident yet, but I can already follow simple hygiene routines and operate small-scale equipment safely.",
+          "audio": "assets/audio/t_43_27.mp3"
+        },
+        {
+          "id": "t_43_28",
+          "text": "I might take more time with large industrial mixers and advanced pasteurising machines.",
+          "audio": "assets/audio/t_43_28.mp3"
+        },
+        {
+          "id": "t_43_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_43_31.mp3"
+        },
+        {
+          "id": "t_43_32",
+          "text": "I might also follow short food safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_43_32.mp3"
+        },
+        {
+          "id": "t_43_35",
+          "text": "Thank you very much, madam. I appreciate the opportunity.",
+          "audio": "assets/audio/t_43_35.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_43_4",
+          "text": "Good morning, madam. I’m doing well, thank you.",
+          "audio": "assets/audio/t_43_4.mp3"
+        },
+        {
+          "id": "t_43_5",
+          "text": "I’m a bit nervous, but I’m ready to do my best.",
+          "audio": "assets/audio/t_43_5.mp3"
+        },
+        {
+          "id": "t_43_10",
+          "text": "Yes, madam. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_43_10.mp3"
+        },
+        {
+          "id": "t_43_11",
+          "text": "During my final year, I worked part-time at a small food production unit in Matale.",
+          "audio": "assets/audio/t_43_11.mp3"
+        },
+        {
+          "id": "t_43_12",
+          "text": "I don’t have a lot of experience yet, but I can manage basic food processing tasks carefully.",
+          "audio": "assets/audio/t_43_12.mp3"
+        },
+        {
+          "id": "t_43_15",
+          "text": "I assisted the senior operator with preparing ingredients, sanitising work surfaces, and measuring batches for mixing.",
+          "audio": "assets/audio/t_43_15.mp3"
+        },
+        {
+          "id": "t_43_16",
+          "text": "I also helped operate the small dough mixer and sometimes monitored temperature levels during heating.",
+          "audio": "assets/audio/t_43_16.mp3"
+        },
+        {
+          "id": "t_43_17",
+          "text": "When the unit became busy, I labelled containers and checked packaging for quality issues.",
+          "audio": "assets/audio/t_43_17.mp3"
+        },
+        {
+          "id": "t_43_18",
+          "text": "I wasn’t responsible for major operations, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_43_18.mp3"
         },
         {
           "id": "t_43_21",
@@ -800,16 +837,6 @@
           "audio": "assets/audio/t_43_24.mp3"
         },
         {
-          "id": "t_43_25",
-          "text": "That’s a positive mindset.",
-          "audio": "assets/audio/t_43_25.mp3"
-        },
-        {
-          "id": "t_43_26",
-          "text": "How comfortable are you with basic hygiene procedures and equipment handling?",
-          "audio": "assets/audio/t_43_26.mp3"
-        },
-        {
           "id": "t_43_27",
           "text": "I’m not fully confident yet, but I can already follow simple hygiene routines and operate small-scale equipment safely.",
           "audio": "assets/audio/t_43_27.mp3"
@@ -818,16 +845,6 @@
           "id": "t_43_28",
           "text": "I might take more time with large industrial mixers and advanced pasteurising machines.",
           "audio": "assets/audio/t_43_28.mp3"
-        },
-        {
-          "id": "t_43_29",
-          "text": "That’s understandable.",
-          "audio": "assets/audio/t_43_29.mp3"
-        },
-        {
-          "id": "t_43_30",
-          "text": "What are your plans for the next few years?",
-          "audio": "assets/audio/t_43_30.mp3"
         },
         {
           "id": "t_43_31",
@@ -840,22 +857,11 @@
           "audio": "assets/audio/t_43_32.mp3"
         },
         {
-          "id": "t_43_33",
-          "text": "Very good.",
-          "audio": "assets/audio/t_43_33.mp3"
-        },
-        {
-          "id": "t_43_34",
-          "text": "Thank you, Nadee. We’ll contact you soon.",
-          "audio": "assets/audio/t_43_34.mp3"
-        },
-        {
           "id": "t_43_35",
           "text": "Thank you very much, madam. I appreciate the opportunity.",
           "audio": "assets/audio/t_43_35.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {

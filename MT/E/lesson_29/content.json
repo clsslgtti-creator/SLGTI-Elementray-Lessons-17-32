@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "repairs",
+        "word_text": "'r'epai'r's",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mechanic repairs the broken machines from 9 a.m. to 5 p.m. every day.",
+        "sentence_text": "The mechanic 'r'epai'r's the broken machines from 9 a.m. to 5 p.m. every day.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "grinder",
+        "word_text": "g'r'inde'r'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The grinder stopped suddenly during testing yesterday.",
+        "sentence_text": "The g'r'inde'r' stopped suddenly during testing yesterday.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "drill",
+        "word_text": "d'r'ill",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The mechanic is going to drill a small hole in the plate this afternoon.",
+        "sentence_text": "The mechanic is going to d'r'ill a small hole in the plate this afternoon.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "bearings",
+        "word_text": "bea'r'ings",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The bearings are the wrong size for this machine.",
+        "sentence_text": "The bea'r'ings are the wrong size for this machine.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -680,21 +680,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_45_1",
-          "text": "Good morning, please take a seat.",
-          "audio": "assets/audio/t_45_1.mp3"
-        },
-        {
-          "id": "t_45_2",
-          "text": "I’m Mr. Rahuman, the mechanical workshop training supervisor.",
-          "audio": "assets/audio/t_45_2.mp3"
-        },
-        {
-          "id": "t_45_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_45_3.mp3"
-        },
-        {
           "id": "t_45_4",
           "text": "Good morning, sir. I’m doing fine, thank you.",
           "audio": "assets/audio/t_45_4.mp3"
@@ -703,26 +688,6 @@
           "id": "t_45_5",
           "text": "I’m a bit nervous, but I’m ready to do my best.",
           "audio": "assets/audio/t_45_5.mp3"
-        },
-        {
-          "id": "t_45_6",
-          "text": "That’s perfectly alright.",
-          "audio": "assets/audio/t_45_6.mp3"
-        },
-        {
-          "id": "t_45_7",
-          "text": "This is just a friendly interview.",
-          "audio": "assets/audio/t_45_7.mp3"
-        },
-        {
-          "id": "t_45_8",
-          "text": "So, Faaris, I see that you completed school last year.",
-          "audio": "assets/audio/t_45_8.mp3"
-        },
-        {
-          "id": "t_45_9",
-          "text": "Could you tell me a little about your background?",
-          "audio": "assets/audio/t_45_9.mp3"
         },
         {
           "id": "t_45_10",
@@ -738,16 +703,6 @@
           "id": "t_45_12",
           "text": "I don’t have much experience yet, but I can manage basic workshop tasks confidently.",
           "audio": "assets/audio/t_45_12.mp3"
-        },
-        {
-          "id": "t_45_13",
-          "text": "Good.",
-          "audio": "assets/audio/t_45_13.mp3"
-        },
-        {
-          "id": "t_45_14",
-          "text": "What kind of work did you support in the workshop?",
-          "audio": "assets/audio/t_45_14.mp3"
         },
         {
           "id": "t_45_15",
@@ -770,14 +725,96 @@
           "audio": "assets/audio/t_45_18.mp3"
         },
         {
-          "id": "t_45_19",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_45_19.mp3"
+          "id": "t_45_21",
+          "text": "I can measure components accurately with vernier calipers, sir.",
+          "audio": "assets/audio/t_45_21.mp3"
         },
         {
-          "id": "t_45_20",
-          "text": "What skills do you think you can bring to our programme?",
-          "audio": "assets/audio/t_45_20.mp3"
+          "id": "t_45_22",
+          "text": "I know how to identify worn-out parts, and I recently started learning how to use the hydraulic press.",
+          "audio": "assets/audio/t_45_22.mp3"
+        },
+        {
+          "id": "t_45_23",
+          "text": "I also learnt how to stay calm when the workload becomes heavy.",
+          "audio": "assets/audio/t_45_23.mp3"
+        },
+        {
+          "id": "t_45_24",
+          "text": "I might need some guidance with advanced lathe operations and machine calibration, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_45_24.mp3"
+        },
+        {
+          "id": "t_45_27",
+          "text": "I’m not fully confident yet, but I can already handle simple maintenance routines and follow standard safety procedures.",
+          "audio": "assets/audio/t_45_27.mp3"
+        },
+        {
+          "id": "t_45_28",
+          "text": "I might take more time with precision machining and complex repairs.",
+          "audio": "assets/audio/t_45_28.mp3"
+        },
+        {
+          "id": "t_45_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_45_31.mp3"
+        },
+        {
+          "id": "t_45_32",
+          "text": "I might also follow short mechanical safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_45_32.mp3"
+        },
+        {
+          "id": "t_45_35",
+          "text": "Thank you very much, sir. I appreciate the opportunity.",
+          "audio": "assets/audio/t_45_35.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_45_4",
+          "text": "Good morning, sir. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_45_4.mp3"
+        },
+        {
+          "id": "t_45_5",
+          "text": "I’m a bit nervous, but I’m ready to do my best.",
+          "audio": "assets/audio/t_45_5.mp3"
+        },
+        {
+          "id": "t_45_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_45_10.mp3"
+        },
+        {
+          "id": "t_45_11",
+          "text": "During my final year, I worked part-time in a small mechanical workshop in Puttalam.",
+          "audio": "assets/audio/t_45_11.mp3"
+        },
+        {
+          "id": "t_45_12",
+          "text": "I don’t have much experience yet, but I can manage basic workshop tasks confidently.",
+          "audio": "assets/audio/t_45_12.mp3"
+        },
+        {
+          "id": "t_45_15",
+          "text": "I assisted the senior technician with dismantling machine parts, lubricating bearings, and cleaning gear assemblies.",
+          "audio": "assets/audio/t_45_15.mp3"
+        },
+        {
+          "id": "t_45_16",
+          "text": "I also helped operate the bench grinder and sometimes checked alignment on the lathe machine.",
+          "audio": "assets/audio/t_45_16.mp3"
+        },
+        {
+          "id": "t_45_17",
+          "text": "When the workshop became busy, I arranged the tool racks and checked torque wrenches for the team.",
+          "audio": "assets/audio/t_45_17.mp3"
+        },
+        {
+          "id": "t_45_18",
+          "text": "I wasn’t responsible for complex machining, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_45_18.mp3"
         },
         {
           "id": "t_45_21",
@@ -800,16 +837,6 @@
           "audio": "assets/audio/t_45_24.mp3"
         },
         {
-          "id": "t_45_25",
-          "text": "That’s a positive attitude.",
-          "audio": "assets/audio/t_45_25.mp3"
-        },
-        {
-          "id": "t_45_26",
-          "text": "How comfortable are you with basic maintenance and workshop safety?",
-          "audio": "assets/audio/t_45_26.mp3"
-        },
-        {
           "id": "t_45_27",
           "text": "I’m not fully confident yet, but I can already handle simple maintenance routines and follow standard safety procedures.",
           "audio": "assets/audio/t_45_27.mp3"
@@ -818,16 +845,6 @@
           "id": "t_45_28",
           "text": "I might take more time with precision machining and complex repairs.",
           "audio": "assets/audio/t_45_28.mp3"
-        },
-        {
-          "id": "t_45_29",
-          "text": "That’s understandable.",
-          "audio": "assets/audio/t_45_29.mp3"
-        },
-        {
-          "id": "t_45_30",
-          "text": "What are your plans for the next few years?",
-          "audio": "assets/audio/t_45_30.mp3"
         },
         {
           "id": "t_45_31",
@@ -840,22 +857,11 @@
           "audio": "assets/audio/t_45_32.mp3"
         },
         {
-          "id": "t_45_33",
-          "text": "Very good.",
-          "audio": "assets/audio/t_45_33.mp3"
-        },
-        {
-          "id": "t_45_34",
-          "text": "Thank you, Faaris. We’ll contact you soon.",
-          "audio": "assets/audio/t_45_34.mp3"
-        },
-        {
           "id": "t_45_35",
           "text": "Thank you very much, sir. I appreciate the opportunity.",
           "audio": "assets/audio/t_45_35.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {

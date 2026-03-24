@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "brick",
+        "word_text": "b'r'ick",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mason carefully laid each brick for the foundation last week.",
+        "sentence_text": "The mason carefully laid each b'r'ick for the foundation last week.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "roof",
+        "word_text": "'r'oof",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The team is on the roof right now removing broken tiles.",
+        "sentence_text": "The team is on the 'r'oof right now removing broken tiles.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "repair",
+        "word_text": "'r'epai'r'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The carpenter is going to repair the old door tomorrow.",
+        "sentence_text": "The carpenter is going to 'r'epai'r' the old door tomorrow.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "ground",
+        "word_text": "g'r'ound",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The helper cleans the ground after grinding work every day.",
+        "sentence_text": "The helper cleans the g'r'ound after grinding work every day.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -675,21 +675,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_41_1",
-          "text": "Good morning, please take a seat.",
-          "audio": "assets/audio/t_41_1.mp3"
-        },
-        {
-          "id": "t_41_2",
-          "text": "I’m Ms. Jayasuriya, the site training supervisor.",
-          "audio": "assets/audio/t_41_2.mp3"
-        },
-        {
-          "id": "t_41_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_41_3.mp3"
-        },
-        {
           "id": "t_41_4",
           "text": "Good morning, madam. I’m doing fine, thank you.",
           "audio": "assets/audio/t_41_4.mp3"
@@ -699,21 +684,7 @@
           "text": "I’m a bit nervous, but I’m ready to try my best.",
           "audio": "assets/audio/t_41_5.mp3"
         },
-        {
-          "id": "t_41_6",
-          "text": "It’s alright, this is a friendly discussion.",
-          "audio": "assets/audio/t_41_6.mp3"
-        },
-        {
-          "id": "t_41_7",
-          "text": "So, Kavishan, I see you completed school last year.",
-          "audio": "assets/audio/t_41_7.mp3"
-        },
-        {
-          "id": "t_41_8",
-          "text": "Could you tell me a little about your background?",
-          "audio": "assets/audio/t_41_8.mp3"
-        },
+
         {
           "id": "t_41_9",
           "text": "Yes, madam. I completed my A/Ls in August.",
@@ -729,16 +700,7 @@
           "text": "I don’t have a lot of experience yet, but I can manage basic on-site tasks confidently.",
           "audio": "assets/audio/t_41_11.mp3"
         },
-        {
-          "id": "t_41_12",
-          "text": "That’s good.",
-          "audio": "assets/audio/t_41_12.mp3"
-        },
-        {
-          "id": "t_41_13",
-          "text": "What kind of work did you support at the site?",
-          "audio": "assets/audio/t_41_13.mp3"
-        },
+
         {
           "id": "t_41_14",
           "text": "I assisted the masons with mixing cement, carrying bricks, and preparing mortar.",
@@ -765,9 +727,103 @@
           "audio": "assets/audio/t_41_18.mp3"
         },
         {
-          "id": "t_41_19",
-          "text": "What skills do you think you can bring to our project team?",
-          "audio": "assets/audio/t_41_19.mp3"
+          "id": "t_41_20",
+          "text": "I can level surfaces carefully, madam.",
+          "audio": "assets/audio/t_41_20.mp3"
+        },
+        {
+          "id": "t_41_21",
+          "text": "I know how to measure distances accurately with a tape and spirit level.",
+          "audio": "assets/audio/t_41_21.mp3"
+        },
+        {
+          "id": "t_41_22",
+          "text": "I also learnt to stay calm when schedules get tight.",
+          "audio": "assets/audio/t_41_22.mp3"
+        },
+        {
+          "id": "t_41_23",
+          "text": "I might need some guidance with scaffolding assembly and reading full site drawings at the beginning, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_41_23.mp3"
+        },
+        {
+          "id": "t_41_26",
+          "text": "I’m not fully skilled yet, but I can already handle simple tasks like preparing the mix and supporting the masonry line.",
+          "audio": "assets/audio/t_41_26.mp3"
+        },
+        {
+          "id": "t_41_27",
+          "text": "I might take more time with complex structural work.",
+          "audio": "assets/audio/t_41_27.mp3"
+        },
+        {
+          "id": "t_41_30",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_41_30.mp3"
+        },
+        {
+          "id": "t_41_31",
+          "text": "I might also follow short NVQ courses so I can strengthen my technical skills.",
+          "audio": "assets/audio/t_41_31.mp3"
+        },
+        {
+          "id": "t_41_34",
+          "text": "Thank you very much, madam. I appreciate the opportunity.",
+          "audio": "assets/audio/t_41_34.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_41_4",
+          "text": "Good morning, madam. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_41_4.mp3"
+        },
+        {
+          "id": "t_41_5",
+          "text": "I’m a bit nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_41_5.mp3"
+        },
+
+        {
+          "id": "t_41_9",
+          "text": "Yes, madam. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_41_9.mp3"
+        },
+        {
+          "id": "t_41_10",
+          "text": "During my final year, I worked part-time with a small construction crew in Vavuniya.",
+          "audio": "assets/audio/t_41_10.mp3"
+        },
+        {
+          "id": "t_41_11",
+          "text": "I don’t have a lot of experience yet, but I can manage basic on-site tasks confidently.",
+          "audio": "assets/audio/t_41_11.mp3"
+        },
+
+        {
+          "id": "t_41_14",
+          "text": "I assisted the masons with mixing cement, carrying bricks, and preparing mortar.",
+          "audio": "assets/audio/t_41_14.mp3"
+        },
+        {
+          "id": "t_41_15",
+          "text": "I also helped carpenters set up formwork and sometimes cleaned reinforcement bars before concrete pouring.",
+          "audio": "assets/audio/t_41_15.mp3"
+        },
+        {
+          "id": "t_41_16",
+          "text": "When the site became very busy, I talked to suppliers and checked the delivery lists.",
+          "audio": "assets/audio/t_41_16.mp3"
+        },
+        {
+          "id": "t_41_17",
+          "text": "I wasn’t responsible for major tasks, but I always supported the team whenever extra help was needed.",
+          "audio": "assets/audio/t_41_17.mp3"
+        },
+        {
+          "id": "t_41_18",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_41_18.mp3"
         },
         {
           "id": "t_41_20",
@@ -790,16 +846,6 @@
           "audio": "assets/audio/t_41_23.mp3"
         },
         {
-          "id": "t_41_24",
-          "text": "That’s a positive attitude.",
-          "audio": "assets/audio/t_41_24.mp3"
-        },
-        {
-          "id": "t_41_25",
-          "text": "How comfortable are you with blocklaying and basic concrete work?",
-          "audio": "assets/audio/t_41_25.mp3"
-        },
-        {
           "id": "t_41_26",
           "text": "I’m not fully skilled yet, but I can already handle simple tasks like preparing the mix and supporting the masonry line.",
           "audio": "assets/audio/t_41_26.mp3"
@@ -808,16 +854,6 @@
           "id": "t_41_27",
           "text": "I might take more time with complex structural work.",
           "audio": "assets/audio/t_41_27.mp3"
-        },
-        {
-          "id": "t_41_28",
-          "text": "That’s understandable.",
-          "audio": "assets/audio/t_41_28.mp3"
-        },
-        {
-          "id": "t_41_29",
-          "text": "What are your plans for the next few years?",
-          "audio": "assets/audio/t_41_29.mp3"
         },
         {
           "id": "t_41_30",
@@ -830,22 +866,11 @@
           "audio": "assets/audio/t_41_31.mp3"
         },
         {
-          "id": "t_41_32",
-          "text": "Good plan.",
-          "audio": "assets/audio/t_41_32.mp3"
-        },
-        {
-          "id": "t_41_33",
-          "text": "Thank you, Kavishan. We’ll contact you soon.",
-          "audio": "assets/audio/t_41_33.mp3"
-        },
-        {
           "id": "t_41_34",
           "text": "Thank you very much, madam. I appreciate the opportunity.",
           "audio": "assets/audio/t_41_34.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {
