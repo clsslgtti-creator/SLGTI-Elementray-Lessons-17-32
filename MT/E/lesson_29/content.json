@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'r'epai'r'",
+        "word_text": "repairs",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mechanic 'r'epai'r's the vehicles from 9 a.m. to 5 p.m. every day.",
+        "sentence_text": "The mechanic repairs the broken machines from 9 a.m. to 5 p.m. every day.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "d'r'ive'r'",
+        "word_text": "grinder",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The d'r'ive'r' is ill and unable to report to work today.",
+        "sentence_text": "The grinder stopped suddenly during testing yesterday.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "b'r'ake",
+        "word_text": "drill",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The b'r'ake was too tight and had to be pressed hard yesterday.",
+        "sentence_text": "The mechanic is going to drill a small hole in the plate this afternoon.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'r'ea'r'",
+        "word_text": "bearings",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The 'r'ea'r' light is going to fall off if you don’t fix it today.",
+        "sentence_text": "The bearings are the wrong size for this machine.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -230,196 +230,196 @@
         "examples": [
           {
             "id": "g_b_ex",
-            "sentence": "He inspected the brake pads yesterday morning.",
+            "sentence": "I calibrated the milling machine last weekend.",
             "audio": "assets/audio/g_b_ex.mp3",
             "options": [
-              "What did the mechanic inspecting yesterday morning?",
-              "Did the mechanic inspections something yesterday morning?",
-              "What did the mechanic inspect yesterday morning?"
+              "Were you calibrate the milling machine last weekend?",
+              "Do you calibrated the milling machine last weekend?",
+              "What did you calibrate last weekend?"
             ],
-            "answer": "What did the mechanic inspect yesterday morning?"
+            "answer": "What did you calibrate last weekend?"
           }
         ],
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "He is very experienced.",
+            "sentence": "He inspected the hydraulic press yesterday morning.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
-              "Is your senior technician experienced?",
-              "Does your senior technician be experienced?",
-              "Did your senior technician experienced?"
+              "Was the mechanic inspecting the car lift every morning?",
+              "Did the mechanic inspections the car lift yesterday morning?",
+              "Did the mechanic inspect the car lift yesterday morning?"
             ],
-            "answer": "Is your senior technician experienced?"
+            "answer": "Did the mechanic inspect the car lift yesterday morning?"
           },
           {
             "id": "g_b_2",
-            "sentence": "She can repair a faulty alternator.",
+            "sentence": "She is very experienced in machine alignment.",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
-              "Does she repairs a faulty alternator?",
-              "Can she repairs a faulty alternator?",
-              "Can she repair a faulty alternator?"
+              "Is your supervisor experienced in machine alignment?",
+              "Does your supervisor be experienced in alignment?",
+              "Did your supervisor experienced alignment?"
             ],
-            "answer": "Can she repair a faulty alternator?"
+            "answer": "Is your supervisor experienced in machine alignment?"
           },
           {
             "id": "g_b_3",
-            "sentence": "They are adjusting the wheel alignment right now.",
+            "sentence": "She can repair a faulty gearbox.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
-              "Is the instructor adjusting tires now?",
+              "She can repairs a faulty gearbox?",
+              "Does she repairs a faulty gearbox?",
+              "Can she repair a faulty gearbox?"
+            ],
+            "answer": "Can she repair a faulty gearbox?"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "They are adjusting the lathe-machine settings right now.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "Is the assistant adjust the bearings right now?",
               "What did they adjust right now?",
               "What are they doing right now?"
             ],
             "answer": "What are they doing right now?"
           },
           {
-            "id": "g_b_4",
-            "sentence": "They are going to service the engine bay next week.",
-            "audio": "assets/audio/g_b_4.mp3",
+            "id": "g_b_5",
+            "sentence": "They are going to service the piston assembly next week.",
+            "audio": "assets/audio/g_b_5.mp3",
             "options": [
-              "Are the trainees going to servicing the workshop next week?",
-              "Is your visit next week to the engine room?",
+              "Are the trainees go to wash the tools next week?",
+              "Is your visit next week to the tool room?",
               "What are the trainees going to service next week?"
             ],
             "answer": "What are the trainees going to service next week?"
           },
           {
-            "id": "g_b_5",
-            "sentence": "They follow a safety checklist every day.",
-            "audio": "assets/audio/g_b_5.mp3",
-            "options": [
-              "Do the new trainees follow a checklist every day?",
-              "What are the trainees do every day?",
-              "Is the checklist are for the trainees every day?"
-            ],
-            "answer": "Do the new trainees follow a checklist every day?"
-          },
-          {
             "id": "g_b_6",
-            "sentence": "We were quite tired after a long day in the inspection bay.",
+            "sentence": "They follow a maintenance schedule every day.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
+              "Do the new trainees follow a schedule every day?",
+              "What are the trainees do every day?",
+              "Is the schedule are for the trainees every day?"
+            ],
+            "answer": "Do the new trainees follow a schedule every day?"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "We were quite tired after a long day in the mechanical workshop.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
               "Were you and your colleagues tired yesterday?",
-              "Were you get tired after the inspection?",
-              "Is she tired from the inspection bay?"
+              "Are you get tired in the workshop every day?",
+              "Is she tired from the workshop?"
             ],
             "answer": "Were you and your colleagues tired yesterday?"
           },
           {
-            "id": "g_b_7",
-            "sentence": "She is testing the diagnostic scanner at the moment.",
-            "audio": "assets/audio/g_b_7.mp3",
-            "options": [
-              "Is the technician fix the wiring at the moment?",
-              "Is the technician being in the diagnostic room right now?",
-              "What is the technician doing at the moment?"
-            ],
-            "answer": "What is the technician doing at the moment?"
-          },
-          {
             "id": "g_b_8",
-            "sentence": "The trainees cleaned 20 fuel injectors yesterday evening.",
+            "sentence": "They tested 12 engines yesterday evening.",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
-              "Did the trainees clean fuel injectors yesterday evening?",
-              "Are the trainees cleaning fuel injectors every day?",
-              "Did you clean fuel injectors every evening?"
+              "Did they test engines yesterday evening?",
+              "Are the trainees testing engines every day?",
+              "Do you test engines every evening?"
             ],
-            "answer": "Did the trainees clean fuel injectors yesterday evening?"
+            "answer": "Did they test engines yesterday evening?"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_ex",
-          "text": "He inspected the brake pads yesterday morning.",
+          "text": "I calibrated the milling machine last weekend.",
           "audio": "assets/audio/g_b_ex.mp3"
         },
         {
           "id": "g_b_ex_a",
-          "text": "What did the mechanic inspect yesterday morning?",
+          "text": "What did you calibrate last weekend?",
           "audio": "assets/audio/g_b_ex_a.mp3"
         },
         {
           "id": "g_b_1",
-          "text": "He is very experienced.",
+          "text": "He inspected the hydraulic press yesterday morning.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_1_a",
-          "text": "Is your senior technician experienced?",
+          "text": "Did the mechanic inspect the car lift yesterday morning?",
           "audio": "assets/audio/g_b_1_a.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "She can repair a faulty alternator.",
+          "text": "She is very experienced in machine alignment.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_2_a",
-          "text": "Can she repair a faulty alternator?",
+          "text": "Is your supervisor experienced in machine alignment?",
           "audio": "assets/audio/g_b_2_a.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "They are adjusting the wheel alignment right now.",
+          "text": "She can repair a faulty gearbox.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_3_a",
-          "text": "What are they doing right now?",
+          "text": "Can she repair a faulty gearbox?",
           "audio": "assets/audio/g_b_3_a.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "They are going to service the engine bay next week.",
+          "text": "They are adjusting the lathe-machine settings right now.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_4_a",
-          "text": "What are the trainees going to service next week?",
+          "text": "What are they doing right now?",
           "audio": "assets/audio/g_b_4_a.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "They follow a safety checklist every day.",
+          "text": "They are going to service the piston assembly next week.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_5_a",
-          "text": "Do the new trainees follow a checklist every day?",
+          "text": "What are the trainees going to service next week?",
           "audio": "assets/audio/g_b_5_a.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "We were quite tired after a long day in the inspection bay.",
+          "text": "They follow a maintenance schedule every day.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_6_a",
-          "text": "Were you and your colleagues tired yesterday?",
+          "text": "Do the new trainees follow a schedule every day?",
           "audio": "assets/audio/g_b_6_a.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "She is testing the diagnostic scanner at the moment.",
+          "text": "We were quite tired after a long day in the mechanical workshop.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_7_a",
-          "text": "What is the technician doing at the moment?",
+          "text": "Were you and your colleagues tired yesterday?",
           "audio": "assets/audio/g_b_7_a.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "The trainees cleaned 20 fuel injectors yesterday evening.",
+          "text": "They tested 12 engines yesterday evening.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_8_a",
-          "text": "Did the trainees clean fuel injectors yesterday evening?",
+          "text": "Did they test engines yesterday evening?",
           "audio": "assets/audio/g_b_8_a.mp3"
         }
       ]
@@ -451,422 +451,411 @@
         "Questions": [
           {
             "id": "l_19_1",
-            "question": "Where did Namal work part-time while he was still studying?",
-            "answer": "A small garage in Kandy.",
+            "question": "Where did Faaris gain his part-time mechanical experience?",
+            "answer": "A small mechanical workshop in Puttalam.",
             "options": [
-              "A large garage in Kandy.",
-              "A small garage in Kandy.",
-              "A motor school in Kurunegala."
+              "A small engineering company in Puttalam.",
+              "A small mechanical workshop in Puttalam.",
+              "A welding school in Galle."
             ]
           },
           {
             "id": "l_19_2",
-            "question": "What tasks did Namal mainly help with at the garage?",
-            "answer": "Repairing, oiling, and replacing vehicle parts.",
+            "question": "Which task did he help the senior technician with?",
+            "answer": "Dismantling machine parts and lubricating bearings.",
             "options": [
-              "Painting vehicles and oiling bodywork.",
-              "Repairing and Installing new engines.",
-              "Repairing, oiling, and replacing vehicle parts."
+              "Dismantling electrical panels.",
+              "Oiling and lubricating machine parts.",
+              "Dismantling machine parts and lubricating bearings."
             ]
           },
           {
             "id": "l_19_3",
-            "question": "Which skill does Namal say he can already do confidently?",
-            "answer": "Calibrate tools.",
+            "question": "Which measuring tool does he use to check components?",
+            "answer": "Vernier calipers.",
             "options": [
-              "Calibrate wheels.",
-              "Calibrate tools.",
-              "Replace automatic gearboxes."
+              "Measuring tape.",
+              "Micrometer screw gauge.",
+              "Vernier calipers."
             ]
           },
           {
             "id": "l_19_4",
-            "question": "What does Namal think he needs more guidance with?",
-            "answer": "Adjusting the accelerator pedal and replacing timing belts.",
+            "question": "What area does he still need guidance with?",
+            "answer": "Advanced lathe operations and machine calibration.",
             "options": [
-              "Filling brake fluid and checking tyre pressure.",
-              "Adjusting the accelerator pedal and replacing timing belts.",
-              "Adjusting wheel alignment and replacing timing belts."
+              "Staying calm when workload gets heavy.",
+              "Advanced lathe operations and machine calibration.",
+              "Installing CCTV cameras."
             ]
           },
           {
             "id": "l_19_5",
-            "question": "What are Namal’s plans for the next few years?",
-            "answer": "Apply for an apprenticeship, and follow short courses.",
+            "question": "What does he plan to do after completing the training programme?",
+            "answer": "Apply for an apprenticeship and follow safety courses.",
             "options": [
-              "Follow short courses and postpone working.",
-              "Complete training and travel abroad.",
-              "Apply for an apprenticeship, and follow short courses."
+              "Start studying for a degree.",
+              "Apply for a job and travel abroad.",
+              "Apply for an apprenticeship and follow safety courses."
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_40_1",
-          "text": "Good morning, please have a seat.",
-          "audio": "assets/audio/t_40_1.mp3"
+          "id": "t_45_1",
+          "text": "Good morning, please take a seat.",
+          "audio": "assets/audio/t_45_1.mp3"
         },
         {
-          "id": "t_40_2",
-          "text": "I’m Mr. Fernando, the training manager.",
-          "audio": "assets/audio/t_40_2.mp3"
+          "id": "t_45_2",
+          "text": "I’m Mr. Rahuman, the mechanical workshop training supervisor.",
+          "audio": "assets/audio/t_45_2.mp3"
         },
         {
-          "id": "t_40_3",
-          "text": "How are you today?",
-          "audio": "assets/audio/t_40_3.mp3"
+          "id": "t_45_3",
+          "text": "How are you feeling today?",
+          "audio": "assets/audio/t_45_3.mp3"
         },
         {
-          "id": "t_40_4",
-          "text": "Good morning, sir. I’m doing well, thank you.",
-          "audio": "assets/audio/t_40_4.mp3"
+          "id": "t_45_4",
+          "text": "Good morning, sir. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_45_4.mp3"
         },
         {
-          "id": "t_40_5",
-          "text": "I’m a little nervous, but I can manage.",
-          "audio": "assets/audio/t_40_5.mp3"
+          "id": "t_45_5",
+          "text": "I’m a bit nervous, but I’m ready to do my best.",
+          "audio": "assets/audio/t_45_5.mp3"
         },
         {
-          "id": "t_40_6",
-          "text": "Don’t worry, this is a friendly interview.",
-          "audio": "assets/audio/t_40_6.mp3"
+          "id": "t_45_6",
+          "text": "That’s perfectly alright.",
+          "audio": "assets/audio/t_45_6.mp3"
         },
         {
-          "id": "t_40_7",
-          "text": "So, Namal, I see that you finished school last year.",
-          "audio": "assets/audio/t_40_7.mp3"
+          "id": "t_45_7",
+          "text": "This is just a friendly interview.",
+          "audio": "assets/audio/t_45_7.mp3"
         },
         {
-          "id": "t_40_8",
-          "text": "Can you tell me a bit about yourself?",
-          "audio": "assets/audio/t_40_8.mp3"
+          "id": "t_45_8",
+          "text": "So, Faaris, I see that you completed school last year.",
+          "audio": "assets/audio/t_45_8.mp3"
         },
         {
-          "id": "t_40_9",
-          "text": "Yes, sir. I completed my A’ level exam in August.",
-          "audio": "assets/audio/t_40_9.mp3"
+          "id": "t_45_9",
+          "text": "Could you tell me a little about your background?",
+          "audio": "assets/audio/t_45_9.mp3"
         },
         {
-          "id": "t_40_10",
-          "text": "While I was still at SLGTI, I worked part-time at a small garage in Kandy.",
-          "audio": "assets/audio/t_40_10.mp3"
+          "id": "t_45_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_45_10.mp3"
         },
         {
-          "id": "t_40_11",
-          "text": "I don’t have a lot of experience, but I can handle basic tasks confidently.",
-          "audio": "assets/audio/t_40_11.mp3"
+          "id": "t_45_11",
+          "text": "During my final year, I worked part-time in a small mechanical workshop in Puttalam.",
+          "audio": "assets/audio/t_45_11.mp3"
         },
         {
-          "id": "t_40_12",
-          "text": "That’s good to hear.",
-          "audio": "assets/audio/t_40_12.mp3"
+          "id": "t_45_12",
+          "text": "I don’t have much experience yet, but I can manage basic workshop tasks confidently.",
+          "audio": "assets/audio/t_45_12.mp3"
         },
         {
-          "id": "t_40_13",
-          "text": "What kind of work did you do there?",
-          "audio": "assets/audio/t_40_13.mp3"
+          "id": "t_45_13",
+          "text": "Good.",
+          "audio": "assets/audio/t_45_13.mp3"
         },
         {
-          "id": "t_40_14",
-          "text": "I helped the senior mechanic with repairing, oiling, and replacing vehicle parts.",
-          "audio": "assets/audio/t_40_14.mp3"
+          "id": "t_45_14",
+          "text": "What kind of work did you support in the workshop?",
+          "audio": "assets/audio/t_45_14.mp3"
         },
         {
-          "id": "t_40_15",
-          "text": "Sometimes I assisted with more complex repairs.",
-          "audio": "assets/audio/t_40_15.mp3"
+          "id": "t_45_15",
+          "text": "I assisted the senior technician with dismantling machine parts, lubricating bearings, and cleaning gear assemblies.",
+          "audio": "assets/audio/t_45_15.mp3"
         },
         {
-          "id": "t_40_16",
-          "text": "I also spoke to customers when the garage was busy, finding out the problems that needed fixing in their vehicles.",
-          "audio": "assets/audio/t_40_16.mp3"
+          "id": "t_45_16",
+          "text": "I also helped operate the bench grinder and sometimes checked alignment on the lathe machine.",
+          "audio": "assets/audio/t_45_16.mp3"
         },
         {
-          "id": "t_40_17",
-          "text": "I wasn’t responsible for big jobs, but I supported the team whenever they needed help.",
-          "audio": "assets/audio/t_40_17.mp3"
+          "id": "t_45_17",
+          "text": "When the workshop became busy, I arranged the tool racks and checked torque wrenches for the team.",
+          "audio": "assets/audio/t_45_17.mp3"
         },
         {
-          "id": "t_40_18",
+          "id": "t_45_18",
+          "text": "I wasn’t responsible for complex machining, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_45_18.mp3"
+        },
+        {
+          "id": "t_45_19",
           "text": "Excellent.",
-          "audio": "assets/audio/t_40_18.mp3"
+          "audio": "assets/audio/t_45_19.mp3"
         },
         {
-          "id": "t_40_19",
-          "text": "What skills do you think you can bring to our company?",
-          "audio": "assets/audio/t_40_19.mp3"
+          "id": "t_45_20",
+          "text": "What skills do you think you can bring to our programme?",
+          "audio": "assets/audio/t_45_20.mp3"
         },
         {
-          "id": "t_40_20",
-          "text": "I can calibrate tools well, sir.",
-          "audio": "assets/audio/t_40_20.mp3"
+          "id": "t_45_21",
+          "text": "I can measure components accurately with vernier calipers, sir.",
+          "audio": "assets/audio/t_45_21.mp3"
         },
         {
-          "id": "t_40_21",
-          "text": "I know how to do wheel alignment carefully, and I started learning how to do some basic engineer repairs.",
-          "audio": "assets/audio/t_40_21.mp3"
+          "id": "t_45_22",
+          "text": "I know how to identify worn-out parts, and I recently started learning how to use the hydraulic press.",
+          "audio": "assets/audio/t_45_22.mp3"
         },
         {
-          "id": "t_40_22",
-          "text": "I also learnt how to stay calm when things get stressful.",
-          "audio": "assets/audio/t_40_22.mp3"
+          "id": "t_45_23",
+          "text": "I also learnt how to stay calm when the workload becomes heavy.",
+          "audio": "assets/audio/t_45_23.mp3"
         },
         {
-          "id": "t_40_23",
-          "text": "I might need some guidance with adjusting the accelerator pedal, and replacing timing belt and fan belts at first, but I’m going to improve quickly.",
-          "audio": "assets/audio/t_40_23.mp3"
+          "id": "t_45_24",
+          "text": "I might need some guidance with advanced lathe operations and machine calibration, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_45_24.mp3"
         },
         {
-          "id": "t_40_24",
-          "text": "That’s a good attitude.",
-          "audio": "assets/audio/t_40_24.mp3"
+          "id": "t_45_25",
+          "text": "That’s a positive attitude.",
+          "audio": "assets/audio/t_45_25.mp3"
         },
         {
-          "id": "t_40_25",
-          "text": "How comfortable are you with radiator and fuel pump repairs?",
-          "audio": "assets/audio/t_40_25.mp3"
+          "id": "t_45_26",
+          "text": "How comfortable are you with basic maintenance and workshop safety?",
+          "audio": "assets/audio/t_45_26.mp3"
         },
         {
-          "id": "t_40_26",
-          "text": "I’m not an expert yet, but I can already do many basic repairs.",
-          "audio": "assets/audio/t_40_26.mp3"
+          "id": "t_45_27",
+          "text": "I’m not fully confident yet, but I can already handle simple maintenance routines and follow standard safety procedures.",
+          "audio": "assets/audio/t_45_27.mp3"
         },
         {
-          "id": "t_40_27",
-          "text": "I might take more time with advanced and complex issues.",
-          "audio": "assets/audio/t_40_27.mp3"
+          "id": "t_45_28",
+          "text": "I might take more time with precision machining and complex repairs.",
+          "audio": "assets/audio/t_45_28.mp3"
         },
         {
-          "id": "t_40_28",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_40_28.mp3"
+          "id": "t_45_29",
+          "text": "That’s understandable.",
+          "audio": "assets/audio/t_45_29.mp3"
         },
         {
-          "id": "t_40_29",
+          "id": "t_45_30",
           "text": "What are your plans for the next few years?",
-          "audio": "assets/audio/t_40_29.mp3"
+          "audio": "assets/audio/t_45_30.mp3"
         },
         {
-          "id": "t_40_30",
-          "text": "I’m going to complete this training programme and then try for an apprenticeship.",
-          "audio": "assets/audio/t_40_30.mp3"
+          "id": "t_45_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_45_31.mp3"
         },
         {
-          "id": "t_40_31",
-          "text": "I might also follow additional short courses so I can expand my skills.",
-          "audio": "assets/audio/t_40_31.mp3"
+          "id": "t_45_32",
+          "text": "I might also follow short mechanical safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_45_32.mp3"
         },
         {
-          "id": "t_40_32",
-          "text": "That sounds promising.",
-          "audio": "assets/audio/t_40_32.mp3"
+          "id": "t_45_33",
+          "text": "Very good.",
+          "audio": "assets/audio/t_45_33.mp3"
         },
         {
-          "id": "t_40_33",
-          "text": "Thank you, Namal. We’ll contact you soon.",
-          "audio": "assets/audio/t_40_33.mp3"
+          "id": "t_45_34",
+          "text": "Thank you, Faaris. We’ll contact you soon.",
+          "audio": "assets/audio/t_45_34.mp3"
         },
         {
-          "id": "t_40_34",
+          "id": "t_45_35",
           "text": "Thank you very much, sir. I appreciate the opportunity.",
-          "audio": "assets/audio/t_40_34.mp3"
+          "audio": "assets/audio/t_45_35.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_40_4",
-          "text": "Good morning, sir. I’m doing well, thank you.",
-          "audio": "assets/audio/t_40_4.mp3"
+          "id": "t_45_1",
+          "text": "Good morning, please take a seat.",
+          "audio": "assets/audio/t_45_1.mp3"
         },
         {
-          "id": "t_40_5",
-          "text": "I’m a little nervous, but I can manage.",
-          "audio": "assets/audio/t_40_5.mp3"
+          "id": "t_45_2",
+          "text": "I’m Mr. Rahuman, the mechanical workshop training supervisor.",
+          "audio": "assets/audio/t_45_2.mp3"
         },
         {
-          "id": "t_40_9",
-          "text": "Yes, sir. I completed my A’ level exam in August.",
-          "audio": "assets/audio/t_40_9.mp3"
+          "id": "t_45_3",
+          "text": "How are you feeling today?",
+          "audio": "assets/audio/t_45_3.mp3"
         },
         {
-          "id": "t_40_10",
-          "text": "While I was still at SLGTI, I worked part-time at a small garage in Kandy.",
-          "audio": "assets/audio/t_40_10.mp3"
+          "id": "t_45_4",
+          "text": "Good morning, sir. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_45_4.mp3"
         },
         {
-          "id": "t_40_11",
-          "text": "I don’t have a lot of experience, but I can handle basic tasks confidently.",
-          "audio": "assets/audio/t_40_11.mp3"
+          "id": "t_45_5",
+          "text": "I’m a bit nervous, but I’m ready to do my best.",
+          "audio": "assets/audio/t_45_5.mp3"
         },
         {
-          "id": "t_40_14",
-          "text": "I helped the senior mechanic with repairing, oiling, and replacing vehicle parts.",
-          "audio": "assets/audio/t_40_14.mp3"
+          "id": "t_45_6",
+          "text": "That’s perfectly alright.",
+          "audio": "assets/audio/t_45_6.mp3"
         },
         {
-          "id": "t_40_15",
-          "text": "Sometimes I assisted with more complex repairs.",
-          "audio": "assets/audio/t_40_15.mp3"
+          "id": "t_45_7",
+          "text": "This is just a friendly interview.",
+          "audio": "assets/audio/t_45_7.mp3"
         },
         {
-          "id": "t_40_16",
-          "text": "I also spoke to customers when the garage was busy, finding out the problems that needed fixing in their vehicles.",
-          "audio": "assets/audio/t_40_16.mp3"
+          "id": "t_45_8",
+          "text": "So, Faaris, I see that you completed school last year.",
+          "audio": "assets/audio/t_45_8.mp3"
         },
         {
-          "id": "t_40_17",
-          "text": "I wasn’t responsible for big jobs, but I supported the team whenever they needed help.",
-          "audio": "assets/audio/t_40_17.mp3"
+          "id": "t_45_9",
+          "text": "Could you tell me a little about your background?",
+          "audio": "assets/audio/t_45_9.mp3"
         },
         {
-          "id": "t_40_20",
-          "text": "I can calibrate tools well, sir.",
-          "audio": "assets/audio/t_40_20.mp3"
+          "id": "t_45_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_45_10.mp3"
         },
         {
-          "id": "t_40_21",
-          "text": "I know how to do wheel alignment carefully, and I started learning how to do some basic engineer repairs.",
-          "audio": "assets/audio/t_40_21.mp3"
+          "id": "t_45_11",
+          "text": "During my final year, I worked part-time in a small mechanical workshop in Puttalam.",
+          "audio": "assets/audio/t_45_11.mp3"
         },
         {
-          "id": "t_40_22",
-          "text": "I also learnt how to stay calm when things get stressful.",
-          "audio": "assets/audio/t_40_22.mp3"
+          "id": "t_45_12",
+          "text": "I don’t have much experience yet, but I can manage basic workshop tasks confidently.",
+          "audio": "assets/audio/t_45_12.mp3"
         },
         {
-          "id": "t_40_23",
-          "text": "I might need some guidance with adjusting the accelerator pedal, and replacing timing belt and fan belts at first, but I’m going to improve quickly.",
-          "audio": "assets/audio/t_40_23.mp3"
+          "id": "t_45_13",
+          "text": "Good.",
+          "audio": "assets/audio/t_45_13.mp3"
         },
         {
-          "id": "t_40_26",
-          "text": "I’m not an expert yet, but I can already do many basic repairs.",
-          "audio": "assets/audio/t_40_26.mp3"
+          "id": "t_45_14",
+          "text": "What kind of work did you support in the workshop?",
+          "audio": "assets/audio/t_45_14.mp3"
         },
         {
-          "id": "t_40_27",
-          "text": "I might take more time with advanced and complex issues.",
-          "audio": "assets/audio/t_40_27.mp3"
+          "id": "t_45_15",
+          "text": "I assisted the senior technician with dismantling machine parts, lubricating bearings, and cleaning gear assemblies.",
+          "audio": "assets/audio/t_45_15.mp3"
         },
         {
-          "id": "t_40_28",
+          "id": "t_45_16",
+          "text": "I also helped operate the bench grinder and sometimes checked alignment on the lathe machine.",
+          "audio": "assets/audio/t_45_16.mp3"
+        },
+        {
+          "id": "t_45_17",
+          "text": "When the workshop became busy, I arranged the tool racks and checked torque wrenches for the team.",
+          "audio": "assets/audio/t_45_17.mp3"
+        },
+        {
+          "id": "t_45_18",
+          "text": "I wasn’t responsible for complex machining, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_45_18.mp3"
+        },
+        {
+          "id": "t_45_19",
           "text": "Excellent.",
-          "audio": "assets/audio/t_40_28.mp3"
+          "audio": "assets/audio/t_45_19.mp3"
         },
         {
-          "id": "t_40_30",
-          "text": "I’m going to complete this training programme and then try for an apprenticeship.",
-          "audio": "assets/audio/t_40_30.mp3"
+          "id": "t_45_20",
+          "text": "What skills do you think you can bring to our programme?",
+          "audio": "assets/audio/t_45_20.mp3"
         },
         {
-          "id": "t_40_31",
-          "text": "I might also follow additional short courses so I can expand my skills.",
-          "audio": "assets/audio/t_40_31.mp3"
+          "id": "t_45_21",
+          "text": "I can measure components accurately with vernier calipers, sir.",
+          "audio": "assets/audio/t_45_21.mp3"
         },
         {
-          "id": "t_40_34",
+          "id": "t_45_22",
+          "text": "I know how to identify worn-out parts, and I recently started learning how to use the hydraulic press.",
+          "audio": "assets/audio/t_45_22.mp3"
+        },
+        {
+          "id": "t_45_23",
+          "text": "I also learnt how to stay calm when the workload becomes heavy.",
+          "audio": "assets/audio/t_45_23.mp3"
+        },
+        {
+          "id": "t_45_24",
+          "text": "I might need some guidance with advanced lathe operations and machine calibration, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_45_24.mp3"
+        },
+        {
+          "id": "t_45_25",
+          "text": "That’s a positive attitude.",
+          "audio": "assets/audio/t_45_25.mp3"
+        },
+        {
+          "id": "t_45_26",
+          "text": "How comfortable are you with basic maintenance and workshop safety?",
+          "audio": "assets/audio/t_45_26.mp3"
+        },
+        {
+          "id": "t_45_27",
+          "text": "I’m not fully confident yet, but I can already handle simple maintenance routines and follow standard safety procedures.",
+          "audio": "assets/audio/t_45_27.mp3"
+        },
+        {
+          "id": "t_45_28",
+          "text": "I might take more time with precision machining and complex repairs.",
+          "audio": "assets/audio/t_45_28.mp3"
+        },
+        {
+          "id": "t_45_29",
+          "text": "That’s understandable.",
+          "audio": "assets/audio/t_45_29.mp3"
+        },
+        {
+          "id": "t_45_30",
+          "text": "What are your plans for the next few years?",
+          "audio": "assets/audio/t_45_30.mp3"
+        },
+        {
+          "id": "t_45_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_45_31.mp3"
+        },
+        {
+          "id": "t_45_32",
+          "text": "I might also follow short mechanical safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_45_32.mp3"
+        },
+        {
+          "id": "t_45_33",
+          "text": "Very good.",
+          "audio": "assets/audio/t_45_33.mp3"
+        },
+        {
+          "id": "t_45_34",
+          "text": "Thank you, Faaris. We’ll contact you soon.",
+          "audio": "assets/audio/t_45_34.mp3"
+        },
+        {
+          "id": "t_45_35",
           "text": "Thank you very much, sir. I appreciate the opportunity.",
-          "audio": "assets/audio/t_40_34.mp3"
+          "audio": "assets/audio/t_45_35.mp3"
         }
       ],
-      "activity_d": [
-        {
-          "id": "t_40_4",
-          "text": "Good morning, sir. I’m doing well, thank you.",
-          "audio": "assets/audio/t_40_4.mp3"
-        },
-        {
-          "id": "t_40_5",
-          "text": "I’m a little nervous, but I can manage.",
-          "audio": "assets/audio/t_40_5.mp3"
-        },
-        {
-          "id": "t_40_9",
-          "text": "Yes, sir. I completed my A’ level exam in August.",
-          "audio": "assets/audio/t_40_9.mp3"
-        },
-        {
-          "id": "t_40_10",
-          "text": "While I was still at SLGTI, I worked part-time at a small garage in Kandy.",
-          "audio": "assets/audio/t_40_10.mp3"
-        },
-        {
-          "id": "t_40_11",
-          "text": "I don’t have a lot of experience, but I can handle basic tasks confidently.",
-          "audio": "assets/audio/t_40_11.mp3"
-        },
-        {
-          "id": "t_40_14",
-          "text": "I helped the senior mechanic with repairing, oiling, and replacing vehicle parts.",
-          "audio": "assets/audio/t_40_14.mp3"
-        },
-        {
-          "id": "t_40_15",
-          "text": "Sometimes I assisted with more complex repairs.",
-          "audio": "assets/audio/t_40_15.mp3"
-        },
-        {
-          "id": "t_40_16",
-          "text": "I also spoke to customers when the garage was busy, finding out the problems that needed fixing in their vehicles.",
-          "audio": "assets/audio/t_40_16.mp3"
-        },
-        {
-          "id": "t_40_17",
-          "text": "I wasn’t responsible for big jobs, but I supported the team whenever they needed help.",
-          "audio": "assets/audio/t_40_17.mp3"
-        },
-        {
-          "id": "t_40_20",
-          "text": "I can calibrate tools well, sir.",
-          "audio": "assets/audio/t_40_20.mp3"
-        },
-        {
-          "id": "t_40_21",
-          "text": "I know how to do wheel alignment carefully, and I started learning how to do some basic engineer repairs.",
-          "audio": "assets/audio/t_40_21.mp3"
-        },
-        {
-          "id": "t_40_22",
-          "text": "I also learnt how to stay calm when things get stressful.",
-          "audio": "assets/audio/t_40_22.mp3"
-        },
-        {
-          "id": "t_40_23",
-          "text": "I might need some guidance with adjusting the accelerator pedal, and replacing timing belt and fan belts at first, but I’m going to improve quickly.",
-          "audio": "assets/audio/t_40_23.mp3"
-        },
-        {
-          "id": "t_40_26",
-          "text": "I’m not an expert yet, but I can already do many basic repairs.",
-          "audio": "assets/audio/t_40_26.mp3"
-        },
-        {
-          "id": "t_40_27",
-          "text": "I might take more time with advanced and complex issues.",
-          "audio": "assets/audio/t_40_27.mp3"
-        },
-        {
-          "id": "t_40_28",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_40_28.mp3"
-        },
-        {
-          "id": "t_40_30",
-          "text": "I’m going to complete this training programme and then try for an apprenticeship.",
-          "audio": "assets/audio/t_40_30.mp3"
-        },
-        {
-          "id": "t_40_31",
-          "text": "I might also follow additional short courses so I can expand my skills.",
-          "audio": "assets/audio/t_40_31.mp3"
-        },
-        {
-          "id": "t_40_34",
-          "text": "Thank you very much, sir. I appreciate the opportunity.",
-          "audio": "assets/audio/t_40_34.mp3"
-        }
-      ]
+      "activity_d": 0
     }
   },
   "activity_5": {
