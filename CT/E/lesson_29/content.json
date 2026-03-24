@@ -1,0 +1,911 @@
+{
+  "meta": {
+    "lesson_no": 29,
+    "level": "Elementary",
+    "section": "Construction Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "/r/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "b'r'ick",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The mason carefully laid each b'r'ick for the foundation last week.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "'r'oof",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The team is on the 'r'oof right now removing broken tiles.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "'r'epai'r'",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The carpenter is going to 'r'epai'r' the old door tomorrow.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "g'r'ound",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The helper cleans the g'r'ound after grinding work every day.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "Revision of All Tenses / Might",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Read the answer and use the pause to ask the correct question. Then compare your response with the model question.\n පිළිතුර කියවා නිවැරදි ප්‍රශ්නය ඇසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\n பதிலைக் கவனமாக வாசித்து, இடைவெளியில் சரியான கேள்வியை கேளுங்கள். பின்னர் உங்கள் கேள்வியை மாதிரி கேள்வியுடன் ஒப்பிடவும்.",
+        "audio": "assets/audio/a_2_i_f.mp3"
+      }
+    },
+    "tables": [
+      [
+        [
+          "Why are you looking for your book right now?",
+          "Because I looked for it yesterday but I wasn’t able to find it.",
+          "I’m going to visit my friend this afternoon and I might take the book with me."
+        ]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Why are you adjusting the fan belt right now?",
+        "text_b": "I’m adjusting the fan belt right now because I adjusted one yesterday but I wasn’t satisfied. I am going to take the car for a test run this afternoon and I might take this belt with me.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Why are you aligning the wheel bearings right now?",
+        "text_b": "I’m aligning the wheel bearings right now because I aligned some yesterday but I wasn’t satisfied. I am going to meet a customer this afternoon and I might take these with me.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Why are you cleaning the throttle body right now?",
+        "text_b": "I’m cleaning the throttle body right now because I cleaned one yesterday but I wasn’t satisfied. I am going to check the engine response this afternoon and I might take this with me.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "grinding the metal plate"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "mixing a concrete sampl"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "cutting the steel bars"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "plumbing the door frame"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "calibrating the torque wrench"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "tightening the bolts"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Why are you grinding the metal plate right now?",
+        "text_b": "I’m grinding the metal plate right now because I ground one yesterday but I wasn’t satisfied. I am going to check the fitting this afternoon and I might take this plate with me.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why are you mixing a concrete sample right now?",
+        "text_b": "I’m mixing a sample right now because I mixed some yesterday but I wasn’t satisfied. I am going to inspect the slab this afternoon and I might take this sample with me.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Why are you cutting the steel bars right now?",
+        "text_b": "I’m cutting the steel bars right now because I cut some yesterday but I wasn’t satisfied. I am going to visit the site this afternoon and I might take these bars with me.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Why are you plumbing the door frame right now?",
+        "text_b": "I’m plumbing the door frame right now because I plumbed it yesterday but I wasn’t satisfied. I am going to inspect the opening this afternoon and I might adjust the frame again.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Why are you calibrating the torque wrench right now?",
+        "text_b": "I’m calibrating the torque wrench right now because I calibrated it yesterday but I wasn’t satisfied. I am going to repair a gearbox this afternoon and I might take it with me.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Why are you tightening the bolts right now?",
+        "text_b": "I’m tightening these bolts right now because I tightened them yesterday but I wasn’t satisfied. I am going to inspect the assembly this afternoon and I might check them again with a torque wrench.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-7.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "They cured 50 cement blocks yesterday evening.",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "Did they cure the cement blocks yesterday evening?",
+              "Are the trainees curing cement blocks every day?",
+              "Did you cure cement blocks every evening?"
+            ],
+            "answer": "Did they cure the cement blocks yesterday evening?"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "He inspected the brick wall alignment yesterday morning.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "Was the mason inspecting the wall every morning?",
+              "Did the mason inspections something yesterday morning?",
+              "What did the mason inspect yesterday morning?"
+            ],
+            "answer": "What did the mason inspect yesterday morning?"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "He is very strict about safety rules.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "Is your site supervisor strict about safety rules?",
+              "Does your site supervisor be strict about safety rules?",
+              "Did your site supervisor strict safety rules?"
+            ],
+            "answer": "Is your site supervisor strict about safety rules?"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "She can operate the concrete mixer.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "She operates the concrete mixer?",
+              "Does she operates the concrete mixer?",
+              "Can she operate the concrete mixer?"
+            ],
+            "answer": "Can she operate the concrete mixer?"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "They are installing steel reinforcement bars right now.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "Is the worker installing bricks right now?",
+              "What did they install right now?",
+              "What are they installing right now?"
+            ],
+            "answer": "What are they installing right now?"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "They are going to visit the modernized construction site next week.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "Are the trainees go to a warehouse next week?",
+              "Is your visit next week to the construction office?",
+              "Where are the trainees going next week?"
+            ],
+            "answer": "Where are the trainees going next week?"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "They follow a tool-usage schedule every day.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "Do the new trainees follow a schedule every day?",
+              "What are the trainees do every day?",
+              "Is the schedule are for the trainees every day?"
+            ],
+            "answer": "Do the new trainees follow a schedule every day?"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "We were quite tired after a long day at the building foundation.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "Were you and your colleagues tired yesterday?",
+              "Are you get tired at the foundation every day?",
+              "We were tired from the foundation work?"
+            ],
+            "answer": "Were you and your colleagues tired yesterday?"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "She is supervising the formwork team at the moment.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "Is the instructor prepare the concrete at the moment?",
+              "Is the supervisor being with the formwork team at the moment?",
+              "What is the instructor  doing at the moment?"
+            ],
+            "answer": "What is the instructor  doing at the moment?"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_ex",
+          "text": "They cured 50 cement blocks yesterday evening.",
+          "audio": "assets/audio/g_b_ex.mp3"
+        },
+        {
+          "id": "g_b_ex_a",
+          "text": "Did they cure the cement blocks yesterday evening?",
+          "audio": "assets/audio/g_b_ex_a.mp3"
+        },
+        {
+          "id": "g_b_1",
+          "text": "He inspected the brick wall alignment yesterday morning.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "What did the mason inspect yesterday morning?",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "He is very strict about safety rules.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "Is your site supervisor strict about safety rules?",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "She can operate the concrete mixer.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "Can she operate the concrete mixer?",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "They are installing steel reinforcement bars right now.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "What are they installing right now?",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "They are going to visit the modernized construction site next week.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "Where are the trainees going next week?",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "They follow a tool-usage schedule every day.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "Do the new trainees follow a schedule every day?",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "We were quite tired after a long day at the building foundation.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "Were you and your colleagues tired yesterday?",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "She is supervising the formwork team at the moment.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "What is the instructor  doing at the moment?",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_19_1",
+            "question": "Where did Kavishan gain his part-time construction experience?",
+            "answer": "A small construction crew in Vavuniya.",
+            "options": [
+              "A large construction crew in Vavuniya.",
+              "A small construction crew in Vavuniya.",
+              "A training centre in Gampaha."
+            ]
+          },
+          {
+            "id": "l_19_2",
+            "question": "Which task did he support the masons with?",
+            "answer": "Mixing cement and preparing mortar.",
+            "options": [
+              "Painting ceiling panels.",
+              "Mixing cement and Installing scaffolding.",
+              "Mixing cement and preparing mortar."
+            ]
+          },
+          {
+            "id": "l_19_3",
+            "question": "What new skill does he say he needs more guidance with?",
+            "answer": "Assembling scaffolding and reading site drawings.",
+            "options": [
+              "Measuring water pressure.",
+              "Assembling scaffolding and reading site drawings.",
+              "Measuring distances and reading site drawings."
+            ]
+          },
+          {
+            "id": "l_19_4",
+            "question": "What tool does he use to measure accurately?",
+            "answer": "Tape and spirit level.",
+            "options": [
+              "Measuring tape.",
+              "Tape and spirit level.",
+              "Laser levels."
+            ]
+          },
+          {
+            "id": "l_19_5",
+            "question": "What does Kavishan plan to do after completing the training programme?",
+            "answer": "Apply for an apprenticeship and follow short NVQ courses.",
+            "options": [
+              "Apply for jobs and start on a degree.",
+              "Apply for jobs abroad.",
+              "Apply for an apprenticeship and follow short NVQ courses."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_41_1",
+          "text": "Good morning, please take a seat.",
+          "audio": "assets/audio/t_41_1.mp3"
+        },
+        {
+          "id": "t_41_2",
+          "text": "I’m Ms. Jayasuriya, the site training supervisor.",
+          "audio": "assets/audio/t_41_2.mp3"
+        },
+        {
+          "id": "t_41_3",
+          "text": "How are you feeling today?",
+          "audio": "assets/audio/t_41_3.mp3"
+        },
+        {
+          "id": "t_41_4",
+          "text": "Good morning, madam. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_41_4.mp3"
+        },
+        {
+          "id": "t_41_5",
+          "text": "I’m a bit nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_41_5.mp3"
+        },
+        {
+          "id": "t_41_6",
+          "text": "It’s alright, this is a friendly discussion.",
+          "audio": "assets/audio/t_41_6.mp3"
+        },
+        {
+          "id": "t_41_7",
+          "text": "So, Kavishan, I see you completed school last year.",
+          "audio": "assets/audio/t_41_7.mp3"
+        },
+        {
+          "id": "t_41_8",
+          "text": "Could you tell me a little about your background?",
+          "audio": "assets/audio/t_41_8.mp3"
+        },
+        {
+          "id": "t_41_9",
+          "text": "Yes, madam. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_41_9.mp3"
+        },
+        {
+          "id": "t_41_10",
+          "text": "During my final year, I worked part-time with a small construction crew in Vavuniya.",
+          "audio": "assets/audio/t_41_10.mp3"
+        },
+        {
+          "id": "t_41_11",
+          "text": "I don’t have a lot of experience yet, but I can manage basic on-site tasks confidently.",
+          "audio": "assets/audio/t_41_11.mp3"
+        },
+        {
+          "id": "t_41_12",
+          "text": "That’s good.",
+          "audio": "assets/audio/t_41_12.mp3"
+        },
+        {
+          "id": "t_41_13",
+          "text": "What kind of work did you support at the site?",
+          "audio": "assets/audio/t_41_13.mp3"
+        },
+        {
+          "id": "t_41_14",
+          "text": "I assisted the masons with mixing cement, carrying bricks, and preparing mortar.",
+          "audio": "assets/audio/t_41_14.mp3"
+        },
+        {
+          "id": "t_41_15",
+          "text": "I also helped carpenters set up formwork and sometimes cleaned reinforcement bars before concrete pouring.",
+          "audio": "assets/audio/t_41_15.mp3"
+        },
+        {
+          "id": "t_41_16",
+          "text": "When the site became very busy, I talked to suppliers and checked the delivery lists.",
+          "audio": "assets/audio/t_41_16.mp3"
+        },
+        {
+          "id": "t_41_17",
+          "text": "I wasn’t responsible for major tasks, but I always supported the team whenever extra help was needed.",
+          "audio": "assets/audio/t_41_17.mp3"
+        },
+        {
+          "id": "t_41_18",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_41_18.mp3"
+        },
+        {
+          "id": "t_41_19",
+          "text": "What skills do you think you can bring to our project team?",
+          "audio": "assets/audio/t_41_19.mp3"
+        },
+        {
+          "id": "t_41_20",
+          "text": "I can level surfaces carefully, madam.",
+          "audio": "assets/audio/t_41_20.mp3"
+        },
+        {
+          "id": "t_41_21",
+          "text": "I know how to measure distances accurately with a tape and spirit level.",
+          "audio": "assets/audio/t_41_21.mp3"
+        },
+        {
+          "id": "t_41_22",
+          "text": "I also learnt to stay calm when schedules get tight.",
+          "audio": "assets/audio/t_41_22.mp3"
+        },
+        {
+          "id": "t_41_23",
+          "text": "I might need some guidance with scaffolding assembly and reading full site drawings at the beginning, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_41_23.mp3"
+        },
+        {
+          "id": "t_41_24",
+          "text": "That’s a positive attitude.",
+          "audio": "assets/audio/t_41_24.mp3"
+        },
+        {
+          "id": "t_41_25",
+          "text": "How comfortable are you with blocklaying and basic concrete work?",
+          "audio": "assets/audio/t_41_25.mp3"
+        },
+        {
+          "id": "t_41_26",
+          "text": "I’m not fully skilled yet, but I can already handle simple tasks like preparing the mix and supporting the masonry line.",
+          "audio": "assets/audio/t_41_26.mp3"
+        },
+        {
+          "id": "t_41_27",
+          "text": "I might take more time with complex structural work.",
+          "audio": "assets/audio/t_41_27.mp3"
+        },
+        {
+          "id": "t_41_28",
+          "text": "That’s understandable.",
+          "audio": "assets/audio/t_41_28.mp3"
+        },
+        {
+          "id": "t_41_29",
+          "text": "What are your plans for the next few years?",
+          "audio": "assets/audio/t_41_29.mp3"
+        },
+        {
+          "id": "t_41_30",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_41_30.mp3"
+        },
+        {
+          "id": "t_41_31",
+          "text": "I might also follow short NVQ courses so I can strengthen my technical skills.",
+          "audio": "assets/audio/t_41_31.mp3"
+        },
+        {
+          "id": "t_41_32",
+          "text": "Good plan.",
+          "audio": "assets/audio/t_41_32.mp3"
+        },
+        {
+          "id": "t_41_33",
+          "text": "Thank you, Kavishan. We’ll contact you soon.",
+          "audio": "assets/audio/t_41_33.mp3"
+        },
+        {
+          "id": "t_41_34",
+          "text": "Thank you very much, madam. I appreciate the opportunity.",
+          "audio": "assets/audio/t_41_34.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_41_4",
+          "text": "Good morning, madam. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_41_4.mp3"
+        },
+        {
+          "id": "t_41_5",
+          "text": "I’m a bit nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_41_5.mp3"
+        },
+
+        {
+          "id": "t_41_9",
+          "text": "Yes, madam. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_41_9.mp3"
+        },
+        {
+          "id": "t_41_10",
+          "text": "During my final year, I worked part-time with a small construction crew in Vavuniya.",
+          "audio": "assets/audio/t_41_10.mp3"
+        },
+        {
+          "id": "t_41_11",
+          "text": "I don’t have a lot of experience yet, but I can manage basic on-site tasks confidently.",
+          "audio": "assets/audio/t_41_11.mp3"
+        },
+
+        {
+          "id": "t_41_14",
+          "text": "I assisted the masons with mixing cement, carrying bricks, and preparing mortar.",
+          "audio": "assets/audio/t_41_14.mp3"
+        },
+        {
+          "id": "t_41_15",
+          "text": "I also helped carpenters set up formwork and sometimes cleaned reinforcement bars before concrete pouring.",
+          "audio": "assets/audio/t_41_15.mp3"
+        },
+        {
+          "id": "t_41_16",
+          "text": "When the site became very busy, I talked to suppliers and checked the delivery lists.",
+          "audio": "assets/audio/t_41_16.mp3"
+        },
+        {
+          "id": "t_41_17",
+          "text": "I wasn’t responsible for major tasks, but I always supported the team whenever extra help was needed.",
+          "audio": "assets/audio/t_41_17.mp3"
+        },
+        {
+          "id": "t_41_18",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_41_18.mp3"
+        },
+        {
+          "id": "t_41_20",
+          "text": "I can level surfaces carefully, madam.",
+          "audio": "assets/audio/t_41_20.mp3"
+        },
+        {
+          "id": "t_41_21",
+          "text": "I know how to measure distances accurately with a tape and spirit level.",
+          "audio": "assets/audio/t_41_21.mp3"
+        },
+        {
+          "id": "t_41_22",
+          "text": "I also learnt to stay calm when schedules get tight.",
+          "audio": "assets/audio/t_41_22.mp3"
+        },
+        {
+          "id": "t_41_23",
+          "text": "I might need some guidance with scaffolding assembly and reading full site drawings at the beginning, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_41_23.mp3"
+        },
+        {
+          "id": "t_41_26",
+          "text": "I’m not fully skilled yet, but I can already handle simple tasks like preparing the mix and supporting the masonry line.",
+          "audio": "assets/audio/t_41_26.mp3"
+        },
+        {
+          "id": "t_41_27",
+          "text": "I might take more time with complex structural work.",
+          "audio": "assets/audio/t_41_27.mp3"
+        },
+        {
+          "id": "t_41_30",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_41_30.mp3"
+        },
+        {
+          "id": "t_41_31",
+          "text": "I might also follow short NVQ courses so I can strengthen my technical skills.",
+          "audio": "assets/audio/t_41_31.mp3"
+        },
+        {
+          "id": "t_41_34",
+          "text": "Thank you very much, madam. I appreciate the opportunity.",
+          "audio": "assets/audio/t_41_34.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_41_4",
+          "text": "Good morning, madam. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_41_4.mp3"
+        },
+        {
+          "id": "t_41_5",
+          "text": "I’m a bit nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_41_5.mp3"
+        },
+
+        {
+          "id": "t_41_9",
+          "text": "Yes, madam. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_41_9.mp3"
+        },
+        {
+          "id": "t_41_10",
+          "text": "During my final year, I worked part-time with a small construction crew in Vavuniya.",
+          "audio": "assets/audio/t_41_10.mp3"
+        },
+        {
+          "id": "t_41_11",
+          "text": "I don’t have a lot of experience yet, but I can manage basic on-site tasks confidently.",
+          "audio": "assets/audio/t_41_11.mp3"
+        },
+
+        {
+          "id": "t_41_14",
+          "text": "I assisted the masons with mixing cement, carrying bricks, and preparing mortar.",
+          "audio": "assets/audio/t_41_14.mp3"
+        },
+        {
+          "id": "t_41_15",
+          "text": "I also helped carpenters set up formwork and sometimes cleaned reinforcement bars before concrete pouring.",
+          "audio": "assets/audio/t_41_15.mp3"
+        },
+        {
+          "id": "t_41_16",
+          "text": "When the site became very busy, I talked to suppliers and checked the delivery lists.",
+          "audio": "assets/audio/t_41_16.mp3"
+        },
+        {
+          "id": "t_41_17",
+          "text": "I wasn’t responsible for major tasks, but I always supported the team whenever extra help was needed.",
+          "audio": "assets/audio/t_41_17.mp3"
+        },
+        {
+          "id": "t_41_18",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_41_18.mp3"
+        },
+        {
+          "id": "t_41_20",
+          "text": "I can level surfaces carefully, madam.",
+          "audio": "assets/audio/t_41_20.mp3"
+        },
+        {
+          "id": "t_41_21",
+          "text": "I know how to measure distances accurately with a tape and spirit level.",
+          "audio": "assets/audio/t_41_21.mp3"
+        },
+        {
+          "id": "t_41_22",
+          "text": "I also learnt to stay calm when schedules get tight.",
+          "audio": "assets/audio/t_41_22.mp3"
+        },
+        {
+          "id": "t_41_23",
+          "text": "I might need some guidance with scaffolding assembly and reading full site drawings at the beginning, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_41_23.mp3"
+        },
+        {
+          "id": "t_41_26",
+          "text": "I’m not fully skilled yet, but I can already handle simple tasks like preparing the mix and supporting the masonry line.",
+          "audio": "assets/audio/t_41_26.mp3"
+        },
+        {
+          "id": "t_41_27",
+          "text": "I might take more time with complex structural work.",
+          "audio": "assets/audio/t_41_27.mp3"
+        },
+        {
+          "id": "t_41_30",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_41_30.mp3"
+        },
+        {
+          "id": "t_41_31",
+          "text": "I might also follow short NVQ courses so I can strengthen my technical skills.",
+          "audio": "assets/audio/t_41_31.mp3"
+        },
+        {
+          "id": "t_41_34",
+          "text": "Thank you very much, madam. I appreciate the opportunity.",
+          "audio": "assets/audio/t_41_34.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}

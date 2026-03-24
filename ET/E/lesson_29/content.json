@@ -1,0 +1,898 @@
+{
+  "meta": {
+    "lesson_no": 29,
+    "level": "Elementary",
+    "section": "Electrical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "/r/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "b'r'owser",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The technician installed a new b'r'owser to improve system performance.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "b'r'eake'r'",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The b'r'eake'r' is constantly failing during testing.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "t'r'ansfo'r'me'r'",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The t'r'ansfo'r'me'r' supplied power to the lamps yesterday.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "'r'epai'r'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The electrician 'r'epai'r's fans from 9 a.m. to 5 p.m. every day.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "Revision of All Tenses / Might",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Read the answer and use the pause to ask the correct question. Then compare your response with the model question.\n පිළිතුර කියවා නිවැරදි ප්‍රශ්නය ඇසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\n பதிலைக் கவனமாக வாசித்து, இடைவெளியில் சரியான கேள்வியை கேளுங்கள். பின்னர் உங்கள் கேள்வியை மாதிரி கேள்வியுடன் ஒப்பிடவும்.",
+        "audio": "assets/audio/a_2_i_f.mp3"
+      }
+    },
+    "tables": [
+      [
+        [
+          "Why are you looking for your book right now?",
+          "Because I looked for it yesterday but I wasn’t able to find it.",
+          "I’m going to visit my friend this afternoon and I might take the book with me."
+        ]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Why are you wiring the distribution board right now?",
+        "text_b": "I’m wiring the distribution board right now because I wired it yesterday but I wasn’t satisfied. I am going to check the main line this afternoon and I might take this board with me.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Why are you testing the circuit breaker right now?",
+        "text_b": "I’m testing the circuit breaker right now because I tested one yesterday but I wasn’t satisfied. I am going to inspect the panel this afternoon and I might take this breaker with me.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Why are you stripping the insulation right now?",
+        "text_b": "I’m stripping the insulation right now because I stripped some yesterday but I wasn’t satisfied. I am going to connect the wiring this afternoon and I might take this cable with me.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "checking the voltage"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "crimping the cable lugs"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "installing the conduit pipe"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "testing the continuity"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "mounting the switchboard"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "rewinding the motor coil"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Why are you checking the voltage right now?",
+        "text_b": "I’m checking the voltage right now because I checked it yesterday but I wasn’t satisfied. I am going to test the circuit this afternoon and I might take this meter with me.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why are you crimping the cable lugs right now?",
+        "text_b": "I’m crimping the cable lugs right now because I crimped some yesterday but I wasn’t satisfied. I am going to repair the connection this afternoon and I might take these lugs with me.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Why are you installing the conduit pipe right now?",
+        "text_b": "I’m installing the conduit pipe right now because I installed one yesterday but I wasn’t satisfied. I am going to lay new wiring this afternoon and I might take this conduit with me.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Why are you testing the continuity right now?",
+        "text_b": "I’m testing the continuity right now because I tested it yesterday but I wasn’t satisfied. I am going to inspect the circuit this afternoon and I might take this tester with me.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Why are you mounting the switchboard right now?",
+        "text_b": "I’m mounting the switchboard right now because I mounted one yesterday but I wasn’t satisfied. I am going to check the wiring layout this afternoon and I might take this board with me.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Why are you rewinding the motor coil right now?",
+        "text_b": "I’m rewinding the motor coil right now because I rewound one yesterday but I wasn’t satisfied. I am going to test the motor this afternoon and I might take this coil with me.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-7.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "I repaired the control panel last weekend.",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "Were you repair the control panel last weekend?",
+              "Do you repaired the control panel last weekend?",
+              "What did you repair last weekend?"
+            ],
+            "answer": "What did you repair last weekend?"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "He inspected the circuit breaker yesterday morning.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "Was the electrician inspecting something every morning?",
+              "Did the electrician inspections something yesterday morning?",
+              "What did the electrician inspect yesterday morning?"
+            ],
+            "answer": "What did the electrician inspect yesterday morning?"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "She is very skilled in wiring.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "Is your senior technician skilled in wiring?",
+              "Does your senior technician be skilled in wiring?",
+              "Is your senior technicians skilled in wiring?"
+            ],
+            "answer": "Is your senior technician skilled in wiring?"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "She can replace a faulty fuse.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "She can replaces a faulty fuse?",
+              "Does she replaces a faulty fuse?",
+              "Can she replace a faulty fuse?"
+            ],
+            "answer": "Can she replace a faulty fuse?"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "They are installing new LED lighting right now.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "Is the team installing new switches right now?",
+              "What did they install right now?",
+              "What are they installing right now?"
+            ],
+            "answer": "What are they installing right now?"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "They are going to check the wiring in the main hall next week.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "Are the trainees go to check the wiring in the main hall next week?",
+              "Is your visit next week to the control room?",
+              "What are the trainees going to check in the main hall next week?"
+            ],
+            "answer": "What are the trainees going to check in the main hall next week?"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "They follow a safety checklist every day.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "Do the new trainees follow a checklist every day?",
+              "What are the trainees do every day?",
+              "Is the checklist are for the trainees every day?"
+            ],
+            "answer": "Do the new trainees follow a checklist every day?"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "We were quite tired after a long day in the electrical workshop.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "Were you and your colleagues tired yesterday?",
+              "Are you get tired after working in the electrical workshop?",
+              "Is she tired from the electrical workshop?"
+            ],
+            "answer": "Were you and your colleagues tired yesterday?"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "They tested 30 cables yesterday evening.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "Did they test cables yesterday evening?",
+              "Are the trainees testing cables every day?",
+              "Did you test cables every evening?"
+            ],
+            "answer": "Did they test cables yesterday evening?"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_ex",
+          "text": "I repaired the control panel last weekend.",
+          "audio": "assets/audio/g_b_ex.mp3"
+        },
+        {
+          "id": "g_b_ex_a",
+          "text": "What did you repair last weekend?",
+          "audio": "assets/audio/g_b_ex_a.mp3"
+        },
+        {
+          "id": "g_b_1",
+          "text": "He inspected the circuit breaker yesterday morning.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "What did the electrician inspect yesterday morning?",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "She is very skilled in wiring.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "Is your senior technician skilled in wiring?",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "She can replace a faulty fuse.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "Can she replace a faulty fuse?",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "They are installing new LED lighting right now.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "What are they installing right now?",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "They are going to check the wiring in the main hall next week.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "What are the trainees going to check in the main hall next week?",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "They follow a safety checklist every day.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "Do the new trainees follow a checklist every day?",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "We were quite tired after a long day in the electrical workshop.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "Were you and your colleagues tired yesterday?",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "They tested 30 cables yesterday evening.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "Did they test cables yesterday evening?",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_19_1",
+            "question": "Where did Ramesh gain his part-time electrical experience?",
+            "answer": "A small electrical maintenance team in Kurunegala.",
+            "options": [
+              "A Large electrical maintenance team in Kurunegala.",
+              "A small electrical maintenance team in Kurunegala.",
+              "A high-voltage testing centre in Matara."
+            ]
+          },
+          {
+            "id": "l_19_2",
+            "question": "Which task did Ramesh assist with during his part-time work?",
+            "answer": "Wiring circuits and fixing switches.",
+            "options": [
+              "Wiring circuits and installing water pumps.",
+              "Wiring circuits and fixing switches.",
+              "Painting distribution boards."
+            ]
+          },
+          {
+            "id": "l_19_3",
+            "question": "What tool does he use to test voltage levels?",
+            "answer": "Multimeter.",
+            "options": ["Spirit level.", "Magnometer.", "Multimeter."]
+          },
+          {
+            "id": "l_19_4",
+            "question": "What area does he still need guidance with?",
+            "answer": "Reading wiring diagrams and troubleshooting complex faults.",
+            "options": [
+              "Installing ceiling fans.",
+              "Reading wiring diagrams and troubleshooting complex faults.",
+              "Reading wiring diagrams and circuit boards."
+            ]
+          },
+          {
+            "id": "l_19_5",
+            "question": "What are his plans after completing the training programme?",
+            "answer": "Apply for an apprenticeship and follow safety courses.",
+            "options": [
+              "Work and start on a degree.",
+              "Apply for part time job and travel abroad.",
+              "Apply for an apprenticeship and follow safety courses."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_42_1",
+          "text": "Good morning, please have a seat.",
+          "audio": "assets/audio/t_42_1.mp3"
+        },
+        {
+          "id": "t_42_2",
+          "text": "I’m Mr. Senarath, the electrical training supervisor.",
+          "audio": "assets/audio/t_42_2.mp3"
+        },
+        {
+          "id": "t_42_3",
+          "text": "How are you feeling today?",
+          "audio": "assets/audio/t_42_3.mp3"
+        },
+        {
+          "id": "t_42_4",
+          "text": "Good morning, sir. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_42_4.mp3"
+        },
+        {
+          "id": "t_42_5",
+          "text": "I’m a little nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_42_5.mp3"
+        },
+        {
+          "id": "t_42_6",
+          "text": "That’s perfectly alright.",
+          "audio": "assets/audio/t_42_6.mp3"
+        },
+        {
+          "id": "t_42_7",
+          "text": "This is a friendly interview.",
+          "audio": "assets/audio/t_42_7.mp3"
+        },
+        {
+          "id": "t_42_8",
+          "text": "So, Ramesh, I see that you completed school last year.",
+          "audio": "assets/audio/t_42_8.mp3"
+        },
+        {
+          "id": "t_42_9",
+          "text": "Can you tell me a bit about your background?",
+          "audio": "assets/audio/t_42_9.mp3"
+        },
+        {
+          "id": "t_42_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_42_10.mp3"
+        },
+        {
+          "id": "t_42_11",
+          "text": "During my final year, I worked part-time with a small electrical maintenance team in Kurunegala.",
+          "audio": "assets/audio/t_42_11.mp3"
+        },
+        {
+          "id": "t_42_12",
+          "text": "I don’t have much experience yet, but I can handle basic electrical tasks safely.",
+          "audio": "assets/audio/t_42_12.mp3"
+        },
+        {
+          "id": "t_42_13",
+          "text": "Good to hear.",
+          "audio": "assets/audio/t_42_13.mp3"
+        },
+        {
+          "id": "t_42_14",
+          "text": "What kind of work did you support during your time there?",
+          "audio": "assets/audio/t_42_14.mp3"
+        },
+        {
+          "id": "t_42_15",
+          "text": "I assisted the electrician with wiring new circuits, fixing loose switches, and replacing worn-out sockets.",
+          "audio": "assets/audio/t_42_15.mp3"
+        },
+        {
+          "id": "t_42_16",
+          "text": "I also helped pull cables through conduits and sometimes labelled wires in the distribution board.",
+          "audio": "assets/audio/t_42_16.mp3"
+        },
+        {
+          "id": "t_42_17",
+          "text": "When the workload increased, I checked toolkits and prepared insulation tape and testers for the team.",
+          "audio": "assets/audio/t_42_17.mp3"
+        },
+        {
+          "id": "t_42_18",
+          "text": "I wasn’t in charge of major repairs, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_42_18.mp3"
+        },
+        {
+          "id": "t_42_19",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_42_19.mp3"
+        },
+        {
+          "id": "t_42_20",
+          "text": "What skills do you think you can bring to our training programme?",
+          "audio": "assets/audio/t_42_20.mp3"
+        },
+        {
+          "id": "t_42_21",
+          "text": "I can test voltage levels using a multimeter, sir.",
+          "audio": "assets/audio/t_42_21.mp3"
+        },
+        {
+          "id": "t_42_22",
+          "text": "I know how to identify faulty connections, and I recently started learning how to install miniature circuit breakers.",
+          "audio": "assets/audio/t_42_22.mp3"
+        },
+        {
+          "id": "t_42_23",
+          "text": "I also learnt how to stay calm when dealing with tight deadlines.",
+          "audio": "assets/audio/t_42_23.mp3"
+        },
+        {
+          "id": "t_42_24",
+          "text": "I might need some guidance with reading full wiring diagrams and troubleshooting complex faults, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_42_24.mp3"
+        },
+        {
+          "id": "t_42_25",
+          "text": "That’s a positive attitude.",
+          "audio": "assets/audio/t_42_25.mp3"
+        },
+        {
+          "id": "t_42_26",
+          "text": "How comfortable are you with earthing systems and basic panel work?",
+          "audio": "assets/audio/t_42_26.mp3"
+        },
+        {
+          "id": "t_42_27",
+          "text": "I’m not fully confident yet, but I can already handle simple panel tasks and basic earthing checks.",
+          "audio": "assets/audio/t_42_27.mp3"
+        },
+        {
+          "id": "t_42_28",
+          "text": "I might take more time with advanced control panels and three-phase systems.",
+          "audio": "assets/audio/t_42_28.mp3"
+        },
+        {
+          "id": "t_42_29",
+          "text": "That’s understandable.",
+          "audio": "assets/audio/t_42_29.mp3"
+        },
+        {
+          "id": "t_42_30",
+          "text": "What are your plans for the next few years?",
+          "audio": "assets/audio/t_42_30.mp3"
+        },
+        {
+          "id": "t_42_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_42_31.mp3"
+        },
+        {
+          "id": "t_42_32",
+          "text": "I might also follow short electrical safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_42_32.mp3"
+        },
+        {
+          "id": "t_42_33",
+          "text": "That sounds good.",
+          "audio": "assets/audio/t_42_33.mp3"
+        },
+        {
+          "id": "t_42_34",
+          "text": "Thank you, Ramesh. We’ll contact you soon.",
+          "audio": "assets/audio/t_42_34.mp3"
+        },
+        {
+          "id": "t_42_35",
+          "text": "Thank you very much, sir. I appreciate the opportunity.",
+          "audio": "assets/audio/t_42_35.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_42_4",
+          "text": "Good morning, sir. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_42_4.mp3"
+        },
+        {
+          "id": "t_42_5",
+          "text": "I’m a little nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_42_5.mp3"
+        },
+        {
+          "id": "t_42_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_42_10.mp3"
+        },
+        {
+          "id": "t_42_11",
+          "text": "During my final year, I worked part-time with a small electrical maintenance team in Kurunegala.",
+          "audio": "assets/audio/t_42_11.mp3"
+        },
+        {
+          "id": "t_42_12",
+          "text": "I don’t have much experience yet, but I can handle basic electrical tasks safely.",
+          "audio": "assets/audio/t_42_12.mp3"
+        },
+        {
+          "id": "t_42_15",
+          "text": "I assisted the electrician with wiring new circuits, fixing loose switches, and replacing worn-out sockets.",
+          "audio": "assets/audio/t_42_15.mp3"
+        },
+        {
+          "id": "t_42_16",
+          "text": "I also helped pull cables through conduits and sometimes labelled wires in the distribution board.",
+          "audio": "assets/audio/t_42_16.mp3"
+        },
+        {
+          "id": "t_42_17",
+          "text": "When the workload increased, I checked toolkits and prepared insulation tape and testers for the team.",
+          "audio": "assets/audio/t_42_17.mp3"
+        },
+        {
+          "id": "t_42_18",
+          "text": "I wasn’t in charge of major repairs, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_42_18.mp3"
+        },
+        {
+          "id": "t_42_21",
+          "text": "I can test voltage levels using a multimeter, sir.",
+          "audio": "assets/audio/t_42_21.mp3"
+        },
+        {
+          "id": "t_42_22",
+          "text": "I know how to identify faulty connections, and I recently started learning how to install miniature circuit breakers.",
+          "audio": "assets/audio/t_42_22.mp3"
+        },
+        {
+          "id": "t_42_23",
+          "text": "I also learnt how to stay calm when dealing with tight deadlines.",
+          "audio": "assets/audio/t_42_23.mp3"
+        },
+        {
+          "id": "t_42_24",
+          "text": "I might need some guidance with reading full wiring diagrams and troubleshooting complex faults, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_42_24.mp3"
+        },
+        {
+          "id": "t_42_27",
+          "text": "I’m not fully confident yet, but I can already handle simple panel tasks and basic earthing checks.",
+          "audio": "assets/audio/t_42_27.mp3"
+        },
+        {
+          "id": "t_42_28",
+          "text": "I might take more time with advanced control panels and three-phase systems.",
+          "audio": "assets/audio/t_42_28.mp3"
+        },
+        {
+          "id": "t_42_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_42_31.mp3"
+        },
+        {
+          "id": "t_42_32",
+          "text": "I might also follow short electrical safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_42_32.mp3"
+        },
+        {
+          "id": "t_42_35",
+          "text": "Thank you very much, sir. I appreciate the opportunity.",
+          "audio": "assets/audio/t_42_35.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_42_4",
+          "text": "Good morning, sir. I’m doing fine, thank you.",
+          "audio": "assets/audio/t_42_4.mp3"
+        },
+        {
+          "id": "t_42_5",
+          "text": "I’m a little nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_42_5.mp3"
+        },
+        {
+          "id": "t_42_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_42_10.mp3"
+        },
+        {
+          "id": "t_42_11",
+          "text": "During my final year, I worked part-time with a small electrical maintenance team in Kurunegala.",
+          "audio": "assets/audio/t_42_11.mp3"
+        },
+        {
+          "id": "t_42_12",
+          "text": "I don’t have much experience yet, but I can handle basic electrical tasks safely.",
+          "audio": "assets/audio/t_42_12.mp3"
+        },
+        {
+          "id": "t_42_15",
+          "text": "I assisted the electrician with wiring new circuits, fixing loose switches, and replacing worn-out sockets.",
+          "audio": "assets/audio/t_42_15.mp3"
+        },
+        {
+          "id": "t_42_16",
+          "text": "I also helped pull cables through conduits and sometimes labelled wires in the distribution board.",
+          "audio": "assets/audio/t_42_16.mp3"
+        },
+        {
+          "id": "t_42_17",
+          "text": "When the workload increased, I checked toolkits and prepared insulation tape and testers for the team.",
+          "audio": "assets/audio/t_42_17.mp3"
+        },
+        {
+          "id": "t_42_18",
+          "text": "I wasn’t in charge of major repairs, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_42_18.mp3"
+        },
+        {
+          "id": "t_42_21",
+          "text": "I can test voltage levels using a multimeter, sir.",
+          "audio": "assets/audio/t_42_21.mp3"
+        },
+        {
+          "id": "t_42_22",
+          "text": "I know how to identify faulty connections, and I recently started learning how to install miniature circuit breakers.",
+          "audio": "assets/audio/t_42_22.mp3"
+        },
+        {
+          "id": "t_42_23",
+          "text": "I also learnt how to stay calm when dealing with tight deadlines.",
+          "audio": "assets/audio/t_42_23.mp3"
+        },
+        {
+          "id": "t_42_24",
+          "text": "I might need some guidance with reading full wiring diagrams and troubleshooting complex faults, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_42_24.mp3"
+        },
+        {
+          "id": "t_42_27",
+          "text": "I’m not fully confident yet, but I can already handle simple panel tasks and basic earthing checks.",
+          "audio": "assets/audio/t_42_27.mp3"
+        },
+        {
+          "id": "t_42_28",
+          "text": "I might take more time with advanced control panels and three-phase systems.",
+          "audio": "assets/audio/t_42_28.mp3"
+        },
+        {
+          "id": "t_42_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_42_31.mp3"
+        },
+        {
+          "id": "t_42_32",
+          "text": "I might also follow short electrical safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_42_32.mp3"
+        },
+        {
+          "id": "t_42_35",
+          "text": "Thank you very much, sir. I appreciate the opportunity.",
+          "audio": "assets/audio/t_42_35.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}

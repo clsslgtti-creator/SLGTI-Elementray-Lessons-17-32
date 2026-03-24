@@ -1,0 +1,902 @@
+{
+  "meta": {
+    "lesson_no": 29,
+    "level": "Elementary",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "/r/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "'r'ice",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The cook is good at making 'r'ice dishes and atta flour parathas.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "g'r'inds",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The worker g'r'inds chillies to make curry powder once a week.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "flou'r'",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The baker mixed the flou'r' with warm water yesterday.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "f'r'ye'r'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The chef is going to use the f'r'ye'r' for the potato chips this evening.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "Revision of All Tenses / Might",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Read the answer and use the pause to ask the correct question. Then compare your response with the model question.\n පිළිතුර කියවා නිවැරදි ප්‍රශ්නය ඇසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\n பதிலைக் கவனமாக வாசித்து, இடைவெளியில் சரியான கேள்வியை கேளுங்கள். பின்னர் உங்கள் கேள்வியை மாதிரி கேள்வியுடன் ஒப்பிடவும்.",
+        "audio": "assets/audio/a_2_i_f.mp3"
+      }
+    },
+    "tables": [
+      [
+        [
+          "Why are you looking for your book right now?",
+          "Because I looked for it yesterday but I wasn’t able to find it.",
+          "I’m going to visit my friend this afternoon and I might take the book with me."
+        ]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Why are you baking a fruit cake right now?",
+        "text_b": "I’m baking a fruit cake now because I baked one yesterday but I wasn’t happy with it. I am going to visit my grandparents this afternoon and I might take this cake with me.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Why are you mixing the biscuit batter right now?",
+        "text_b": "I’m mixing the batter right now because I mixed a batch yesterday but I wasn’t happy with it. I am going to meet my aunt this afternoon and I might take this batch of biscuits with me.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Why are you kneading the dough for the buns right now?",
+        "text_b": "I’m kneading the dough right now because I kneaded some yesterday but I wasn’t happy with it. I am going to visit my neighbours this afternoon and I might take these buns with me.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "whisking the cream"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "blending the fruit purée"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "glazing the pastries"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "marinating the chicken"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "dehydrating the mango slices"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "fermenting the yoghurt"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Why are you whisking the cream right now?",
+        "text_b": "I’m whisking the cream right now because I whisked some yesterday but I wasn’t happy with it. I am going to attend a family lunch this afternoon and I might take this cream topping with me.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why are you blending the fruit purée right now?",
+        "text_b": "I’m blending the fruit puree right now because I blended some yesterday but I wasn’t happy with it. I am going to help my sister make jam this afternoon and I might take this purée with me.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Why are you glazing the pastries right now?",
+        "text_b": "I’m glazing the pastries right now because I glazed some yesterday but I wasn’t happy with them. I am going to drop by my cousin’s house this afternoon and I might take these pastries with me.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Why are you marinating the chicken right now?",
+        "text_b": "I’m marinating the chicken right now because I marinated one yesterday but I wasn’t happy with it. I am going to visit my parents this afternoon and I might take this chicken with me.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Why are you dehydrating the mango slices right now?",
+        "text_b": "I’m dehydrating the mango slices right now because I dehydrated some yesterday but I wasn’t happy with them. I am going to meet my cousins this afternoon and I might take these mango slices with me.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Why are you fermenting the yoghurt right now?",
+        "text_b": "I’m fermenting the yoghurt right now because I fermented some yesterday but I wasn’t happy with it. I am going to visit my neighbours this afternoon and I might take this yoghurt with me.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-7.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "I baked a fruit cake last weekend.",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "Were you bake a fruit cake last weekend?",
+              "Do you baked a fruit cake last weekend?",
+              "Did you bake a fruit cake last weekend?"
+            ],
+            "answer": "Did you bake a fruit cake last weekend?"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "Our Chief instructor is very strict.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "Is your chief instructor strict?",
+              "Does your chief instructor be strict?",
+              "Did your chief instructor strict?"
+            ],
+            "answer": "Is your chief instructor strict?"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "She can make salted garlic butter.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "She makes salted garlic butter?",
+              "Does she makes salted garlic butter?",
+              "Can she make salted garlic butter?"
+            ],
+            "answer": "Can she make salted garlic butter?"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "They are planning a nutritious menu at the moment.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "Is she planning a menu at the moment?",
+              "What did they plan at the moment?",
+              "Are they planning the menu at the moment?"
+            ],
+            "answer": "Are they planning the menu at the moment?"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "They are going to visit the modernized food laboratory next week.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "Are the trainees going to visit a factory next week?",
+              "Is your visit next week to a laboratory?",
+              "Where are you going to visit next week?"
+            ],
+            "answer": "Are the trainees going to visit a factory next week?"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "They follow a schedule every day.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "Do the new trainees follow a schedule every day?",
+              "What are the trainees do every day?",
+              "Is the schedule are for the trainees every day?"
+            ],
+            "answer": "Do the new trainees follow a schedule every day?"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "We are quite tired after a busy day at the upgraded training centre.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "Are you and your colleagues tired at the end of the day?",
+              "Are you get tired at the end of the day?",
+              "Is she tired at the end of the day?"
+            ],
+            "answer": "Are you and your colleagues tired at the end of the day?"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "She is supervising them in the fermenting room right now.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "Is the instructor supervising the trainees in the cold room right now?",
+              "Is the supervisor being in the fermenting room right now?",
+              "What is the instructor prepares right now?"
+            ],
+            "answer": "Is the instructor supervising the trainees in the cold room right now?"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "They sterilized 150 milk bottles yesterday evening.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "Did they sterilize the milk bottles yesterday evening?",
+              "Are the trainees sterilizing milk bottles every day?",
+              "Do you sterilize milk bottles every evening?"
+            ],
+            "answer": "Did they sterilize the milk bottles yesterday evening?"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_ex",
+          "text": "I baked a fruit cake last weekend.",
+          "audio": "assets/audio/g_b_ex.mp3"
+        },
+        {
+          "id": "g_b_ex_a",
+          "text": "Did you bake a fruit cake last weekend?",
+          "audio": "assets/audio/g_b_ex_a.mp3"
+        },
+        {
+          "id": "g_b_1",
+          "text": "Our Chief instructor is very strict.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "Is your chief instructor strict?",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "She can make salted garlic butter.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "Can she make salted garlic butter?",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "They are planning a nutritious menu at the moment.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "Are they planning the menu at the moment?",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "They are going to visit the modernized food laboratory next week.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "Are the trainees going to visit a factory next week?",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "They follow a schedule every day.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "Do the new trainees follow a schedule every day?",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "We are quite tired after a busy day at the upgraded training centre.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "Are you and your colleagues tired at the end of the day?",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "She is supervising them in the fermenting room right now.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "Is the instructor supervising the trainees in the cold room right now?",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "They sterilized 150 milk bottles yesterday evening.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "Did they sterilize the milk bottles yesterday evening?",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_19_1",
+            "question": "Where did Nadee gain her part-time food technology experience?",
+            "answer": "A small food production unit in Matale.",
+            "options": [
+              "A large food shop in Matale.",
+              "A small food production unit in Matale.",
+              "A bakery in Jaffna."
+            ]
+          },
+          {
+            "id": "l_19_2",
+            "question": "Which task did she assist the senior operator with?",
+            "answer": "Preparing ingredients and sanitising surfaces.",
+            "options": [
+              "Preparing ingredients and baking cakes.",
+              "Preparing ingredients and sanitising surfaces.",
+              "Ordering supplies."
+            ]
+          },
+          {
+            "id": "l_19_3",
+            "question": "What equipment did she help to operate?",
+            "answer": "Small dough mixer.",
+            "options": [
+              "Industrial oven.",
+              "Small dough mixer.",
+              "Electric grinder."
+            ]
+          },
+          {
+            "id": "l_19_4",
+            "question": "What area does she still need guidance with?",
+            "answer": "Calibrating weighing scales and completing QC forms.",
+            "options": [
+              "Cooking large quantities of curries.",
+              "Cooking large batches of rice.",
+              "Calibrating weighing scales and completing QC forms."
+            ]
+          },
+          {
+            "id": "l_19_5",
+            "question": "What does she plan to do after completing the training programme?",
+            "answer": "Apply for an apprenticeship and follow food safety courses.",
+            "options": [
+              "Apply for work and start a course in another field.",
+              "Apply for work and travel part time.",
+              "Apply for an apprenticeship and follow food safety courses."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_43_1",
+          "text": "Good morning, please have a seat.",
+          "audio": "assets/audio/t_43_1.mp3"
+        },
+        {
+          "id": "t_43_2",
+          "text": "I’m Ms. Perera, the food processing training supervisor.",
+          "audio": "assets/audio/t_43_2.mp3"
+        },
+        {
+          "id": "t_43_3",
+          "text": "How are you feeling today?",
+          "audio": "assets/audio/t_43_3.mp3"
+        },
+        {
+          "id": "t_43_4",
+          "text": "Good morning, madam. I’m doing well, thank you.",
+          "audio": "assets/audio/t_43_4.mp3"
+        },
+        {
+          "id": "t_43_5",
+          "text": "I’m a bit nervous, but I’m ready to do my best.",
+          "audio": "assets/audio/t_43_5.mp3"
+        },
+        {
+          "id": "t_43_6",
+          "text": "That’s completely fine.",
+          "audio": "assets/audio/t_43_6.mp3"
+        },
+        {
+          "id": "t_43_7",
+          "text": "This is a friendly interview.",
+          "audio": "assets/audio/t_43_7.mp3"
+        },
+        {
+          "id": "t_43_8",
+          "text": "So, Nadee, I see you finished school last year.",
+          "audio": "assets/audio/t_43_8.mp3"
+        },
+        {
+          "id": "t_43_9",
+          "text": "Can you tell me a little about your background?",
+          "audio": "assets/audio/t_43_9.mp3"
+        },
+        {
+          "id": "t_43_10",
+          "text": "Yes, madam. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_43_10.mp3"
+        },
+        {
+          "id": "t_43_11",
+          "text": "During my final year, I worked part-time at a small food production unit in Matale.",
+          "audio": "assets/audio/t_43_11.mp3"
+        },
+        {
+          "id": "t_43_12",
+          "text": "I don’t have a lot of experience yet, but I can manage basic food processing tasks carefully.",
+          "audio": "assets/audio/t_43_12.mp3"
+        },
+        {
+          "id": "t_43_13",
+          "text": "Good.",
+          "audio": "assets/audio/t_43_13.mp3"
+        },
+        {
+          "id": "t_43_14",
+          "text": "What kind of work did you support at the production unit?",
+          "audio": "assets/audio/t_43_14.mp3"
+        },
+        {
+          "id": "t_43_15",
+          "text": "I assisted the senior operator with preparing ingredients, sanitising work surfaces, and measuring batches for mixing.",
+          "audio": "assets/audio/t_43_15.mp3"
+        },
+        {
+          "id": "t_43_16",
+          "text": "I also helped operate the small dough mixer and sometimes monitored temperature levels during heating.",
+          "audio": "assets/audio/t_43_16.mp3"
+        },
+        {
+          "id": "t_43_17",
+          "text": "When the unit became busy, I labelled containers and checked packaging for quality issues.",
+          "audio": "assets/audio/t_43_17.mp3"
+        },
+        {
+          "id": "t_43_18",
+          "text": "I wasn’t responsible for major operations, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_43_18.mp3"
+        },
+        {
+          "id": "t_43_19",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_43_19.mp3"
+        },
+        {
+          "id": "t_43_20",
+          "text": "What skills do you think you can contribute to our training programme?",
+          "audio": "assets/audio/t_43_20.mp3"
+        },
+        {
+          "id": "t_43_21",
+          "text": "I can check food temperatures accurately, madam.",
+          "audio": "assets/audio/t_43_21.mp3"
+        },
+        {
+          "id": "t_43_22",
+          "text": "I know how to portion mixtures correctly, and I recently started learning how to adjust the steam kettle settings.",
+          "audio": "assets/audio/t_43_22.mp3"
+        },
+        {
+          "id": "t_43_23",
+          "text": "I also learnt how to stay calm when production targets are tight.",
+          "audio": "assets/audio/t_43_23.mp3"
+        },
+        {
+          "id": "t_43_24",
+          "text": "I might need some guidance with calibration of weighing scales and completing full quality-control forms, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_43_24.mp3"
+        },
+        {
+          "id": "t_43_25",
+          "text": "That’s a positive mindset.",
+          "audio": "assets/audio/t_43_25.mp3"
+        },
+        {
+          "id": "t_43_26",
+          "text": "How comfortable are you with basic hygiene procedures and equipment handling?",
+          "audio": "assets/audio/t_43_26.mp3"
+        },
+        {
+          "id": "t_43_27",
+          "text": "I’m not fully confident yet, but I can already follow simple hygiene routines and operate small-scale equipment safely.",
+          "audio": "assets/audio/t_43_27.mp3"
+        },
+        {
+          "id": "t_43_28",
+          "text": "I might take more time with large industrial mixers and advanced pasteurising machines.",
+          "audio": "assets/audio/t_43_28.mp3"
+        },
+        {
+          "id": "t_43_29",
+          "text": "That’s understandable.",
+          "audio": "assets/audio/t_43_29.mp3"
+        },
+        {
+          "id": "t_43_30",
+          "text": "What are your plans for the next few years?",
+          "audio": "assets/audio/t_43_30.mp3"
+        },
+        {
+          "id": "t_43_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_43_31.mp3"
+        },
+        {
+          "id": "t_43_32",
+          "text": "I might also follow short food safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_43_32.mp3"
+        },
+        {
+          "id": "t_43_33",
+          "text": "Very good.",
+          "audio": "assets/audio/t_43_33.mp3"
+        },
+        {
+          "id": "t_43_34",
+          "text": "Thank you, Nadee. We’ll contact you soon.",
+          "audio": "assets/audio/t_43_34.mp3"
+        },
+        {
+          "id": "t_43_35",
+          "text": "Thank you very much, madam. I appreciate the opportunity.",
+          "audio": "assets/audio/t_43_35.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_43_4",
+          "text": "Good morning, madam. I’m doing well, thank you.",
+          "audio": "assets/audio/t_43_4.mp3"
+        },
+        {
+          "id": "t_43_5",
+          "text": "I’m a bit nervous, but I’m ready to do my best.",
+          "audio": "assets/audio/t_43_5.mp3"
+        },
+        {
+          "id": "t_43_10",
+          "text": "Yes, madam. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_43_10.mp3"
+        },
+        {
+          "id": "t_43_11",
+          "text": "During my final year, I worked part-time at a small food production unit in Matale.",
+          "audio": "assets/audio/t_43_11.mp3"
+        },
+        {
+          "id": "t_43_12",
+          "text": "I don’t have a lot of experience yet, but I can manage basic food processing tasks carefully.",
+          "audio": "assets/audio/t_43_12.mp3"
+        },
+        {
+          "id": "t_43_15",
+          "text": "I assisted the senior operator with preparing ingredients, sanitising work surfaces, and measuring batches for mixing.",
+          "audio": "assets/audio/t_43_15.mp3"
+        },
+        {
+          "id": "t_43_16",
+          "text": "I also helped operate the small dough mixer and sometimes monitored temperature levels during heating.",
+          "audio": "assets/audio/t_43_16.mp3"
+        },
+        {
+          "id": "t_43_17",
+          "text": "When the unit became busy, I labelled containers and checked packaging for quality issues.",
+          "audio": "assets/audio/t_43_17.mp3"
+        },
+        {
+          "id": "t_43_18",
+          "text": "I wasn’t responsible for major operations, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_43_18.mp3"
+        },
+        {
+          "id": "t_43_21",
+          "text": "I can check food temperatures accurately, madam.",
+          "audio": "assets/audio/t_43_21.mp3"
+        },
+        {
+          "id": "t_43_22",
+          "text": "I know how to portion mixtures correctly, and I recently started learning how to adjust the steam kettle settings.",
+          "audio": "assets/audio/t_43_22.mp3"
+        },
+        {
+          "id": "t_43_23",
+          "text": "I also learnt how to stay calm when production targets are tight.",
+          "audio": "assets/audio/t_43_23.mp3"
+        },
+        {
+          "id": "t_43_24",
+          "text": "I might need some guidance with calibration of weighing scales and completing full quality-control forms, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_43_24.mp3"
+        },
+        {
+          "id": "t_43_27",
+          "text": "I’m not fully confident yet, but I can already follow simple hygiene routines and operate small-scale equipment safely.",
+          "audio": "assets/audio/t_43_27.mp3"
+        },
+        {
+          "id": "t_43_28",
+          "text": "I might take more time with large industrial mixers and advanced pasteurising machines.",
+          "audio": "assets/audio/t_43_28.mp3"
+        },
+        {
+          "id": "t_43_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_43_31.mp3"
+        },
+        {
+          "id": "t_43_32",
+          "text": "I might also follow short food safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_43_32.mp3"
+        },
+        {
+          "id": "t_43_35",
+          "text": "Thank you very much, madam. I appreciate the opportunity.",
+          "audio": "assets/audio/t_43_35.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_43_4",
+          "text": "Good morning, madam. I’m doing well, thank you.",
+          "audio": "assets/audio/t_43_4.mp3"
+        },
+        {
+          "id": "t_43_5",
+          "text": "I’m a bit nervous, but I’m ready to do my best.",
+          "audio": "assets/audio/t_43_5.mp3"
+        },
+        {
+          "id": "t_43_10",
+          "text": "Yes, madam. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_43_10.mp3"
+        },
+        {
+          "id": "t_43_11",
+          "text": "During my final year, I worked part-time at a small food production unit in Matale.",
+          "audio": "assets/audio/t_43_11.mp3"
+        },
+        {
+          "id": "t_43_12",
+          "text": "I don’t have a lot of experience yet, but I can manage basic food processing tasks carefully.",
+          "audio": "assets/audio/t_43_12.mp3"
+        },
+        {
+          "id": "t_43_15",
+          "text": "I assisted the senior operator with preparing ingredients, sanitising work surfaces, and measuring batches for mixing.",
+          "audio": "assets/audio/t_43_15.mp3"
+        },
+        {
+          "id": "t_43_16",
+          "text": "I also helped operate the small dough mixer and sometimes monitored temperature levels during heating.",
+          "audio": "assets/audio/t_43_16.mp3"
+        },
+        {
+          "id": "t_43_17",
+          "text": "When the unit became busy, I labelled containers and checked packaging for quality issues.",
+          "audio": "assets/audio/t_43_17.mp3"
+        },
+        {
+          "id": "t_43_18",
+          "text": "I wasn’t responsible for major operations, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_43_18.mp3"
+        },
+        {
+          "id": "t_43_21",
+          "text": "I can check food temperatures accurately, madam.",
+          "audio": "assets/audio/t_43_21.mp3"
+        },
+        {
+          "id": "t_43_22",
+          "text": "I know how to portion mixtures correctly, and I recently started learning how to adjust the steam kettle settings.",
+          "audio": "assets/audio/t_43_22.mp3"
+        },
+        {
+          "id": "t_43_23",
+          "text": "I also learnt how to stay calm when production targets are tight.",
+          "audio": "assets/audio/t_43_23.mp3"
+        },
+        {
+          "id": "t_43_24",
+          "text": "I might need some guidance with calibration of weighing scales and completing full quality-control forms, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_43_24.mp3"
+        },
+        {
+          "id": "t_43_27",
+          "text": "I’m not fully confident yet, but I can already follow simple hygiene routines and operate small-scale equipment safely.",
+          "audio": "assets/audio/t_43_27.mp3"
+        },
+        {
+          "id": "t_43_28",
+          "text": "I might take more time with large industrial mixers and advanced pasteurising machines.",
+          "audio": "assets/audio/t_43_28.mp3"
+        },
+        {
+          "id": "t_43_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_43_31.mp3"
+        },
+        {
+          "id": "t_43_32",
+          "text": "I might also follow short food safety courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_43_32.mp3"
+        },
+        {
+          "id": "t_43_35",
+          "text": "Thank you very much, madam. I appreciate the opportunity.",
+          "audio": "assets/audio/t_43_35.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
