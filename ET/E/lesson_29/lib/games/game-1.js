@@ -1325,8 +1325,8 @@ export const createGameScene = (config) => {
       const visibleCount = Math.max(maxOptions || 0, 2);
       const useCompactLayout = visibleCount >= 3;
       const useExtraCompact = visibleCount >= 4;
-      const buttonWidth = useExtraCompact ? 230 : useCompactLayout ? 307 : 410;
-      const buttonHeight = useExtraCompact ? 140 : 150;
+      const buttonWidth = useExtraCompact ? 270 : useCompactLayout ? 307 : 410;
+      const buttonHeight = useExtraCompact ? 160 : 170;
       const baseY = height - (useExtraCompact ? 130 : 140);
 
       this.optionButtonMetrics = {

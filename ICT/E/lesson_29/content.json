@@ -66,7 +66,7 @@
     ]
   },
   "activity_2": {
-    "type": "SBS-3",
+    "type": "SBS-2",
     "focus": "Revision of All Tenses / Might",
     "instructions": {
       "example": {
@@ -106,7 +106,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
+        "img": "assets/img/a_2_d_1.png",
         "text_a": "Why are you configuring the router right now?",
         "text_b": "I’m configuring the router right now because I configured one yesterday but I wasn’t satisfied. I am going to update the network this afternoon and I might take this router with me.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
@@ -114,7 +114,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.jpeg",
+        "img": "assets/img/a_2_d_2.png",
         "text_a": "Why are you installing the SSD right now?",
         "text_b": "I’m installing the SSD right now because I installed one yesterday but I wasn’t satisfied. I am going to set up a workstation this afternoon and I might take this SSD with me.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
@@ -122,7 +122,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
+        "img": "assets/img/a_2_d_3.png",
         "text_a": "Why are you testing the network cable right now?",
         "text_b": "I’m testing the network cable right now because I tested one yesterday but I wasn’t satisfied. I am going to fix the server rack this afternoon and I might take this cable with me.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
@@ -164,7 +164,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.jpeg",
+        "img": "assets/img/a_2_d_4.png",
         "text_a": "Why are you updating the firmware right now?",
         "text_b": "I’m updating the firmware right now because I updated it yesterday but I wasn’t satisfied. I’m going to check the devices this afternoon and I might take this update with me.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
@@ -172,7 +172,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
+        "img": "assets/img/a_2_d_5.png",
         "text_a": "Why are you cleaning the CPU cooler right now?",
         "text_b": "I’m cleaning the CPU cooler right now because I cleaned one yesterday but I wasn’t satisfied. I am going to repair a desktop this afternoon and I might take this cooler with me.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
@@ -180,7 +180,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "Why are you configuring the firewall rules right now?",
         "text_b": "I’m configuring the firewall rules right now because I configured some yesterday but I wasn’t satisfied. I am going to secure the network this afternoon and I might take these rules with me.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
@@ -188,7 +188,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "Why are you cloning the hard drive right now?",
         "text_b": "I’m cloning the hard drive right now because I cloned one yesterday but I wasn’t satisfied. I am going to restore a system this afternoon and I might take this drive with me.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
@@ -196,7 +196,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.jpeg",
+        "img": "assets/img/a_2_d_8.png",
         "text_a": "Why are you testing the motherboard right now?",
         "text_b": "I’m testing the motherboard right now because I tested one yesterday but I wasn’t satisfied. I am going to assemble a new PC this afternoon and I might take this board with me.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
@@ -204,7 +204,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.jpeg",
+        "img": "assets/img/a_2_d_9.png",
         "text_a": "Why are you configuring the Wi-Fi access point right now?",
         "text_b": "I’m configuring the access point right now because I configured one yesterday but I wasn’t satisfied. I am going to expand the network this afternoon and I might take this access point with me.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
@@ -503,106 +503,356 @@
       },
       "activity_b": [
         {
-          "id": "l_19_1",
-          "question": "Where did Kiran gain his part-time ICT experience?",
-          "answer": "A small ICT support centre in Vavuniya.",
-          "options": [
-            "A Large IT company in Vavuniya.",
-            "A small ICT support centre in Vavuniya.",
-            "A laptop showroom in Jaffna."
-          ]
+          "id": "t_44_1",
+          "text": "Good morning, please have a seat.",
+          "audio": "assets/audio/t_44_1.mp3"
         },
         {
-          "id": "l_19_2",
-          "question": "Which task did he assist the technician with?",
-          "answer": "Troubleshooting minor network issues.",
-          "options": [
-            "Installing codes.",
-            "Troubleshooting minor network issues.",
-            "Troubleshooting software hiccups."
-          ]
+          "id": "t_44_2",
+          "text": "I’m Mr. Pathmanathan, the ICT training supervisor.",
+          "audio": "assets/audio/t_44_2.mp3"
         },
         {
-          "id": "l_19_3",
-          "question": "What new skill is Kiran beginning to learn?",
-          "answer": "Replacing faulty RAM modules.",
-          "options": [
-            "Designing 3D models.",
-            "Designing construction plans.",
-            "Replacing faulty RAM modules."
-          ]
+          "id": "t_44_3",
+          "text": "How are you feeling today?",
+          "audio": "assets/audio/t_44_3.mp3"
         },
         {
-          "id": "l_19_4",
-          "question": "What area does he still need more guidance with?",
-          "answer": "Server maintenance and advanced network configuration.",
-          "options": [
-            "Designing advanced coding.",
-            "Server maintenance and advanced network configuration.",
-            "Maintenance of printers and scanners."
-          ]
+          "id": "t_44_4",
+          "text": "Good morning, sir. I’m doing well, thank you.",
+          "audio": "assets/audio/t_44_4.mp3"
         },
         {
-          "id": "l_19_5",
-          "question": "What does Kiran plan to do after completing the training programme?",
-          "answer": "Apply for an apprenticeship and follow cybersecurity courses.",
-          "options": [
-            "Study further and work part-time.",
-            "Apply for work abroad.",
-            "Apply for an apprenticeship and follow cybersecurity courses."
-          ]
+          "id": "t_44_5",
+          "text": "I’m a bit nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_44_5.mp3"
+        },
+        {
+          "id": "t_44_6",
+          "text": "That’s completely fine.",
+          "audio": "assets/audio/t_44_6.mp3"
+        },
+        {
+          "id": "t_44_7",
+          "text": "This is a friendly interview.",
+          "audio": "assets/audio/t_44_7.mp3"
+        },
+        {
+          "id": "t_44_8",
+          "text": "So, Kiran, I see that you completed school last year.",
+          "audio": "assets/audio/t_44_8.mp3"
+        },
+        {
+          "id": "t_44_9",
+          "text": "Could you tell me a little about your background?",
+          "audio": "assets/audio/t_44_9.mp3"
+        },
+        {
+          "id": "t_44_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_44_10.mp3"
+        },
+        {
+          "id": "t_44_11",
+          "text": "During my final year, I worked part-time at a small ICT support centre in Vavuniya.",
+          "audio": "assets/audio/t_44_11.mp3"
+        },
+        {
+          "id": "t_44_12",
+          "text": "I don’t have a lot of experience yet, but I can manage basic technical tasks confidently.",
+          "audio": "assets/audio/t_44_12.mp3"
+        },
+        {
+          "id": "t_44_13",
+          "text": "Good.",
+          "audio": "assets/audio/t_44_13.mp3"
+        },
+        {
+          "id": "t_44_14",
+          "text": "What kind of work did you support in the ICT centre?",
+          "audio": "assets/audio/t_44_14.mp3"
+        },
+        {
+          "id": "t_44_15",
+          "text": "I assisted the technician with troubleshooting minor network issues, installing basic software, and checking system updates.",
+          "audio": "assets/audio/t_44_15.mp3"
+        },
+        {
+          "id": "t_44_16",
+          "text": "I also helped set up new workstations and sometimes organised cables to keep the desks tidy.",
+          "audio": "assets/audio/t_44_16.mp3"
+        },
+        {
+          "id": "t_44_17",
+          "text": "When the centre became busy, I answered customer calls and prepared simple diagnostics reports.",
+          "audio": "assets/audio/t_44_17.mp3"
+        },
+        {
+          "id": "t_44_18",
+          "text": "I wasn’t responsible for major repairs, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_44_18.mp3"
+        },
+        {
+          "id": "t_44_19",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_44_19.mp3"
+        },
+        {
+          "id": "t_44_20",
+          "text": "What skills do you think you can bring to our training programme?",
+          "audio": "assets/audio/t_44_20.mp3"
+        },
+        {
+          "id": "t_44_21",
+          "text": "I can install operating systems, sir.",
+          "audio": "assets/audio/t_44_21.mp3"
+        },
+        {
+          "id": "t_44_22",
+          "text": "I know how to configure simple routers, and I recently started learning how to replace faulty RAM modules.",
+          "audio": "assets/audio/t_44_22.mp3"
+        },
+        {
+          "id": "t_44_23",
+          "text": "I also learnt how to stay calm when customer issues become urgent.",
+          "audio": "assets/audio/t_44_23.mp3"
+        },
+        {
+          "id": "t_44_24",
+          "text": "I might need some guidance with server maintenance and advanced network configuration, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_44_24.mp3"
+        },
+        {
+          "id": "t_44_25",
+          "text": "That’s a positive attitude.",
+          "audio": "assets/audio/t_44_25.mp3"
+        },
+        {
+          "id": "t_44_26",
+          "text": "How comfortable are you with hardware checks and basic network tasks?",
+          "audio": "assets/audio/t_44_26.mp3"
+        },
+        {
+          "id": "t_44_27",
+          "text": "I’m not fully confident yet, but I can already handle simple hardware inspections and basic LAN setup.",
+          "audio": "assets/audio/t_44_27.mp3"
+        },
+        {
+          "id": "t_44_28",
+          "text": "I might take more time with complex repairs and multi-layer network systems.",
+          "audio": "assets/audio/t_44_28.mp3"
+        },
+        {
+          "id": "t_44_29",
+          "text": "That’s understandable.",
+          "audio": "assets/audio/t_44_29.mp3"
+        },
+        {
+          "id": "t_44_30",
+          "text": "What are your plans for the next few years?",
+          "audio": "assets/audio/t_44_30.mp3"
+        },
+        {
+          "id": "t_44_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_44_31.mp3"
+        },
+        {
+          "id": "t_44_32",
+          "text": "I might also follow short cybersecurity courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_44_32.mp3"
+        },
+        {
+          "id": "t_44_33",
+          "text": "Very good.",
+          "audio": "assets/audio/t_44_33.mp3"
+        },
+        {
+          "id": "t_44_34",
+          "text": "Thank you, Kiran. We’ll contact you soon.",
+          "audio": "assets/audio/t_44_34.mp3"
+        },
+        {
+          "id": "t_44_35",
+          "text": "Thank you very much, sir. I appreciate the opportunity.",
+          "audio": "assets/audio/t_44_35.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "l_19_1",
-          "question": "Where did Kiran gain his part-time ICT experience?",
-          "answer": "A small ICT support centre in Vavuniya.",
-          "options": [
-            "A Large IT company in Vavuniya.",
-            "A small ICT support centre in Vavuniya.",
-            "A laptop showroom in Jaffna."
-          ]
+          "id": "t_44_1",
+          "text": "Good morning, please have a seat.",
+          "audio": "assets/audio/t_44_1.mp3"
         },
         {
-          "id": "l_19_2",
-          "question": "Which task did he assist the technician with?",
-          "answer": "Troubleshooting minor network issues.",
-          "options": [
-            "Installing codes.",
-            "Troubleshooting minor network issues.",
-            "Troubleshooting software hiccups."
-          ]
+          "id": "t_44_2",
+          "text": "I’m Mr. Pathmanathan, the ICT training supervisor.",
+          "audio": "assets/audio/t_44_2.mp3"
         },
         {
-          "id": "l_19_3",
-          "question": "What new skill is Kiran beginning to learn?",
-          "answer": "Replacing faulty RAM modules.",
-          "options": [
-            "Designing 3D models.",
-            "Designing construction plans.",
-            "Replacing faulty RAM modules."
-          ]
+          "id": "t_44_3",
+          "text": "How are you feeling today?",
+          "audio": "assets/audio/t_44_3.mp3"
         },
         {
-          "id": "l_19_4",
-          "question": "What area does he still need more guidance with?",
-          "answer": "Server maintenance and advanced network configuration.",
-          "options": [
-            "Designing advanced coding.",
-            "Server maintenance and advanced network configuration.",
-            "Maintenance of printers and scanners."
-          ]
+          "id": "t_44_4",
+          "text": "Good morning, sir. I’m doing well, thank you.",
+          "audio": "assets/audio/t_44_4.mp3"
         },
         {
-          "id": "l_19_5",
-          "question": "What does Kiran plan to do after completing the training programme?",
-          "answer": "Apply for an apprenticeship and follow cybersecurity courses.",
-          "options": [
-            "Study further and work part-time.",
-            "Apply for work abroad.",
-            "Apply for an apprenticeship and follow cybersecurity courses."
-          ]
+          "id": "t_44_5",
+          "text": "I’m a bit nervous, but I’m ready to try my best.",
+          "audio": "assets/audio/t_44_5.mp3"
+        },
+        {
+          "id": "t_44_6",
+          "text": "That’s completely fine.",
+          "audio": "assets/audio/t_44_6.mp3"
+        },
+        {
+          "id": "t_44_7",
+          "text": "This is a friendly interview.",
+          "audio": "assets/audio/t_44_7.mp3"
+        },
+        {
+          "id": "t_44_8",
+          "text": "So, Kiran, I see that you completed school last year.",
+          "audio": "assets/audio/t_44_8.mp3"
+        },
+        {
+          "id": "t_44_9",
+          "text": "Could you tell me a little about your background?",
+          "audio": "assets/audio/t_44_9.mp3"
+        },
+        {
+          "id": "t_44_10",
+          "text": "Yes, sir. I completed my A/Ls in August.",
+          "audio": "assets/audio/t_44_10.mp3"
+        },
+        {
+          "id": "t_44_11",
+          "text": "During my final year, I worked part-time at a small ICT support centre in Vavuniya.",
+          "audio": "assets/audio/t_44_11.mp3"
+        },
+        {
+          "id": "t_44_12",
+          "text": "I don’t have a lot of experience yet, but I can manage basic technical tasks confidently.",
+          "audio": "assets/audio/t_44_12.mp3"
+        },
+        {
+          "id": "t_44_13",
+          "text": "Good.",
+          "audio": "assets/audio/t_44_13.mp3"
+        },
+        {
+          "id": "t_44_14",
+          "text": "What kind of work did you support in the ICT centre?",
+          "audio": "assets/audio/t_44_14.mp3"
+        },
+        {
+          "id": "t_44_15",
+          "text": "I assisted the technician with troubleshooting minor network issues, installing basic software, and checking system updates.",
+          "audio": "assets/audio/t_44_15.mp3"
+        },
+        {
+          "id": "t_44_16",
+          "text": "I also helped set up new workstations and sometimes organised cables to keep the desks tidy.",
+          "audio": "assets/audio/t_44_16.mp3"
+        },
+        {
+          "id": "t_44_17",
+          "text": "When the centre became busy, I answered customer calls and prepared simple diagnostics reports.",
+          "audio": "assets/audio/t_44_17.mp3"
+        },
+        {
+          "id": "t_44_18",
+          "text": "I wasn’t responsible for major repairs, but I always supported the team whenever they needed help.",
+          "audio": "assets/audio/t_44_18.mp3"
+        },
+        {
+          "id": "t_44_19",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_44_19.mp3"
+        },
+        {
+          "id": "t_44_20",
+          "text": "What skills do you think you can bring to our training programme?",
+          "audio": "assets/audio/t_44_20.mp3"
+        },
+        {
+          "id": "t_44_21",
+          "text": "I can install operating systems, sir.",
+          "audio": "assets/audio/t_44_21.mp3"
+        },
+        {
+          "id": "t_44_22",
+          "text": "I know how to configure simple routers, and I recently started learning how to replace faulty RAM modules.",
+          "audio": "assets/audio/t_44_22.mp3"
+        },
+        {
+          "id": "t_44_23",
+          "text": "I also learnt how to stay calm when customer issues become urgent.",
+          "audio": "assets/audio/t_44_23.mp3"
+        },
+        {
+          "id": "t_44_24",
+          "text": "I might need some guidance with server maintenance and advanced network configuration, but I’m going to improve quickly.",
+          "audio": "assets/audio/t_44_24.mp3"
+        },
+        {
+          "id": "t_44_25",
+          "text": "That’s a positive attitude.",
+          "audio": "assets/audio/t_44_25.mp3"
+        },
+        {
+          "id": "t_44_26",
+          "text": "How comfortable are you with hardware checks and basic network tasks?",
+          "audio": "assets/audio/t_44_26.mp3"
+        },
+        {
+          "id": "t_44_27",
+          "text": "I’m not fully confident yet, but I can already handle simple hardware inspections and basic LAN setup.",
+          "audio": "assets/audio/t_44_27.mp3"
+        },
+        {
+          "id": "t_44_28",
+          "text": "I might take more time with complex repairs and multi-layer network systems.",
+          "audio": "assets/audio/t_44_28.mp3"
+        },
+        {
+          "id": "t_44_29",
+          "text": "That’s understandable.",
+          "audio": "assets/audio/t_44_29.mp3"
+        },
+        {
+          "id": "t_44_30",
+          "text": "What are your plans for the next few years?",
+          "audio": "assets/audio/t_44_30.mp3"
+        },
+        {
+          "id": "t_44_31",
+          "text": "I’m going to complete this training programme and then apply for an apprenticeship.",
+          "audio": "assets/audio/t_44_31.mp3"
+        },
+        {
+          "id": "t_44_32",
+          "text": "I might also follow short cybersecurity courses to strengthen my technical skills.",
+          "audio": "assets/audio/t_44_32.mp3"
+        },
+        {
+          "id": "t_44_33",
+          "text": "Very good.",
+          "audio": "assets/audio/t_44_33.mp3"
+        },
+        {
+          "id": "t_44_34",
+          "text": "Thank you, Kiran. We’ll contact you soon.",
+          "audio": "assets/audio/t_44_34.mp3"
+        },
+        {
+          "id": "t_44_35",
+          "text": "Thank you very much, sir. I appreciate the opportunity.",
+          "audio": "assets/audio/t_44_35.mp3"
         }
       ],
       "activity_d": 0
