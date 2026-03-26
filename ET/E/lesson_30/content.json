@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "load",
+        "word_text": "l'o'ad",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Could you reduce the load on the main circuit, please?",
+        "sentence_text": "Could you reduce the l'o'ad on the main circuit, please?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.jpeg"
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "motor",
+        "word_text": "m'o'tor",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The bulldozer motor ran smoothly after last week’s repair.",
+        "sentence_text": "The bulldozer m'o'tor ran smoothly after last week’s repair.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "probe",
+        "word_text": "pr'o'be",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Check the circuit board with a probe to find the loose connection, please.",
+        "sentence_text": "Check the circuit board with a pr'o'be to find the loose connection, please.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pole",
+        "word_text": "p'o'le",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "We have to move this pole to the end of the corridor.",
+        "sentence_text": "We have to move this p'o'le to the end of the corridor.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -106,7 +106,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
+        "img": "assets/img/a_2_d_1.png",
         "text_a": "Why are you upset today?",
         "text_b": "I am upset because I have to wire the distribution board again. I always label the circuits before wiring but this morning I forgot and it was such a silly mistake.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
@@ -114,7 +114,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.jpeg",
+        "img": "assets/img/a_2_d_2.png",
         "text_a": "Why are you angry?",
         "text_b": "I am angry because I have to test the continuity again. I always check the multimeter settings first but this morning I forgot and the instructor marked me down.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
@@ -122,7 +122,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
+        "img": "assets/img/a_2_d_3.png",
         "text_a": "Why are you tired?",
         "text_b": "I am tired because I have to carry the cable drums again. I always warm up my arms before lifting but today I forgot and my arms already hurt.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
@@ -133,38 +133,38 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "recheck the brake fluid level"
+        "word": "redo the conduit bending"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "replace the air filter"
+        "word": "install the light fittings"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "clean the fuel injectors"
+        "word": "redo all the cable terminations"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "flush the engine oil"
+        "word": "test the RCDs"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "test the battery voltage"
+        "word": "replace the switches"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "scrub the engine bay"
+        "word": "check all the ceiling cables"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.jpeg",
+        "img": "assets/img/a_2_d_4.png",
         "text_a": "Why are you angry?",
         "text_b": "I am angry because I have to redo the conduit bending again. I always measure the angle carefully but today I forgot and the instructor marked me down.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
@@ -172,7 +172,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
+        "img": "assets/img/a_2_d_5.png",
         "text_a": "Why are you tired?",
         "text_b": "I am tired because I have to install the light fittings again. I always sort the screws beforehand but today I forgot and my feet already hurt after standing for so long.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
@@ -180,7 +180,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "Why are you upset?",
         "text_b": "I am upset because I have to redo all the cable terminations again. I always tighten the lugs properly but today I forgot and it was such a silly mistake.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
@@ -188,7 +188,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "Why are you angry?",
         "text_b": "I am angry because I have to test the RCDs again. I always reset the panel before testing but today I forgot and the instructor marked me down.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
@@ -196,7 +196,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.jpeg",
+        "img": "assets/img/a_2_d_8.png",
         "text_a": "Why are you upset?",
         "text_b": "I am upset because I have to replace the switches again. I always isolate the circuit first but today I forgot and it was such a silly mistake.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
@@ -204,7 +204,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.jpeg",
+        "img": "assets/img/a_2_d_9.png",
         "text_a": "Why are you tired?",
         "text_b": "I am tired because I have to check all the ceiling cables again. I always get different duties to do, but today I got only this and my feet already hurt after standing for so long.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
