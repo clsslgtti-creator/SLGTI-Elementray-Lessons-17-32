@@ -665,49 +665,14 @@
       ],
       "activity_c": [
         {
-          "id": "t_47_1",
-          "text": "Good morning, Imran. Nice to meet you.",
-          "audio": "assets/audio/t_47_1.mp3"
-        },
-        {
-          "id": "t_47_2",
-          "text": "Please relax and take a seat.",
-          "audio": "assets/audio/t_47_2.mp3"
-        },
-        {
-          "id": "t_47_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_47_3.mp3"
-        },
-        {
           "id": "t_47_4",
           "text": "Good morning, madam.",
           "audio": "assets/audio/t_47_4.mp3"
         },
         {
-          "id": "t_47_5",
-          "text": "How are you today?",
-          "audio": "assets/audio/t_47_5.mp3"
-        },
-        {
           "id": "t_47_6",
           "text": "Quite good. I’m looking forward to talking to you about my future in the automobile field.",
           "audio": "assets/audio/t_47_6.mp3"
-        },
-        {
-          "id": "t_47_7",
-          "text": "Great.",
-          "audio": "assets/audio/t_47_7.mp3"
-        },
-        {
-          "id": "t_47_8",
-          "text": "Let’s begin with something basic.",
-          "audio": "assets/audio/t_47_8.mp3"
-        },
-        {
-          "id": "t_47_9",
-          "text": "Tell me, what do you know about our company?",
-          "audio": "assets/audio/t_47_9.mp3"
         },
         {
           "id": "t_47_10",
@@ -725,14 +690,81 @@
           "audio": "assets/audio/t_47_12.mp3"
         },
         {
-          "id": "t_47_13",
-          "text": "I’m glad you checked it.",
-          "audio": "assets/audio/t_47_13.mp3"
+          "id": "t_47_15",
+          "text": "Honestly, madam, I like solving real mechanical problems.",
+          "audio": "assets/audio/t_47_15.mp3"
         },
         {
-          "id": "t_47_14",
-          "text": "Now, before we discuss your skills, tell me—what do you like most in the automobile industry?",
-          "audio": "assets/audio/t_47_14.mp3"
+          "id": "t_47_16",
+          "text": "When we inspect brakes, adjust engine timing, or replace filters, I can see improvement immediately.",
+          "audio": "assets/audio/t_47_16.mp3"
+        },
+        {
+          "id": "t_47_17",
+          "text": "I also enjoy working in a busy, hands-on environment.",
+          "audio": "assets/audio/t_47_17.mp3"
+        },
+        {
+          "id": "t_47_20",
+          "text": "I am good at basic engine checks and keeping the service bay organised.",
+          "audio": "assets/audio/t_47_20.mp3"
+        },
+        {
+          "id": "t_47_21",
+          "text": "During my training, I replaced spark plugs, cleaned throttle bodies, and assisted my instructor during full-service inspections.",
+          "audio": "assets/audio/t_47_21.mp3"
+        },
+        {
+          "id": "t_47_23",
+          "text": "I know how to read simple wiring diagrams, check fluid levels, and use tools like torque wrenches, multimeters, and OBD scanners.",
+          "audio": "assets/audio/t_47_23.mp3"
+        },
+        {
+          "id": "t_47_24",
+          "text": "Last month, I carried out a brake-pad replacement during a workshop practical.",
+          "audio": "assets/audio/t_47_24.mp3"
+        },
+        {
+          "id": "t_47_27",
+          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
+          "audio": "assets/audio/t_47_27.mp3"
+        },
+        {
+          "id": "t_47_28",
+          "text": "That’s how I learned more about hybrid-battery maintenance.",
+          "audio": "assets/audio/t_47_28.mp3"
+        },
+        {
+          "id": "t_47_31",
+          "text": "Because I learn fast, I work carefully, and I am always ready to support the team.",
+          "audio": "assets/audio/t_47_31.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_47_4",
+          "text": "Good morning, madam.",
+          "audio": "assets/audio/t_47_4.mp3"
+        },
+        {
+          "id": "t_47_6",
+          "text": "Quite good. I’m looking forward to talking to you about my future in the automobile field.",
+          "audio": "assets/audio/t_47_6.mp3"
+        },
+        {
+          "id": "t_47_10",
+          "text": "Last night I read about your company on the Internet.",
+          "audio": "assets/audio/t_47_10.mp3"
+        },
+        {
+          "id": "t_47_11",
+          "text": "I learned that you specialise in hybrid-vehicle servicing and that you recently opened a new diagnostic centre.",
+          "audio": "assets/audio/t_47_11.mp3"
+        },
+        {
+          "id": "t_47_12",
+          "text": "I also liked the way you use modern scanning tools in your workshops.",
+          "audio": "assets/audio/t_47_12.mp3"
         },
         {
           "id": "t_47_15",
@@ -750,16 +782,6 @@
           "audio": "assets/audio/t_47_17.mp3"
         },
         {
-          "id": "t_47_18",
-          "text": "That’s good to hear.",
-          "audio": "assets/audio/t_47_18.mp3"
-        },
-        {
-          "id": "t_47_19",
-          "text": "And what tasks are you good at?",
-          "audio": "assets/audio/t_47_19.mp3"
-        },
-        {
           "id": "t_47_20",
           "text": "I am good at basic engine checks and keeping the service bay organised.",
           "audio": "assets/audio/t_47_20.mp3"
@@ -768,11 +790,6 @@
           "id": "t_47_21",
           "text": "During my training, I replaced spark plugs, cleaned throttle bodies, and assisted my instructor during full-service inspections.",
           "audio": "assets/audio/t_47_21.mp3"
-        },
-        {
-          "id": "t_47_22",
-          "text": "And what technical skills do you have?",
-          "audio": "assets/audio/t_47_22.mp3"
         },
         {
           "id": "t_47_23",
@@ -785,16 +802,6 @@
           "audio": "assets/audio/t_47_24.mp3"
         },
         {
-          "id": "t_47_25",
-          "text": "We sometimes use advanced diagnostic scanners.",
-          "audio": "assets/audio/t_47_25.mp3"
-        },
-        {
-          "id": "t_47_26",
-          "text": "Are you familiar with them?",
-          "audio": "assets/audio/t_47_26.mp3"
-        },
-        {
           "id": "t_47_27",
           "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_47_27.mp3"
@@ -805,27 +812,11 @@
           "audio": "assets/audio/t_47_28.mp3"
         },
         {
-          "id": "t_47_29",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_47_29.mp3"
-        },
-        {
-          "id": "t_47_30",
-          "text": "Finally, why should we select you?",
-          "audio": "assets/audio/t_47_30.mp3"
-        },
-        {
           "id": "t_47_31",
           "text": "Because I learn fast, I work carefully, and I am always ready to support the team.",
           "audio": "assets/audio/t_47_31.mp3"
-        },
-        {
-          "id": "t_47_32",
-          "text": "Thank you, Imran. We’ll contact you soon.",
-          "audio": "assets/audio/t_47_32.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {

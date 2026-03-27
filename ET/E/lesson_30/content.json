@@ -655,21 +655,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_49_1",
-          "text": "Good morning, Nimal. Nice to meet you.",
-          "audio": "assets/audio/t_49_1.mp3"
-        },
-        {
-          "id": "t_49_2",
-          "text": "Please relax and take a seat.",
-          "audio": "assets/audio/t_49_2.mp3"
-        },
-        {
-          "id": "t_49_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_49_3.mp3"
-        },
-        {
           "id": "t_49_4",
           "text": "Good morning, madam. How are you today?",
           "audio": "assets/audio/t_49_4.mp3"
@@ -678,16 +663,6 @@
           "id": "t_49_5",
           "text": "Quite good. I’m looking forward to talking to you about my career.",
           "audio": "assets/audio/t_49_5.mp3"
-        },
-        {
-          "id": "t_49_6",
-          "text": "Let’s begin with something simple.",
-          "audio": "assets/audio/t_49_6.mp3"
-        },
-        {
-          "id": "t_49_7",
-          "text": "Tell me, what do you know about our company?",
-          "audio": "assets/audio/t_49_7.mp3"
         },
         {
           "id": "t_49_8",
@@ -705,14 +680,81 @@
           "audio": "assets/audio/t_49_10.mp3"
         },
         {
-          "id": "t_49_11",
-          "text": "I’m glad you checked it.",
-          "audio": "assets/audio/t_49_11.mp3"
+          "id": "t_49_13",
+          "text": "Honestly, madam, I like diagnosing faults and restoring power.",
+          "audio": "assets/audio/t_49_13.mp3"
         },
         {
-          "id": "t_49_12",
-          "text": "Before we talk about your skills, tell me—what do you like most in the electrical field?",
-          "audio": "assets/audio/t_49_12.mp3"
+          "id": "t_49_14",
+          "text": "When we check circuits or repair a panel, I can see immediate results.",
+          "audio": "assets/audio/t_49_14.mp3"
+        },
+        {
+          "id": "t_49_15",
+          "text": "I also enjoy working with a team.",
+          "audio": "assets/audio/t_49_15.mp3"
+        },
+        {
+          "id": "t_49_18",
+          "text": "I am good at wiring small systems and organising cables neatly.",
+          "audio": "assets/audio/t_49_18.mp3"
+        },
+        {
+          "id": "t_49_19",
+          "text": "During my training, I installed switches, tested continuity, and helped the instructor label distribution boards.",
+          "audio": "assets/audio/t_49_19.mp3"
+        },
+        {
+          "id": "t_49_21",
+          "text": "I know how to read simple wiring diagrams, measure voltage, and use tools like multimeters, wire strippers, and test pens.",
+          "audio": "assets/audio/t_49_21.mp3"
+        },
+        {
+          "id": "t_49_22",
+          "text": "Last month, I repaired a loose connection in the workshop panel.",
+          "audio": "assets/audio/t_49_22.mp3"
+        },
+        {
+          "id": "t_49_25",
+          "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
+          "audio": "assets/audio/t_49_25.mp3"
+        },
+        {
+          "id": "t_49_26",
+          "text": "That’s how I learned more about surge protection.",
+          "audio": "assets/audio/t_49_26.mp3"
+        },
+        {
+          "id": "t_49_29",
+          "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
+          "audio": "assets/audio/t_49_29.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_49_4",
+          "text": "Good morning, madam. How are you today?",
+          "audio": "assets/audio/t_49_4.mp3"
+        },
+        {
+          "id": "t_49_5",
+          "text": "Quite good. I’m looking forward to talking to you about my career.",
+          "audio": "assets/audio/t_49_5.mp3"
+        },
+        {
+          "id": "t_49_8",
+          "text": "Last night I read about your company on the Internet.",
+          "audio": "assets/audio/t_49_8.mp3"
+        },
+        {
+          "id": "t_49_9",
+          "text": "I saw that you installed a new power-distribution system in Kilinochchi and that you focus strongly on safety and electrical standards.",
+          "audio": "assets/audio/t_49_9.mp3"
+        },
+        {
+          "id": "t_49_10",
+          "text": "I also liked the way you use modern testing equipment.",
+          "audio": "assets/audio/t_49_10.mp3"
         },
         {
           "id": "t_49_13",
@@ -730,16 +772,6 @@
           "audio": "assets/audio/t_49_15.mp3"
         },
         {
-          "id": "t_49_16",
-          "text": "That’s a good attitude.",
-          "audio": "assets/audio/t_49_16.mp3"
-        },
-        {
-          "id": "t_49_17",
-          "text": "And what tasks are you good at?",
-          "audio": "assets/audio/t_49_17.mp3"
-        },
-        {
           "id": "t_49_18",
           "text": "I am good at wiring small systems and organising cables neatly.",
           "audio": "assets/audio/t_49_18.mp3"
@@ -748,11 +780,6 @@
           "id": "t_49_19",
           "text": "During my training, I installed switches, tested continuity, and helped the instructor label distribution boards.",
           "audio": "assets/audio/t_49_19.mp3"
-        },
-        {
-          "id": "t_49_20",
-          "text": "And what technical skills do you have?",
-          "audio": "assets/audio/t_49_20.mp3"
         },
         {
           "id": "t_49_21",
@@ -765,16 +792,6 @@
           "audio": "assets/audio/t_49_22.mp3"
         },
         {
-          "id": "t_49_23",
-          "text": "We sometimes use digital insulation testers.",
-          "audio": "assets/audio/t_49_23.mp3"
-        },
-        {
-          "id": "t_49_24",
-          "text": "Are you familiar with them?",
-          "audio": "assets/audio/t_49_24.mp3"
-        },
-        {
           "id": "t_49_25",
           "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_49_25.mp3"
@@ -785,27 +802,11 @@
           "audio": "assets/audio/t_49_26.mp3"
         },
         {
-          "id": "t_49_27",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_49_27.mp3"
-        },
-        {
-          "id": "t_49_28",
-          "text": "Finally, why should we select you?",
-          "audio": "assets/audio/t_49_28.mp3"
-        },
-        {
           "id": "t_49_29",
           "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
           "audio": "assets/audio/t_49_29.mp3"
-        },
-        {
-          "id": "t_49_30",
-          "text": "Well said, Nimal. We’ll contact you soon.",
-          "audio": "assets/audio/t_49_30.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {

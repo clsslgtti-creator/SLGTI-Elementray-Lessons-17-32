@@ -655,21 +655,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_50_1",
-          "text": "Good morning, Mala. Nice to meet you.",
-          "audio": "assets/audio/t_50_1.mp3"
-        },
-        {
-          "id": "t_50_2",
-          "text": "Please relax and take a seat.",
-          "audio": "assets/audio/t_50_2.mp3"
-        },
-        {
-          "id": "t_50_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_50_3.mp3"
-        },
-        {
           "id": "t_50_4",
           "text": "Good morning, madam. How are you today?",
           "audio": "assets/audio/t_50_4.mp3"
@@ -678,16 +663,6 @@
           "id": "t_50_5",
           "text": "Quite good. I’m looking forward to talking to you about my career.",
           "audio": "assets/audio/t_50_5.mp3"
-        },
-        {
-          "id": "t_50_6",
-          "text": "Let’s start with something simple then.",
-          "audio": "assets/audio/t_50_6.mp3"
-        },
-        {
-          "id": "t_50_7",
-          "text": "Tell me, what do you know about our company?",
-          "audio": "assets/audio/t_50_7.mp3"
         },
         {
           "id": "t_50_8",
@@ -705,16 +680,6 @@
           "audio": "assets/audio/t_50_10.mp3"
         },
         {
-          "id": "t_50_11",
-          "text": "I’m glad you checked it.",
-          "audio": "assets/audio/t_50_11.mp3"
-        },
-        {
-          "id": "t_50_12",
-          "text": "Now, before we talk about your skills, tell me—what do you like most in the food-processing field?",
-          "audio": "assets/audio/t_50_12.mp3"
-        },
-        {
           "id": "t_50_13",
           "text": "Honestly, madam, I like seeing consistent results.",
           "audio": "assets/audio/t_50_13.mp3"
@@ -730,16 +695,6 @@
           "audio": "assets/audio/t_50_15.mp3"
         },
         {
-          "id": "t_50_16",
-          "text": "That’s a good attitude.",
-          "audio": "assets/audio/t_50_16.mp3"
-        },
-        {
-          "id": "t_50_17",
-          "text": "And what tasks are you good at?",
-          "audio": "assets/audio/t_50_17.mp3"
-        },
-        {
           "id": "t_50_18",
           "text": "I am good at portioning ingredients and checking product quality.",
           "audio": "assets/audio/t_50_18.mp3"
@@ -750,11 +705,6 @@
           "audio": "assets/audio/t_50_19.mp3"
         },
         {
-          "id": "t_50_20",
-          "text": "And what technical skills do you have?",
-          "audio": "assets/audio/t_50_20.mp3"
-        },
-        {
           "id": "t_50_21",
           "text": "I know how to read simple processing charts, measure temperatures, and use tools like digital thermometers, pH meters, and stainless-steel scoops.",
           "audio": "assets/audio/t_50_21.mp3"
@@ -763,16 +713,6 @@
           "id": "t_50_22",
           "text": "Last month, I corrected an inconsistent mixture in the workshop.",
           "audio": "assets/audio/t_50_22.mp3"
-        },
-        {
-          "id": "t_50_23",
-          "text": "We sometimes use programmable batch controllers.",
-          "audio": "assets/audio/t_50_23.mp3"
-        },
-        {
-          "id": "t_50_24",
-          "text": "Are you familiar with them?",
-          "audio": "assets/audio/t_50_24.mp3"
         },
         {
           "id": "t_50_25",
@@ -798,14 +738,95 @@
           "id": "t_50_29",
           "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
           "audio": "assets/audio/t_50_29.mp3"
-        },
-        {
-          "id": "t_50_30",
-          "text": "Well said, Mala. We’ll contact you soon.",
-          "audio": "assets/audio/t_50_30.mp3"
         }
       ],
-      "activity_d": 0
+      "activity_d": [
+        {
+          "id": "t_50_4",
+          "text": "Good morning, madam. How are you today?",
+          "audio": "assets/audio/t_50_4.mp3"
+        },
+        {
+          "id": "t_50_5",
+          "text": "Quite good. I’m looking forward to talking to you about my career.",
+          "audio": "assets/audio/t_50_5.mp3"
+        },
+        {
+          "id": "t_50_8",
+          "text": "Last night I read about your company on the Internet.",
+          "audio": "assets/audio/t_50_8.mp3"
+        },
+        {
+          "id": "t_50_9",
+          "text": "I saw that you expanded a dairy-processing line in Anuradhapura and that you focus strongly on hygiene and quality.",
+          "audio": "assets/audio/t_50_9.mp3"
+        },
+        {
+          "id": "t_50_10",
+          "text": "I also liked the way you use automated mixers and thermostatic controls.",
+          "audio": "assets/audio/t_50_10.mp3"
+        },
+        {
+          "id": "t_50_13",
+          "text": "Honestly, madam, I like seeing consistent results.",
+          "audio": "assets/audio/t_50_13.mp3"
+        },
+        {
+          "id": "t_50_14",
+          "text": "When we weigh ingredients, adjust temperatures, or monitor fermentation, I can see the changes immediately.",
+          "audio": "assets/audio/t_50_14.mp3"
+        },
+        {
+          "id": "t_50_15",
+          "text": "I also enjoy working with a team.",
+          "audio": "assets/audio/t_50_15.mp3"
+        },
+        {
+          "id": "t_50_18",
+          "text": "I am good at portioning ingredients and checking product quality.",
+          "audio": "assets/audio/t_50_18.mp3"
+        },
+        {
+          "id": "t_50_19",
+          "text": "During my training, I operated small mixers, monitored pasteurisation steps, and helped the instructor label storage batches.",
+          "audio": "assets/audio/t_50_19.mp3"
+        },
+        {
+          "id": "t_50_21",
+          "text": "I know how to read simple processing charts, measure temperatures, and use tools like digital thermometers, pH meters, and stainless-steel scoops.",
+          "audio": "assets/audio/t_50_21.mp3"
+        },
+        {
+          "id": "t_50_22",
+          "text": "Last month, I corrected an inconsistent mixture in the workshop.",
+          "audio": "assets/audio/t_50_22.mp3"
+        },
+        {
+          "id": "t_50_25",
+          "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
+          "audio": "assets/audio/t_50_25.mp3"
+        },
+        {
+          "id": "t_50_26",
+          "text": "That’s how I learned more about controlling viscosity.",
+          "audio": "assets/audio/t_50_26.mp3"
+        },
+        {
+          "id": "t_50_27",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_50_27.mp3"
+        },
+        {
+          "id": "t_50_28",
+          "text": "Finally, why should we select you?",
+          "audio": "assets/audio/t_50_28.mp3"
+        },
+        {
+          "id": "t_50_29",
+          "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
+          "audio": "assets/audio/t_50_29.mp3"
+        }
+      ]
     }
   },
   "activity_5": {

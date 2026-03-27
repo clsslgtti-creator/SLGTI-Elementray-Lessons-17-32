@@ -655,21 +655,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_48_1",
-          "text": "Good morning, Suresh. Nice to meet you.",
-          "audio": "assets/audio/t_48_1.mp3"
-        },
-        {
-          "id": "t_48_2",
-          "text": "Please relax and take a seat.",
-          "audio": "assets/audio/t_48_2.mp3"
-        },
-        {
-          "id": "t_48_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_48_3.mp3"
-        },
-        {
           "id": "t_48_4",
           "text": "Good morning, sir. How are you today?",
           "audio": "assets/audio/t_48_4.mp3"
@@ -678,16 +663,6 @@
           "id": "t_48_5",
           "text": "Quite good. I’m looking forward to talking to you about my career.",
           "audio": "assets/audio/t_48_5.mp3"
-        },
-        {
-          "id": "t_48_6",
-          "text": "Let’s start with something simple then.",
-          "audio": "assets/audio/t_48_6.mp3"
-        },
-        {
-          "id": "t_48_7",
-          "text": "Tell me, what do you know about our company?",
-          "audio": "assets/audio/t_48_7.mp3"
         },
         {
           "id": "t_48_8",
@@ -705,14 +680,81 @@
           "audio": "assets/audio/t_48_10.mp3"
         },
         {
-          "id": "t_48_11",
-          "text": "I’m glad you checked it.",
-          "audio": "assets/audio/t_48_11.mp3"
+          "id": "t_48_13",
+          "text": "Honestly, sir, I like seeing real progress every day.",
+          "audio": "assets/audio/t_48_13.mp3"
         },
         {
-          "id": "t_48_12",
-          "text": "Now, before we talk about your skills, tell me—what do you like most in the construction industry?",
-          "audio": "assets/audio/t_48_12.mp3"
+          "id": "t_48_14",
+          "text": "When we build a wall, fix formwork, or level a floor, I can see the result immediately.",
+          "audio": "assets/audio/t_48_14.mp3"
+        },
+        {
+          "id": "t_48_15",
+          "text": "I also enjoy working with a team.",
+          "audio": "assets/audio/t_48_15.mp3"
+        },
+        {
+          "id": "t_48_18",
+          "text": "I am good at keeping the site organized and using different plastering techniques.",
+          "audio": "assets/audio/t_48_18.mp3"
+        },
+        {
+          "id": "t_48_19",
+          "text": "During my training, I built sample walls, levelled surfaces, and helped the instructor mark foundation lines.",
+          "audio": "assets/audio/t_48_19.mp3"
+        },
+        {
+          "id": "t_48_21",
+          "text": "I know how to read simple site drawings, measure lengths, and use tools like trowels, plumb lines, and spirit levels.",
+          "audio": "assets/audio/t_48_21.mp3"
+        },
+        {
+          "id": "t_48_22",
+          "text": "Last month, I plastered a damaged section at the workshop.",
+          "audio": "assets/audio/t_48_22.mp3"
+        },
+        {
+          "id": "t_48_25",
+          "text": "I am not familiar with them, sir, but I can read about them on the Internet.",
+          "audio": "assets/audio/t_48_25.mp3"
+        },
+        {
+          "id": "t_48_26",
+          "text": "That’s how I learned more about renovating old buildings.",
+          "audio": "assets/audio/t_48_26.mp3"
+        },
+        {
+          "id": "t_48_29",
+          "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
+          "audio": "assets/audio/t_48_29.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_48_4",
+          "text": "Good morning, sir. How are you today?",
+          "audio": "assets/audio/t_48_4.mp3"
+        },
+        {
+          "id": "t_48_5",
+          "text": "Quite good. I’m looking forward to talking to you about my career.",
+          "audio": "assets/audio/t_48_5.mp3"
+        },
+        {
+          "id": "t_48_8",
+          "text": "Last night I read about your company on the Internet.",
+          "audio": "assets/audio/t_48_8.mp3"
+        },
+        {
+          "id": "t_48_9",
+          "text": "I saw that you completed a housing project in Jaffna and that you focus strongly on safety and quality.",
+          "audio": "assets/audio/t_48_9.mp3"
+        },
+        {
+          "id": "t_48_10",
+          "text": "I also liked the way you use technology in your projects.",
+          "audio": "assets/audio/t_48_10.mp3"
         },
         {
           "id": "t_48_13",
@@ -730,16 +772,6 @@
           "audio": "assets/audio/t_48_15.mp3"
         },
         {
-          "id": "t_48_16",
-          "text": "That’s a good attitude.",
-          "audio": "assets/audio/t_48_16.mp3"
-        },
-        {
-          "id": "t_48_17",
-          "text": "And what tasks are you good at?",
-          "audio": "assets/audio/t_48_17.mp3"
-        },
-        {
           "id": "t_48_18",
           "text": "I am good at keeping the site organized and using different plastering techniques.",
           "audio": "assets/audio/t_48_18.mp3"
@@ -748,11 +780,6 @@
           "id": "t_48_19",
           "text": "During my training, I built sample walls, levelled surfaces, and helped the instructor mark foundation lines.",
           "audio": "assets/audio/t_48_19.mp3"
-        },
-        {
-          "id": "t_48_20",
-          "text": "And what technical skills do you have?",
-          "audio": "assets/audio/t_48_20.mp3"
         },
         {
           "id": "t_48_21",
@@ -765,16 +792,6 @@
           "audio": "assets/audio/t_48_22.mp3"
         },
         {
-          "id": "t_48_23",
-          "text": "We sometimes use laser levelling tools.",
-          "audio": "assets/audio/t_48_23.mp3"
-        },
-        {
-          "id": "t_48_24",
-          "text": "Are you familiar with them?",
-          "audio": "assets/audio/t_48_24.mp3"
-        },
-        {
           "id": "t_48_25",
           "text": "I am not familiar with them, sir, but I can read about them on the Internet.",
           "audio": "assets/audio/t_48_25.mp3"
@@ -785,27 +802,11 @@
           "audio": "assets/audio/t_48_26.mp3"
         },
         {
-          "id": "t_48_27",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_48_27.mp3"
-        },
-        {
-          "id": "t_48_28",
-          "text": "Finally, why should we select you?",
-          "audio": "assets/audio/t_48_28.mp3"
-        },
-        {
           "id": "t_48_29",
           "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
           "audio": "assets/audio/t_48_29.mp3"
-        },
-        {
-          "id": "t_48_30",
-          "text": "Well said, Suresh. We’ll contact you soon.",
-          "audio": "assets/audio/t_48_30.mp3"
         }
-      ],
-      "activity_d": 0
+      ]
     }
   },
   "activity_5": {
