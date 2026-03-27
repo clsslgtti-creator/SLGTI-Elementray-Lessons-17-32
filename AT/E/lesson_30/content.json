@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lesson_no": 30,
+    "lesson_no": "30 - Revision I",
     "level": "Elementary",
     "section": "Automobile Technology",
     "prepared_by": "Colombo Language School"
@@ -94,15 +94,6 @@
         "audio": "assets/audio/a_2_i_f.mp3"
       }
     },
-    "tables": [
-      [
-        [
-          "Why are you looking for your book right now?",
-          "Because I looked for it yesterday but I wasn’t able to find it.",
-          "I’m going to visit my friend this afternoon and I might take the book with me."
-        ]
-      ]
-    ],
     "example_dialogues": [
       {
         "id": "d_1",
