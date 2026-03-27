@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "m'o'tor",
+        "word_text": "upl'o'ad",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The chief engineer stopped the caterpillar m'o'tor abruptly.",
+        "sentence_text": "Is it possible to upl'o'ad the project to the server this afternoon?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "r'o'ad",
+        "word_text": "c'o'de",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The trainees did not notice the dented car on the right side of the r'o'ad.",
+        "sentence_text": "Our team completed the complex c'o'de for the program 2 days ago.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sp'o'ke",
+        "word_text": "n'o'de",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Could you please bring that wheel with a rusty sp'o'ke here?",
+        "sentence_text": "We are going to restart the main network n'o'de to fix the connectivity issue.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "c'o'ne",
+        "word_text": "m'o'de",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Let’s place the safety c'o'ne near the back of the road roller.",
+        "sentence_text": "The technician switched the router to safe m'o'de before updating the firmware.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -108,7 +108,7 @@
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
         "text_a": "Why are you upset today?",
-        "text_b": "I am upset because I have to adjust the wheel alignment again. I always check the calibration of the alignment stand before starting but this morning I forgot and it was such a silly mistake.",
+        "text_b": "I am upset because I have to reinstall the software again. I always check the licence key first but this morning I forgot and it was such a silly mistake.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
@@ -116,7 +116,7 @@
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
         "text_a": "Why are you angry?",
-        "text_b": "I am angry because I have to refill the coolant system again. I always tighten the reservoir cap properly but this morning I forgot and the instructor marked me down.",
+        "text_b": "I am angry because I have to reboot all the workstations again. I always save the configurations properly but this morning I forgot and the instructor marked me down.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
@@ -124,7 +124,7 @@
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
         "text_a": "Why are you tired?",
-        "text_b": "I am tired because I have to mount all the tires again. I always clean the rim edges before mounting but today I forgot and my feet already hurt after standing for so long.",
+        "text_b": "I am tired because I have to carry all the network cables again. I always stretch before lifting but today I forgot and my arms already hurt.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -133,32 +133,32 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "recheck the brake fluid level"
+        "word": "check the server logs"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "replace the air filter"
+        "word": "replace the patch cables"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "clean the fuel injectors"
+        "word": "test the Wi-Fi routers"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "flush the engine oil"
+        "word": "clean the fibre ports"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "test the battery voltage"
+        "word": "configure the printers"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "scrub the engine bay"
+        "word": "scan all the old documents"
       }
     ],
     "dialogues": [
@@ -166,7 +166,7 @@
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
         "text_a": "Why are you angry?",
-        "text_b": "I am angry because I have to recheck the brake fluid level again. I always inspect the master cylinder carefully but today I forgot and the instructor marked me down.",
+        "text_b": "I am angry because I have to check the server logs again. I always filter the errors correctly but today I forgot and the instructor marked me down.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
@@ -174,7 +174,7 @@
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
         "text_a": "Why are you tired?",
-        "text_b": "I am tired because I have to replace the air filter again. I always clear the housing chamber properly but today I forgot and my feet already hurt after standing for so long.",
+        "text_b": "I am tired because I have to replace the patch cables again. I always label them first but today I forgot and my feet already hurt after standing for so long.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
@@ -182,7 +182,7 @@
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
         "text_a": "Why are you upset?",
-        "text_b": "I am upset because I have to clean the fuel injectors again. I always attach the nozzles correctly but today I forgot and it was such a silly mistake.",
+        "text_b": "I am upset because I have to test the Wi-Fi routers again. I always update the firmware beforehand but today I forgot and it was such a silly mistake.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
@@ -190,7 +190,7 @@
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
         "text_a": "Why are you angry?",
-        "text_b": "I am angry because I have to flush the engine oil again. I always warm up the engine slightly before draining but today I forgot and the instructor marked me down.",
+        "text_b": "I am angry because I have to clean the fibre ports again. I always use the proper cleaning stick but today I forgot and the instructor marked me down.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
@@ -198,7 +198,7 @@
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
         "text_a": "Why are you upset?",
-        "text_b": "I am upset because I have to test the battery voltage again. I always connect the multimeter leads properly but today I forgot and it was such a silly mistake.",
+        "text_b": "I am upset because I have to configure the printers again. I always check the IP settings in advance but today I forgot and it was such a silly mistake.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
@@ -206,7 +206,7 @@
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
         "text_a": "Why are you tired?",
-        "text_b": "I am tired because I have to scrub the engine bay again. I always rotate duties with others, but today I got only cleaning work and my feet already hurt after standing for so long.",
+        "text_b": "I am tired because I have to scan all the old documents again. I always rotate tasks with others, but today I got only scanning work and my feet already hurt after standing for so long.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
@@ -230,121 +230,121 @@
         "examples": [
           {
             "id": "g_b_ex",
-            "sentence": "He maintains the tools, he assists the trainees, and he checks workshop safety.",
+            "sentence": "They are uploading system logs now.",
             "audio": "assets/audio/g_b_ex.mp3",
             "options": [
-              "What does the technician do every day?",
-              "Is the technician assisting now?",
-              "What is the technician doing?"
+              "Do they upload logs yesterday?",
+              "What are the trainees doing now?",
+              "Why they upload logs?"
             ],
-            "answer": "What does the technician do every day?"
+            "answer": "What are the trainees doing now?"
           }
         ],
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "I was in the engine diagnostics bay this morning.",
+            "sentence": "I was in the server room this morning.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "Where were you this morning?",
-              "Are you in the diagnostics bay right now?",
-              "Do you work in the diagnostics bay every day?"
+              "Is he in the server room now?",
+              "Were they fixing the server?"
             ],
             "answer": "Where were you this morning?"
           },
           {
             "id": "g_b_2",
-            "sentence": "They are checking the tire pressure before the test drive.",
+            "sentence": "They are configuring the new firewall today.",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
-              "What are they checking?",
-              "What do they check?",
-              "Why do they checks the tire pressure?"
+              "What are they doing today?",
+              "Do they configure the firewall every day?",
+              "Why do they configures the firewall?"
             ],
-            "answer": "What are they checking?"
+            "answer": "What are they doing today?"
           },
           {
             "id": "g_b_3",
-            "sentence": "They can repair automatic gearboxes very well.",
+            "sentence": "He can install network switches very quickly.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
-              "What can they repair well?",
-              "Has the team repaired gearboxes before?",
-              "How well do we repair automatic gearboxes?"
+              "What can he install?",
+              "Does he installed switches?",
+              "How many switches is he installing now?"
             ],
-            "answer": "What can they repair well?"
+            "answer": "What can he install?"
           },
           {
             "id": "g_b_4",
-            "sentence": "He is very punctual every day.",
+            "sentence": "They are testing the updated software now.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
-              "Is your technician on time every day?",
-              "Are your technicians coming on time?",
-              "Who is your technician?"
+              "What are the trainees testing now?",
+              "Do they test the software every week?",
+              "Are they tested the software?"
             ],
-            "answer": "Is your technician on time every day?"
+            "answer": "What are the trainees testing now?"
           },
           {
             "id": "g_b_5",
-            "sentence": "They are going to visit the vehicle inspection centre next Monday.",
+            "sentence": "She is very accurate in coding every day.",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
-              "Where are they going next Monday?",
-              "Is their visit next week to a workshop?",
-              "Where are you going to visit next week?"
+              "Is the programmer accurate yesterday?",
+              "Is she accurate in coding ?",
+              "Are the programmers being accurate now?"
             ],
-            "answer": "Where are they going next Monday?"
+            "answer": "Is she accurate in coding ?"
           },
           {
             "id": "g_b_6",
-            "sentence": "They work in three different service bays every day.",
+            "sentence": "He repaired the office Wi-Fi router yesterday.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
-              "Do the trainees work in the same bay every day?",
-              "What are the trainees do every day?",
-              "Is the schedule for the trainees every day?"
+              "When do he repairs the router?",
+              "What did he repair yesterday?",
+              "Is he repairing the router now?"
             ],
-            "answer": "Do the trainees work in the same bay every day?"
+            "answer": "What did he repair yesterday?"
           },
           {
             "id": "g_b_7",
-            "sentence": "She is inspecting the brake system right now.",
+            "sentence": "She was in the ICT lab during the test run.",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
-              "What is she inspecting right now?",
-              "Is she being in the brake bay right now?",
-              "What is the technician prepares right now?"
+              "Where was she during the test run?",
+              "Is she in the ICT lab now?",
+              "Were they testing her?"
             ],
-            "answer": "What is she inspecting right now?"
+            "answer": "Where was she during the test run?"
           },
           {
             "id": "g_b_8",
-            "sentence": "The supplier delivered a new set of shock absorbers last evening.",
+            "sentence": "He can design simple mobile apps.",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
-              "What did the supplier deliver last evening?",
-              "Are the shock absorbers delivered last evening?",
-              "Did the supplier order shock absorbers last evening?"
+              "What did he designed?",
+              "What can he design?",
+              "When can he designing apps?"
             ],
-            "answer": "What did the supplier deliver last evening?"
+            "answer": "What can he design?"
           }
         ]
       },
       "activity_b": [
         {
           "id": "g_b_ex",
-          "text": "He maintains the tools, he assists the trainees, and he checks workshop safety.",
+          "text": "They are uploading system logs now.",
           "audio": "assets/audio/g_b_ex.mp3"
         },
         {
           "id": "g_b_ex_a",
-          "text": "What does the technician do every day?",
+          "text": "What are the trainees doing now?",
           "audio": "assets/audio/g_b_ex_a.mp3"
         },
         {
           "id": "g_b_1",
-          "text": "I was in the engine diagnostics bay this morning.",
+          "text": "I was in the server room this morning.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
@@ -354,72 +354,72 @@
         },
         {
           "id": "g_b_2",
-          "text": "They are checking the tire pressure before the test drive.",
+          "text": "They are configuring the new firewall today.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_2_a",
-          "text": "What are they checking?",
+          "text": "What are they doing today?",
           "audio": "assets/audio/g_b_2_a.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "They can repair automatic gearboxes very well.",
+          "text": "He can install network switches very quickly.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_3_a",
-          "text": "What can they repair well?",
+          "text": "What can he install?",
           "audio": "assets/audio/g_b_3_a.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "He is very punctual every day.",
+          "text": "They are testing the updated software now.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_4_a",
-          "text": "Is your technician on time every day?",
+          "text": "What are the trainees testing now?",
           "audio": "assets/audio/g_b_4_a.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "They are going to visit the vehicle inspection centre next Monday.",
+          "text": "She is very accurate in coding every day.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_5_a",
-          "text": "Where are they going next Monday?",
+          "text": "Is she accurate in coding ?",
           "audio": "assets/audio/g_b_5_a.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "They work in three different service bays every day.",
+          "text": "He repaired the office Wi-Fi router yesterday.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_6_a",
-          "text": "Do the trainees work in the same bay every day?",
+          "text": "What did he repair yesterday?",
           "audio": "assets/audio/g_b_6_a.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "She is inspecting the brake system right now.",
+          "text": "She was in the ICT lab during the test run.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_7_a",
-          "text": "What is she inspecting right now?",
+          "text": "Where was she during the test run?",
           "audio": "assets/audio/g_b_7_a.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "The supplier delivered a new set of shock absorbers last evening.",
+          "text": "He can design simple mobile apps.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_8_a",
-          "text": "What did the supplier deliver last evening?",
+          "text": "What can he design?",
           "audio": "assets/audio/g_b_8_a.mp3"
         }
       ]
@@ -451,51 +451,51 @@
         "Questions": [
           {
             "id": "l_20_1",
-            "question": "What did Imran read about the night before the interview?",
-            "answer": "The interviewer’s automobile company.",
+            "question": "What did Kavin read about on the Internet?",
+            "answer": "A network system upgraded in Vavuniya.",
             "options": [
-              "Advanced diagnostic scanners.",
-              "All the automobile companies in his town.",
-              "The interviewer’s automobile company."
+              "A network system developed in Vavuniya.",
+              "A network system upgraded in Vavuniya.",
+              "A mobile-app project in Kandy."
             ]
           },
           {
             "id": "l_20_2",
-            "question": "What type of work does the company specialise in?",
-            "answer": "Servicing of the hybrid vehicles.",
+            "question": "What does Kavin say he likes most in the ICT field?",
+            "answer": "Solving technical problems.",
             "options": [
-              "Reconditioning of the hybrid vehicles.",
-              "Servicing of the hybrid vehicles.",
-              "Scanners and printers."
+              "Designing websites.",
+              "Managing office documents.",
+              "Solving technical problems."
             ]
           },
           {
             "id": "l_20_3",
-            "question": "Which tool did Imran say he has used during training?",
-            "answer": "Torque wrench and multimeters.",
+            "question": "Which tools does Kavin mention he can use?",
+            "answer": "Network testers, task managers, and troubleshooting utilities.",
             "options": [
-              "Spark plugs and throttle bodies.",
-              "Torque wrench and impact guns.",
-              "Torque wrench and multimeters."
+              "Graphic-design software only.",
+              "Network testers, task managers, and troubleshooting utilities.",
+              "Printers, task managers, and troubleshooting utilities."
             ]
           },
           {
             "id": "l_20_4",
-            "question": "What task did Imran complete last month?",
-            "answer": "Replacing brake pads.",
+            "question": "What task did Kavin complete last month?",
+            "answer": "Resolved a slow-login problem in the lab.",
             "options": [
-              "He conducted a workshop.",
-              "Replacing brake pads.",
-              "Replacing brake shoes and calipers."
+              "Configured a cloud workstation.",
+              "Helped upgrade the whole server room.",
+              "Resolved a slow-login problem in the lab."
             ]
           },
           {
             "id": "l_20_5",
-            "question": "How does Imran plan to learn about advanced diagnostic scanners?",
+            "question": "How does Kavin say he learns new things?",
             "answer": "By reading about them on the Internet.",
             "options": [
-              "By watching special tutorials on the Internet.",
-              "By reading the instruction manuals.",
+              "By attending coding bootcamps.",
+              "By watching friends read on the Internet.",
               "By reading about them on the Internet."
             ]
           }
@@ -503,329 +503,320 @@
       },
       "activity_b": [
         {
-          "id": "t_47_1",
-          "text": "Good morning, Imran. Nice to meet you.",
-          "audio": "assets/audio/t_47_1.mp3"
+          "id": "t_51_1",
+          "text": "Good morning, Kavin. Nice to meet you.",
+          "audio": "assets/audio/t_51_1.mp3"
         },
         {
-          "id": "t_47_2",
+          "id": "t_51_2",
           "text": "Please relax and take a seat.",
-          "audio": "assets/audio/t_47_2.mp3"
+          "audio": "assets/audio/t_51_2.mp3"
         },
         {
-          "id": "t_47_3",
+          "id": "t_51_3",
           "text": "How are you feeling today?",
-          "audio": "assets/audio/t_47_3.mp3"
+          "audio": "assets/audio/t_51_3.mp3"
         },
         {
-          "id": "t_47_4",
-          "text": "Good morning, madam.",
-          "audio": "assets/audio/t_47_4.mp3"
+          "id": "t_51_4",
+          "text": "Good morning, sir. How are you today?",
+          "audio": "assets/audio/t_51_4.mp3"
         },
         {
-          "id": "t_47_5",
-          "text": "How are you today?",
-          "audio": "assets/audio/t_47_5.mp3"
+          "id": "t_51_5",
+          "text": "Quite good. I’m looking forward to talking to you about my career.",
+          "audio": "assets/audio/t_51_5.mp3"
         },
         {
-          "id": "t_47_6",
-          "text": "Quite good. I’m looking forward to talking to you about my future in the automobile field.",
-          "audio": "assets/audio/t_47_6.mp3"
+          "id": "t_51_6",
+          "text": "Let’s start with something simple then.",
+          "audio": "assets/audio/t_51_6.mp3"
         },
         {
-          "id": "t_47_7",
-          "text": "Great.",
-          "audio": "assets/audio/t_47_7.mp3"
-        },
-        {
-          "id": "t_47_8",
-          "text": "Let’s begin with something basic.",
-          "audio": "assets/audio/t_47_8.mp3"
-        },
-        {
-          "id": "t_47_9",
+          "id": "t_51_7",
           "text": "Tell me, what do you know about our company?",
-          "audio": "assets/audio/t_47_9.mp3"
+          "audio": "assets/audio/t_51_7.mp3"
         },
         {
-          "id": "t_47_10",
+          "id": "t_51_8",
           "text": "Last night I read about your company on the Internet.",
-          "audio": "assets/audio/t_47_10.mp3"
+          "audio": "assets/audio/t_51_8.mp3"
         },
         {
-          "id": "t_47_11",
-          "text": "I learned that you specialise in hybrid-vehicle servicing and that you recently opened a new diagnostic centre.",
-          "audio": "assets/audio/t_47_11.mp3"
+          "id": "t_51_9",
+          "text": "I saw that you upgraded a network system in Vavuniya and that you focus strongly on security and performance.",
+          "audio": "assets/audio/t_51_9.mp3"
         },
         {
-          "id": "t_47_12",
-          "text": "I also liked the way you use modern scanning tools in your workshops.",
-          "audio": "assets/audio/t_47_12.mp3"
+          "id": "t_51_10",
+          "text": "I also liked the way you use modern monitoring tools.",
+          "audio": "assets/audio/t_51_10.mp3"
         },
         {
-          "id": "t_47_13",
+          "id": "t_51_11",
           "text": "I’m glad you checked it.",
-          "audio": "assets/audio/t_47_13.mp3"
+          "audio": "assets/audio/t_51_11.mp3"
         },
         {
-          "id": "t_47_14",
-          "text": "Now, before we discuss your skills, tell me—what do you like most in the automobile industry?",
-          "audio": "assets/audio/t_47_14.mp3"
+          "id": "t_51_12",
+          "text": "Now, before we talk about your skills, tell me—what do you like most in the ICT field?",
+          "audio": "assets/audio/t_51_12.mp3"
         },
         {
-          "id": "t_47_15",
-          "text": "Honestly, madam, I like solving real mechanical problems.",
-          "audio": "assets/audio/t_47_15.mp3"
+          "id": "t_51_13",
+          "text": "Honestly, sir, I like solving technical problems.",
+          "audio": "assets/audio/t_51_13.mp3"
         },
         {
-          "id": "t_47_16",
-          "text": "When we inspect brakes, adjust engine timing, or replace filters, I can see improvement immediately.",
-          "audio": "assets/audio/t_47_16.mp3"
+          "id": "t_51_14",
+          "text": "When we configure a router, check a server, or fix a software issue, I can see the results immediately.",
+          "audio": "assets/audio/t_51_14.mp3"
         },
         {
-          "id": "t_47_17",
-          "text": "I also enjoy working in a busy, hands-on environment.",
-          "audio": "assets/audio/t_47_17.mp3"
+          "id": "t_51_15",
+          "text": "I also enjoy working with a team.",
+          "audio": "assets/audio/t_51_15.mp3"
         },
         {
-          "id": "t_47_18",
-          "text": "That’s good to hear.",
-          "audio": "assets/audio/t_47_18.mp3"
+          "id": "t_51_16",
+          "text": "That’s a good attitude.",
+          "audio": "assets/audio/t_51_16.mp3"
         },
         {
-          "id": "t_47_19",
+          "id": "t_51_17",
           "text": "And what tasks are you good at?",
-          "audio": "assets/audio/t_47_19.mp3"
+          "audio": "assets/audio/t_51_17.mp3"
         },
         {
-          "id": "t_47_20",
-          "text": "I am good at basic engine checks and keeping the service bay organised.",
-          "audio": "assets/audio/t_47_20.mp3"
+          "id": "t_51_18",
+          "text": "I am good at installing basic software and organising digital files.",
+          "audio": "assets/audio/t_51_18.mp3"
         },
         {
-          "id": "t_47_21",
-          "text": "During my training, I replaced spark plugs, cleaned throttle bodies, and assisted my instructor during full-service inspections.",
-          "audio": "assets/audio/t_47_21.mp3"
+          "id": "t_51_19",
+          "text": "During my training, I set up user accounts, checked network cables, and helped the instructor update antivirus systems.",
+          "audio": "assets/audio/t_51_19.mp3"
         },
         {
-          "id": "t_47_22",
+          "id": "t_51_20",
           "text": "And what technical skills do you have?",
-          "audio": "assets/audio/t_47_22.mp3"
+          "audio": "assets/audio/t_51_20.mp3"
         },
         {
-          "id": "t_47_23",
-          "text": "I know how to read simple wiring diagrams, check fluid levels, and use tools like torque wrenches, multimeters, and OBD scanners.",
-          "audio": "assets/audio/t_47_23.mp3"
+          "id": "t_51_21",
+          "text": "I know how to read simple network diagrams, monitor system performance, and use tools like network testers, task managers, and troubleshooting utilities.",
+          "audio": "assets/audio/t_51_21.mp3"
         },
         {
-          "id": "t_47_24",
-          "text": "Last month, I carried out a brake-pad replacement during a workshop practical.",
-          "audio": "assets/audio/t_47_24.mp3"
+          "id": "t_51_22",
+          "text": "Last month, I resolved a slow-login problem in the lab.",
+          "audio": "assets/audio/t_51_22.mp3"
         },
         {
-          "id": "t_47_25",
-          "text": "We sometimes use advanced diagnostic scanners.",
-          "audio": "assets/audio/t_47_25.mp3"
+          "id": "t_51_23",
+          "text": "We sometimes use cloud-based dashboards for remote management.",
+          "audio": "assets/audio/t_51_23.mp3"
         },
         {
-          "id": "t_47_26",
+          "id": "t_51_24",
           "text": "Are you familiar with them?",
-          "audio": "assets/audio/t_47_26.mp3"
+          "audio": "assets/audio/t_51_24.mp3"
         },
         {
-          "id": "t_47_27",
-          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
-          "audio": "assets/audio/t_47_27.mp3"
+          "id": "t_51_25",
+          "text": "I am not familiar with them, sir, but I can read about them on the Internet.",
+          "audio": "assets/audio/t_51_25.mp3"
         },
         {
-          "id": "t_47_28",
-          "text": "That’s how I learned more about hybrid-battery maintenance.",
-          "audio": "assets/audio/t_47_28.mp3"
+          "id": "t_51_26",
+          "text": "That’s how I learned more about basic cybersecurity.",
+          "audio": "assets/audio/t_51_26.mp3"
         },
         {
-          "id": "t_47_29",
+          "id": "t_51_27",
           "text": "Excellent.",
-          "audio": "assets/audio/t_47_29.mp3"
+          "audio": "assets/audio/t_51_27.mp3"
         },
         {
-          "id": "t_47_30",
+          "id": "t_51_28",
           "text": "Finally, why should we select you?",
-          "audio": "assets/audio/t_47_30.mp3"
+          "audio": "assets/audio/t_51_28.mp3"
         },
         {
-          "id": "t_47_31",
-          "text": "Because I learn fast, I work carefully, and I am always ready to support the team.",
-          "audio": "assets/audio/t_47_31.mp3"
+          "id": "t_51_29",
+          "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
+          "audio": "assets/audio/t_51_29.mp3"
         },
         {
-          "id": "t_47_32",
-          "text": "Thank you, Imran. We’ll contact you soon.",
-          "audio": "assets/audio/t_47_32.mp3"
+          "id": "t_51_30",
+          "text": "Well said, Kavin. We’ll contact you soon.",
+          "audio": "assets/audio/t_51_30.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_47_1",
-          "text": "Good morning, Imran. Nice to meet you.",
-          "audio": "assets/audio/t_47_1.mp3"
+          "id": "t_51_4",
+          "text": "Good morning, sir. How are you today?",
+          "audio": "assets/audio/t_51_4.mp3"
         },
         {
-          "id": "t_47_2",
-          "text": "Please relax and take a seat.",
-          "audio": "assets/audio/t_47_2.mp3"
+          "id": "t_51_5",
+          "text": "Quite good. I’m looking forward to talking to you about my career.",
+          "audio": "assets/audio/t_51_5.mp3"
         },
         {
-          "id": "t_47_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_47_3.mp3"
-        },
-        {
-          "id": "t_47_4",
-          "text": "Good morning, madam.",
-          "audio": "assets/audio/t_47_4.mp3"
-        },
-        {
-          "id": "t_47_5",
-          "text": "How are you today?",
-          "audio": "assets/audio/t_47_5.mp3"
-        },
-        {
-          "id": "t_47_6",
-          "text": "Quite good. I’m looking forward to talking to you about my future in the automobile field.",
-          "audio": "assets/audio/t_47_6.mp3"
-        },
-        {
-          "id": "t_47_7",
-          "text": "Great.",
-          "audio": "assets/audio/t_47_7.mp3"
-        },
-        {
-          "id": "t_47_8",
-          "text": "Let’s begin with something basic.",
-          "audio": "assets/audio/t_47_8.mp3"
-        },
-        {
-          "id": "t_47_9",
-          "text": "Tell me, what do you know about our company?",
-          "audio": "assets/audio/t_47_9.mp3"
-        },
-        {
-          "id": "t_47_10",
+          "id": "t_51_8",
           "text": "Last night I read about your company on the Internet.",
-          "audio": "assets/audio/t_47_10.mp3"
+          "audio": "assets/audio/t_51_8.mp3"
         },
         {
-          "id": "t_47_11",
-          "text": "I learned that you specialise in hybrid-vehicle servicing and that you recently opened a new diagnostic centre.",
-          "audio": "assets/audio/t_47_11.mp3"
+          "id": "t_51_9",
+          "text": "I saw that you upgraded a network system in Vavuniya and that you focus strongly on security and performance.",
+          "audio": "assets/audio/t_51_9.mp3"
         },
         {
-          "id": "t_47_12",
-          "text": "I also liked the way you use modern scanning tools in your workshops.",
-          "audio": "assets/audio/t_47_12.mp3"
+          "id": "t_51_10",
+          "text": "I also liked the way you use modern monitoring tools.",
+          "audio": "assets/audio/t_51_10.mp3"
         },
         {
-          "id": "t_47_13",
-          "text": "I’m glad you checked it.",
-          "audio": "assets/audio/t_47_13.mp3"
+          "id": "t_51_13",
+          "text": "Honestly, sir, I like solving technical problems.",
+          "audio": "assets/audio/t_51_13.mp3"
         },
         {
-          "id": "t_47_14",
-          "text": "Now, before we discuss your skills, tell me—what do you like most in the automobile industry?",
-          "audio": "assets/audio/t_47_14.mp3"
+          "id": "t_51_14",
+          "text": "When we configure a router, check a server, or fix a software issue, I can see the results immediately.",
+          "audio": "assets/audio/t_51_14.mp3"
         },
         {
-          "id": "t_47_15",
-          "text": "Honestly, madam, I like solving real mechanical problems.",
-          "audio": "assets/audio/t_47_15.mp3"
+          "id": "t_51_15",
+          "text": "I also enjoy working with a team.",
+          "audio": "assets/audio/t_51_15.mp3"
         },
         {
-          "id": "t_47_16",
-          "text": "When we inspect brakes, adjust engine timing, or replace filters, I can see improvement immediately.",
-          "audio": "assets/audio/t_47_16.mp3"
+          "id": "t_51_18",
+          "text": "I am good at installing basic software and organising digital files.",
+          "audio": "assets/audio/t_51_18.mp3"
         },
         {
-          "id": "t_47_17",
-          "text": "I also enjoy working in a busy, hands-on environment.",
-          "audio": "assets/audio/t_47_17.mp3"
+          "id": "t_51_19",
+          "text": "During my training, I set up user accounts, checked network cables, and helped the instructor update antivirus systems.",
+          "audio": "assets/audio/t_51_19.mp3"
         },
         {
-          "id": "t_47_18",
-          "text": "That’s good to hear.",
-          "audio": "assets/audio/t_47_18.mp3"
+          "id": "t_51_21",
+          "text": "I know how to read simple network diagrams, monitor system performance, and use tools like network testers, task managers, and troubleshooting utilities.",
+          "audio": "assets/audio/t_51_21.mp3"
         },
         {
-          "id": "t_47_19",
-          "text": "And what tasks are you good at?",
-          "audio": "assets/audio/t_47_19.mp3"
+          "id": "t_51_22",
+          "text": "Last month, I resolved a slow-login problem in the lab.",
+          "audio": "assets/audio/t_51_22.mp3"
         },
         {
-          "id": "t_47_20",
-          "text": "I am good at basic engine checks and keeping the service bay organised.",
-          "audio": "assets/audio/t_47_20.mp3"
+          "id": "t_51_25",
+          "text": "I am not familiar with them, sir, but I can read about them on the Internet.",
+          "audio": "assets/audio/t_51_25.mp3"
         },
         {
-          "id": "t_47_21",
-          "text": "During my training, I replaced spark plugs, cleaned throttle bodies, and assisted my instructor during full-service inspections.",
-          "audio": "assets/audio/t_47_21.mp3"
+          "id": "t_51_26",
+          "text": "That’s how I learned more about basic cybersecurity.",
+          "audio": "assets/audio/t_51_26.mp3"
         },
         {
-          "id": "t_47_22",
-          "text": "And what technical skills do you have?",
-          "audio": "assets/audio/t_47_22.mp3"
+          "id": "t_51_29",
+          "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
+          "audio": "assets/audio/t_51_29.mp3"
         },
         {
-          "id": "t_47_23",
-          "text": "I know how to read simple wiring diagrams, check fluid levels, and use tools like torque wrenches, multimeters, and OBD scanners.",
-          "audio": "assets/audio/t_47_23.mp3"
-        },
-        {
-          "id": "t_47_24",
-          "text": "Last month, I carried out a brake-pad replacement during a workshop practical.",
-          "audio": "assets/audio/t_47_24.mp3"
-        },
-        {
-          "id": "t_47_25",
-          "text": "We sometimes use advanced diagnostic scanners.",
-          "audio": "assets/audio/t_47_25.mp3"
-        },
-        {
-          "id": "t_47_26",
-          "text": "Are you familiar with them?",
-          "audio": "assets/audio/t_47_26.mp3"
-        },
-        {
-          "id": "t_47_27",
-          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
-          "audio": "assets/audio/t_47_27.mp3"
-        },
-        {
-          "id": "t_47_28",
-          "text": "That’s how I learned more about hybrid-battery maintenance.",
-          "audio": "assets/audio/t_47_28.mp3"
-        },
-        {
-          "id": "t_47_29",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_47_29.mp3"
-        },
-        {
-          "id": "t_47_30",
-          "text": "Finally, why should we select you?",
-          "audio": "assets/audio/t_47_30.mp3"
-        },
-        {
-          "id": "t_47_31",
-          "text": "Because I learn fast, I work carefully, and I am always ready to support the team.",
-          "audio": "assets/audio/t_47_31.mp3"
-        },
-        {
-          "id": "t_47_32",
-          "text": "Thank you, Imran. We’ll contact you soon.",
-          "audio": "assets/audio/t_47_32.mp3"
+          "id": "t_51_30",
+          "text": "Well said, Kavin. We’ll contact you soon.",
+          "audio": "assets/audio/t_51_30.mp3"
         }
       ],
-      "activity_d": 0
+      "activity_d": [
+        {
+          "id": "t_51_4",
+          "text": "Good morning, sir. How are you today?",
+          "audio": "assets/audio/t_51_4.mp3"
+        },
+        {
+          "id": "t_51_5",
+          "text": "Quite good. I’m looking forward to talking to you about my career.",
+          "audio": "assets/audio/t_51_5.mp3"
+        },
+        {
+          "id": "t_51_8",
+          "text": "Last night I read about your company on the Internet.",
+          "audio": "assets/audio/t_51_8.mp3"
+        },
+        {
+          "id": "t_51_9",
+          "text": "I saw that you upgraded a network system in Vavuniya and that you focus strongly on security and performance.",
+          "audio": "assets/audio/t_51_9.mp3"
+        },
+        {
+          "id": "t_51_10",
+          "text": "I also liked the way you use modern monitoring tools.",
+          "audio": "assets/audio/t_51_10.mp3"
+        },
+        {
+          "id": "t_51_13",
+          "text": "Honestly, sir, I like solving technical problems.",
+          "audio": "assets/audio/t_51_13.mp3"
+        },
+        {
+          "id": "t_51_14",
+          "text": "When we configure a router, check a server, or fix a software issue, I can see the results immediately.",
+          "audio": "assets/audio/t_51_14.mp3"
+        },
+        {
+          "id": "t_51_15",
+          "text": "I also enjoy working with a team.",
+          "audio": "assets/audio/t_51_15.mp3"
+        },
+        {
+          "id": "t_51_18",
+          "text": "I am good at installing basic software and organising digital files.",
+          "audio": "assets/audio/t_51_18.mp3"
+        },
+        {
+          "id": "t_51_19",
+          "text": "During my training, I set up user accounts, checked network cables, and helped the instructor update antivirus systems.",
+          "audio": "assets/audio/t_51_19.mp3"
+        },
+        {
+          "id": "t_51_21",
+          "text": "I know how to read simple network diagrams, monitor system performance, and use tools like network testers, task managers, and troubleshooting utilities.",
+          "audio": "assets/audio/t_51_21.mp3"
+        },
+        {
+          "id": "t_51_22",
+          "text": "Last month, I resolved a slow-login problem in the lab.",
+          "audio": "assets/audio/t_51_22.mp3"
+        },
+        {
+          "id": "t_51_25",
+          "text": "I am not familiar with them, sir, but I can read about them on the Internet.",
+          "audio": "assets/audio/t_51_25.mp3"
+        },
+        {
+          "id": "t_51_26",
+          "text": "That’s how I learned more about basic cybersecurity.",
+          "audio": "assets/audio/t_51_26.mp3"
+        },
+        {
+          "id": "t_51_29",
+          "text": "Because I learn fast, I work diligently, and I’m always ready to support the team.",
+          "audio": "assets/audio/t_51_29.mp3"
+        },
+        {
+          "id": "t_51_30",
+          "text": "Well said, Kavin. We’ll contact you soon.",
+          "audio": "assets/audio/t_51_30.mp3"
+        }
+      ]
     }
   },
   "activity_5": {
