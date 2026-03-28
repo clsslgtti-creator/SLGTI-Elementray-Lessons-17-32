@@ -121,7 +121,7 @@
         "id": "e_2",
         "img": "assets/img/a_2_ex_2.png",
         "text_a": "Can Meena test the quality of frozen food?",
-        "text_b": "Of course, she can. She tests the frozen food every day. He’s a food laboratory assistant.",
+        "text_b": "Of course, she can. She tests the frozen food every day. She’s a food laboratory assistant.",
         "audio_a": "assets/audio/a_2_ex_2_a.mp3",
         "audio_b": "assets/audio/a_2_ex_2_b.mp3"
       },

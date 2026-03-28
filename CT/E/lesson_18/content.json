@@ -43,7 +43,7 @@
         "id": "p_2",
         "word_text": "squ'are'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Can you draw a squ'are' line on the wall, please?",
+        "sentence_text": "Can you draw a squ'are' on the wall, please?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
@@ -168,20 +168,20 @@
     ],
     "dialogues": [
       {
-        "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
-        "text_a": "Can Amir paint walls?",
-        "text_b": "Of course, he can. He paints walls every day. He’s a painter.",
-        "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3"
-      },
-      {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
         "text_a": "Can Siva fix tiles?",
         "text_b": "Of course, he can. He fixes tiles every day. He’s a tiler.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Can Amir paint walls?",
+        "text_b": "Of course, he can. He paints walls every day. He’s a painter.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_3",
