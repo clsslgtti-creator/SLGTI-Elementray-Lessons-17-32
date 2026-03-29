@@ -111,7 +111,8 @@ const clearEntryHighlights = (items = []) => {
   });
 };
 
-const normalizeComprehensionData = (raw = {}) => {
+const normalizeComprehensionData = (raw = {}, options = {}) => {
+  const { requirePrompt = true } = options;
   const audio = trimString(raw?.audio);
   const rawQuestions = Array.isArray(raw?.Questions)
     ? raw.Questions
@@ -128,7 +129,7 @@ const normalizeComprehensionData = (raw = {}) => {
         ? question.options.map((option) => trimString(option)).filter(Boolean)
         : [];
 
-      if (!prompt || !answer || options.length < 2) {
+      if ((requirePrompt && !prompt) || !answer || options.length < 2) {
         return null;
       }
 
@@ -226,7 +227,7 @@ const getRepeatPauseMs = (activityData, fallback = 1500) => {
   return Math.max(500, parsed);
 };
 
-const buildComprehensionSlide = (data = {}, context = {}) => {
+const buildComprehensionSlide = (data = {}, context = {}, options = {}) => {
   const {
     activityLabel = "Activity",
     activityNumber = null,
@@ -235,6 +236,7 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
     includeFocus = false,
     subActivityLetter = "",
   } = context;
+  const { hideQuestionText = false } = options;
 
   const slide = document.createElement("section");
   slide.className = "slide slide--listening listening-slide listening-slide--mcq";
@@ -272,10 +274,12 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
     title.textContent = `Question ${index + 1}`;
     card.appendChild(title);
 
-    const prompt = document.createElement("p");
-    prompt.className = "dialogue-card__line dialogue-card__line--question";
-    prompt.textContent = question.prompt;
-    card.appendChild(prompt);
+    if (!hideQuestionText && question.prompt) {
+      const prompt = document.createElement("p");
+      prompt.className = "dialogue-card__line dialogue-card__line--question";
+      prompt.textContent = question.prompt;
+      card.appendChild(prompt);
+    }
 
     const optionGroup = document.createElement("div");
     optionGroup.className = "listening-option-group";
@@ -1474,7 +1478,10 @@ export const buildListeningSevenSlides = (activityData = {}, context = {}) => {
   const comprehensionData = normalizeComprehensionData(
     activityData?.content?.activity_a
   );
-  const mcqItems = activityData?.content?.activity_b;
+  const activityTwoData = normalizeComprehensionData(
+    activityData?.content?.activity_b,
+    { requirePrompt: false }
+  );
   const listenItems = normalizeLineItems(activityData?.content?.activity_c);
   const repeatItems = normalizeLineItems(activityData?.content?.activity_d);
   const readAlongItems = normalizeActivityDGroups(
@@ -1494,7 +1501,11 @@ export const buildListeningSevenSlides = (activityData = {}, context = {}) => {
       comprehensionData,
       createSubActivityContext(baseContext, "a", Boolean(activityFocus))
     ),
-    buildMcqSlide(mcqItems, createSubActivityContext(baseContext, "b")),
+    buildComprehensionSlide(
+      activityTwoData,
+      createSubActivityContext(baseContext, "b"),
+      { hideQuestionText: true }
+    ),
     createSequencedTextSlide(
       listenItems,
       createSubActivityContext(baseContext, "c"),
