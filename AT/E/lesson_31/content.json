@@ -217,8 +217,8 @@
     "type": "LISTENING-5",
     "instructions": {
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nகீழே உள்ள வினைச்சொற்களின் பொருளை கேட்கவும், பின்னர் அவற்றை சரியான பெட்டியில் இழுக்கவும்.",
+        "audio": "assets/audio/a_4_i_l.mp3"
       }
     },
     "content": {
@@ -284,21 +284,25 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-2",
+    "type": "LISTENING-7",
     "instructions": {
       "activity_a": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
         "audio": "assets/audio/a_4_i_a.mp3"
       },
       "activity_b": {
+        "text": "Listen to the audio which will be played twice and select the correct sentence. \nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි වාක්‍යය තෝරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். சரியான வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_4_i_k.mp3"
+      },
+      "activity_c": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
         "audio": "assets/audio/a_2_i_b.mp3"
       },
-      "activity_c": {
+      "activity_d": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       },
-      "activity_d": {
+      "activity_e": {
         "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
         "audio": "assets/audio/a_2_i_d.mp3"
       }
@@ -308,371 +312,446 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_20_1",
-            "question": "What did Imran read about the night before the interview?",
-            "answer": "The interviewer’s automobile company.",
+            "id": "l_21_1",
+            "question": "Why did the wheel-lift inspection take longer?",
+            "answer": "Because the hydraulic pressure was lower and the hoses were worn.",
             "options": [
-              "Advanced diagnostic scanners.",
-              "All the automobile companies in his town.",
-              "The interviewer’s automobile company."
+              "Because Nimal forgot to test the lift.",
+              "Because the hydraulic pressure was lower and the hoses were worn.",
+              "Because the lift was completely new."
             ]
           },
           {
-            "id": "l_20_2",
-            "question": "What type of work does the company specialise in?",
-            "answer": "Servicing of the hybrid vehicles.",
+            "id": "l_21_2",
+            "question": "What is Nimal going to check first on the lift today?",
+            "answer": "The safety locks and emergency shut-off switch.",
             "options": [
-              "Reconditioning of the hybrid vehicles.",
-              "Servicing of the hybrid vehicles.",
-              "Scanners and printers."
+              "The calibration panel.",
+              "The safety locks and emergency shut-off switch.",
+              "The tyre pressure."
             ]
           },
           {
-            "id": "l_20_3",
-            "question": "Which tool did Imran say he has used during training?",
-            "answer": "Torque wrench and multimeters.",
+            "id": "l_21_3",
+            "question": "Why does Nimal have to be careful with the new fume extractor?",
+            "answer": "It is more sensitive than the old one.",
             "options": [
-              "Spark plugs and throttle bodies.",
-              "Torque wrench and impact guns.",
-              "Torque wrench and multimeters."
+              "It is cheaper than the old one.",
+              "It is already damaged.",
+              "It is more sensitive than the old one."
             ]
           },
           {
-            "id": "l_20_4",
-            "question": "What task did Imran complete last month?",
-            "answer": "Replacing brake pads.",
+            "id": "l_21_4",
+            "question": "What happened with the headlight-alignment tool yesterday?",
+            "answer": "The sensor panel was brighter than normal.",
             "options": [
-              "He conducted a workshop.",
-              "Replacing brake pads.",
-              "Replacing brake shoes and calipers."
+              "The motor stopped.",
+              "The sensor panel was brighter than normal.",
+              "The cable was missing."
             ]
           },
           {
-            "id": "l_20_5",
-            "question": "How does Imran plan to learn about advanced diagnostic scanners?",
-            "answer": "By reading about them on the Internet.",
+            "id": "l_21_5",
+            "question": "Why is the new inventory system sometimes slower?",
+            "answer": "Because the Wi-Fi drops and affects the system.",
             "options": [
-              "By watching special tutorials on the Internet.",
-              "By reading the instruction manuals.",
-              "By reading about them on the Internet."
+              "Because the staff do not want to use it.",
+              "Because the tools are too old.",
+              "Because the Wi-Fi drops and affects the system."
             ]
           }
         ]
       },
-      "activity_b": [
-        {
-          "id": "t_47_1",
-          "text": "Good morning, Imran. Nice to meet you.",
-          "audio": "assets/audio/t_47_1.mp3"
-        },
-        {
-          "id": "t_47_2",
-          "text": "Please relax and take a seat.",
-          "audio": "assets/audio/t_47_2.mp3"
-        },
-        {
-          "id": "t_47_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_47_3.mp3"
-        },
-        {
-          "id": "t_47_4",
-          "text": "Good morning, madam.",
-          "audio": "assets/audio/t_47_4.mp3"
-        },
-        {
-          "id": "t_47_5",
-          "text": "How are you today?",
-          "audio": "assets/audio/t_47_5.mp3"
-        },
-        {
-          "id": "t_47_6",
-          "text": "Quite good. I’m looking forward to talking to you about my future in the automobile field.",
-          "audio": "assets/audio/t_47_6.mp3"
-        },
-        {
-          "id": "t_47_7",
-          "text": "Great.",
-          "audio": "assets/audio/t_47_7.mp3"
-        },
-        {
-          "id": "t_47_8",
-          "text": "Let’s begin with something basic.",
-          "audio": "assets/audio/t_47_8.mp3"
-        },
-        {
-          "id": "t_47_9",
-          "text": "Tell me, what do you know about our company?",
-          "audio": "assets/audio/t_47_9.mp3"
-        },
-        {
-          "id": "t_47_10",
-          "text": "Last night I read about your company on the Internet.",
-          "audio": "assets/audio/t_47_10.mp3"
-        },
-        {
-          "id": "t_47_11",
-          "text": "I learned that you specialise in hybrid-vehicle servicing and that you recently opened a new diagnostic centre.",
-          "audio": "assets/audio/t_47_11.mp3"
-        },
-        {
-          "id": "t_47_12",
-          "text": "I also liked the way you use modern scanning tools in your workshops.",
-          "audio": "assets/audio/t_47_12.mp3"
-        },
-        {
-          "id": "t_47_13",
-          "text": "I’m glad you checked it.",
-          "audio": "assets/audio/t_47_13.mp3"
-        },
-        {
-          "id": "t_47_14",
-          "text": "Now, before we discuss your skills, tell me—what do you like most in the automobile industry?",
-          "audio": "assets/audio/t_47_14.mp3"
-        },
-        {
-          "id": "t_47_15",
-          "text": "Honestly, madam, I like solving real mechanical problems.",
-          "audio": "assets/audio/t_47_15.mp3"
-        },
-        {
-          "id": "t_47_16",
-          "text": "When we inspect brakes, adjust engine timing, or replace filters, I can see improvement immediately.",
-          "audio": "assets/audio/t_47_16.mp3"
-        },
-        {
-          "id": "t_47_17",
-          "text": "I also enjoy working in a busy, hands-on environment.",
-          "audio": "assets/audio/t_47_17.mp3"
-        },
-        {
-          "id": "t_47_18",
-          "text": "That’s good to hear.",
-          "audio": "assets/audio/t_47_18.mp3"
-        },
-        {
-          "id": "t_47_19",
-          "text": "And what tasks are you good at?",
-          "audio": "assets/audio/t_47_19.mp3"
-        },
-        {
-          "id": "t_47_20",
-          "text": "I am good at basic engine checks and keeping the service bay organised.",
-          "audio": "assets/audio/t_47_20.mp3"
-        },
-        {
-          "id": "t_47_21",
-          "text": "During my training, I replaced spark plugs, cleaned throttle bodies, and assisted my instructor during full-service inspections.",
-          "audio": "assets/audio/t_47_21.mp3"
-        },
-        {
-          "id": "t_47_22",
-          "text": "And what technical skills do you have?",
-          "audio": "assets/audio/t_47_22.mp3"
-        },
-        {
-          "id": "t_47_23",
-          "text": "I know how to read simple wiring diagrams, check fluid levels, and use tools like torque wrenches, multimeters, and OBD scanners.",
-          "audio": "assets/audio/t_47_23.mp3"
-        },
-        {
-          "id": "t_47_24",
-          "text": "Last month, I carried out a brake-pad replacement during a workshop practical.",
-          "audio": "assets/audio/t_47_24.mp3"
-        },
-        {
-          "id": "t_47_25",
-          "text": "We sometimes use advanced diagnostic scanners.",
-          "audio": "assets/audio/t_47_25.mp3"
-        },
-        {
-          "id": "t_47_26",
-          "text": "Are you familiar with them?",
-          "audio": "assets/audio/t_47_26.mp3"
-        },
-        {
-          "id": "t_47_27",
-          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
-          "audio": "assets/audio/t_47_27.mp3"
-        },
-        {
-          "id": "t_47_28",
-          "text": "That’s how I learned more about hybrid-battery maintenance.",
-          "audio": "assets/audio/t_47_28.mp3"
-        },
-        {
-          "id": "t_47_29",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_47_29.mp3"
-        },
-        {
-          "id": "t_47_30",
-          "text": "Finally, why should we select you?",
-          "audio": "assets/audio/t_47_30.mp3"
-        },
-        {
-          "id": "t_47_31",
-          "text": "Because I learn fast, I work carefully, and I am always ready to support the team.",
-          "audio": "assets/audio/t_47_31.mp3"
-        },
-        {
-          "id": "t_47_32",
-          "text": "Thank you, Imran. We’ll contact you soon.",
-          "audio": "assets/audio/t_47_32.mp3"
-        }
-      ],
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_1_1",
+            "answer": "The new extractor is more sensitive than the old one, so I have to be careful.",
+            "options": [
+              "The new extractor is more sensitive than the old one, so I have to be careful.",
+              "The new extractor is sensitive more than the old one, so I have to be careful.",
+              "The new extractor is more sensitive from the old one, so I have to be careful."
+            ]
+          },
+          {
+            "id": "l_1_2",
+            "answer": "The old model was slower, but it was easier than this new digital unit.",
+            "options": [
+              "The old model was slower, but it was easier than this new digital unit.",
+              "The old model was more slow, but it was more easy than this new digital unit.",
+              "The old model was slower and it was easier from this new digital unit."
+            ]
+          },
+          {
+            "id": "l_1_3",
+            "answer": "They are simpler than digital forms during busy hours.",
+            "options": [
+              "They are simpler than digital forms during busy hours.",
+              "They are simple digital forms during busy hours.",
+              "They are simpler for digital forms during busy hours."
+            ]
+          },
+          {
+            "id": "l_1_4",
+            "answer": "It is more important than small adjustments.",
+            "options": [
+              "It is more important than small adjustments.",
+              "It is important more than small adjustments.",
+              "It is more important for small adjustments."
+            ]
+          },
+          {
+            "id": "l_1_5",
+            "answer": "It will make the whole workshop more efficient than last month.",
+            "options": [
+              "It will make the whole workshop more efficient than last month.",
+              "It will make the whole workshop efficienter than last month.",
+              "It will make the whole workshop more efficient from last month."
+            ]
+          }
+        ]
+      },
       "activity_c": [
         {
-          "id": "t_47_4",
-          "text": "Good morning, madam.",
-          "audio": "assets/audio/t_47_4.mp3"
+          "id": "t_53_1",
+          "text": "Good morning, Nimal.",
+          "audio": "assets/audio/t_53_1.mp3"
         },
         {
-          "id": "t_47_6",
-          "text": "Quite good. I’m looking forward to talking to you about my future in the automobile field.",
-          "audio": "assets/audio/t_47_6.mp3"
+          "id": "t_53_2",
+          "text": "Today I want to talk about how you are handling safety equipment and procedures in the automobile workshop.",
+          "audio": "assets/audio/t_53_2.mp3"
         },
         {
-          "id": "t_47_10",
-          "text": "Last night I read about your company on the Internet.",
-          "audio": "assets/audio/t_47_10.mp3"
+          "id": "t_53_3",
+          "text": "How are things going?",
+          "audio": "assets/audio/t_53_3.mp3"
         },
         {
-          "id": "t_47_11",
-          "text": "I learned that you specialise in hybrid-vehicle servicing and that you recently opened a new diagnostic centre.",
-          "audio": "assets/audio/t_47_11.mp3"
+          "id": "t_53_4",
+          "text": "Good morning, madam. Things are going well, but I think some of our safety checks can be faster.",
+          "audio": "assets/audio/t_53_4.mp3"
         },
         {
-          "id": "t_47_12",
-          "text": "I also liked the way you use modern scanning tools in your workshops.",
-          "audio": "assets/audio/t_47_12.mp3"
+          "id": "t_53_5",
+          "text": "For example, the wheel-lift inspection took longer than expected.",
+          "audio": "assets/audio/t_53_5.mp3"
         },
         {
-          "id": "t_47_15",
-          "text": "Honestly, madam, I like solving real mechanical problems.",
-          "audio": "assets/audio/t_47_15.mp3"
+          "id": "t_53_6",
+          "text": "Why did it take longer?",
+          "audio": "assets/audio/t_53_6.mp3"
         },
         {
-          "id": "t_47_16",
-          "text": "When we inspect brakes, adjust engine timing, or replace filters, I can see improvement immediately.",
-          "audio": "assets/audio/t_47_16.mp3"
+          "id": "t_53_7",
+          "text": "Yesterday the hydraulic pressure was lower than usual, and I had to test the pump twice.",
+          "audio": "assets/audio/t_53_7.mp3"
         },
         {
-          "id": "t_47_17",
-          "text": "I also enjoy working in a busy, hands-on environment.",
-          "audio": "assets/audio/t_47_17.mp3"
+          "id": "t_53_8",
+          "text": "The hoses were also more worn than I thought.",
+          "audio": "assets/audio/t_53_8.mp3"
         },
         {
-          "id": "t_47_20",
-          "text": "I am good at basic engine checks and keeping the service bay organised.",
-          "audio": "assets/audio/t_47_20.mp3"
+          "id": "t_53_9",
+          "text": "I wasn’t expecting that.",
+          "audio": "assets/audio/t_53_9.mp3"
         },
         {
-          "id": "t_47_21",
-          "text": "During my training, I replaced spark plugs, cleaned throttle bodies, and assisted my instructor during full-service inspections.",
-          "audio": "assets/audio/t_47_21.mp3"
+          "id": "t_53_10",
+          "text": "I see.",
+          "audio": "assets/audio/t_53_10.mp3"
         },
         {
-          "id": "t_47_23",
-          "text": "I know how to read simple wiring diagrams, check fluid levels, and use tools like torque wrenches, multimeters, and OBD scanners.",
-          "audio": "assets/audio/t_47_23.mp3"
+          "id": "t_53_11",
+          "text": "When you check the lift today, what are you going to do first?",
+          "audio": "assets/audio/t_53_11.mp3"
         },
         {
-          "id": "t_47_24",
-          "text": "Last month, I carried out a brake-pad replacement during a workshop practical.",
-          "audio": "assets/audio/t_47_24.mp3"
+          "id": "t_53_12",
+          "text": "I’m going to inspect the safety locks and test the emergency shut-off switch.",
+          "audio": "assets/audio/t_53_12.mp3"
         },
         {
-          "id": "t_47_27",
-          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
-          "audio": "assets/audio/t_47_27.mp3"
+          "id": "t_53_13",
+          "text": "I must also record everything in the safety logbook, because the administration team needs clear reports.",
+          "audio": "assets/audio/t_53_13.mp3"
         },
         {
-          "id": "t_47_28",
-          "text": "That’s how I learned more about hybrid-battery maintenance.",
-          "audio": "assets/audio/t_47_28.mp3"
+          "id": "t_53_14",
+          "text": "Good.",
+          "audio": "assets/audio/t_53_14.mp3"
         },
         {
-          "id": "t_47_31",
-          "text": "Because I learn fast, I work carefully, and I am always ready to support the team.",
-          "audio": "assets/audio/t_47_31.mp3"
+          "id": "t_53_15",
+          "text": "You have to be systematic.",
+          "audio": "assets/audio/t_53_15.mp3"
+        },
+        {
+          "id": "t_53_16",
+          "text": "What about the fume extractor?",
+          "audio": "assets/audio/t_53_16.mp3"
+        },
+        {
+          "id": "t_53_17",
+          "text": "Can you handle the airflow adjustment?",
+          "audio": "assets/audio/t_53_17.mp3"
+        },
+        {
+          "id": "t_53_18",
+          "text": "Yes, I can, but the new extractor is more sensitive than the old one, so I have to be careful.",
+          "audio": "assets/audio/t_53_18.mp3"
+        },
+        {
+          "id": "t_53_19",
+          "text": "The old model was slower, but it was easier than this new digital unit.",
+          "audio": "assets/audio/t_53_19.mp3"
+        },
+        {
+          "id": "t_53_20",
+          "text": "Are you checking the PPE cabinet regularly?",
+          "audio": "assets/audio/t_53_20.mp3"
+        },
+        {
+          "id": "t_53_21",
+          "text": "Yes, I am.",
+          "audio": "assets/audio/t_53_21.mp3"
+        },
+        {
+          "id": "t_53_22",
+          "text": "I check it every evening, but yesterday I wasn’t able to finish the glove-sanitizing step.",
+          "audio": "assets/audio/t_53_22.mp3"
+        },
+        {
+          "id": "t_53_23",
+          "text": "I was too busy with the headlight-alignment tool repair.",
+          "audio": "assets/audio/t_53_23.mp3"
+        },
+        {
+          "id": "t_53_24",
+          "text": "You must not skip sanitizing.",
+          "audio": "assets/audio/t_53_24.mp3"
+        },
+        {
+          "id": "t_53_25",
+          "text": "It is more important than small adjustments.",
+          "audio": "assets/audio/t_53_25.mp3"
+        },
+        {
+          "id": "t_53_26",
+          "text": "What happened with the alignment tool?",
+          "audio": "assets/audio/t_53_26.mp3"
+        },
+        {
+          "id": "t_53_27",
+          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
+          "audio": "assets/audio/t_53_27.mp3"
+        },
+        {
+          "id": "t_53_28",
+          "text": "They were dusty.",
+          "audio": "assets/audio/t_53_28.mp3"
+        },
+        {
+          "id": "t_53_29",
+          "text": "I cleaned them and reset the panel.",
+          "audio": "assets/audio/t_53_29.mp3"
+        },
+        {
+          "id": "t_53_30",
+          "text": "Now it is working properly.",
+          "audio": "assets/audio/t_53_30.mp3"
+        },
+        {
+          "id": "t_53_31",
+          "text": "Good.",
+          "audio": "assets/audio/t_53_31.mp3"
+        },
+        {
+          "id": "t_53_32",
+          "text": "What are you doing about inventory control?",
+          "audio": "assets/audio/t_53_32.mp3"
+        },
+        {
+          "id": "t_53_33",
+          "text": "I am updating the tool register every day.",
+          "audio": "assets/audio/t_53_33.mp3"
+        },
+        {
+          "id": "t_53_34",
+          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
+          "audio": "assets/audio/t_53_34.mp3"
+        },
+        {
+          "id": "t_53_35",
+          "text": "That happens.",
+          "audio": "assets/audio/t_53_35.mp3"
+        },
+        {
+          "id": "t_53_36",
+          "text": "Do you think we need a backup system?",
+          "audio": "assets/audio/t_53_36.mp3"
+        },
+        {
+          "id": "t_53_37",
+          "text": "Yes, we can keep printed safety checklists.",
+          "audio": "assets/audio/t_53_37.mp3"
+        },
+        {
+          "id": "t_53_38",
+          "text": "They are simpler than digital forms during busy hours.",
+          "audio": "assets/audio/t_53_38.mp3"
+        },
+        {
+          "id": "t_53_39",
+          "text": "That sounds practical.",
+          "audio": "assets/audio/t_53_39.mp3"
+        },
+        {
+          "id": "t_53_40",
+          "text": "Keep improving your methods.",
+          "audio": "assets/audio/t_53_40.mp3"
+        },
+        {
+          "id": "t_53_41",
+          "text": "It will make the whole workshop more efficient than last month.",
+          "audio": "assets/audio/t_53_41.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_47_4",
-          "text": "Good morning, madam.",
-          "audio": "assets/audio/t_47_4.mp3"
+          "id": "t_53_4",
+          "text": "Good morning, madam. Things are going well, but I think some of our safety checks can be faster.",
+          "audio": "assets/audio/t_53_4.mp3"
         },
         {
-          "id": "t_47_6",
-          "text": "Quite good. I’m looking forward to talking to you about my future in the automobile field.",
-          "audio": "assets/audio/t_47_6.mp3"
+          "id": "t_53_5",
+          "text": "For example, the wheel-lift inspection took longer than expected.",
+          "audio": "assets/audio/t_53_5.mp3"
         },
         {
-          "id": "t_47_10",
-          "text": "Last night I read about your company on the Internet.",
-          "audio": "assets/audio/t_47_10.mp3"
+          "id": "t_53_7",
+          "text": "Yesterday the hydraulic pressure was lower than usual, and I had to test the pump twice.",
+          "audio": "assets/audio/t_53_7.mp3"
         },
         {
-          "id": "t_47_11",
-          "text": "I learned that you specialise in hybrid-vehicle servicing and that you recently opened a new diagnostic centre.",
-          "audio": "assets/audio/t_47_11.mp3"
+          "id": "t_53_8",
+          "text": "The hoses were also more worn than I thought.",
+          "audio": "assets/audio/t_53_8.mp3"
         },
         {
-          "id": "t_47_12",
-          "text": "I also liked the way you use modern scanning tools in your workshops.",
-          "audio": "assets/audio/t_47_12.mp3"
+          "id": "t_53_12",
+          "text": "I’m going to inspect the safety locks and test the emergency shut-off switch.",
+          "audio": "assets/audio/t_53_12.mp3"
         },
         {
-          "id": "t_47_15",
-          "text": "Honestly, madam, I like solving real mechanical problems.",
-          "audio": "assets/audio/t_47_15.mp3"
+          "id": "t_53_18",
+          "text": "Yes, I can, but the new extractor is more sensitive than the old one, so I have to be careful.",
+          "audio": "assets/audio/t_53_18.mp3"
         },
         {
-          "id": "t_47_16",
-          "text": "When we inspect brakes, adjust engine timing, or replace filters, I can see improvement immediately.",
-          "audio": "assets/audio/t_47_16.mp3"
+          "id": "t_53_19",
+          "text": "The old model was slower, but it was easier than this new digital unit.",
+          "audio": "assets/audio/t_53_19.mp3"
         },
         {
-          "id": "t_47_17",
-          "text": "I also enjoy working in a busy, hands-on environment.",
-          "audio": "assets/audio/t_47_17.mp3"
+          "id": "t_53_25",
+          "text": "It is more important than small adjustments.",
+          "audio": "assets/audio/t_53_25.mp3"
         },
         {
-          "id": "t_47_20",
-          "text": "I am good at basic engine checks and keeping the service bay organised.",
-          "audio": "assets/audio/t_47_20.mp3"
+          "id": "t_53_27",
+          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
+          "audio": "assets/audio/t_53_27.mp3"
         },
         {
-          "id": "t_47_21",
-          "text": "During my training, I replaced spark plugs, cleaned throttle bodies, and assisted my instructor during full-service inspections.",
-          "audio": "assets/audio/t_47_21.mp3"
+          "id": "t_53_33",
+          "text": "I am updating the tool register every day.",
+          "audio": "assets/audio/t_53_33.mp3"
         },
         {
-          "id": "t_47_23",
-          "text": "I know how to read simple wiring diagrams, check fluid levels, and use tools like torque wrenches, multimeters, and OBD scanners.",
-          "audio": "assets/audio/t_47_23.mp3"
+          "id": "t_53_34",
+          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
+          "audio": "assets/audio/t_53_34.mp3"
         },
         {
-          "id": "t_47_24",
-          "text": "Last month, I carried out a brake-pad replacement during a workshop practical.",
-          "audio": "assets/audio/t_47_24.mp3"
+          "id": "t_53_38",
+          "text": "They are simpler than digital forms during busy hours.",
+          "audio": "assets/audio/t_53_38.mp3"
         },
         {
-          "id": "t_47_27",
-          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
-          "audio": "assets/audio/t_47_27.mp3"
+          "id": "t_53_41",
+          "text": "It will make the whole workshop more efficient than last month.",
+          "audio": "assets/audio/t_53_41.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_53_4",
+          "text": "Good morning, madam. Things are going well, but I think some of our safety checks can be faster.",
+          "audio": "assets/audio/t_53_4.mp3"
         },
         {
-          "id": "t_47_28",
-          "text": "That’s how I learned more about hybrid-battery maintenance.",
-          "audio": "assets/audio/t_47_28.mp3"
+          "id": "t_53_5",
+          "text": "For example, the wheel-lift inspection took longer than expected.",
+          "audio": "assets/audio/t_53_5.mp3"
         },
         {
-          "id": "t_47_31",
-          "text": "Because I learn fast, I work carefully, and I am always ready to support the team.",
-          "audio": "assets/audio/t_47_31.mp3"
+          "id": "t_53_7",
+          "text": "Yesterday the hydraulic pressure was lower than usual, and I had to test the pump twice.",
+          "audio": "assets/audio/t_53_7.mp3"
+        },
+        {
+          "id": "t_53_8",
+          "text": "The hoses were also more worn than I thought.",
+          "audio": "assets/audio/t_53_8.mp3"
+        },
+        {
+          "id": "t_53_12",
+          "text": "I’m going to inspect the safety locks and test the emergency shut-off switch.",
+          "audio": "assets/audio/t_53_12.mp3"
+        },
+        {
+          "id": "t_53_18",
+          "text": "Yes, I can, but the new extractor is more sensitive than the old one, so I have to be careful.",
+          "audio": "assets/audio/t_53_18.mp3"
+        },
+        {
+          "id": "t_53_19",
+          "text": "The old model was slower, but it was easier than this new digital unit.",
+          "audio": "assets/audio/t_53_19.mp3"
+        },
+        {
+          "id": "t_53_25",
+          "text": "It is more important than small adjustments.",
+          "audio": "assets/audio/t_53_25.mp3"
+        },
+        {
+          "id": "t_53_27",
+          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
+          "audio": "assets/audio/t_53_27.mp3"
+        },
+        {
+          "id": "t_53_33",
+          "text": "I am updating the tool register every day.",
+          "audio": "assets/audio/t_53_33.mp3"
+        },
+        {
+          "id": "t_53_34",
+          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
+          "audio": "assets/audio/t_53_34.mp3"
+        },
+        {
+          "id": "t_53_38",
+          "text": "They are simpler than digital forms during busy hours.",
+          "audio": "assets/audio/t_53_38.mp3"
+        },
+        {
+          "id": "t_53_41",
+          "text": "It will make the whole workshop more efficient than last month.",
+          "audio": "assets/audio/t_53_41.mp3"
         }
       ]
     }
