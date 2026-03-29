@@ -214,7 +214,7 @@
     ]
   },
   "activity_3": {
-    "type": "LISTENING-6",
+    "type": "LISTENING-5",
     "instructions": {
       "activity_a": {
         "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
@@ -222,62 +222,65 @@
       }
     },
     "content": {
-      "activity_a": [
-        {
-          "id": "t_52_1",
-          "key": "calibrate",
-          "text": "to adjust a tool or machine so it measures or works accurately.",
-          "audio": "assets/audio/t_52_1.mp3"
-        },
-        {
-          "id": "t_52_2",
-          "key": "install",
-          "text": "to put a part or component into position so it can operate correctly.",
-          "audio": "assets/audio/t_52_2.mp3"
-        },
-        {
-          "id": "t_52_3",
-          "key": "diagnose",
-          "text": "to find the cause of a mechanical or electrical problem.",
-          "audio": "assets/audio/t_52_3.mp3"
-        },
-        {
-          "id": "t_52_4",
-          "key": "troubleshoot",
-          "text": "to check a system step by step to identify and fix faults.",
-          "audio": "assets/audio/t_52_4.mp3"
-        },
-        {
-          "id": "t_52_5",
-          "key": "align",
-          "text": "to position parts so they are straight, level, and working in the correct orientation.",
-          "audio": "assets/audio/t_52_5.mp3"
-        },
-        {
-          "id": "t_52_6",
-          "key": "rotate",
-          "text": "to turn or spin a part around a central point.",
-          "audio": "assets/audio/t_52_6.mp3"
-        },
-        {
-          "id": "t_52_7",
-          "key": "lubricate",
-          "text": "to apply oil or grease to reduce friction between moving parts.",
-          "audio": "assets/audio/t_52_7.mp3"
-        },
-        {
-          "id": "t_52_8",
-          "key": "accelerate",
-          "text": "to increase the speed of a vehicle.",
-          "audio": "assets/audio/t_52_8.mp3"
-        },
-        {
-          "id": "t_52_9",
-          "key": "bleed",
-          "text": "to remove air from a system, such as brake lines, so the fluid can flow properly.",
-          "audio": "assets/audio/t_52_9.mp3"
-        }
-      ]
+      "activity_a": {
+        "audio": "assets/audio/a_3_l.mp3",
+        "content": [
+          {
+            "id": "t_52_1",
+            "key": "calibrate",
+            "text": "to adjust a tool or machine so it measures or works accurately.",
+            "audio": "assets/audio/t_52_1.mp3"
+          },
+          {
+            "id": "t_52_2",
+            "key": "install",
+            "text": "to put a part or component into position so it can operate correctly.",
+            "audio": "assets/audio/t_52_2.mp3"
+          },
+          {
+            "id": "t_52_3",
+            "key": "diagnose",
+            "text": "to find the cause of a mechanical or electrical problem.",
+            "audio": "assets/audio/t_52_3.mp3"
+          },
+          {
+            "id": "t_52_4",
+            "key": "troubleshoot",
+            "text": "to check a system step by step to identify and fix faults.",
+            "audio": "assets/audio/t_52_4.mp3"
+          },
+          {
+            "id": "t_52_5",
+            "key": "align",
+            "text": "to position parts so they are straight, level, and working in the correct orientation.",
+            "audio": "assets/audio/t_52_5.mp3"
+          },
+          {
+            "id": "t_52_6",
+            "key": "rotate",
+            "text": "to turn or spin a part around a central point.",
+            "audio": "assets/audio/t_52_6.mp3"
+          },
+          {
+            "id": "t_52_7",
+            "key": "lubricate",
+            "text": "to apply oil or grease to reduce friction between moving parts.",
+            "audio": "assets/audio/t_52_7.mp3"
+          },
+          {
+            "id": "t_52_8",
+            "key": "accelerate",
+            "text": "to increase the speed of a vehicle.",
+            "audio": "assets/audio/t_52_8.mp3"
+          },
+          {
+            "id": "t_52_9",
+            "key": "bleed",
+            "text": "to remove air from a system, such as brake lines, so the fluid can flow properly.",
+            "audio": "assets/audio/t_52_9.mp3"
+          }
+        ]
+      }
     }
   },
   "activity_4": {

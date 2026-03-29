@@ -149,26 +149,41 @@ const normalizeLineItems = (raw = []) => {
 };
 
 const normalizeMatchingPairs = (raw = []) => {
-  if (!Array.isArray(raw)) {
+  const source = Array.isArray(raw)
+    ? raw
+    : Array.isArray(raw?.content)
+    ? raw.content
+    : [];
+
+  if (!source.length) {
     return [];
   }
 
   const idCounts = new Map();
-  return raw
+  return source
     .map((entry, index) => {
       const baseId = trimString(entry?.id) || `match_${index + 1}`;
       const count = idCounts.get(baseId) ?? 0;
       idCounts.set(baseId, count + 1);
       const id = count > 0 ? `${baseId}_${count + 1}` : baseId;
-      const itemA = trimString(entry?.item_a) || trimString(entry?.itemA);
-      const itemB = trimString(entry?.item_b) || trimString(entry?.itemB);
-      if (!itemA || !itemB) {
+      const label =
+        trimString(entry?.item_a) ||
+        trimString(entry?.itemA) ||
+        trimString(entry?.key);
+      const prompt =
+        trimString(entry?.item_b) ||
+        trimString(entry?.itemB) ||
+        trimString(entry?.text);
+
+      if (!label || !prompt) {
         return null;
       }
+
       return {
         id,
-        itemA,
-        itemB,
+        label,
+        prompt,
+        audio: trimString(entry?.audio),
       };
     })
     .filter(Boolean);
@@ -225,7 +240,7 @@ const buildAudioMatchingSlide = (data = {}, context = {}) => {
   ensureInstructionAnchor(slide);
   maybeInsertFocus(slide, activityFocus, includeFocus);
 
-  const items = normalizeMatchingPairs(data?.content);
+  const items = normalizeMatchingPairs(data);
 
   if (!items.length) {
     const emptyState = document.createElement("p");
@@ -286,12 +301,8 @@ const buildAudioMatchingSlide = (data = {}, context = {}) => {
     card.className = "word-match-sentence";
 
     const title = document.createElement("h3");
-    title.textContent = `Pair ${index + 1}`;
+    title.textContent = `${index + 1}`;
     card.appendChild(title);
-
-    const body = document.createElement("p");
-    body.textContent = entry.itemB;
-    card.appendChild(body);
 
     const zone = document.createElement("div");
     zone.className = "word-match-dropzone";
@@ -300,7 +311,7 @@ const buildAudioMatchingSlide = (data = {}, context = {}) => {
 
     const placeholder = document.createElement("span");
     placeholder.className = "word-match-placeholder";
-    placeholder.textContent = "Drop the matching verb here";
+    placeholder.innerHTML = "&nbsp;";
     zone.appendChild(placeholder);
 
     card.appendChild(zone);
@@ -317,7 +328,7 @@ const buildAudioMatchingSlide = (data = {}, context = {}) => {
     card.className = "word-match-card";
     card.dataset.itemId = entry.id;
     card.dataset.assignedZone = "";
-    card.textContent = entry.itemA;
+    card.textContent = entry.label;
     return card;
   };
 
@@ -398,7 +409,7 @@ const buildAudioMatchingSlide = (data = {}, context = {}) => {
 
   const clearEvaluationState = () => {
     evaluationShown = false;
-    updateFeedback("Drag each verb to the matching noun.", "neutral");
+    updateFeedback("Drag each word to the correct numbered box.", "neutral");
     dropzones.forEach((zone) =>
       zone.classList.remove("is-correct", "is-incorrect")
     );
@@ -442,10 +453,10 @@ const buildAudioMatchingSlide = (data = {}, context = {}) => {
 
     evaluationShown = true;
     if (correctCount === dropzones.length) {
-      updateFeedback("Great job! Every pair matches.", "positive");
+      updateFeedback("Great job! Every number matches.", "positive");
       showCompletionModal({
         title: "Excellent!",
-        message: "You matched each verb with the correct noun.",
+        message: "You completed the matching exercise.",
       });
     } else {
       updateFeedback(
@@ -1462,51 +1473,5 @@ export const buildListeningFiveSlides = (activityData = {}, context = {}) => {
     createSubActivityContext(baseContext, "a", Boolean(activityFocus))
   );
 
-  const optionSlide = buildAudioOptionSlide(
-    activityData?.content?.activity_b,
-    createSubActivityContext(baseContext, "b")
-  );
-
-  const listenItems = normalizeLineItems(activityData?.content?.activity_c);
-  const repeatItems = normalizeLineItems(activityData?.content?.activity_d);
-  const readItems = normalizeLineItems(activityData?.content?.activity_e);
-
-  const repeatPauseMs = getRepeatPauseMs(activityData);
-
-  const slides = [
-    matchingSlide,
-    optionSlide,
-    createSequencedTextSlide(
-      listenItems,
-      createSubActivityContext(baseContext, "c"),
-      {
-        mode: "listen",
-        autoDelayMs: 5000,
-        repeatPauseMs,
-        layout: "single-column",
-        showLineNumbers: false,
-        presentation: "paragraph",
-      }
-    ),
-    createSequencedTextSlide(
-      repeatItems,
-      createSubActivityContext(baseContext, "d"),
-      {
-        mode: "listen-repeat",
-        autoDelayMs: 5000,
-        repeatPauseMs,
-      }
-    ),
-    createSequencedTextSlide(
-      readItems,
-      createSubActivityContext(baseContext, "e"),
-      {
-        mode: "read",
-        autoDelayMs: 5000,
-        repeatPauseMs,
-      }
-    ),
-  ];
-
-  return slides;
+  return [matchingSlide];
 };
