@@ -141,10 +141,14 @@
       },
       {
         "id": "d_5",
-        "text_a": "What’s the matter? Back pain? How did he get it?",
-        "text_b": "Sunil is not feeling very well. He has back pain. He lifted a heavy gearbox all day yesterday.",
+        "text_a": "What’s the matter?",
+        "text_b": "Sunil is not feeling very well. He has back pain.",
+        "text_c": "Back pain? How did he get it?",
+        "text_d": "He lifted a heavy gearbox all day yesterday.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
       },
       {
         "id": "d_6",
@@ -163,9 +167,11 @@
       {
         "id": "d_8",
         "text_a": "I bought a new pair of safety gloves yesterday.",
-        "text_b": "Really? But I liked your old gloves. They were thick. That’s true. But my new gloves are thicker.",
+        "text_b": "Really? But I liked your old gloves. They were thick.",
+        "text_c": "That’s true. But my new gloves are thicker.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
-        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
       },
       {
         "id": "d_9",
@@ -183,10 +189,20 @@
       },
       {
         "id": "d_11",
-        "text_a": "What are you doing? That’s unusual. Do you usually charge batteries manually? Why are you doing that?",
-        "text_b": "I’m charging a car battery manually. No, I usually use a battery charger, but I am charging the battery manually today. Because the battery charger is not working. I understand.",
+        "text_a": "What are you doing?",
+        "text_b": "I’m charging a car battery manually.",
+        "text_c": "That’s unusual. Do you usually charge batteries manually?",
+        "text_d": "No, I usually use a battery charger, but I am charging the battery manually today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because the battery charger is not working.",
+        "text_g": "I understand.",
         "audio_a": "assets/audio/a_2_d_11_a.mp3",
-        "audio_b": "assets/audio/a_2_d_11_b.mp3"
+        "audio_b": "assets/audio/a_2_d_11_b.mp3",
+        "audio_c": "assets/audio/a_2_d_11_c.mp3",
+        "audio_d": "assets/audio/a_2_d_11_d.mp3",
+        "audio_e": "assets/audio/a_2_d_11_e.mp3",
+        "audio_f": "assets/audio/a_2_d_11_f.mp3",
+        "audio_g": "assets/audio/a_2_d_11_g.mp3"
       },
       {
         "id": "d_12",
@@ -198,214 +214,68 @@
     ]
   },
   "activity_3": {
-    "type": "INTERACTIVE-2",
+    "type": "LISTENING-6",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_3_i_d.mp3"
-      },
-      "activity_b": {
-        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
-        "audio": "assets/audio/a_2_i_c.mp3"
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
       }
     },
     "content": {
-      "activity_a": {
-        "bg_image": "assets/img/game/bg-7.jpg",
-        "examples": [
-          {
-            "id": "g_b_ex",
-            "sentence": "He maintains the tools, he assists the trainees, and he checks workshop safety.",
-            "audio": "assets/audio/g_b_ex.mp3",
-            "options": [
-              "What does the technician do every day?",
-              "Is the technician assisting now?",
-              "What is the technician doing?"
-            ],
-            "answer": "What does the technician do every day?"
-          }
-        ],
-        "content": [
-          {
-            "id": "g_b_1",
-            "sentence": "I was in the engine diagnostics bay this morning.",
-            "audio": "assets/audio/g_b_1.mp3",
-            "options": [
-              "Where were you this morning?",
-              "Are you in the diagnostics bay right now?",
-              "Do you work in the diagnostics bay every day?"
-            ],
-            "answer": "Where were you this morning?"
-          },
-          {
-            "id": "g_b_2",
-            "sentence": "They are checking the tire pressure before the test drive.",
-            "audio": "assets/audio/g_b_2.mp3",
-            "options": [
-              "What are they checking?",
-              "What do they check?",
-              "Why do they checks the tire pressure?"
-            ],
-            "answer": "What are they checking?"
-          },
-          {
-            "id": "g_b_3",
-            "sentence": "They can repair automatic gearboxes very well.",
-            "audio": "assets/audio/g_b_3.mp3",
-            "options": [
-              "What can they repair well?",
-              "Has the team repaired gearboxes before?",
-              "How well do we repair automatic gearboxes?"
-            ],
-            "answer": "What can they repair well?"
-          },
-          {
-            "id": "g_b_4",
-            "sentence": "He is very punctual every day.",
-            "audio": "assets/audio/g_b_4.mp3",
-            "options": [
-              "Is your technician on time every day?",
-              "Are your technicians coming on time?",
-              "Who is your technician?"
-            ],
-            "answer": "Is your technician on time every day?"
-          },
-          {
-            "id": "g_b_5",
-            "sentence": "They are going to visit the vehicle inspection centre next Monday.",
-            "audio": "assets/audio/g_b_5.mp3",
-            "options": [
-              "Where are they going next Monday?",
-              "Is their visit next week to a workshop?",
-              "Where are you going to visit next week?"
-            ],
-            "answer": "Where are they going next Monday?"
-          },
-          {
-            "id": "g_b_6",
-            "sentence": "They work in three different service bays every day.",
-            "audio": "assets/audio/g_b_6.mp3",
-            "options": [
-              "Do the trainees work in the same bay every day?",
-              "What are the trainees do every day?",
-              "Is the schedule for the trainees every day?"
-            ],
-            "answer": "Do the trainees work in the same bay every day?"
-          },
-          {
-            "id": "g_b_7",
-            "sentence": "She is inspecting the brake system right now.",
-            "audio": "assets/audio/g_b_7.mp3",
-            "options": [
-              "What is she inspecting right now?",
-              "Is she being in the brake bay right now?",
-              "What is the technician prepares right now?"
-            ],
-            "answer": "What is she inspecting right now?"
-          },
-          {
-            "id": "g_b_8",
-            "sentence": "The supplier delivered a new set of shock absorbers last evening.",
-            "audio": "assets/audio/g_b_8.mp3",
-            "options": [
-              "What did the supplier deliver last evening?",
-              "Are the shock absorbers delivered last evening?",
-              "Did the supplier order shock absorbers last evening?"
-            ],
-            "answer": "What did the supplier deliver last evening?"
-          }
-        ]
-      },
-      "activity_b": [
+      "activity_a": [
         {
-          "id": "g_b_ex",
-          "text": "He maintains the tools, he assists the trainees, and he checks workshop safety.",
-          "audio": "assets/audio/g_b_ex.mp3"
+          "id": "t_52_1",
+          "key": "calibrate",
+          "text": "to adjust a tool or machine so it measures or works accurately.",
+          "audio": "assets/audio/t_52_1.mp3"
         },
         {
-          "id": "g_b_ex_a",
-          "text": "What does the technician do every day?",
-          "audio": "assets/audio/g_b_ex_a.mp3"
+          "id": "t_52_2",
+          "key": "install",
+          "text": "to put a part or component into position so it can operate correctly.",
+          "audio": "assets/audio/t_52_2.mp3"
         },
         {
-          "id": "g_b_1",
-          "text": "I was in the engine diagnostics bay this morning.",
-          "audio": "assets/audio/g_b_1.mp3"
+          "id": "t_52_3",
+          "key": "diagnose",
+          "text": "to find the cause of a mechanical or electrical problem.",
+          "audio": "assets/audio/t_52_3.mp3"
         },
         {
-          "id": "g_b_1_a",
-          "text": "Where were you this morning?",
-          "audio": "assets/audio/g_b_1_a.mp3"
+          "id": "t_52_4",
+          "key": "troubleshoot",
+          "text": "to check a system step by step to identify and fix faults.",
+          "audio": "assets/audio/t_52_4.mp3"
         },
         {
-          "id": "g_b_2",
-          "text": "They are checking the tire pressure before the test drive.",
-          "audio": "assets/audio/g_b_2.mp3"
+          "id": "t_52_5",
+          "key": "align",
+          "text": "to position parts so they are straight, level, and working in the correct orientation.",
+          "audio": "assets/audio/t_52_5.mp3"
         },
         {
-          "id": "g_b_2_a",
-          "text": "What are they checking?",
-          "audio": "assets/audio/g_b_2_a.mp3"
+          "id": "t_52_6",
+          "key": "rotate",
+          "text": "to turn or spin a part around a central point.",
+          "audio": "assets/audio/t_52_6.mp3"
         },
         {
-          "id": "g_b_3",
-          "text": "They can repair automatic gearboxes very well.",
-          "audio": "assets/audio/g_b_3.mp3"
+          "id": "t_52_7",
+          "key": "lubricate",
+          "text": "to apply oil or grease to reduce friction between moving parts.",
+          "audio": "assets/audio/t_52_7.mp3"
         },
         {
-          "id": "g_b_3_a",
-          "text": "What can they repair well?",
-          "audio": "assets/audio/g_b_3_a.mp3"
+          "id": "t_52_8",
+          "key": "accelerate",
+          "text": "to increase the speed of a vehicle.",
+          "audio": "assets/audio/t_52_8.mp3"
         },
         {
-          "id": "g_b_4",
-          "text": "He is very punctual every day.",
-          "audio": "assets/audio/g_b_4.mp3"
-        },
-        {
-          "id": "g_b_4_a",
-          "text": "Is your technician on time every day?",
-          "audio": "assets/audio/g_b_4_a.mp3"
-        },
-        {
-          "id": "g_b_5",
-          "text": "They are going to visit the vehicle inspection centre next Monday.",
-          "audio": "assets/audio/g_b_5.mp3"
-        },
-        {
-          "id": "g_b_5_a",
-          "text": "Where are they going next Monday?",
-          "audio": "assets/audio/g_b_5_a.mp3"
-        },
-        {
-          "id": "g_b_6",
-          "text": "They work in three different service bays every day.",
-          "audio": "assets/audio/g_b_6.mp3"
-        },
-        {
-          "id": "g_b_6_a",
-          "text": "Do the trainees work in the same bay every day?",
-          "audio": "assets/audio/g_b_6_a.mp3"
-        },
-        {
-          "id": "g_b_7",
-          "text": "She is inspecting the brake system right now.",
-          "audio": "assets/audio/g_b_7.mp3"
-        },
-        {
-          "id": "g_b_7_a",
-          "text": "What is she inspecting right now?",
-          "audio": "assets/audio/g_b_7_a.mp3"
-        },
-        {
-          "id": "g_b_8",
-          "text": "The supplier delivered a new set of shock absorbers last evening.",
-          "audio": "assets/audio/g_b_8.mp3"
-        },
-        {
-          "id": "g_b_8_a",
-          "text": "What did the supplier deliver last evening?",
-          "audio": "assets/audio/g_b_8_a.mp3"
+          "id": "t_52_9",
+          "key": "bleed",
+          "text": "to remove air from a system, such as brake lines, so the fluid can flow properly.",
+          "audio": "assets/audio/t_52_9.mp3"
         }
       ]
     }

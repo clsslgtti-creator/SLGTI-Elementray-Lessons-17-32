@@ -772,6 +772,20 @@ body {
   color: var(--color-text);
 }
 
+.dialogue-card__line--speaker-a {
+  background: rgba(31, 111, 235, 0.1);
+
+  color: var(--color-primary);
+
+  font-weight: 600;
+}
+
+.dialogue-card__line--speaker-b {
+  background: rgba(31, 41, 51, 0.04);
+
+  color: var(--color-text);
+}
+
 .dialogue-card__line.is-playing {
   box-shadow: 0 0 0 2px rgba(235, 31, 31, 0.28),
     0 10px 18px rgba(15, 23, 42, 0.12);
@@ -784,6 +798,14 @@ body {
 }
 
 .dialogue-card__line--answer.is-playing {
+  background: rgba(31, 41, 51, 0.12);
+}
+
+.dialogue-card__line--speaker-a.is-playing {
+  background: rgba(31, 111, 235, 0.2);
+}
+
+.dialogue-card__line--speaker-b.is-playing {
   background: rgba(31, 41, 51, 0.12);
 }
 

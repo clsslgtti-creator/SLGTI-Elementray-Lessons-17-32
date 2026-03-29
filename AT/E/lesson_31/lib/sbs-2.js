@@ -37,11 +37,39 @@ const renderEmphasizedText = (element, text) => {
   element.appendChild(fragment);
 };
 
+const collectDialogueEntries = (dialogue = {}) => {
+  const segmentMap = new Map();
+
+  Object.entries(dialogue).forEach(([key, value]) => {
+    const match = /^(text|audio)_([a-z])$/i.exec(key);
+    if (!match) {
+      return;
+    }
+
+    const [, type, suffix] = match;
+    const normalizedSuffix = suffix.toLowerCase();
+    const normalizedValue = typeof value === 'string' ? value.trim() : '';
+    const current = segmentMap.get(normalizedSuffix) ?? {
+      suffix: normalizedSuffix,
+      text: '',
+      audio: '',
+    };
+
+    current[type.toLowerCase()] = normalizedValue;
+    segmentMap.set(normalizedSuffix, current);
+  });
+
+  return Array.from(segmentMap.values()).sort((left, right) =>
+    left.suffix.localeCompare(right.suffix),
+  );
+};
+
 const createDialogueCard = (dialogue, options = {}) => {
   const { showTexts = true, showAnswer = true, classes = [] } = options;
   const wrapper = document.createElement('article');
   wrapper.className = ['dialogue-card', ...classes].join(' ');
   wrapper.dataset.dialogueId = dialogue.id;
+  const dialogueEntries = collectDialogueEntries(dialogue);
 
   if (dialogue.img) {
     const img = document.createElement('img');
@@ -52,36 +80,48 @@ const createDialogueCard = (dialogue, options = {}) => {
     wrapper.appendChild(img);
   }
 
-  if (showTexts && (dialogue.text_a || dialogue.text_b || dialogue.text_c)) {
+  if (showTexts && dialogueEntries.some(({ text }) => text)) {
     const texts = document.createElement('div');
     texts.className = 'dialogue-card__texts';
 
-    if (dialogue.text_a) {
-      const question = document.createElement('p');
-      question.className = 'dialogue-card__line dialogue-card__line--question';
-      renderEmphasizedText(question, dialogue.text_a);
-      texts.appendChild(question);
-    }
-
-    const createAnswerLine = (text, modifierClass) => {
+    const createDialogueLine = ({ text, suffix }, index) => {
       if (!text) {
         return;
       }
-      const answer = document.createElement('p');
-      const classes = ['dialogue-card__line', 'dialogue-card__line--answer'];
-      if (modifierClass) {
-        classes.push(modifierClass);
+
+      const line = document.createElement('p');
+      const lineClasses = ['dialogue-card__line'];
+
+      if (index % 2 === 0) {
+        lineClasses.push('dialogue-card__line--speaker-a');
+      } else {
+        lineClasses.push('dialogue-card__line--speaker-b');
       }
-      answer.className = classes.join(' ');
-      renderEmphasizedText(answer, text);
-      if (!showAnswer) {
-        answer.classList.add('is-hidden');
+
+      if (suffix === 'a') {
+        lineClasses.push('dialogue-card__line--question');
+      } else {
+        lineClasses.push('dialogue-card__line--answer');
       }
-      texts.appendChild(answer);
+
+      if (suffix === 'b') {
+        lineClasses.push('dialogue-card__line--answer-primary');
+      } else if (suffix === 'c') {
+        lineClasses.push('dialogue-card__line--answer-secondary');
+      }
+
+      line.className = lineClasses.join(' ');
+      line.dataset.segmentKey = suffix;
+      renderEmphasizedText(line, text);
+
+      if (!showAnswer && index > 0) {
+        line.classList.add('is-hidden');
+      }
+
+      texts.appendChild(line);
     };
 
-    createAnswerLine(dialogue.text_b, 'dialogue-card__line--answer-primary');
-    createAnswerLine(dialogue.text_c, 'dialogue-card__line--answer-secondary');
+    dialogueEntries.forEach((entry, index) => createDialogueLine(entry, index));
 
     wrapper.appendChild(texts);
   }
@@ -94,20 +134,13 @@ const createDialogueSegments = (dialogue, card) => {
     return [];
   }
 
-  const segmentConfigs = [
-    { key: 'audio_a', selector: '.dialogue-card__line--question' },
-    { key: 'audio_b', selector: '.dialogue-card__line--answer-primary' },
-    { key: 'audio_c', selector: '.dialogue-card__line--answer-secondary' },
-  ];
-
-  return segmentConfigs
-    .map(({ key, selector }) => {
-      const url = dialogue?.[key];
-      if (!url) {
+  return collectDialogueEntries(dialogue)
+    .map(({ suffix, audio }) => {
+      if (!audio) {
         return null;
       }
-      const element = card.querySelector(selector);
-      return { url, element };
+      const element = card.querySelector(`[data-segment-key="${suffix}"]`);
+      return { url: audio, element };
     })
     .filter(Boolean);
 };
