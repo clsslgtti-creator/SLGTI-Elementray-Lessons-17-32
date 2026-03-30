@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "lesson_no": "32 - Test",
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "MATCHING-WORDS",
+    "instruction": {
+      "text": "Match the words with their definitions.\nවචන ඒවායේ අර්ථයන් සමඟ යා කරන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+      "audio": "assets/audio/a_1_a_i.mp3"
+    },
+    "content": [
+      {
+        "id": "n_4_a_1",
+        "item_a": "business registration",
+        "item_b": "The legal process of officially registering your business name with the state"
+      },
+      {
+        "id": "n_4_a_2",
+        "item_a": "quotation / estimate",
+        "item_b": "A price given in writing to a customer before starting work"
+      },
+      {
+        "id": "n_4_a_3",
+        "item_a": "business license / permit",
+        "item_b": "Permission from the state to operate a specific business"
+      },
+      {
+        "id": "n_4_a_4",
+        "item_a": "payroll records",
+        "item_b": "Documents showing employee salaries, EPF/ETF, and working hours"
+      },
+      {
+        "id": "n_4_a_5",
+        "item_a": "contracts / agreements",
+        "item_b": "Written legal agreements between two or more parties"
+      },
+      {
+        "id": "n_4_a_6",
+        "item_a": "inventory records",
+        "item_b": "Documents that show the items you have in stock"
+      },
+      {
+        "id": "n_4_a_7",
+        "item_a": "receipt",
+        "item_b": "A document confirming that you received payment"
+      },
+      {
+        "id": "n_4_a_8",
+        "item_a": "VAT registration",
+        "item_b": "The process of registering for Value Added Tax if your income reaches the required level"
+      },
+      {
+        "id": "n_4_a_9",
+        "item_a": "invoice",
+        "item_b": "A document you send to a customer asking for payment"
+      },
+      {
+        "id": "n_4_a_10",
+        "item_a": "Tax Identification Number (TIN)",
+        "item_b": "A number used for tax purposes when running a business"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "MCQ",
+    "instruction": {
+      "text": "Read the following answers and click on the correct question. \nපහත සඳහන් පිළිතුරු කියවා නිවැරදි ප්‍රශ්නය ක්ලික් කරන්න.\nபின்வரும் பதில்களைப் படித்து சரியான கேள்வியைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i.mp3"
+    },
+    "content": [
+      {
+        "question": "No, I can’t. But I can drive a lorry.",
+        "options": [
+          "Do you drive a car?",
+          "Can you drive a tractor?",
+          "Does he drive a tractor?",
+          "Have you driven a tractor before?"
+        ],
+        "answer": "Can you drive a tractor?"
+      },
+      {
+        "question": "No, we can’t. We have to prepare our work schedule for next week.",
+        "options": [
+          "Can you and your colleagues help me prepare this report?",
+          "Do you have time to help me prepare this report?",
+          "Do your colleagues have time to help me prepare this report?",
+          "Have you prepared a report before?"
+        ],
+        "answer": "Can you and your colleagues help me prepare this report?"
+      },
+      {
+        "question": "I participated in a sports event at our training institute yesterday.",
+        "options": [
+          "You look tired. What are you doing?",
+          "Have you ever participated in a sport event?",
+          "You look tired. What did you do yesterday?",
+          "When are you tired?"
+        ],
+        "answer": "You look tired. What did you do yesterday?"
+      },
+      {
+        "question": "Of course she can. She’s a technician. She repairs computers every day.",
+        "options": [
+          "Does Mala know how to repair computers?",
+          "Have Mala ever repaired a computer before?",
+          "What does Mala do every day?",
+          "Can Mala repair computers?"
+        ],
+        "answer": "Can Mala repair computers?"
+      },
+      {
+        "question": "I’m going to type the work schedule this afternoon.",
+        "options": [
+          "When are you going to type the work schedule?",
+          "What are you doing?",
+          "Have you typed the work schedule yesterday?",
+          "Can you type the work schedule?"
+        ],
+        "answer": "When are you going to type the work schedule?"
+      },
+      {
+        "question": "No, they can’t. They have to fill their work log books this afternoon.",
+        "options": [
+          "Are the trainees filling their work log books this afternoon?",
+          "Can the trainees help in stock taking this afternoon?",
+          "Can you help me with stock taking?",
+          "Do the trainees help with stock taking?"
+        ],
+        "answer": "Can the trainees help in stock taking this afternoon?"
+      },
+      {
+        "question": "No, he can’t. But he can email a document.",
+        "options": [
+          "Does Ahmed scan documents?",
+          "Has Ahmed ever scanned documents before?",
+          "Can Ahmed scan documents?",
+          "Will Ahmed scan a document for me?"
+        ],
+        "answer": "Can Ahmed scan documents?"
+      },
+      {
+        "question": "Of course we can. We are bakers. We bake cakes every day.",
+        "options": [
+          "Will you bake a cake for my grandmother’s birthday?",
+          "Do you and your team bake cakes for birthdays?",
+          "Can they bake cakes for birthdays?",
+          "Can you and your team bake a cake for my grandmother’s birthday?"
+        ],
+        "answer": "Can you and your team bake a cake for my grandmother’s birthday?"
+      },
+      {
+        "question": "She’s going to apply for jobs next week.",
+        "options": [
+          "Is your sister applying for jobs next week?",
+          "When is your sister going to apply for jobs?",
+          "Has your sister ever applied for jobs?",
+          "Does your sister apply for jobs?"
+        ],
+        "answer": "When is your sister going to apply for jobs?"
+      },
+      {
+        "question": "He might go this evening or he might not. He really doesn’t know.",
+        "options": [
+          "When is Kasun going to Colombo for the interview?",
+          "Has Kasun ever been to Colombo?",
+          "Is Kasun’s interview in Colombo?",
+          "Has Kasun ever going for an interview?"
+        ],
+        "answer": "When is Kasun going to Colombo for the interview?"
+      },
+      {
+        "question": "What’s the matter with Aisha?",
+        "options": [
+          "She has a stomachache.",
+          "She is suffering of a stomachache.",
+          "She had a headache yesterday.",
+          "She is having a stomachache yesterday."
+        ],
+        "answer": "She has a stomachache."
+      },
+      {
+        "question": "A stomachache? How did Aisha get it?",
+        "options": [
+          "She eats raw mangoes yesterday.",
+          "She is eating raw mangoes yesterday.",
+          "She ate raw mangoes yesterday.",
+          "She had ate raw mangoes yesterday."
+        ],
+        "answer": "She ate raw mangoes yesterday."
+      },
+      {
+        "question": "What’s the matter with Haran?",
+        "options": [
+          "He is having a backache yesterday.",
+          "He has a backache.",
+          "He had a stomachache yesterday.",
+          "He is suffering of a backache."
+        ],
+        "answer": "He has a backache."
+      },
+      {
+        "question": "A backache? How did Haran get it?",
+        "options": [
+          "He played cricket all day yesterday.",
+          "He is carrying heavy cement bags yesterday.",
+          "He carried heavy cement bags yesterday.",
+          "He did carried heavy cement bags yesterday."
+        ],
+        "answer": "He carried heavy cement bags yesterday."
+      },
+      {
+        "question": "How did Saman get a headache?",
+        "options": [
+          "He plays cricket every day.",
+          "He played cricket all day yesterday.",
+          "He is playing cricket all day yesterday.",
+          "He did play cricket."
+        ],
+        "answer": "He played cricket all day yesterday."
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "question": "I ______ repair hybrid engines, but I can repair petrol engines.",
+        "options": ["can", "do", "can’t", "have"],
+        "answer": "can’t"
+      },
+      {
+        "question": "______ you check voltage readings accurately? No, I can’t.",
+        "options": ["do", "can", "can’t", "have"],
+        "answer": "can"
+      },
+      {
+        "question": "What ______ you do this morning ? I serviced three cars.",
+        "options": ["can", "do", "have", "did"],
+        "answer": "did"
+      },
+      {
+        "question": "Can Amal drive an SUV? Of course he ______. He test-drives vehicles every day.",
+        "options": ["can", "does", "has", "did"],
+        "answer": "can"
+      },
+      {
+        "question": "When are you going to collect the spare parts? I’m going to collect them ______.",
+        "options": [
+          "this afternoon",
+          "yesterday",
+          "two hours ago",
+          "last night"
+        ],
+        "answer": "this afternoon"
+      },
+      {
+        "question": "I’m sorry I can’t help you. I ______ prepare the inspection report this evening.",
+        "options": ["have to", "going", "is going", "do"],
+        "answer": "have to"
+      },
+      {
+        "question": "He can’t repair gearboxes ______ he can change brake pads.",
+        "options": ["also", "and", "but", "as well as"],
+        "answer": "but"
+      },
+      {
+        "question": "Can he fix a plug? Of course he can. He’s an auto-electrician. He ______ plugs every day.",
+        "options": ["fixed", "is fixing", "fixes", "has fixed"],
+        "answer": "fixes"
+      },
+      {
+        "question": "What did you do yesterday? I ______ the customer’s service records.",
+        "options": ["studies", "studied", "study", "am studying"],
+        "answer": "studied"
+      },
+      {
+        "question": "Will Devi go for training next month? She ______ go or she might not.",
+        "options": ["may", "might", "may not", "has to"],
+        "answer": "might"
+      }
+    ]
+  },
+  "activity_4": {
+    "type": "LISTENING",
+    "instruction": {
+      "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යය අසා බලන්න. පසුව නිවැරදි පිළිතුර මත ක්ලික් කරන්න. ප්‍රශ්න පළමුව කියවන්න.\nஇருமுறை ஒலிக்கப்படும் ஆடியோவை கேட்கவும். பின்னர் சரியான பதிலில் கிளிக் செய்யவும். முதலில் கேள்விகளைப் படியுங்கள்.",
+      "audio": "assets/audio/a_4_i.mp3"
+    },
+    "audio": "assets/audio/a_4_q.mp3",
+    "content": [
+      {
+        "question": "Why does Thilak want to work in this workshop?",
+        "options": [
+          "Because his friends work here.",
+          "Because the workshop is close to his house.",
+          "Because he wants to gain experience selling cars.",
+          "Because he wants more hands-on experience."
+        ],
+        "answer": "Because he wants more hands-on experience."
+      },
+      {
+        "question": "What basic tasks can he already do well?",
+        "options": [
+          "Painting cars",
+          "Engine checks and replacing filters",
+          "Gearbox rebuilding",
+          "Welding"
+        ],
+        "answer": "Engine checks and replacing filters"
+      },
+      {
+        "question": "How does he feel about brake inspections?",
+        "options": [
+          "He refuses to do them.",
+          "He can do them but not very well.",
+          "He can do them very well.",
+          "He has never seen them."
+        ],
+        "answer": "He can do them but not very well."
+      },
+      {
+        "question": "Which system is he confident with?",
+        "options": [
+          "Painting system",
+          "Transmission system",
+          "Suspension checks",
+          "Air-conditioning system"
+        ],
+        "answer": "Suspension checks"
+      },
+      {
+        "question": "What does the interviewer like about Thilak?",
+        "options": [
+          "His handwriting",
+          "His tools",
+          "His uniform",
+          "His attitude"
+        ],
+        "answer": "His attitude"
+      }
+    ]
+  }
+}
