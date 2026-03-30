@@ -1,0 +1,809 @@
+{
+  "meta": {
+    "lesson_no": "31 - Revision II",
+    "level": "Elementary",
+    "section": "Information Communication Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "INTERACTIVE-1",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-7.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "The server ________ too slow during yesterday’s system diagnostics.",
+            "options": ["is", "was", "were"],
+            "answer": "was"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "The technicians ________ the new network cables now.",
+            "options": ["are installing", "is installing", "installs"],
+            "answer": "are installing"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "We ________ the firewall settings every day to avoid security issues.",
+            "options": ["are checking", "checked", "check"],
+            "answer": "check"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "________ they update the software before restarting the system?",
+            "options": ["Were", "Are", "Did"],
+            "answer": "Did"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "________ the login credentials correct during yesterday’s training session?",
+            "options": ["Is", "Were", "Can"],
+            "answer": "Were"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "________ the technician configure the new router this morning?",
+            "options": ["Is", "Did", "Was"],
+            "answer": "Did"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Why ________ the cloud backups incomplete last week?",
+            "options": ["is", "was", "were"],
+            "answer": "were"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "He ________ upload the revised database files tomorrow.",
+            "options": ["is going to", "must go", "has to"],
+            "answer": "is going to"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "You ________ use an anti-static wrist strap when handling the motherboard.",
+            "options": ["haven’t", "are", "must"],
+            "answer": "must"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "They ________ install the USB drivers correctly, or the device will not respond.",
+            "options": ["must have", "have to", "should have"],
+            "answer": "have to"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "The IT officer ________ to check the configuration panel this afternoon.",
+            "options": ["went", "are going", "is going"],
+            "answer": "is going"
+          },
+          {
+            "id": "g_b_12",
+            "sentence": "They ________ secure the server room door properly, and the alarm triggered.",
+            "options": ["didn’t", "don’t", "mustn’t"],
+            "answer": "didn’t"
+          }
+        ]
+      }
+    }
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "Revision",
+    "instructions": {
+      "activity_2_a": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_c": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "dialogues": [
+      {
+        "id": "d_1",
+        "text_a": "Can you configure a desktop computer?",
+        "text_b": "No, I can’t. But I can install basic software.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "text_a": "Can Ruwan troubleshoot network problems?",
+        "text_b": "Of course, he can. He troubleshoots network problems every day. He’s an ICT trainee.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "text_a": "When are you going to update the operating system?",
+        "text_b": "I’m going to update it tomorrow morning.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      },
+      {
+        "id": "d_4",
+        "text_a": "When is Ravi going to back up the server data?",
+        "text_b": "He might back it up this morning, or he might back it up this afternoon. He really doesn’t know.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "text_a": "What’s the matter?",
+        "text_b": "Sunil is not feeling very well. He has eye strain.",
+        "text_c": "Eye strain? How did he get it?",
+        "text_d": "He worked on the computer screen all day yesterday.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "text_a": "Did you check the network cables properly yesterday morning?",
+        "text_b": "No, I didn’t. I was feeling too tired.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "text_a": "Why did you restart the router this morning?",
+        "text_b": "I restarted it to restore the internet connection.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "text_a": "I bought a new keyboard yesterday.",
+        "text_b": "Really? But I liked your old keyboard. It was quiet.",
+        "text_c": "That’s true. But my new keyboard is quieter.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_9",
+        "text_a": "Why are you scanning the system for viruses right now?",
+        "text_b": "I’m scanning it now because I scanned it yesterday, but I missed some files. I am going to use this computer this afternoon, and I might share it with others.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      },
+      {
+        "id": "d_10",
+        "text_a": "Why are you upset today?",
+        "text_b": "I am upset because I have to reinstall the software. I always save my files before updating, but this morning I forgot, and it was a careless mistake.",
+        "audio_a": "assets/audio/a_2_d_10_a.mp3",
+        "audio_b": "assets/audio/a_2_d_10_b.mp3"
+      },
+      {
+        "id": "d_11",
+        "text_a": "What are you doing?",
+        "text_b": "I’m checking the printer settings.",
+        "text_c": "That’s unusual. Do you usually check the printer settings now?",
+        "text_d": "No, I usually check them after installation, but I am checking them now.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because the printer is not responding.",
+        "text_g": "I understand.",
+        "audio_a": "assets/audio/a_2_d_11_a.mp3",
+        "audio_b": "assets/audio/a_2_d_11_b.mp3",
+        "audio_c": "assets/audio/a_2_d_11_c.mp3",
+        "audio_d": "assets/audio/a_2_d_11_d.mp3",
+        "audio_e": "assets/audio/a_2_d_11_e.mp3",
+        "audio_f": "assets/audio/a_2_d_11_f.mp3",
+        "audio_g": "assets/audio/a_2_d_11_g.mp3"
+      },
+      {
+        "id": "d_12",
+        "text_a": "Can you and Amal set up the computer lab now?",
+        "text_b": "No, we can’t. We have to finish installing the network cables first.",
+        "audio_a": "assets/audio/a_2_d_12_a.mp3",
+        "audio_b": "assets/audio/a_2_d_12_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "LISTENING-5",
+    "instructions": {
+      "activity_a": {
+        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nகீழே உள்ள வினைச்சொற்களின் பொருளை கேட்கவும், பின்னர் அவற்றை சரியான பெட்டியில் இழுக்கவும்.",
+        "audio": "assets/audio/a_4_i_l.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_3_l.mp3",
+        "content": [
+          {
+            "id": "t_52_1",
+            "key": "diagnose",
+            "text": "to find the cause of a mechanical or electrical problem.",
+            "audio": "assets/audio/t_52_1.mp3"
+          },
+          {
+            "id": "t_52_2",
+            "key": "troubleshoot",
+            "text": "to check a system step by step to identify and fix faults.",
+            "audio": "assets/audio/t_52_2.mp3"
+          },
+          {
+            "id": "t_52_3",
+            "key": "reboot",
+            "text": "to restart a computer or device so the system can load fresh and run correctly.",
+            "audio": "assets/audio/t_52_3.mp3"
+          },
+          {
+            "id": "t_52_4",
+            "key": "browse",
+            "text": "to look through files, websites, or online content to find information.",
+            "audio": "assets/audio/t_52_4.mp3"
+          },
+          {
+            "id": "t_52_5",
+            "key": "scroll",
+            "text": "to move a page or screen up, down, or sideways to view different parts of it.",
+            "audio": "assets/audio/t_52_5.mp3"
+          },
+          {
+            "id": "t_52_6",
+            "key": "upload",
+            "text": "to send a file from your device to a server, website, or online platform.",
+            "audio": "assets/audio/t_52_6.mp3"
+          },
+          {
+            "id": "t_52_7",
+            "key": "configure",
+            "text": "to set up or adjust a device, system, or software so it works as required.",
+            "audio": "assets/audio/t_52_7.mp3"
+          },
+          {
+            "id": "t_52_8",
+            "key": "upgrade",
+            "text": "to improve a device or software by installing a newer or better version.",
+            "audio": "assets/audio/t_52_8.mp3"
+          },
+          {
+            "id": "t_52_9",
+            "key": "scan",
+            "text": "to check a device or system for problems, viruses, or specific information.",
+            "audio": "assets/audio/t_52_9.mp3"
+          }
+        ]
+      }
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-7",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and select the correct sentence. \nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි වාක්‍යය තෝරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். சரியான வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_4_i_k.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_21_1",
+            "question": "Why did the server-room inspection take longer?",
+            "answer": "Because the backup server was slower and the network layout was complicated.",
+            "options": [
+              "Because the UPS was missing.",
+              "Because the server room was newly built.",
+              "Because the backup server was slower and the network layout was complicated."
+            ]
+          },
+          {
+            "id": "l_21_2",
+            "question": "What is Nimal going to check first today?",
+            "answer": "The cooling fans and the UPS connection.",
+            "options": [
+              "The router cables.",
+              "The cooling fans and the UPS connection.",
+              "The CCTV recorder."
+            ]
+          },
+          {
+            "id": "l_21_3",
+            "question": "Why does Nimal have to be careful with the new firewall unit?",
+            "answer": "It is more sensitive than the old one.",
+            "options": [
+              "It is broken.",
+              "It is cheaper than the old one.",
+              "It is more sensitive than the old one."
+            ]
+          },
+          {
+            "id": "l_21_4",
+            "question": "What happened with the router yesterday?",
+            "answer": "The status lights were brighter than normal.",
+            "options": [
+              "The power cord burned.",
+              "The status lights were brighter than normal.",
+              "The cooling fan stopped."
+            ]
+          },
+          {
+            "id": "l_21_5",
+            "question": "Why is the new inventory system sometimes slower?",
+            "answer": "Because the Wi-Fi drops and affects the system.",
+            "options": [
+              "Because the staff don’t log in.",
+              "Because the devices are too old.",
+              "Because the Wi-Fi drops and affects the system."
+            ]
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_6_1",
+            "question_audio": "assets/audio/l_6_1.mp3",
+            "answer": "The new firewall is more sensitive than the old one, so I have to be careful.",
+            "options": [
+              "The new firewall is more sensitive than the old one, so I have to be careful.",
+              "The new firewall is sensitive more than the old one, so I have to be careful.",
+              "The new firewall is more sensitive from the old one, so I have to be careful."
+            ]
+          },
+          {
+            "id": "l_6_2",
+            "question_audio": "assets/audio/l_6_2.mp3",
+            "answer": "The old unit was slower, but it was easier than this new digital model.",
+            "options": [
+              "The old unit was slower, but it was easier than this new digital model.",
+              "The old unit was more slow, but it was more easy than this new digital model.",
+              "The old unit was slower and it was easier from this new digital model."
+            ]
+          },
+          {
+            "id": "l_6_3",
+            "question_audio": "assets/audio/l_6_3.mp3",
+            "answer": "They are simpler than digital forms during busy hours.",
+            "options": [
+              "They are simpler than digital forms during busy hours.",
+              "They are simple digital forms during busy hours.",
+              "They are simpler for digital forms during busy hours."
+            ]
+          },
+          {
+            "id": "l_6_4",
+            "question_audio": "assets/audio/l_6_4.mp3",
+            "answer": "It is more important than small adjustments.",
+            "options": [
+              "It is more important than small adjustments.",
+              "It is important more than small adjustments.",
+              "It is more important for small adjustments."
+            ]
+          },
+          {
+            "id": "l_6_5",
+            "question_audio": "assets/audio/l_6_5.mp3",
+            "answer": "It will make the whole lab more efficient than last month.",
+            "options": [
+              "It will make the whole lab more efficient than last month.",
+              "It will make the whole lab efficienter than last month.",
+              "It will make the whole lab more efficient from last month."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_58_1",
+          "text": "Good morning, Nimal.",
+          "audio": "assets/audio/t_58_1.mp3"
+        },
+        {
+          "id": "t_58_2",
+          "text": "Today I want to talk about how you are handling safety procedures and maintenance work in the ICT lab.",
+          "audio": "assets/audio/t_58_2.mp3"
+        },
+        {
+          "id": "t_58_3",
+          "text": "How are things going?",
+          "audio": "assets/audio/t_58_3.mp3"
+        },
+        {
+          "id": "t_58_4",
+          "text": "Good morning, madam. Things are going well, but I think some of our system checks can be faster.",
+          "audio": "assets/audio/t_58_4.mp3"
+        },
+        {
+          "id": "t_58_5",
+          "text": "For example, the server-room inspection took longer than expected.",
+          "audio": "assets/audio/t_58_5.mp3"
+        },
+        {
+          "id": "t_58_6",
+          "text": "Why did it take longer?",
+          "audio": "assets/audio/t_58_6.mp3"
+        },
+        {
+          "id": "t_58_7",
+          "text": "Yesterday the backup server was slower than usual, and I had to restart the system twice.",
+          "audio": "assets/audio/t_58_7.mp3"
+        },
+        {
+          "id": "t_58_8",
+          "text": "The network layout was also more complicated than I thought.",
+          "audio": "assets/audio/t_58_8.mp3"
+        },
+        {
+          "id": "t_58_9",
+          "text": "I wasn’t expecting that.",
+          "audio": "assets/audio/t_58_9.mp3"
+        },
+        {
+          "id": "t_58_10",
+          "text": "I see.",
+          "audio": "assets/audio/t_58_10.mp3"
+        },
+        {
+          "id": "t_58_11",
+          "text": "When you check the servers today, what are you going to do first?",
+          "audio": "assets/audio/t_58_11.mp3"
+        },
+        {
+          "id": "t_58_12",
+          "text": "I’m going to inspect the cooling fans and test the UPS connection.",
+          "audio": "assets/audio/t_58_12.mp3"
+        },
+        {
+          "id": "t_58_13",
+          "text": "I must also record everything in the maintenance log, because the administration team needs clear reports.",
+          "audio": "assets/audio/t_58_13.mp3"
+        },
+        {
+          "id": "t_58_14",
+          "text": "Good.",
+          "audio": "assets/audio/t_58_14.mp3"
+        },
+        {
+          "id": "t_58_15",
+          "text": "You have to be systematic.",
+          "audio": "assets/audio/t_58_15.mp3"
+        },
+        {
+          "id": "t_58_16",
+          "text": "What about the new firewall unit?",
+          "audio": "assets/audio/t_58_16.mp3"
+        },
+        {
+          "id": "t_58_17",
+          "text": "Can you handle the configuration update?",
+          "audio": "assets/audio/t_58_17.mp3"
+        },
+        {
+          "id": "t_58_18",
+          "text": "Yes, I can, but the new firewall is more sensitive than the old one, so I have to be careful.",
+          "audio": "assets/audio/t_58_18.mp3"
+        },
+        {
+          "id": "t_58_19",
+          "text": "The old unit was slower, but it was easier than this new digital model.",
+          "audio": "assets/audio/t_58_19.mp3"
+        },
+        {
+          "id": "t_58_20",
+          "text": "Are you checking the PPE shelf regularly?",
+          "audio": "assets/audio/t_58_20.mp3"
+        },
+        {
+          "id": "t_58_21",
+          "text": "Yes, I am.",
+          "audio": "assets/audio/t_58_21.mp3"
+        },
+        {
+          "id": "t_58_22",
+          "text": "I check it every evening, but yesterday I wasn’t able to finish the anti-static wrist-strap testing.",
+          "audio": "assets/audio/t_58_22.mp3"
+        },
+        {
+          "id": "t_58_23",
+          "text": "I was too busy with the router-firmware repair.",
+          "audio": "assets/audio/t_58_23.mp3"
+        },
+        {
+          "id": "t_58_24",
+          "text": "You must not skip safety testing.",
+          "audio": "assets/audio/t_58_24.mp3"
+        },
+        {
+          "id": "t_58_25",
+          "text": "It is more important than small adjustments.",
+          "audio": "assets/audio/t_58_25.mp3"
+        },
+        {
+          "id": "t_58_26",
+          "text": "What happened with the router?",
+          "audio": "assets/audio/t_58_26.mp3"
+        },
+        {
+          "id": "t_58_27",
+          "text": "The status lights were brighter than normal, so I checked the firmware panel.",
+          "audio": "assets/audio/t_58_27.mp3"
+        },
+        {
+          "id": "t_58_28",
+          "text": "It was corrupted.",
+          "audio": "assets/audio/t_58_28.mp3"
+        },
+        {
+          "id": "t_58_29",
+          "text": "I reinstalled the software and reset the device.",
+          "audio": "assets/audio/t_58_29.mp3"
+        },
+        {
+          "id": "t_58_30",
+          "text": "Now it is working properly.",
+          "audio": "assets/audio/t_58_30.mp3"
+        },
+        {
+          "id": "t_58_31",
+          "text": "Good.",
+          "audio": "assets/audio/t_58_31.mp3"
+        },
+        {
+          "id": "t_58_32",
+          "text": "What are you doing about equipment inventory?",
+          "audio": "assets/audio/t_58_32.mp3"
+        },
+        {
+          "id": "t_58_33",
+          "text": "I am updating the cable and device register every day.",
+          "audio": "assets/audio/t_58_33.mp3"
+        },
+        {
+          "id": "t_58_34",
+          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
+          "audio": "assets/audio/t_58_34.mp3"
+        },
+        {
+          "id": "t_58_35",
+          "text": "That happens.",
+          "audio": "assets/audio/t_58_35.mp3"
+        },
+        {
+          "id": "t_58_36",
+          "text": "Do you think we need a backup system?",
+          "audio": "assets/audio/t_58_36.mp3"
+        },
+        {
+          "id": "t_58_37",
+          "text": "Yes, we can keep printed ICT safety checklists.",
+          "audio": "assets/audio/t_58_37.mp3"
+        },
+        {
+          "id": "t_58_38",
+          "text": "They are simpler than digital forms during busy hours.",
+          "audio": "assets/audio/t_58_38.mp3"
+        },
+        {
+          "id": "t_58_39",
+          "text": "That sounds practical.",
+          "audio": "assets/audio/t_58_39.mp3"
+        },
+        {
+          "id": "t_58_40",
+          "text": "Keep improving your methods.",
+          "audio": "assets/audio/t_58_40.mp3"
+        },
+        {
+          "id": "t_58_41",
+          "text": "It will make the whole lab more efficient than last month.",
+          "audio": "assets/audio/t_58_41.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_58_2",
+          "text": "Today I want to talk about how you are handling safety procedures and maintenance work in the ICT lab.",
+          "audio": "assets/audio/t_58_2.mp3"
+        },
+        {
+          "id": "t_58_3",
+          "text": "How are things going?",
+          "audio": "assets/audio/t_58_3.mp3"
+        },
+        {
+          "id": "t_58_5",
+          "text": "For example, the server-room inspection took longer than expected.",
+          "audio": "assets/audio/t_58_5.mp3"
+        },
+        {
+          "id": "t_58_7",
+          "text": "Yesterday the backup server was slower than usual, and I had to restart the system twice.",
+          "audio": "assets/audio/t_58_7.mp3"
+        },
+        {
+          "id": "t_58_8",
+          "text": "The network layout was also more complicated than I thought.",
+          "audio": "assets/audio/t_58_8.mp3"
+        },
+        {
+          "id": "t_58_12",
+          "text": "I’m going to inspect the cooling fans and test the UPS connection.",
+          "audio": "assets/audio/t_58_12.mp3"
+        },
+        {
+          "id": "t_58_13",
+          "text": "I must also record everything in the maintenance log, because the administration team needs clear reports.",
+          "audio": "assets/audio/t_58_13.mp3"
+        },
+        {
+          "id": "t_58_16",
+          "text": "What about the new firewall unit?",
+          "audio": "assets/audio/t_58_16.mp3"
+        },
+        {
+          "id": "t_58_20",
+          "text": "Are you checking the PPE shelf regularly?",
+          "audio": "assets/audio/t_58_20.mp3"
+        },
+        {
+          "id": "t_58_22",
+          "text": "I check it every evening, but yesterday I wasn’t able to finish the anti-static wrist-strap testing.",
+          "audio": "assets/audio/t_58_22.mp3"
+        },
+        {
+          "id": "t_58_23",
+          "text": "I was too busy with the router-firmware repair.",
+          "audio": "assets/audio/t_58_23.mp3"
+        },
+        {
+          "id": "t_58_32",
+          "text": "What are you doing about equipment inventory?",
+          "audio": "assets/audio/t_58_32.mp3"
+        },
+        {
+          "id": "t_58_33",
+          "text": "I am updating the cable and device register every day.",
+          "audio": "assets/audio/t_58_33.mp3"
+        },
+        {
+          "id": "t_58_37",
+          "text": "Yes, we can keep printed ICT safety checklists.",
+          "audio": "assets/audio/t_58_37.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_58_2",
+          "text": "Today I want to talk about how you are handling safety procedures and maintenance work in the ICT lab.",
+          "audio": "assets/audio/t_58_2.mp3"
+        },
+        {
+          "id": "t_58_3",
+          "text": "How are things going?",
+          "audio": "assets/audio/t_58_3.mp3"
+        },
+        {
+          "id": "t_58_5",
+          "text": "For example, the server-room inspection took longer than expected.",
+          "audio": "assets/audio/t_58_5.mp3"
+        },
+        {
+          "id": "t_58_7",
+          "text": "Yesterday the backup server was slower than usual, and I had to restart the system twice.",
+          "audio": "assets/audio/t_58_7.mp3"
+        },
+        {
+          "id": "t_58_8",
+          "text": "The network layout was also more complicated than I thought.",
+          "audio": "assets/audio/t_58_8.mp3"
+        },
+        {
+          "id": "t_58_12",
+          "text": "I’m going to inspect the cooling fans and test the UPS connection.",
+          "audio": "assets/audio/t_58_12.mp3"
+        },
+        {
+          "id": "t_58_13",
+          "text": "I must also record everything in the maintenance log, because the administration team needs clear reports.",
+          "audio": "assets/audio/t_58_13.mp3"
+        },
+        {
+          "id": "t_58_16",
+          "text": "What about the new firewall unit?",
+          "audio": "assets/audio/t_58_16.mp3"
+        },
+        {
+          "id": "t_58_20",
+          "text": "Are you checking the PPE shelf regularly?",
+          "audio": "assets/audio/t_58_20.mp3"
+        },
+        {
+          "id": "t_58_22",
+          "text": "I check it every evening, but yesterday I wasn’t able to finish the anti-static wrist-strap testing.",
+          "audio": "assets/audio/t_58_22.mp3"
+        },
+        {
+          "id": "t_58_23",
+          "text": "I was too busy with the router-firmware repair.",
+          "audio": "assets/audio/t_58_23.mp3"
+        },
+        {
+          "id": "t_58_32",
+          "text": "What are you doing about equipment inventory?",
+          "audio": "assets/audio/t_58_32.mp3"
+        },
+        {
+          "id": "t_58_33",
+          "text": "I am updating the cable and device register every day.",
+          "audio": "assets/audio/t_58_33.mp3"
+        },
+        {
+          "id": "t_58_37",
+          "text": "Yes, we can keep printed ICT safety checklists.",
+          "audio": "assets/audio/t_58_37.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}

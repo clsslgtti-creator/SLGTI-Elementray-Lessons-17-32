@@ -1,0 +1,789 @@
+{
+  "meta": {
+    "lesson_no": "31 - Revision II",
+    "level": "Elementary",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "INTERACTIVE-1",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-7.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "The dough ________ too soft in the early morning batch.",
+            "options": ["is", "was", "are", "were"],
+            "answer": "was"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "The trainees ________ the preparation tables now.",
+            "options": ["are cleaning", "is cleaning", "is clean", "cleans"],
+            "answer": "are cleaning"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "We ________ the temperature of the chiller every day.",
+            "options": ["are checking", "checked", "check", "was checking"],
+            "answer": "check"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "________ they measure the flour before mixing it?",
+            "options": ["Were", "Are", "Is", "Do"],
+            "answer": "Do"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "________ the butter melting on the workstation?",
+            "options": ["Is", "Are", "Was", "Can"],
+            "answer": "Is"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "________ the driver repair the engine?",
+            "options": ["Is", "Can", "Was", "When"],
+            "answer": "Can"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Why ________ the sugar level too high last week?",
+            "options": ["is", "was", "were", "are"],
+            "answer": "was"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "She ________ operate the new digital weighing scale next week.",
+            "options": ["is going to", "must go to", "have to", "will be"],
+            "answer": "is going to"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "You ________ wear gloves in the production area.",
+            "options": ["haven’t", "are", "must", "are"],
+            "answer": "must"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "They ________ wash the jars before filling them.",
+            "options": ["must have", "have to", "can have", "should do"],
+            "answer": "have to"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "He ________ to test the new batch of yoghurt this afternoon.",
+            "options": ["went", "are going", "goes", "is going"],
+            "answer": "is going"
+          },
+          {
+            "id": "g_b_12",
+            "sentence": "They ________ store the dry ingredients carefully and they got spoilt.",
+            "options": ["didn’t", "don’t", "mustn’t", "aren’t"],
+            "answer": "didn’t"
+          }
+        ]
+      }
+    }
+  },
+  "activity_2": {
+    "type": "SBS-2",
+    "focus": "Revision",
+    "instructions": {
+      "activity_2_a": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_c": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "dialogues": [
+      {
+        "id": "d_1",
+        "text_a": "Can you use a commercial dough divider?",
+        "text_b": "No, I can’t. But I can use a commercial dough mixer.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "text_a": "Can Ruwan prepare pastries and sweet buns?",
+        "text_b": "Of course, he can. He prepares pastries and buns every day. He’s a pastry assistant.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "text_a": "When are you going to calibrate the digital weighing scale?",
+        "text_b": "I’m going to calibrate it tomorrow morning.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      },
+      {
+        "id": "d_4",
+        "text_a": "When is Ravi going to service the dough proofer?",
+        "text_b": "He might service it this morning, or he might service it this afternoon. He really doesn’t know.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "text_a": "What’s the matter?",
+        "text_b": "Sunil is not feeling too well. He has fever.",
+        "text_c": "A fever? How did he get it?",
+        "text_d": "He worked near the cold chiller all day yesterday.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "text_a": "Did you arrange the ingredient containers neatly in the storage room yesterday morning?",
+        "text_b": "No, I didn’t. I was too tired.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "text_a": "Why did you sieve the flour twice this morning?",
+        "text_b": "I sieved it twice to remove all the lumps.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "text_a": "I bought a new apron for my kitchen work yesterday.",
+        "text_b": "Really? But I liked your old apron. It was clean.",
+        "text_c": "That’s true. But my new apron is cleaner.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_9",
+        "text_a": "Why are you icing a sponge cake right now?",
+        "text_b": "I’m icing a sponge cake now because I iced one yesterday, but I wasn’t happy with it. I am going to visit my grandparents this afternoon, and I might take this cake with me.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      },
+      {
+        "id": "d_10",
+        "text_a": "Why are you upset today?",
+        "text_b": "I am upset because I have to bake the cake again. I always check the oven temperature before baking, but this morning I forgot, and it was such a silly mistake.",
+        "audio_a": "assets/audio/a_2_d_10_a.mp3",
+        "audio_b": "assets/audio/a_2_d_10_b.mp3"
+      },
+      {
+        "id": "d_11",
+        "text_a": "What are you doing?",
+        "text_b": "I’m heating milk on a clay stove.",
+        "text_c": "That’s strange. Do you usually heat milk on a clay stove?",
+        "text_d": "No, I never heat milk on a clay stove, but I am heating milk on a clay stove today.",
+        "text_e": "Why are you doing that?",
+        "text_f": "Because the electric cooker is not working.",
+        "text_g": "I’m sorry to hear that.",
+        "audio_a": "assets/audio/a_2_d_11_a.mp3",
+        "audio_b": "assets/audio/a_2_d_11_b.mp3",
+        "audio_c": "assets/audio/a_2_d_11_c.mp3",
+        "audio_d": "assets/audio/a_2_d_11_d.mp3",
+        "audio_e": "assets/audio/a_2_d_11_e.mp3",
+        "audio_f": "assets/audio/a_2_d_11_f.mp3",
+        "audio_g": "assets/audio/a_2_d_11_g.mp3"
+      },
+      {
+        "id": "d_12",
+        "text_a": "Can you and Amal come to Ruwan’s dinner party today?",
+        "text_b": "No, we can’t. We have to finish packing the fruit jam bottles.",
+        "audio_a": "assets/audio/a_2_d_12_a.mp3",
+        "audio_b": "assets/audio/a_2_d_12_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "LISTENING-5",
+    "instructions": {
+      "activity_a": {
+        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nகீழே உள்ள வினைச்சொற்களின் பொருளை கேட்கவும், பின்னர் அவற்றை சரியான பெட்டியில் இழுக்கவும்.",
+        "audio": "assets/audio/a_4_i_l.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_3_l.mp3",
+        "content": [
+          {
+            "id": "t_52_1",
+            "key": "grate",
+            "text": "to rub food against a grater to produce small shreds or fine pieces.",
+            "audio": "assets/audio/t_52_1.mp3"
+          },
+          {
+            "id": "t_52_2",
+            "key": "whisk",
+            "text": "to beat ingredients quickly with a whisk to add air and make them light.",
+            "audio": "assets/audio/t_52_2.mp3"
+          },
+          {
+            "id": "t_52_3",
+            "key": "simmer",
+            "text": "to cook food gently in liquid just below the boiling point.",
+            "audio": "assets/audio/t_52_3.mp3"
+          },
+          {
+            "id": "t_52_4",
+            "key": "steam",
+            "text": "to cook food using hot vapour without direct contact with water.",
+            "audio": "assets/audio/t_52_4.mp3"
+          },
+          {
+            "id": "t_52_5",
+            "key": "blend",
+            "text": "to mix ingredients smoothly using a blender or mixer.",
+            "audio": "assets/audio/t_52_5.mp3"
+          },
+          {
+            "id": "t_52_6",
+            "key": "dice",
+            "text": "to cut food into small, even cube-shaped pieces.",
+            "audio": "assets/audio/t_52_6.mp3"
+          },
+          {
+            "id": "t_52_7",
+            "key": "ferment",
+            "text": "to allow dough or liquids to develop flavour and texture through natural yeast or bacteria activity.",
+            "audio": "assets/audio/t_52_7.mp3"
+          },
+          {
+            "id": "t_52_8",
+            "key": "glaze",
+            "text": "to coat food with a thin, shiny layer of icing, egg wash, or syrup.",
+            "audio": "assets/audio/t_52_8.mp3"
+          },
+          {
+            "id": "t_52_9",
+            "key": "boil",
+            "text": "to cook food in liquid heated to its boiling point, where large bubbles rise rapidly.",
+            "audio": "assets/audio/t_52_9.mp3"
+          }
+        ]
+      }
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-7",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and select the correct sentence. \nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි වාක්‍යය තෝරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். சரியான வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_4_i_k.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_21_1",
+            "question": "Why did the dough mixer repair take longer?",
+            "answer": "Because the motor was weaker than usual and the wiring was complex.",
+            "options": [
+              "Because the mixer was completely new.",
+              "Because the motor was weaker than usual and the wiring was complex.",
+              "Because Nimal forgot to bring tools."
+            ]
+          },
+          {
+            "id": "l_21_2",
+            "question": "What is Nimal going to check first on the mixer today?",
+            "answer": "The belt and the speed controller.",
+            "options": [
+              "The temperature sensor.",
+              "The belt and the speed controller.",
+              "The packaging label."
+            ]
+          },
+          {
+            "id": "l_21_3",
+            "question": "Why does Nimal have to be careful with the new oven sensor?",
+            "answer": "It is more sensitive than the old one.",
+            "options": [
+              "It is more sensitive than the old one.",
+              "It is cheaper than the old one.",
+              "It is already broken."
+            ]
+          },
+          {
+            "id": "l_21_4",
+            "question": "What happened with the packaging machine yesterday?",
+            "answer": "The sealing arm was hotter than normal.",
+            "options": [
+              "The speed controller failed.",
+              "The sealing arm was hotter than normal.",
+              "The motor stopped completely."
+            ]
+          },
+          {
+            "id": "l_21_5",
+            "question": "Why is the new stock control system sometimes slower?",
+            "answer": "Because the Wi-Fi drops and affects the system.",
+            "options": [
+              "Because the staff do not understand it.",
+              "Because it is more complicated to log in.",
+              "Because the Wi-Fi drops and affects the system."
+            ]
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question_audio": "assets/audio/l_4_1.mp3",
+            "answer": "The new sensor is more sensitive than the old one, so I have to be careful.",
+            "options": [
+              "The new sensor is more sensitive than the old one, so I have to be careful.",
+              "The new sensor is sensitive more than the old one, so I have to be careful.",
+              "The new sensor is more sensitive from the old one, so I have to be careful."
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question_audio": "assets/audio/l_4_2.mp3",
+            "answer": "The old sensor was slower, but it was easier than this new digital one.",
+            "options": [
+              "The old sensor was slower, but it was easier than this new digital one.",
+              "The old sensor was more slow, but it was more easy than this new digital one.",
+              "The old sensor was slower and it was easier from this new digital one."
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question_audio": "assets/audio/l_4_3.mp3",
+            "answer": "They are simpler than digital forms during busy hours.",
+            "options": [
+              "They are simpler than digital forms during busy hours.",
+              "They are simple digital forms during busy hours.",
+              "They are simpler for digital forms during busy hours."
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question_audio": "assets/audio/l_4_4.mp3",
+            "answer": "It is more important than small adjustments.",
+            "options": [
+              "It is more important than small adjustments.",
+              "It is important more than small adjustments.",
+              "It is more important for small adjustments."
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question_audio": "assets/audio/l_4_5.mp3",
+            "answer": "It will make the whole production line more efficient than last month.",
+            "options": [
+              "It will make the whole production line more efficient than last month.",
+              "It will make the whole production line efficienter than last month.",
+              "It will make the whole production line more efficient from last month."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_56_1",
+          "text": "Good morning, Nimal.",
+          "audio": "assets/audio/t_56_1.mp3"
+        },
+        {
+          "id": "t_56_2",
+          "text": "Today I want to talk about how you are handling repairs and maintenance in the bakery section.",
+          "audio": "assets/audio/t_56_2.mp3"
+        },
+        {
+          "id": "t_56_3",
+          "text": "How are things going?",
+          "audio": "assets/audio/t_56_3.mp3"
+        },
+        {
+          "id": "t_56_4",
+          "text": "Good morning, madam. Things are going well, but I think some of our processes can be faster.",
+          "audio": "assets/audio/t_56_4.mp3"
+        },
+        {
+          "id": "t_56_5",
+          "text": "For example, the dough mixer repair took longer than expected.",
+          "audio": "assets/audio/t_56_5.mp3"
+        },
+        {
+          "id": "t_56_6",
+          "text": "Why did it take longer?",
+          "audio": "assets/audio/t_56_6.mp3"
+        },
+        {
+          "id": "t_56_7",
+          "text": "Yesterday the motor was weaker than usual, and I had to open the top cover twice.",
+          "audio": "assets/audio/t_56_7.mp3"
+        },
+        {
+          "id": "t_56_8",
+          "text": "The wiring was also more complex than I thought.",
+          "audio": "assets/audio/t_56_8.mp3"
+        },
+        {
+          "id": "t_56_9",
+          "text": "I wasn’t expecting that.",
+          "audio": "assets/audio/t_56_9.mp3"
+        },
+        {
+          "id": "t_56_10",
+          "text": "I see.",
+          "audio": "assets/audio/t_56_10.mp3"
+        },
+        {
+          "id": "t_56_11",
+          "text": "When you check the mixer today, what are you going to do first?",
+          "audio": "assets/audio/t_56_11.mp3"
+        },
+        {
+          "id": "t_56_12",
+          "text": "I’m going to inspect the belt and test the speed controller.",
+          "audio": "assets/audio/t_56_12.mp3"
+        },
+        {
+          "id": "t_56_13",
+          "text": "I must also record everything in the maintenance log because the administration team needs clear reports.",
+          "audio": "assets/audio/t_56_13.mp3"
+        },
+        {
+          "id": "t_56_14",
+          "text": "Good.",
+          "audio": "assets/audio/t_56_14.mp3"
+        },
+        {
+          "id": "t_56_15",
+          "text": "You have to be systematic.",
+          "audio": "assets/audio/t_56_15.mp3"
+        },
+        {
+          "id": "t_56_16",
+          "text": "What about the commercial oven?",
+          "audio": "assets/audio/t_56_16.mp3"
+        },
+        {
+          "id": "t_56_17",
+          "text": "Can you handle the temperature sensor adjustment?",
+          "audio": "assets/audio/t_56_17.mp3"
+        },
+        {
+          "id": "t_56_18",
+          "text": "Yes, I can, but the new sensor is more sensitive than the old one, so I have to be careful.",
+          "audio": "assets/audio/t_56_18.mp3"
+        },
+        {
+          "id": "t_56_19",
+          "text": "The old sensor was slower, but it was easier than this new digital one.",
+          "audio": "assets/audio/t_56_19.mp3"
+        },
+        {
+          "id": "t_56_20",
+          "text": "Are you cleaning the proofing cabinet regularly?",
+          "audio": "assets/audio/t_56_20.mp3"
+        },
+        {
+          "id": "t_56_21",
+          "text": "Yes, I am.",
+          "audio": "assets/audio/t_56_21.mp3"
+        },
+        {
+          "id": "t_56_22",
+          "text": "I clean it every evening, but yesterday I wasn’t able to finish the sanitizing step.",
+          "audio": "assets/audio/t_56_22.mp3"
+        },
+        {
+          "id": "t_56_23",
+          "text": "I was too busy with the packaging machine repair.",
+          "audio": "assets/audio/t_56_23.mp3"
+        },
+        {
+          "id": "t_56_24",
+          "text": "You must not skip sanitizing.",
+          "audio": "assets/audio/t_56_24.mp3"
+        },
+        {
+          "id": "t_56_25",
+          "text": "It is more important than small adjustments.",
+          "audio": "assets/audio/t_56_25.mp3"
+        },
+        {
+          "id": "t_56_26",
+          "text": "What happened with the packaging machine?",
+          "audio": "assets/audio/t_56_26.mp3"
+        },
+        {
+          "id": "t_56_27",
+          "text": "The sealing arm was hotter than normal, so I checked the thermostat.",
+          "audio": "assets/audio/t_56_27.mp3"
+        },
+        {
+          "id": "t_56_28",
+          "text": "It was dirty.",
+          "audio": "assets/audio/t_56_28.mp3"
+        },
+        {
+          "id": "t_56_29",
+          "text": "I cleaned it and reset it.",
+          "audio": "assets/audio/t_56_29.mp3"
+        },
+        {
+          "id": "t_56_30",
+          "text": "Now it is working properly.",
+          "audio": "assets/audio/t_56_30.mp3"
+        },
+        {
+          "id": "t_56_31",
+          "text": "Good.",
+          "audio": "assets/audio/t_56_31.mp3"
+        },
+        {
+          "id": "t_56_32",
+          "text": "What are you doing about stock control?",
+          "audio": "assets/audio/t_56_32.mp3"
+        },
+        {
+          "id": "t_56_33",
+          "text": "I am updating the ingredient register every day.",
+          "audio": "assets/audio/t_56_33.mp3"
+        },
+        {
+          "id": "t_56_34",
+          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
+          "audio": "assets/audio/t_56_34.mp3"
+        },
+        {
+          "id": "t_56_35",
+          "text": "That happens.",
+          "audio": "assets/audio/t_56_35.mp3"
+        },
+        {
+          "id": "t_56_36",
+          "text": "Do you think we need a backup system?",
+          "audio": "assets/audio/t_56_36.mp3"
+        },
+        {
+          "id": "t_56_37",
+          "text": "Yes, we can keep printed checklists.",
+          "audio": "assets/audio/t_56_37.mp3"
+        },
+        {
+          "id": "t_56_38",
+          "text": "They are simpler than digital forms during busy hours.",
+          "audio": "assets/audio/t_56_38.mp3"
+        },
+        {
+          "id": "t_56_39",
+          "text": "That sounds practical.",
+          "audio": "assets/audio/t_56_39.mp3"
+        },
+        {
+          "id": "t_56_40",
+          "text": "Keep improving your methods.",
+          "audio": "assets/audio/t_56_40.mp3"
+        },
+        {
+          "id": "t_56_41",
+          "text": "It will make the whole production line more efficient than last month.",
+          "audio": "assets/audio/t_56_41.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_56_4",
+          "text": "Good morning, madam. Things are going well, but I think some of our processes can be faster.",
+          "audio": "assets/audio/t_56_4.mp3"
+        },
+        {
+          "id": "t_56_5",
+          "text": "For example, the dough mixer repair took longer than expected.",
+          "audio": "assets/audio/t_56_5.mp3"
+        },
+        {
+          "id": "t_56_7",
+          "text": "Yesterday the motor was weaker than usual, and I had to open the top cover twice.",
+          "audio": "assets/audio/t_56_7.mp3"
+        },
+        {
+          "id": "t_56_8",
+          "text": "The wiring was also more complex than I thought.",
+          "audio": "assets/audio/t_56_8.mp3"
+        },
+        {
+          "id": "t_56_13",
+          "text": "I must also record everything in the maintenance log because the administration team needs clear reports.",
+          "audio": "assets/audio/t_56_13.mp3"
+        },
+        {
+          "id": "t_56_18",
+          "text": "Yes, I can, but the new sensor is more sensitive than the old one, so I have to be careful.",
+          "audio": "assets/audio/t_56_18.mp3"
+        },
+        {
+          "id": "t_56_19",
+          "text": "The old sensor was slower, but it was easier than this new digital one.",
+          "audio": "assets/audio/t_56_19.mp3"
+        },
+        {
+          "id": "t_56_25",
+          "text": "It is more important than small adjustments.",
+          "audio": "assets/audio/t_56_25.mp3"
+        },
+        {
+          "id": "t_56_27",
+          "text": "The sealing arm was hotter than normal, so I checked the thermostat.",
+          "audio": "assets/audio/t_56_27.mp3"
+        },
+        {
+          "id": "t_56_34",
+          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
+          "audio": "assets/audio/t_56_34.mp3"
+        },
+        {
+          "id": "t_56_38",
+          "text": "They are simpler than digital forms during busy hours.",
+          "audio": "assets/audio/t_56_38.mp3"
+        },
+        {
+          "id": "t_56_41",
+          "text": "It will make the whole production line more efficient than last month.",
+          "audio": "assets/audio/t_56_41.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_56_4",
+          "text": "Good morning, madam. Things are going well, but I think some of our processes can be faster.",
+          "audio": "assets/audio/t_56_4.mp3"
+        },
+        {
+          "id": "t_56_5",
+          "text": "For example, the dough mixer repair took longer than expected.",
+          "audio": "assets/audio/t_56_5.mp3"
+        },
+        {
+          "id": "t_56_7",
+          "text": "Yesterday the motor was weaker than usual, and I had to open the top cover twice.",
+          "audio": "assets/audio/t_56_7.mp3"
+        },
+        {
+          "id": "t_56_8",
+          "text": "The wiring was also more complex than I thought.",
+          "audio": "assets/audio/t_56_8.mp3"
+        },
+        {
+          "id": "t_56_13",
+          "text": "I must also record everything in the maintenance log because the administration team needs clear reports.",
+          "audio": "assets/audio/t_56_13.mp3"
+        },
+        {
+          "id": "t_56_18",
+          "text": "Yes, I can, but the new sensor is more sensitive than the old one, so I have to be careful.",
+          "audio": "assets/audio/t_56_18.mp3"
+        },
+        {
+          "id": "t_56_19",
+          "text": "The old sensor was slower, but it was easier than this new digital one.",
+          "audio": "assets/audio/t_56_19.mp3"
+        },
+        {
+          "id": "t_56_25",
+          "text": "It is more important than small adjustments.",
+          "audio": "assets/audio/t_56_25.mp3"
+        },
+        {
+          "id": "t_56_27",
+          "text": "The sealing arm was hotter than normal, so I checked the thermostat.",
+          "audio": "assets/audio/t_56_27.mp3"
+        },
+        {
+          "id": "t_56_34",
+          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
+          "audio": "assets/audio/t_56_34.mp3"
+        },
+        {
+          "id": "t_56_38",
+          "text": "They are simpler than digital forms during busy hours.",
+          "audio": "assets/audio/t_56_38.mp3"
+        },
+        {
+          "id": "t_56_41",
+          "text": "It will make the whole production line more efficient than last month.",
+          "audio": "assets/audio/t_56_41.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම පියවරන් ඔබට මෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට උදව් කරනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nවීඩියෝව වර දෙකක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Explain any new words using Google Translator.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන කිහිපයක් විස්තර කරන්න.\nGoogle மொழிபெயர்ப்பாளரைப் பயன்படுத்தி சில புதிய வார்த்தைகளை விளக்குங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      },
+      {
+        "id": "v_2",
+        "audio": "assets/videos/2B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
