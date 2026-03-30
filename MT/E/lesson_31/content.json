@@ -19,73 +19,73 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The engine bay ________ extremely dusty after yesterday’s road test.",
+            "sentence": "The lathe machine ________ too noisy during yesterday’s test run.",
             "options": ["is", "was", "were"],
             "answer": "was"
           },
           {
             "id": "g_b_2",
-            "sentence": "The mechanics ________ the brake pads now.",
-            "options": ["are replacing", "is replacing", "replaces"],
-            "answer": "are replacing"
+            "sentence": "The technicians ________ the shaft alignment now.",
+            "options": ["are checking", "is checking", "checks"],
+            "answer": "are checking"
           },
           {
             "id": "g_b_3",
-            "sentence": "We ________ the coolant level every morning before starting diagnostics.",
+            "sentence": "We ________ the lubrication level every morning before starting the machines.",
             "options": ["are checking", "checked", "check"],
             "answer": "check"
           },
           {
             "id": "g_b_4",
-            "sentence": "________ they inspect the alternator before installing the new belt?",
+            "sentence": "________ they inspect the bearings before assembling the gear system?",
             "options": ["Were", "Are", "Did"],
             "answer": "Did"
           },
           {
             "id": "g_b_5",
-            "sentence": "________ the headlights working properly during the final inspection?",
+            "sentence": "________ the piston rings properly fitted during the service yesterday?",
             "options": ["Is", "Were", "Can"],
             "answer": "Were"
           },
           {
             "id": "g_b_6",
-            "sentence": "________ the technician reset the onboard computer after servicing the fuel system?",
+            "sentence": "________ the trainee operate the hydraulic press safely?",
             "options": ["Is", "Did", "Was"],
             "answer": "Did"
           },
           {
             "id": "g_b_7",
-            "sentence": "Why ________ the battery terminals loose last week?",
-            "options": ["is", "were", "are"],
+            "sentence": "Why ________ the welding joints weak last week?",
+            "options": ["is", "was", "were"],
             "answer": "were"
           },
           {
             "id": "g_b_8",
-            "sentence": "He ________ calibrate the torque wrench before tightening the bolts tomorrow.",
+            "sentence": "He ________ calibrate the torque tester on Monday.",
             "options": ["is going to", "must go", "has to"],
             "answer": "has to"
           },
           {
             "id": "g_b_9",
-            "sentence": "You ________ wear safety glasses inside the repair bay.",
+            "sentence": "You ________ wear protective goggles near the milling machine.",
             "options": ["haven’t", "are", "must"],
             "answer": "must"
           },
           {
             "id": "g_b_10",
-            "sentence": "They ________ test the emission levels carefully, or the vehicle will fail the inspection.",
+            "sentence": "They ________ adjust the compressor valve carefully, or the pressure will drop again.",
             "options": ["must have", "have to", "should have"],
             "answer": "have to"
           },
           {
             "id": "g_b_11",
-            "sentence": "The technician ________ to align the wheels on the alignment stand this afternoon.",
+            "sentence": "The mechanic ________ to clean the filter system this afternoon.",
             "options": ["went", "are going", "is going"],
             "answer": "is going"
           },
           {
             "id": "g_b_12",
-            "sentence": "They ________ secure the gearbox mountings properly, and the assembly became unstable.",
+            "sentence": "They ________ tighten the gear housing properly, and it started vibrating.",
             "options": ["didn’t", "don’t", "mustn’t"],
             "answer": "didn’t"
           }
@@ -113,38 +113,38 @@
     "dialogues": [
       {
         "id": "d_1",
-        "text_a": "Can you operate a hydraulic car lift?",
-        "text_b": "No, I can’t. But I can use a tyre changing machine.",
+        "text_a": "Can you operate a centre lathe machine?",
+        "text_b": "No, I can’t. But I can use a bench grinder.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
-        "text_a": "Can Ruwan service petrol engines?",
-        "text_b": "Of course, he can. He services petrol engines every day. He’s a trainee mechanic.",
+        "text_a": "Can Ruwan assemble mechanical components accurately?",
+        "text_b": "Of course, he can. He assembles mechanical components every day. He’s a mechanical trainee.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
-        "text_a": "When are you going to adjust the wheel alignment?",
-        "text_b": "I’m going to adjust it tomorrow morning.",
+        "text_a": "When are you going to measure the shaft diameter?",
+        "text_b": "I’m going to measure it tomorrow morning.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       },
       {
         "id": "d_4",
-        "text_a": "When is Ravi going to replace the brake pads?",
-        "text_b": "He might replace them this morning, or he might replace them this afternoon. He really doesn’t know.",
+        "text_a": "When is Ravi going to replace the worn bearing?",
+        "text_b": "He might replace it this morning, or he might replace it this afternoon. He really doesn’t know.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "text_a": "What’s the matter?",
-        "text_b": "Sunil is not feeling very well. He has back pain.",
-        "text_c": "Back pain? How did he get it?",
-        "text_d": "He lifted a heavy gearbox all day yesterday.",
+        "text_b": "Sunil is not feeling very well. He has a pain in wrist.",
+        "text_c": "Pain in his wrist? How did he get it?",
+        "text_d": "He tightened bolts with a spanner all day yesterday.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3",
@@ -152,50 +152,50 @@
       },
       {
         "id": "d_6",
-        "text_a": "Did you clean the engine parts properly yesterday afternoon?",
-        "text_b": "No, I didn’t. I was feeling too exhausted.",
+        "text_a": "Did you align the coupling correctly yesterday afternoon?",
+        "text_b": "No, I didn’t. I was feeling too tired.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
-        "text_a": "Why did you tighten the wheel nuts again this morning?",
-        "text_b": "I tightened them again to make sure they were secure.",
+        "text_a": "Why did you lubricate the guide rails this morning?",
+        "text_b": "I lubricated them to reduce friction.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
-        "text_a": "I bought a new pair of safety gloves yesterday.",
-        "text_b": "Really? But I liked your old gloves. They were thick.",
-        "text_c": "That’s true. But my new gloves are thicker.",
+        "text_a": "I bought a new cutting tool yesterday.",
+        "text_b": "Really? But I liked your old cutting tool. It was sharp.",
+        "text_c": "That’s true. But my new cutting tool is sharper.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
       },
       {
         "id": "d_9",
-        "text_a": "Why are you checking the engine oil level right now?",
-        "text_b": "I’m checking the engine oil now because I checked it yesterday, but I made a mistake. I am going to service my uncle’s car this evening, and I might use this vehicle.",
+        "text_a": "Why are you checking the machine alignment right now?",
+        "text_b": "I’m checking the alignment now because I checked it yesterday, but it was incorrect. I am going to operate the machine this afternoon, and I might use it again later.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       },
       {
         "id": "d_10",
         "text_a": "Why are you upset today?",
-        "text_b": "I am upset because I have to redo the brake inspection. I always tighten the bolts properly, but this morning I forgot, and it was a careless mistake.",
+        "text_b": "I am upset because I have to redo the measurement. I always check the dimensions before machining, but this morning I forgot, and it was a careless mistake.",
         "audio_a": "assets/audio/a_2_d_10_a.mp3",
         "audio_b": "assets/audio/a_2_d_10_b.mp3"
       },
       {
         "id": "d_11",
         "text_a": "What are you doing?",
-        "text_b": "I’m charging a car battery manually.",
-        "text_c": "That’s unusual. Do you usually charge batteries manually?",
-        "text_d": "No, I usually use a battery charger, but I am charging the battery manually today.",
+        "text_b": "I’m cleaning the machine bed.",
+        "text_c": "That’s unusual. Do you usually clean the machine bed now?",
+        "text_d": "No, I usually clean it after work, but I am cleaning it now.",
         "text_e": "Why are you doing that?",
-        "text_f": "Because the battery charger is not working.",
-        "text_g": "I understand.",
+        "text_f": "Because there is too much metal dust on it.",
+        "text_g": "I see.",
         "audio_a": "assets/audio/a_2_d_11_a.mp3",
         "audio_b": "assets/audio/a_2_d_11_b.mp3",
         "audio_c": "assets/audio/a_2_d_11_c.mp3",
@@ -206,8 +206,8 @@
       },
       {
         "id": "d_12",
-        "text_a": "Can you and Amal test the vehicle lights now?",
-        "text_b": "No, we can’t. We have to finish changing the engine oil first.",
+        "text_a": "Can you and Amal start the milling operation now?",
+        "text_b": "No, we can’t. We have to finish setting the workpiece first.",
         "audio_a": "assets/audio/a_2_d_12_a.mp3",
         "audio_b": "assets/audio/a_2_d_12_b.mp3"
       }
@@ -313,27 +313,27 @@
         "Questions": [
           {
             "id": "l_21_1",
-            "question": "Why did the wheel-lift inspection take longer?",
-            "answer": "Because the hydraulic pressure was lower and the hoses were worn.",
+            "question": "Why did the lathe-machine check take longer?",
+            "answer": "Because the shaft was tighter and the alignment was uneven.",
             "options": [
-              "Because Nimal forgot to test the lift.",
-              "Because the hydraulic pressure was lower and the hoses were worn.",
-              "Because the lift was completely new."
+              "Because the tool post was missing.",
+              "Because the shaft was tighter and the alignment was uneven.",
+              "Because the lathe was brand new."
             ]
           },
           {
             "id": "l_21_2",
-            "question": "What is Nimal going to check first on the lift today?",
-            "answer": "The safety locks and emergency shut-off switch.",
+            "question": "What is Nimal going to check first today?",
+            "answer": "The tool post and the emergency stop button.",
             "options": [
-              "The calibration panel.",
-              "The safety locks and emergency shut-off switch.",
-              "The tyre pressure."
+              "The milling-machine table.",
+              "The tool post and the emergency stop button.",
+              "The air compressor."
             ]
           },
           {
             "id": "l_21_3",
-            "question": "Why does Nimal have to be careful with the new fume extractor?",
+            "question": "Why does Nimal have to be careful with the new pressure gauge?",
             "answer": "It is more sensitive than the old one.",
             "options": [
               "It is cheaper than the old one.",
@@ -343,12 +343,12 @@
           },
           {
             "id": "l_21_4",
-            "question": "What happened with the headlight-alignment tool yesterday?",
-            "answer": "The sensor panel was brighter than normal.",
+            "question": "What happened with the milling machine yesterday?",
+            "answer": "The display panel was brighter than normal.",
             "options": [
               "The motor stopped.",
-              "The sensor panel was brighter than normal.",
-              "The cable was missing."
+              "The cutter broke.",
+              "The display panel was brighter than normal."
             ]
           },
           {
@@ -356,8 +356,8 @@
             "question": "Why is the new inventory system sometimes slower?",
             "answer": "Because the Wi-Fi drops and affects the system.",
             "options": [
-              "Because the staff do not want to use it.",
-              "Because the tools are too old.",
+              "Because workers refuse to use it.",
+              "Because the cutters are too old.",
               "Because the Wi-Fi drops and affects the system."
             ]
           }
@@ -367,25 +367,28 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_1_1",
-            "answer": "The new extractor is more sensitive than the old one, so I have to be careful.",
+            "id": "l_5_1",
+            "question_audio": "assets/audio/l_5_1.mp3",
+            "answer": "The new gauge is more sensitive than the old one, so I have to be careful.",
             "options": [
-              "The new extractor is more sensitive than the old one, so I have to be careful.",
-              "The new extractor is sensitive more than the old one, so I have to be careful.",
-              "The new extractor is more sensitive from the old one, so I have to be careful."
+              "The new gauge is more sensitive than the old one, so I have to be careful.",
+              "The new gauge is sensitive more than the old one, so I have to be careful.",
+              "The new gauge is more sensitive from the old one, so I have to be careful."
             ]
           },
           {
-            "id": "l_1_2",
-            "answer": "The old model was slower, but it was easier than this new digital unit.",
+            "id": "l_5_2",
+            "question_audio": "assets/audio/l_5_2.mp3",
+            "answer": "The old gauge was slower, but it was easier than this new digital model.",
             "options": [
-              "The old model was slower, but it was easier than this new digital unit.",
-              "The old model was more slow, but it was more easy than this new digital unit.",
-              "The old model was slower and it was easier from this new digital unit."
+              "The old gauge was slower, but it was easier than this new digital model.",
+              "The old gauge was more slow, but it was more easy than this new digital model.",
+              "The old gauge was slower and it was easier from this new digital model."
             ]
           },
           {
-            "id": "l_1_3",
+            "id": "l_5_3",
+            "question_audio": "assets/audio/l_5_3.mp3",
             "answer": "They are simpler than digital forms during busy hours.",
             "options": [
               "They are simpler than digital forms during busy hours.",
@@ -394,7 +397,8 @@
             ]
           },
           {
-            "id": "l_1_4",
+            "id": "l_5_4",
+            "question_audio": "assets/audio/l_5_4.mp3",
             "answer": "It is more important than small adjustments.",
             "options": [
               "It is more important than small adjustments.",
@@ -403,7 +407,8 @@
             ]
           },
           {
-            "id": "l_1_5",
+            "id": "l_5_5",
+            "question_audio": "assets/audio/l_5_5.mp3",
             "answer": "It will make the whole workshop more efficient than last month.",
             "options": [
               "It will make the whole workshop more efficient than last month.",
@@ -415,343 +420,363 @@
       },
       "activity_c": [
         {
-          "id": "t_53_1",
+          "id": "t_57_1",
           "text": "Good morning, Nimal.",
-          "audio": "assets/audio/t_53_1.mp3"
+          "audio": "assets/audio/t_57_1.mp3"
         },
         {
-          "id": "t_53_2",
-          "text": "Today I want to talk about how you are handling safety equipment and procedures in the automobile workshop.",
-          "audio": "assets/audio/t_53_2.mp3"
+          "id": "t_57_2",
+          "text": "Today I want to talk about how you are handling safety procedures and maintenance tasks in the mechanical workshop.",
+          "audio": "assets/audio/t_57_2.mp3"
         },
         {
-          "id": "t_53_3",
+          "id": "t_57_3",
           "text": "How are things going?",
-          "audio": "assets/audio/t_53_3.mp3"
+          "audio": "assets/audio/t_57_3.mp3"
         },
         {
-          "id": "t_53_4",
-          "text": "Good morning, madam. Things are going well, but I think some of our safety checks can be faster.",
-          "audio": "assets/audio/t_53_4.mp3"
+          "id": "t_57_4",
+          "text": "Good morning, madam. Things are going well, but I think some of our inspections can be faster.",
+          "audio": "assets/audio/t_57_4.mp3"
         },
         {
-          "id": "t_53_5",
-          "text": "For example, the wheel-lift inspection took longer than expected.",
-          "audio": "assets/audio/t_53_5.mp3"
+          "id": "t_57_5",
+          "text": "For example, the lathe-machine check took longer than expected.",
+          "audio": "assets/audio/t_57_5.mp3"
         },
         {
-          "id": "t_53_6",
+          "id": "t_57_6",
           "text": "Why did it take longer?",
-          "audio": "assets/audio/t_53_6.mp3"
+          "audio": "assets/audio/t_57_6.mp3"
         },
         {
-          "id": "t_53_7",
-          "text": "Yesterday the hydraulic pressure was lower than usual, and I had to test the pump twice.",
-          "audio": "assets/audio/t_53_7.mp3"
+          "id": "t_57_7",
+          "text": "Yesterday the main shaft was tighter than usual, and I had to readjust the bearings twice.",
+          "audio": "assets/audio/t_57_7.mp3"
         },
         {
-          "id": "t_53_8",
-          "text": "The hoses were also more worn than I thought.",
-          "audio": "assets/audio/t_53_8.mp3"
+          "id": "t_57_8",
+          "text": "The alignment was also more uneven than I thought.",
+          "audio": "assets/audio/t_57_8.mp3"
         },
         {
-          "id": "t_53_9",
+          "id": "t_57_9",
           "text": "I wasn’t expecting that.",
-          "audio": "assets/audio/t_53_9.mp3"
+          "audio": "assets/audio/t_57_9.mp3"
         },
         {
-          "id": "t_53_10",
+          "id": "t_57_10",
           "text": "I see.",
-          "audio": "assets/audio/t_53_10.mp3"
+          "audio": "assets/audio/t_57_10.mp3"
         },
         {
-          "id": "t_53_11",
-          "text": "When you check the lift today, what are you going to do first?",
-          "audio": "assets/audio/t_53_11.mp3"
+          "id": "t_57_11",
+          "text": "When you check the lathe today, what are you going to do first?",
+          "audio": "assets/audio/t_57_11.mp3"
         },
         {
-          "id": "t_53_12",
-          "text": "I’m going to inspect the safety locks and test the emergency shut-off switch.",
-          "audio": "assets/audio/t_53_12.mp3"
+          "id": "t_57_12",
+          "text": "I’m going to inspect the tool post and test the emergency stop button.",
+          "audio": "assets/audio/t_57_12.mp3"
         },
         {
-          "id": "t_53_13",
-          "text": "I must also record everything in the safety logbook, because the administration team needs clear reports.",
-          "audio": "assets/audio/t_53_13.mp3"
+          "id": "t_57_13",
+          "text": "I must also record everything in the daily maintenance log, because the administration team needs clear reports.",
+          "audio": "assets/audio/t_57_13.mp3"
         },
         {
-          "id": "t_53_14",
+          "id": "t_57_14",
           "text": "Good.",
-          "audio": "assets/audio/t_53_14.mp3"
+          "audio": "assets/audio/t_57_14.mp3"
         },
         {
-          "id": "t_53_15",
+          "id": "t_57_15",
           "text": "You have to be systematic.",
-          "audio": "assets/audio/t_53_15.mp3"
+          "audio": "assets/audio/t_57_15.mp3"
         },
         {
-          "id": "t_53_16",
-          "text": "What about the fume extractor?",
-          "audio": "assets/audio/t_53_16.mp3"
+          "id": "t_57_16",
+          "text": "What about the hydraulic press?",
+          "audio": "assets/audio/t_57_16.mp3"
         },
         {
-          "id": "t_53_17",
-          "text": "Can you handle the airflow adjustment?",
-          "audio": "assets/audio/t_53_17.mp3"
+          "id": "t_57_17",
+          "text": "Can you handle the pressure-gauge adjustment?",
+          "audio": "assets/audio/t_57_17.mp3"
         },
         {
-          "id": "t_53_18",
-          "text": "Yes, I can, but the new extractor is more sensitive than the old one, so I have to be careful.",
-          "audio": "assets/audio/t_53_18.mp3"
+          "id": "t_57_18",
+          "text": "Yes, I can, but the new gauge is more sensitive than the old one, so I have to be careful.",
+          "audio": "assets/audio/t_57_18.mp3"
         },
         {
-          "id": "t_53_19",
-          "text": "The old model was slower, but it was easier than this new digital unit.",
-          "audio": "assets/audio/t_53_19.mp3"
+          "id": "t_57_19",
+          "text": "The old gauge was slower, but it was easier than this new digital model.",
+          "audio": "assets/audio/t_57_19.mp3"
         },
         {
-          "id": "t_53_20",
-          "text": "Are you checking the PPE cabinet regularly?",
-          "audio": "assets/audio/t_53_20.mp3"
+          "id": "t_57_20",
+          "text": "Are you checking the PPE rack regularly?",
+          "audio": "assets/audio/t_57_20.mp3"
         },
         {
-          "id": "t_53_21",
+          "id": "t_57_21",
           "text": "Yes, I am.",
-          "audio": "assets/audio/t_53_21.mp3"
+          "audio": "assets/audio/t_57_21.mp3"
         },
         {
-          "id": "t_53_22",
-          "text": "I check it every evening, but yesterday I wasn’t able to finish the glove-sanitizing step.",
-          "audio": "assets/audio/t_53_22.mp3"
+          "id": "t_57_22",
+          "text": "I check it every evening, but yesterday I wasn’t able to finish the face-shield sanitizing step.",
+          "audio": "assets/audio/t_57_22.mp3"
         },
         {
-          "id": "t_53_23",
-          "text": "I was too busy with the headlight-alignment tool repair.",
-          "audio": "assets/audio/t_53_23.mp3"
+          "id": "t_57_23",
+          "text": "I was too busy with the milling-machine calibration.",
+          "audio": "assets/audio/t_57_23.mp3"
         },
         {
-          "id": "t_53_24",
+          "id": "t_57_24",
           "text": "You must not skip sanitizing.",
-          "audio": "assets/audio/t_53_24.mp3"
+          "audio": "assets/audio/t_57_24.mp3"
         },
         {
-          "id": "t_53_25",
+          "id": "t_57_25",
           "text": "It is more important than small adjustments.",
-          "audio": "assets/audio/t_53_25.mp3"
+          "audio": "assets/audio/t_57_25.mp3"
         },
         {
-          "id": "t_53_26",
-          "text": "What happened with the alignment tool?",
-          "audio": "assets/audio/t_53_26.mp3"
+          "id": "t_57_26",
+          "text": "What happened with the milling machine?",
+          "audio": "assets/audio/t_57_26.mp3"
         },
         {
-          "id": "t_53_27",
-          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
-          "audio": "assets/audio/t_53_27.mp3"
+          "id": "t_57_27",
+          "text": "The display panel was brighter than normal, so I checked the calibration sensor.",
+          "audio": "assets/audio/t_57_27.mp3"
         },
         {
-          "id": "t_53_28",
-          "text": "They were dusty.",
-          "audio": "assets/audio/t_53_28.mp3"
+          "id": "t_57_28",
+          "text": "It was dusty.",
+          "audio": "assets/audio/t_57_28.mp3"
         },
         {
-          "id": "t_53_29",
-          "text": "I cleaned them and reset the panel.",
-          "audio": "assets/audio/t_53_29.mp3"
+          "id": "t_57_29",
+          "text": "I cleaned it and reset the system.",
+          "audio": "assets/audio/t_57_29.mp3"
         },
         {
-          "id": "t_53_30",
+          "id": "t_57_30",
           "text": "Now it is working properly.",
-          "audio": "assets/audio/t_53_30.mp3"
+          "audio": "assets/audio/t_57_30.mp3"
         },
         {
-          "id": "t_53_31",
+          "id": "t_57_31",
           "text": "Good.",
-          "audio": "assets/audio/t_53_31.mp3"
+          "audio": "assets/audio/t_57_31.mp3"
         },
         {
-          "id": "t_53_32",
-          "text": "What are you doing about inventory control?",
-          "audio": "assets/audio/t_53_32.mp3"
+          "id": "t_57_32",
+          "text": "What are you doing about tool inventory?",
+          "audio": "assets/audio/t_57_32.mp3"
         },
         {
-          "id": "t_53_33",
-          "text": "I am updating the tool register every day.",
-          "audio": "assets/audio/t_53_33.mp3"
+          "id": "t_57_33",
+          "text": "I am updating the spanner and cutter register every day.",
+          "audio": "assets/audio/t_57_33.mp3"
         },
         {
-          "id": "t_53_34",
+          "id": "t_57_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
-          "audio": "assets/audio/t_53_34.mp3"
+          "audio": "assets/audio/t_57_34.mp3"
         },
         {
-          "id": "t_53_35",
+          "id": "t_57_35",
           "text": "That happens.",
-          "audio": "assets/audio/t_53_35.mp3"
+          "audio": "assets/audio/t_57_35.mp3"
         },
         {
-          "id": "t_53_36",
+          "id": "t_57_36",
           "text": "Do you think we need a backup system?",
-          "audio": "assets/audio/t_53_36.mp3"
+          "audio": "assets/audio/t_57_36.mp3"
         },
         {
-          "id": "t_53_37",
-          "text": "Yes, we can keep printed safety checklists.",
-          "audio": "assets/audio/t_53_37.mp3"
+          "id": "t_57_37",
+          "text": "Yes, we can keep printed mechanical safety checklists.",
+          "audio": "assets/audio/t_57_37.mp3"
         },
         {
-          "id": "t_53_38",
+          "id": "t_57_38",
           "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_53_38.mp3"
+          "audio": "assets/audio/t_57_38.mp3"
         },
         {
-          "id": "t_53_39",
+          "id": "t_57_39",
           "text": "That sounds practical.",
-          "audio": "assets/audio/t_53_39.mp3"
+          "audio": "assets/audio/t_57_39.mp3"
         },
         {
-          "id": "t_53_40",
+          "id": "t_57_40",
           "text": "Keep improving your methods.",
-          "audio": "assets/audio/t_53_40.mp3"
+          "audio": "assets/audio/t_57_40.mp3"
         },
         {
-          "id": "t_53_41",
+          "id": "t_57_41",
           "text": "It will make the whole workshop more efficient than last month.",
-          "audio": "assets/audio/t_53_41.mp3"
+          "audio": "assets/audio/t_57_41.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_53_4",
-          "text": "Good morning, madam. Things are going well, but I think some of our safety checks can be faster.",
-          "audio": "assets/audio/t_53_4.mp3"
+          "id": "t_57_2",
+          "text": "Today I want to talk about how you are handling safety procedures and maintenance tasks in the mechanical workshop.",
+          "audio": "assets/audio/t_57_2.mp3"
         },
         {
-          "id": "t_53_5",
-          "text": "For example, the wheel-lift inspection took longer than expected.",
-          "audio": "assets/audio/t_53_5.mp3"
+          "id": "t_57_3",
+          "text": "How are things going?",
+          "audio": "assets/audio/t_57_3.mp3"
         },
         {
-          "id": "t_53_7",
-          "text": "Yesterday the hydraulic pressure was lower than usual, and I had to test the pump twice.",
-          "audio": "assets/audio/t_53_7.mp3"
+          "id": "t_57_5",
+          "text": "For example, the lathe-machine check took longer than expected.",
+          "audio": "assets/audio/t_57_5.mp3"
         },
         {
-          "id": "t_53_8",
-          "text": "The hoses were also more worn than I thought.",
-          "audio": "assets/audio/t_53_8.mp3"
+          "id": "t_57_7",
+          "text": "Yesterday the main shaft was tighter than usual, and I had to readjust the bearings twice.",
+          "audio": "assets/audio/t_57_7.mp3"
         },
         {
-          "id": "t_53_12",
-          "text": "I’m going to inspect the safety locks and test the emergency shut-off switch.",
-          "audio": "assets/audio/t_53_12.mp3"
+          "id": "t_57_8",
+          "text": "The alignment was also more uneven than I thought.",
+          "audio": "assets/audio/t_57_8.mp3"
         },
         {
-          "id": "t_53_18",
-          "text": "Yes, I can, but the new extractor is more sensitive than the old one, so I have to be careful.",
-          "audio": "assets/audio/t_53_18.mp3"
+          "id": "t_57_9",
+          "text": "I wasn’t expecting that.",
+          "audio": "assets/audio/t_57_9.mp3"
         },
         {
-          "id": "t_53_19",
-          "text": "The old model was slower, but it was easier than this new digital unit.",
-          "audio": "assets/audio/t_53_19.mp3"
+          "id": "t_57_12",
+          "text": "I’m going to inspect the tool post and test the emergency stop button.",
+          "audio": "assets/audio/t_57_12.mp3"
         },
         {
-          "id": "t_53_25",
-          "text": "It is more important than small adjustments.",
-          "audio": "assets/audio/t_53_25.mp3"
+          "id": "t_57_13",
+          "text": "I must also record everything in the daily maintenance log, because the administration team needs clear reports.",
+          "audio": "assets/audio/t_57_13.mp3"
         },
         {
-          "id": "t_53_27",
-          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
-          "audio": "assets/audio/t_53_27.mp3"
+          "id": "t_57_16",
+          "text": "What about the hydraulic press?",
+          "audio": "assets/audio/t_57_16.mp3"
         },
         {
-          "id": "t_53_33",
-          "text": "I am updating the tool register every day.",
-          "audio": "assets/audio/t_53_33.mp3"
+          "id": "t_57_20",
+          "text": "Are you checking the PPE rack regularly?",
+          "audio": "assets/audio/t_57_20.mp3"
         },
         {
-          "id": "t_53_34",
-          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
-          "audio": "assets/audio/t_53_34.mp3"
+          "id": "t_57_22",
+          "text": "I check it every evening, but yesterday I wasn’t able to finish the face-shield sanitizing step.",
+          "audio": "assets/audio/t_57_22.mp3"
         },
         {
-          "id": "t_53_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_53_38.mp3"
+          "id": "t_57_23",
+          "text": "I was too busy with the milling-machine calibration.",
+          "audio": "assets/audio/t_57_23.mp3"
         },
         {
-          "id": "t_53_41",
-          "text": "It will make the whole workshop more efficient than last month.",
-          "audio": "assets/audio/t_53_41.mp3"
+          "id": "t_57_32",
+          "text": "What are you doing about tool inventory?",
+          "audio": "assets/audio/t_57_32.mp3"
+        },
+        {
+          "id": "t_57_33",
+          "text": "I am updating the spanner and cutter register every day.",
+          "audio": "assets/audio/t_57_33.mp3"
+        },
+        {
+          "id": "t_57_37",
+          "text": "Yes, we can keep printed mechanical safety checklists.",
+          "audio": "assets/audio/t_57_37.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_53_4",
-          "text": "Good morning, madam. Things are going well, but I think some of our safety checks can be faster.",
-          "audio": "assets/audio/t_53_4.mp3"
+          "id": "t_57_2",
+          "text": "Today I want to talk about how you are handling safety procedures and maintenance tasks in the mechanical workshop.",
+          "audio": "assets/audio/t_57_2.mp3"
         },
         {
-          "id": "t_53_5",
-          "text": "For example, the wheel-lift inspection took longer than expected.",
-          "audio": "assets/audio/t_53_5.mp3"
+          "id": "t_57_3",
+          "text": "How are things going?",
+          "audio": "assets/audio/t_57_3.mp3"
         },
         {
-          "id": "t_53_7",
-          "text": "Yesterday the hydraulic pressure was lower than usual, and I had to test the pump twice.",
-          "audio": "assets/audio/t_53_7.mp3"
+          "id": "t_57_5",
+          "text": "For example, the lathe-machine check took longer than expected.",
+          "audio": "assets/audio/t_57_5.mp3"
         },
         {
-          "id": "t_53_8",
-          "text": "The hoses were also more worn than I thought.",
-          "audio": "assets/audio/t_53_8.mp3"
+          "id": "t_57_7",
+          "text": "Yesterday the main shaft was tighter than usual, and I had to readjust the bearings twice.",
+          "audio": "assets/audio/t_57_7.mp3"
         },
         {
-          "id": "t_53_12",
-          "text": "I’m going to inspect the safety locks and test the emergency shut-off switch.",
-          "audio": "assets/audio/t_53_12.mp3"
+          "id": "t_57_8",
+          "text": "The alignment was also more uneven than I thought.",
+          "audio": "assets/audio/t_57_8.mp3"
         },
         {
-          "id": "t_53_18",
-          "text": "Yes, I can, but the new extractor is more sensitive than the old one, so I have to be careful.",
-          "audio": "assets/audio/t_53_18.mp3"
+          "id": "t_57_9",
+          "text": "I wasn’t expecting that.",
+          "audio": "assets/audio/t_57_9.mp3"
         },
         {
-          "id": "t_53_19",
-          "text": "The old model was slower, but it was easier than this new digital unit.",
-          "audio": "assets/audio/t_53_19.mp3"
+          "id": "t_57_12",
+          "text": "I’m going to inspect the tool post and test the emergency stop button.",
+          "audio": "assets/audio/t_57_12.mp3"
         },
         {
-          "id": "t_53_25",
-          "text": "It is more important than small adjustments.",
-          "audio": "assets/audio/t_53_25.mp3"
+          "id": "t_57_13",
+          "text": "I must also record everything in the daily maintenance log, because the administration team needs clear reports.",
+          "audio": "assets/audio/t_57_13.mp3"
         },
         {
-          "id": "t_53_27",
-          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
-          "audio": "assets/audio/t_53_27.mp3"
+          "id": "t_57_16",
+          "text": "What about the hydraulic press?",
+          "audio": "assets/audio/t_57_16.mp3"
         },
         {
-          "id": "t_53_33",
-          "text": "I am updating the tool register every day.",
-          "audio": "assets/audio/t_53_33.mp3"
+          "id": "t_57_20",
+          "text": "Are you checking the PPE rack regularly?",
+          "audio": "assets/audio/t_57_20.mp3"
         },
         {
-          "id": "t_53_34",
-          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
-          "audio": "assets/audio/t_53_34.mp3"
+          "id": "t_57_22",
+          "text": "I check it every evening, but yesterday I wasn’t able to finish the face-shield sanitizing step.",
+          "audio": "assets/audio/t_57_22.mp3"
         },
         {
-          "id": "t_53_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_53_38.mp3"
+          "id": "t_57_23",
+          "text": "I was too busy with the milling-machine calibration.",
+          "audio": "assets/audio/t_57_23.mp3"
         },
         {
-          "id": "t_53_41",
-          "text": "It will make the whole workshop more efficient than last month.",
-          "audio": "assets/audio/t_53_41.mp3"
+          "id": "t_57_32",
+          "text": "What are you doing about tool inventory?",
+          "audio": "assets/audio/t_57_32.mp3"
+        },
+        {
+          "id": "t_57_33",
+          "text": "I am updating the spanner and cutter register every day.",
+          "audio": "assets/audio/t_57_33.mp3"
+        },
+        {
+          "id": "t_57_37",
+          "text": "Yes, we can keep printed mechanical safety checklists.",
+          "audio": "assets/audio/t_57_37.mp3"
         }
       ]
     }
