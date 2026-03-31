@@ -49,18 +49,41 @@ const createHeading = (context = {}) => {
   return "Activity";
 };
 
-const createResultText = (correct, total) => {
+const getMarksPerQuestion = (context = {}) => {
+  const parsed = Number(context?.marksPerQuestion);
+  if (!Number.isFinite(parsed) || parsed <= 0) {
+    return 1;
+  }
+  return parsed;
+};
+
+const createMarksSummaryText = (total, marksPerQuestion) => {
   if (!Number.isInteger(total) || total <= 0) {
     return "";
   }
-  return `Score: ${correct} / ${total}`;
+  return `${total} x ${marksPerQuestion} = ${total * marksPerQuestion} marks`;
 };
 
-const resultMessage = (element, correct, total, tone = "neutral") => {
+const createResultText = (correct, total, marksPerQuestion = 1) => {
+  if (!Number.isInteger(total) || total <= 0) {
+    return "";
+  }
+  return `Score: ${correct * marksPerQuestion} / ${
+    total * marksPerQuestion
+  } marks`;
+};
+
+const resultMessage = (
+  element,
+  correct,
+  total,
+  marksPerQuestion = 1,
+  tone = "neutral"
+) => {
   if (!element) {
     return;
   }
-  element.textContent = createResultText(correct, total);
+  element.textContent = createResultText(correct, total, marksPerQuestion);
   element.classList.remove(
     "assessment-result--error",
     "assessment-result--success"
@@ -79,7 +102,7 @@ export const buildMatchingWordsSlides = (
 ) => {
   const items = normalizePairs(activityData?.content);
   const audioUrl = trimString(activityData?.audio);
-  const hasAudio = Boolean(audioUrl);
+  const marksPerQuestion = getMarksPerQuestion(context);
   const registerActivity =
     typeof assessment?.registerActivity === "function"
       ? assessment.registerActivity
@@ -102,6 +125,14 @@ export const buildMatchingWordsSlides = (
   heading.textContent = createHeading(context);
   slide.appendChild(heading);
 
+  const marksSummary = createMarksSummaryText(items.length, marksPerQuestion);
+  if (marksSummary) {
+    const marksEl = document.createElement("p");
+    marksEl.className = "assessment-marks-summary";
+    marksEl.textContent = `(${marksSummary})`;
+    slide.appendChild(marksEl);
+  }
+
   const controls = document.createElement("div");
   controls.className = "slide__controls";
 
@@ -115,9 +146,7 @@ export const buildMatchingWordsSlides = (
   status.textContent = "";
 
   controls.append(playBtn, status);
-  if (hasAudio) {
-    slide.appendChild(controls);
-  }
+  slide.appendChild(controls);
 
   const layout = document.createElement("div");
   layout.className = "listening-word-match";
@@ -153,7 +182,10 @@ export const buildMatchingWordsSlides = (
 
   slide.appendChild(actions);
 
-  registerActivity({ total: items.length });
+  registerActivity({
+    total: items.length,
+    marksPerQuestion,
+  });
 
   if (!items.length) {
     const emptyState = document.createElement("p");
@@ -162,9 +194,7 @@ export const buildMatchingWordsSlides = (
     layout.appendChild(emptyState);
     playBtn.disabled = true;
     submitBtn.disabled = true;
-    if (hasAudio) {
-      status.textContent = "";
-    }
+    status.textContent = audioUrl ? "" : "Audio not available.";
     return [
       {
         id: context.key ? `${context.key}-matching` : "activity-matching",
@@ -372,6 +402,7 @@ export const buildMatchingWordsSlides = (
       resultEl,
       correctCount,
       dropzones.length,
+      marksPerQuestion,
       correctCount === dropzones.length ? "success" : "neutral"
     );
 
@@ -399,7 +430,7 @@ export const buildMatchingWordsSlides = (
     if (answersChecked || isPlaying) {
       return;
     }
-    if (hasAudio && playbackCount < 2) {
+    if (playbackCount < 2) {
       resultEl.textContent = "Please listen to the audio twice before submitting.";
       resultEl.classList.add("assessment-result--error");
       return;
@@ -418,6 +449,7 @@ export const buildMatchingWordsSlides = (
     submitResult({
       total: dropzones.length,
       correct: correctCount,
+      marksPerQuestion,
       detail,
       timestamp: new Date().toISOString(),
     });
@@ -625,8 +657,8 @@ export const buildMatchingWordsSlides = (
       status.textContent = "Please listen to the instructions first.";
       return;
     }
-    if (!hasAudio) {
-      status.textContent = "";
+    if (!audioElement) {
+      status.textContent = "Audio not available.";
       return;
     }
     if (answersChecked) {
@@ -657,9 +689,9 @@ export const buildMatchingWordsSlides = (
   };
 
   const updateButtonState = () => {
-    if (!hasAudio) {
+    if (!audioUrl) {
       playBtn.disabled = true;
-      playBtn.textContent = "Start";
+      playBtn.textContent = "Audio unavailable";
     } else if (instructionsLocked) {
       playBtn.disabled = true;
       playBtn.textContent = "Start";
@@ -678,7 +710,7 @@ export const buildMatchingWordsSlides = (
     submitBtn.disabled =
       answersChecked ||
       isPlaying ||
-      (hasAudio && playbackCount < 2) ||
+      playbackCount < 2 ||
       instructionsLocked ||
       !items.length;
   };
@@ -699,12 +731,13 @@ export const buildMatchingWordsSlides = (
       resultEl,
       savedCorrect,
       savedTotal,
+      marksPerQuestion,
       savedTotal && savedCorrect === savedTotal ? "success" : "neutral"
     );
   }
 
   playBtn.addEventListener("click", () => {
-    if (!hasAudio || isPlaying || playbackCount >= 2) {
+    if (isPlaying || playbackCount >= 2) {
       return;
     }
     autoTriggered = true;
@@ -752,28 +785,25 @@ export const buildMatchingWordsSlides = (
 
   resetMatching();
 
-  const slideConfig = {
-    id: context.key ? `${context.key}-matching` : "activity-matching",
-    element: slide,
-    onEnter,
-    onLeave,
-  };
-
-  if (hasAudio) {
-    slideConfig.autoPlay = {
-      button: playBtn,
-      trigger: () => {
-        if (answersChecked || autoTriggered || isPlaying || playbackCount >= 2) {
-          return;
-        }
-        autoTriggered = true;
-        slide._autoTriggered = true;
-        beginPlayback();
+  return [
+    {
+      id: context.key ? `${context.key}-matching` : "activity-matching",
+      element: slide,
+      autoPlay: {
+        button: playBtn,
+        trigger: () => {
+          if (answersChecked || autoTriggered || isPlaying || playbackCount >= 2) {
+            return;
+          }
+          autoTriggered = true;
+          slide._autoTriggered = true;
+          beginPlayback();
+        },
+        status,
       },
-      status,
-    };
-    slideConfig.instructionCountdownSeconds = 15;
-  }
-
-  return [slideConfig];
+      onEnter,
+      onLeave,
+      instructionCountdownSeconds: 15,
+    },
+  ];
 };

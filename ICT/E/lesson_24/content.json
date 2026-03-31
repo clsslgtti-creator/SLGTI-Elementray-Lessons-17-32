@@ -6,6 +6,7 @@
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
+    "marks_for_each_q": 1,
     "type": "MATCHING-WORDS",
     "instruction": {
       "text": "Match the words with their definitions.\nවචන ඒවායේ අර්ථයන් සමඟ යා කරන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
@@ -65,6 +66,7 @@
     ]
   },
   "activity_2": {
+    "marks_for_each_q": 1,
     "type": "MCQ",
     "instruction": {
       "text": "Read the following answers and click on the correct question. \nපහත සඳහන් පිළිතුරු කියවා නිවැරදි ප්‍රශ්නය ක්ලික් කරන්න.\nபின்வரும் பதில்களைப் படித்து சரியான கேள்வியைக் கிளிக் செய்யவும்.",
@@ -224,6 +226,7 @@
     ]
   },
   "activity_3": {
+    "marks_for_each_q": 2,
     "type": "MCQ",
     "instruction": {
       "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
@@ -288,6 +291,7 @@
     ]
   },
   "activity_4": {
+    "marks_for_each_q": 2,
     "type": "LISTENING",
     "instruction": {
       "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යය අසා බලන්න. පසුව නිවැරදි පිළිතුර මත ක්ලික් කරන්න. ප්‍රශ්න පළමුව කියවන්න.\nஇருமுறை ஒலிக்கப்படும் ஆடியோவை கேட்கவும். பின்னர் சரியான பதிலில் கிளிக் செய்யவும். முதலில் கேள்விகளைப் படியுங்கள்.",

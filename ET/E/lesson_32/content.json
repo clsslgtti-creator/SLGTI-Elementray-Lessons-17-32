@@ -1,0 +1,784 @@
+{
+  "meta": {
+    "lesson_no": "32 - Test",
+    "level": "Elementary",
+    "section": "Electrical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "marks_for_each_q": 1,
+    "type": "MATCHING-WORDS",
+    "instruction": {
+      "text": "Match the words with their definitions.\nවචන ඒවායේ අර්ථයන් සමඟ යා කරන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+      "audio": "assets/audio/a_1_a_i.mp3"
+    },
+    "content": [
+      {
+        "id": "n_4_a_1",
+        "item_a": "terminate",
+        "item_b": "to securely end a cable or wire by attaching it to a connector, terminal block, or device"
+      },
+      {
+        "id": "n_4_a_2",
+        "item_a": "ground (earth)",
+        "item_b": "to connect electrical equipment to the earth for safety so excess current can safely flow away"
+      },
+      {
+        "id": "n_4_a_3",
+        "item_a": "isolate",
+        "item_b": "to disconnect a circuit or device from the power supply to ensure it is completely safe to work on"
+      },
+      {
+        "id": "n_4_a_4",
+        "item_a": "insulate",
+        "item_b": "to cover wires or components with protective material to prevent electrical shock or short circuits"
+      },
+      {
+        "id": "n_4_a_5",
+        "item_a": "configure",
+        "item_b": "to set up electrical devices or systems with the correct settings so they operate as required"
+      },
+      {
+        "id": "n_4_a_6",
+        "item_a": "strip",
+        "item_b": "to remove the outer insulation from a wire so that the copper conductor can be connected"
+      },
+      {
+        "id": "n_4_a_7",
+        "item_a": "verify",
+        "item_b": "to check that an electrical connection, measurement, or system is correct and meets the required standards"
+      },
+      {
+        "id": "n_4_a_8",
+        "item_a": "discharge",
+        "item_b": "to release stored electrical energy from a component, such as a capacitor or battery, until it is safe"
+      },
+      {
+        "id": "n_4_a_9",
+        "item_a": "tag",
+        "item_b": "to label equipment or parts—often for safety or identification—before repair or maintenance"
+      },
+      {
+        "id": "n_4_a_10",
+        "item_a": "torque",
+        "item_b": "to tighten a bolt or nut to a specific force using a torque wrench"
+      }
+    ]
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Read the following answers and click on the correct question. \nපහත සඳහන් පිළිතුරු කියවා නිවැරදි ප්‍රශ්නය ක්ලික් කරන්න.\nபின்வரும் பதில்களைப் படித்து சரியான கேள்வியைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i.mp3"
+    },
+    "content": [
+      {
+        "question": "Yes, there is. There is a new voltage tester on the workbench.",
+        "options": [
+          "Is there a voltage tester on the workbench?",
+          "Are there voltage testers on the workbench?",
+          "Was there any voltage tester on the workbench?"
+        ],
+        "answer": "Is there a voltage tester on the workbench?"
+      },
+      {
+        "question": "No, there isn’t. Actually, there isn’t any insulated screwdriver in the toolbox.",
+        "options": [
+          "Is there an insulated screwdriver in the toolbox?",
+          "Are the insulated screwdrivers in the toolbox?",
+          "Why were the insulated screwdrivers in the toolbox?"
+        ],
+        "answer": "Is there an insulated screwdriver in the toolbox?"
+      },
+      {
+        "question": "No, they weren’t. They were loose.",
+        "options": [
+          "Were the wire terminals tight yesterday?",
+          "Was the wire terminal tight yesterday?",
+          "Were the tight terminals yesterday?"
+        ],
+        "answer": "Were the wire terminals tight yesterday?"
+      },
+      {
+        "question": "His name is Nimal.",
+        "options": ["What’s his name?", "Whats’ your name?", "What his name?"],
+        "answer": "What’s his name?"
+      },
+      {
+        "question": "I work in the solar installation unit.",
+        "options": [
+          "Where do you work?",
+          "Where you works?",
+          "Where does you work?"
+        ],
+        "answer": "Where do you work?"
+      },
+      {
+        "question": "He installs circuit breakers.",
+        "options": [
+          "What does he install?",
+          "What are you installing circuit breakers?",
+          "What he install circuit breakers?"
+        ],
+        "answer": "What does he install?"
+      },
+      {
+        "question": "I connect wires, test circuits, and clean my tools every day.",
+        "options": [
+          "Tell me, what do you do every day?",
+          "Tell me, what are you doing every day?",
+          "Tell me, what you doing every day?"
+        ],
+        "answer": "Tell me, what do you do every day?"
+      },
+      {
+        "question": "No, he doesn’t.",
+        "options": [
+          "Does Ruwan repair the control panels on Friday?",
+          "Is Ruwan repairing the control panels on Friday?",
+          "When is Ruwan repairing the control panels?"
+        ],
+        "answer": "Does Ruwan repair the control panels on Friday?"
+      },
+      {
+        "question": "He repairs the control panels on Tuesday.",
+        "options": [
+          "When does he repair the control panels?",
+          "Is he repairing the control panels Tuesdays?",
+          "What does he repair Tuesdays?"
+        ],
+        "answer": "When does he repair the control panels?"
+      },
+      {
+        "question": "They test the voltage every morning.",
+        "options": [
+          "How often do they test the voltage?",
+          "When are you testing the voltage?",
+          "Why do they test the voltage?"
+        ],
+        "answer": "How often do they test the voltage?"
+      }
+    ]
+  },
+  "activity_3": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "id": 1,
+        "question": "They ______ the circuit breakers every month.",
+        "options": ["inspect", "inspects", "inspecting", "are inspecting"],
+        "answer": "inspect"
+      },
+      {
+        "id": 2,
+        "question": "He ______ the damaged cable yesterday.",
+        "options": ["replaced", "replaces", "were replacing", "were replaced"],
+        "answer": "replaced"
+      },
+      {
+        "id": 3,
+        "question": "The electrician ______ the control panel once a week.",
+        "options": ["checks", "check", "are checking", "was checked"],
+        "answer": "checks"
+      },
+      {
+        "id": 4,
+        "question": "They ______ the distribution board now.",
+        "options": ["are wiring", "will be wiring", "wired", "wire"],
+        "answer": "are wiring"
+      },
+      {
+        "id": 5,
+        "question": "She ______ to test the insulation resistance later.",
+        "options": ["is going", "are going", "will goes", "goes"],
+        "answer": "is going"
+      },
+      {
+        "id": 6,
+        "question": "The transformer ______ very hot today.",
+        "options": ["is", "are", "was being", "were"],
+        "answer": "is"
+      },
+      {
+        "id": 7,
+        "question": "I ______ connect live wires without isolation.",
+        "options": ["don’t", "wasn’t", "doesn’t", "isn’t"],
+        "answer": "don’t"
+      },
+      {
+        "id": 8,
+        "question": "Where ______ he store the faulty fuse?",
+        "options": ["did", "do", "is", "was"],
+        "answer": "did"
+      },
+      {
+        "id": 9,
+        "question": "When ______ we ______ to test the backup generator?",
+        "options": ["are / going", "is / going", "are / gone", "will / going"],
+        "answer": "are / going"
+      },
+      {
+        "id": 10,
+        "question": "Did you ______ the voltage level this morning?",
+        "options": ["measure", "measures", "measuring", "measured"],
+        "answer": "measure"
+      },
+      {
+        "id": 11,
+        "question": "We ______ shut down the system during maintenance.",
+        "options": ["can", "are", "does", "is"],
+        "answer": "can"
+      },
+      {
+        "id": 12,
+        "question": "The technician ______ the terminal connections carefully whenever he installs equipment.",
+        "options": ["checks", "is checking", "was checked", "is checks"],
+        "answer": "checks"
+      },
+      {
+        "id": 13,
+        "question": "She ______ the wiring diagram yesterday.",
+        "options": ["reviewed", "reviews", "were reviewing", "is reviewing"],
+        "answer": "reviewed"
+      },
+      {
+        "id": 14,
+        "question": "The electrician ______ the screws on the switchboard at the moment.",
+        "options": [
+          "is tightening",
+          "are tightening",
+          "was tightening",
+          "tightens"
+        ],
+        "answer": "is tightening"
+      },
+      {
+        "id": 15,
+        "question": "______ you ______ the earth resistance this morning?",
+        "options": ["Did / test", "was / tested", "are / test", "do / testing"],
+        "answer": "Did / test"
+      }
+    ]
+  },
+  "activity_4": {
+    "marks_for_each_q": 2,
+    "type": "JUMBLED",
+    "instruction": {
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "audio": "assets/audio/a_3_i.mp3"
+    },
+    "content": [
+      {
+        "words": [
+          "Electricians",
+          "always",
+          "splice",
+          "cables",
+          "before",
+          "final",
+          "testing",
+          "."
+        ],
+        "sentence": "Electricians always splice cables before final testing."
+      },
+      {
+        "words": [
+          "They",
+          "terminated",
+          "the",
+          "damaged",
+          "circuit",
+          "yesterday",
+          "."
+        ],
+        "sentence": "They terminated the damaged circuit yesterday."
+      },
+      {
+        "words": [
+          "The",
+          "technician",
+          "is",
+          "calibrating",
+          "the",
+          "voltage",
+          "regulator",
+          "."
+        ],
+        "sentence": "The technician is calibrating the voltage regulator."
+      },
+      {
+        "words": [
+          "We",
+          "plan",
+          "to",
+          "reroute",
+          "those",
+          "feeder",
+          "lines",
+          "."
+        ],
+        "sentence": "We plan to reroute those feeder lines."
+      },
+      {
+        "words": [
+          "The",
+          "main",
+          "control",
+          "panel",
+          "was",
+          "completely",
+          "unstable",
+          "."
+        ],
+        "sentence": "The main control panel was completely unstable."
+      },
+      {
+        "words": [
+          "Skilled",
+          "electricians",
+          "can",
+          "insulate",
+          "connectors",
+          "very",
+          "neatly",
+          "."
+        ],
+        "sentence": "Skilled electricians can insulate connectors very neatly."
+      },
+      {
+        "words": ["The", "trainee", "didn’t", "earth", "the", "casing", "."],
+        "sentence": "The trainee didn’t earth the casing."
+      },
+      {
+        "words": [
+          "Why",
+          "did",
+          "they",
+          "rewire",
+          "everything",
+          "so",
+          "quickly",
+          "?"
+        ],
+        "sentence": "Why did they rewire everything so quickly?"
+      },
+      {
+        "words": [
+          "Are",
+          "they",
+          "relocking",
+          "the",
+          "distribution",
+          "board",
+          "today",
+          "?"
+        ],
+        "sentence": "Are they relocking the distribution board today?"
+      },
+      {
+        "words": [
+          "We",
+          "soldered",
+          "terminals",
+          "and",
+          "regulated",
+          "current",
+          "flow",
+          "."
+        ],
+        "sentence": "We soldered terminals and regulated current flow."
+      }
+    ]
+  },
+  "activity_5": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Read the following answers and click on the correct question. \nපහත සඳහන් පිළිතුරු කියවා නිවැරදි ප්‍රශ්නය ක්ලික් කරන්න.\nபின்வரும் பதில்களைப் படித்து சரியான கேள்வியைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i.mp3"
+    },
+    "content": [
+      {
+        "question": "No, she didn’t. She didn’t know the correct size.",
+        "options": [
+          "Did Susan fill in the request form for industrial boots yesterday morning?",
+          "Did they buy any new clothes two days ago?",
+          "Why didn’t Susan place an order for industrial boots?",
+          "What was the correct size of the gloves?"
+        ],
+        "answer": "Why didn’t Susan place an order for industrial boots?"
+      },
+      {
+        "question": "Yes, she was. She came on time last night.",
+        "options": [
+          "Was the manager punctual for the meeting last night?",
+          "Were they on time for the meeting last night?",
+          "Why didn’t the manager come on time for the meeting last night?",
+          "Was the meeting on time last night?"
+        ],
+        "answer": "Was the manager punctual for the meeting last night?"
+      },
+      {
+        "question": "I always wear my reflective vest in the workshop.",
+        "options": [
+          "What safety measures do you observe in the workshop?",
+          "Does the workers wear reflective vests in the workshop?",
+          "Why must the workers wear reflective vests in the workshop?",
+          "Are safety measures observed by all workers in the workshop?"
+        ],
+        "answer": "What safety measures do you observe in the workshop?"
+      },
+      {
+        "question": "We are not sure. Maybe this was the only place easily accessible.",
+        "options": [
+          "Why did they store cement bags near the exit yesterday?",
+          "Why was the cement bags store near the exit yesterday?",
+          "What did they store near the exit yesterday?",
+          "Were the cement bags being stored near the exit?"
+        ],
+        "answer": "Why did they store cement bags near the exit yesterday?"
+      },
+      {
+        "question": "He checked it this morning.",
+        "options": [
+          "When did the electrician check the lock-out tag?",
+          "Did the electricians check the lock-out tag?",
+          "When was the electrician checking the lock-out tag?",
+          "Why was the lock-out tag checked?"
+        ],
+        "answer": "When did the electrician check the lock-out tag?"
+      },
+      {
+        "question": "No, he isn’t. He’s wearing them.",
+        "options": [
+          "Is the machinist operating the lathe without goggles at the moment?",
+          "Are the machinists operating the lathe without goggles at the moment?",
+          "Do the machinists operate the lathe without goggles?",
+          "Do the machinists always operate the lathe with goggles?"
+        ],
+        "answer": "Is the machinist operating the lathe without goggles at the moment?"
+      },
+      {
+        "question": "No, they didn’t approve it yet.",
+        "options": [
+          "Did the IT team approve that software update?",
+          "Was the software update approves by the IT team?",
+          "Is the software update approved by the IT technician?",
+          "Why hasn’t the IT team approved the software update?"
+        ],
+        "answer": "Did the IT team approve that software update?"
+      },
+      {
+        "question": "Yes, I did. I recorded it on time.",
+        "options": [
+          "Did you record the daily inspection report?",
+          "Was the daily inspection report recorded?",
+          "Were you late recording the missing monitors?",
+          "When was the daily inspection report recorded?"
+        ],
+        "answer": "Did you record the daily inspection report?"
+      },
+      {
+        "question": "No, they aren’t. We aren’t allowing them inside the mixing area today.",
+        "options": [
+          "Are the trainees inside the mixing area today?",
+          "When are the trainees allowed inside the mixing area?",
+          "Is he allowing the trainees inside today?",
+          "Why weren’t they allowed inside the mixing area today?"
+        ],
+        "answer": "Are the trainees inside the mixing area today?"
+      },
+      {
+        "question": "No, he doesn’t print them without permission.",
+        "options": [
+          "Does the office assistant print confidential documents without permission?",
+          "Why was the office assistant printing confidential documents without permission?",
+          "Do they print documents without permission?",
+          "Is he printing a confidential document without permission?"
+        ],
+        "answer": "Does the office assistant print confidential documents without permission?"
+      },
+      {
+        "question": "Yes, they were. I checked them this morning.",
+        "options": [
+          "Did you checked the fire extinguishers this morning?",
+          "Have you checks the fire extinguishers this morning?",
+          "Were the fire extinguishers checked?",
+          "Have you ever checked fire extinguishers?"
+        ],
+        "answer": "Were the fire extinguishers checked?"
+      },
+      {
+        "question": "We don’t store them near the main doorway.",
+        "options": [
+          "Where are the chemicals stored?",
+          "Are the stored chemical near the main entrance?",
+          "Do the chemicals stored near the main doorway?",
+          "Why isn’t the chemicals stored behind the main door?"
+        ],
+        "answer": "Where are the chemicals stored?"
+      },
+      {
+        "question": "Yes, he signed them yesterday.",
+        "options": [
+          "Did the supervisor sign the delivery documents?",
+          "Have you signed the delivery documents?",
+          "Were the documents delivered yesterday?",
+          "Have they signed the documents?"
+        ],
+        "answer": "Did the supervisor sign the delivery documents?"
+      },
+      {
+        "question": "No, they aren’t entering the machine room without helmets today.",
+        "options": [
+          "Are the workers permitted to enter the machine room without helmets today?",
+          "Were the workers allowed into the machine room without helmets today?",
+          "Have you entered the machine room without helmets today?",
+          "Is he permitted to enter the machine room without helmets today?"
+        ],
+        "answer": "Are the workers permitted to enter the machine room without helmets today?"
+      },
+      {
+        "question": "Yes, I sent it to the office.",
+        "options": [
+          "Was the maintenance report send ?",
+          "Did you send the maintenance report?",
+          "Have you send the maintenance report?",
+          "Can you send the maintenance report to the office?"
+        ],
+        "answer": "Did you send the maintenance report?"
+      }
+    ]
+  },
+  "activity_6": {
+    "marks_for_each_q": 1,
+    "type": "LISTENING",
+    "instruction": {
+      "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යය අසා බලන්න. පසුව නිවැරදි පිළිතුර මත ක්ලික් කරන්න. ප්‍රශ්න පළමුව කියවන්න.\nஇருமுறை ஒலிக்கப்படும் ஆடியோவை கேட்கவும். பின்னர் சரியான பதிலில் கிளிக் செய்யவும். முதலில் கேள்விகளைப் படியுங்கள்.",
+      "audio": "assets/audio/a_4_i.mp3"
+    },
+    "audio": "assets/audio/a_6_q.mp3",
+    "content": [
+      {
+        "question": "Why was the applicant shortlisted for the interview?",
+        "options": [
+          "Because he had strong experience in mechanical engineering.",
+          "Because he managed a team of 200 technicians.",
+          "Because his electrical maintenance and diagnostic background looked strong.",
+          "Because he previously worked in the HR department."
+        ],
+        "answer": "Because his electrical maintenance and diagnostic background looked strong."
+      },
+      {
+        "question": "What does the company highlight about its operations?",
+        "options": [
+          "It works with large facilities without using modern technology.",
+          "It avoids using any modern tools or technology.",
+          "It operates one small workshop with limited staff.",
+          "It services large facilities, uses modern systems, and focuses on energy-efficient technology."
+        ],
+        "answer": "It services large facilities, uses modern systems, and focuses on energy-efficient technology."
+      },
+      {
+        "question": "How does the applicant describe his previous tasks?",
+        "options": [
+          "He carried out insulation testing as a vehicle mechanic.",
+          "He installed distribution boards, terminated cables, and carried out insulation testing.",
+          "He only handled basic office work and customer billing.",
+          "He supervised design engineers on multiple projects."
+        ],
+        "answer": "He installed distribution boards, terminated cables, and carried out insulation testing."
+      },
+      {
+        "question": "What is the applicant’s attitude toward learning advanced electrical skills like PLCs?",
+        "options": [
+          "He refuses to learn because the systems are too complicated.",
+          "He has some knowledge and doesn’t need more learning.",
+          "He has basic knowledge and is eager to learn more.",
+          "He prefers manual work and avoids digital systems."
+        ],
+        "answer": "He has basic knowledge and is eager to learn more."
+      },
+      {
+        "question": "How does the applicant say he performs under pressure?",
+        "options": [
+          "He works quickly without following safety rules.",
+          "He remains calm and avoids asking questions even when instructions are unclear.",
+          "He refuses to handle urgent breakdowns.",
+          "He stays calm, follows procedures, and asks for clarification when needed."
+        ],
+        "answer": "He stays calm, follows procedures, and asks for clarification when needed."
+      },
+      {
+        "question": "What will the company do before making a final hiring decision?",
+        "options": [
+          "Ask him to design a new electrical substation.",
+          "Check with his referees and ask him to attend a 2 week training period.",
+          "Verify his employment history and contact his references.",
+          "Invite him to attend a company party for evaluation."
+        ],
+        "answer": "Verify his employment history and contact his references."
+      }
+    ]
+  },
+  "activity_7": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "LISTENING",
+      "instruction": {
+        "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යය අසා බලන්න. පසුව නිවැරදි පිළිතුර මත ක්ලික් කරන්න. ප්‍රශ්න පළමුව කියවන්න.\nஇருமுறை ஒலிக்கப்படும் ஆடியோவை கேட்கவும். பின்னர் சரியான பதிலில் கிளிக் செய்யவும். முதலில் கேள்விகளைப் படியுங்கள்.",
+        "audio": "assets/audio/a_4_i.mp3"
+      },
+      "audio": "assets/audio/a_7_a_q.mp3",
+      "content": [
+        {
+          "question": "We had to take a long ____________ back from the workshop.",
+          "options": ["route", "road", "rote"],
+          "answer": "route"
+        },
+        {
+          "question": "On Sunday morning the wind ____________ so hard, trees fell near the sports ground.",
+          "options": ["blew", "blue", "blewed"],
+          "answer": "blew"
+        },
+        {
+          "question": "I ____________ in a small electrical shop in town, and customers kept calling because of the power cuts throughout the area.",
+          "options": ["work", "were", "woke"],
+          "answer": "work"
+        },
+        {
+          "question": "I usually work weekends at a hardware ____________ but on Sunday I couldn't go.",
+          "options": ["store", "stow", "stew"],
+          "answer": "store"
+        },
+        {
+          "question": "The institute announced some ____________ activities, like a movie night next Friday.",
+          "options": ["leisure", "lecture", "leftist"],
+          "answer": "leisure"
+        },
+        {
+          "question": "After all this bad ____________, everyone needs a break.",
+          "options": ["weather", "whether", "verdant"],
+          "answer": "weather"
+        },
+        {
+          "question": "When I complete this ____________, I am going to specialise in electrical maintenance.",
+          "options": ["course", "cost", "coast"],
+          "answer": "course"
+        }
+      ]
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "LISTENING-PARA",
+      "instruction": {
+        "text": "Listen to the audio which will be played twice and fill in the blanks. Read the questions first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යය අසා බලන්න. පසුව හිස්තැන පිරවන්න. ප්‍රශ්න පළමුව කියවන්න.\nஇருமுறை ஒலிக்கப்படும் ஆடியோவை கேட்கவும். பின்னர் வெற்றிடத்தை நிரப்பவும். முதலில் கேள்விகளைப் படியுங்கள்.",
+        "audio": "assets/audio/a_4_i_x.mp3"
+      },
+      "audio": "assets/audio/a_7_b_q.mp3",
+      "content": [
+        { "text": "What " },
+        { "blank": "happened", "id": "1" },
+        {
+          "text": " last weekend was crazy, because on Saturday evening the rain "
+        },
+        { "blank": "flooded", "id": "2" },
+        { "text": " the road near the hostel. I was trying to " },
+        { "blank": "revise", "id": "3" },
+        { "text": " in the library, but everyone ended up staying " },
+        { "blank": "indoors", "id": "4" },
+        {
+          "text": " because of the weather. Instead, I stayed in the dormitory and read "
+        },
+        { "blank": "quietly", "id": "5" },
+        { "text": ". I was also wondering why they moved the " },
+        { "blank": "industrial", "id": "6" },
+        {
+          "text": " visit to March. The roads are better now, and the companies "
+        },
+        { "blank": "confirmed", "id": "7" },
+        { "text": " their dates so things feel more " },
+        { "blank": "organised", "id": "8" },
+        {
+          "text": " than last week. After graduation, I will apply for an industrial "
+        },
+        { "blank": "internship", "id": "9" },
+        { "text": ". We are submitting " },
+        { "blank": "assignments", "id": "10" },
+        {
+          "text": " on time, and the instructors trust us more in the labs. Seeing how "
+        },
+        { "blank": "important", "id": "11" },
+        { "text": " skilled workers are during emergencies really " },
+        { "blank": "motivates", "id": "12" },
+        { "text": " me now." }
+      ]
+    }
+  },
+  "activity_8": {
+    "marks_for_each_q": 1,
+    "type": "MATCHING-WORDS",
+    "instruction": {
+      "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන යා කරන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
+      "audio": "assets/audio/a_1_a_i_x.mp3"
+    },
+    "content": [
+      {
+        "id": "m_1_1",
+        "item_a": "diagnose",
+        "item_b": "faults"
+      },
+      {
+        "id": "m_1_2",
+        "item_a": "estimate",
+        "item_b": "costs"
+      },
+      {
+        "id": "m_1_3",
+        "item_a": "report",
+        "item_b": "issues"
+      },
+      {
+        "id": "m_1_4",
+        "item_a": "update",
+        "item_b": "logs"
+      },
+      {
+        "id": "m_1_5",
+        "item_a": "wear",
+        "item_b": "protective gloves"
+      },
+      {
+        "id": "m_2_1",
+        "item_a": "start",
+        "item_b": "work"
+      },
+      {
+        "id": "m_2_2",
+        "item_a": "report",
+        "item_b": "issues"
+      },
+      {
+        "id": "m_2_3",
+        "item_a": "order",
+        "item_b": "spare parts"
+      },
+      {
+        "id": "m_2_4",
+        "item_a": "record",
+        "item_b": "data"
+      },
+      {
+        "id": "m_2_5",
+        "item_a": "follow",
+        "item_b": "instructions"
+      }
+    ]
+  }
+}
