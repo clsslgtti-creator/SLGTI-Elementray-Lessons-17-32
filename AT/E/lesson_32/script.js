@@ -2,6 +2,7 @@ import { buildMcqSlides } from "./lib/mcq.js";
 import { buildMcqTableSlides } from "./lib/mcq-table.js";
 import { buildJumbledSlides } from "./lib/jumbled.js";
 import { buildListeningSlides } from "./lib/listening.js";
+import { buildListeningParaSlides } from "./lib/listening-para.js";
 import { buildVideosSlides } from "./lib/videos.js";
 import { buildMatchingWordsSlides } from "./lib/matching-words.js";
 
@@ -480,6 +481,7 @@ const activityBuilders = {
   "MATCHING-WORDS": buildMatchingWordsSlides,
   JUMBLED: buildJumbledSlides,
   LISTENING: buildListeningSlides,
+  "LISTENING-PARA": buildListeningParaSlides,
 };
 
 const extractInstructionEntries = (input, { allowObject = false } = {}) => {
