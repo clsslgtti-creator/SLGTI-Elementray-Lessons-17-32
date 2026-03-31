@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": "32 - Test",
     "level": "Elementary",
-    "section": "Automobile Technology",
+    "section": "Construction Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -15,53 +15,53 @@
     "content": [
       {
         "id": "n_4_a_1",
-        "item_a": "flush",
-        "item_b": "to force a cleaning fluid through a system to remove old oil, dirt, or contaminants"
+        "item_a": "reinforce",
+        "item_b": "to strengthen a structure or material by adding steel bars, mesh, or other support"
       },
       {
         "id": "n_4_a_2",
-        "item_a": "inflate",
-        "item_b": "to fill a tyre with air until it reaches the recommended pressure"
-      },
-      {
-        "id": "n_4_a_3",
-        "item_a": "verify",
-        "item_b": "to check carefully that a measurement, part, or system is correct and meets the required specifications"
-      },
-      {
-        "id": "n_4_a_4",
-        "item_a": "lubricate",
-        "item_b": "to apply oil or grease to moving parts to reduce friction and wear"
-      },
-      {
-        "id": "n_4_a_5",
-        "item_a": "stack",
-        "item_b": "to pile objects, generally in a neat and orderly manner"
-      },
-      {
-        "id": "n_4_a_6",
-        "item_a": "bleed",
-        "item_b": "to remove trapped air from a hydraulic system, such as brakes or a clutch line"
-      },
-      {
-        "id": "n_4_a_7",
         "item_a": "torque",
         "item_b": "to tighten a bolt or nut to a specific force using a torque wrench"
       },
       {
-        "id": "n_4_a_8",
+        "id": "n_4_a_3",
         "item_a": "weld",
         "item_b": "to join metal parts together using heat or pressure to create a strong bond"
       },
       {
-        "id": "n_4_a_9",
+        "id": "n_4_a_4",
         "item_a": "tag",
         "item_b": "to label equipment or parts—often for safety or identification—before repair or maintenance"
       },
       {
+        "id": "n_4_a_5",
+        "item_a": "level",
+        "item_b": "to make a surface smooth and even"
+      },
+      {
+        "id": "n_4_a_6",
+        "item_a": "service",
+        "item_b": "to perform routine maintenance or repair work"
+      },
+      {
+        "id": "n_4_a_7",
+        "item_a": "stack",
+        "item_b": "to pile objects, generally in a neat and orderly manner"
+      },
+      {
+        "id": "n_4_a_8",
+        "item_a": "cure",
+        "item_b": "to allow concrete or mortar to harden under controlled conditions so it reaches full strength"
+      },
+      {
+        "id": "n_4_a_9",
+        "item_a": "verify",
+        "item_b": "to check carefully that a measurement, part, or system is correct and meets the required specifications"
+      },
+      {
         "id": "n_4_a_10",
-        "item_a": "steer",
-        "item_b": "to control the direction of a vehicle using the steering wheel"
+        "item_a": "lubricate",
+        "item_b": "to apply oil or grease to moving parts to reduce friction and wear"
       }
     ]
   },
@@ -74,57 +74,57 @@
     },
     "content": [
       {
-        "question": "Yes, there is. There is a new car jack in the service bay.",
+        "question": "Yes, there is. There is a new cement mixer on the site.",
         "options": [
-          "Is there a car jack in the service bay?",
-          "Is there car jacks in the service bay?",
-          "Was there any car jack in the service bay?"
+          "Is there a cement mixer on the site?",
+          "Are there cement mixers on the sites?",
+          "Was there any cement mixer on the site?"
         ],
-        "answer": "Is there a car jack in the service bay?"
+        "answer": "Is there a cement mixer on the site?"
       },
       {
-        "question": "No, there isn’t. Actually, there isn’t any engine oil in the storage room.",
+        "question": "No, there isn’t. Actually, there isn’t any protective helmet in the storage room.",
         "options": [
-          "Is there any engine oil in the storage room?",
-          "Is there engine oils in the storage room?",
-          "Why was the engine oil in the storage room?"
+          "Is there a protective helmet in the storage room?",
+          "Are the protective helmets in the storage room?",
+          "Why were the helmets in the storage room?"
         ],
-        "answer": "Is there any engine oil in the storage room?"
+        "answer": "Is there a protective helmet in the storage room?"
       },
       {
-        "question": "No, they weren’t. They were loose.",
+        "question": "No, they weren’t. They were uneven.",
         "options": [
-          "Were the wheel nuts tight yesterday?",
-          "Was the wheel nut tight yesterday?",
-          "Were the tight wheel nuts yesterday?"
+          "Were the concrete blocks level yesterday?",
+          "Were the level concrete blocks yesterday?",
+          "Was the concrete block level yesterday?"
         ],
-        "answer": "Were the wheel nuts tight yesterday?"
+        "answer": "Were the concrete blocks level yesterday?"
       },
       {
-        "question": "His name is Ruwan.",
-        "options": ["What’s his name?", "Whats’ her name?", "What his  name?"],
+        "question": "His name is Sunil.",
+        "options": ["What’s his name?", "Whats’ your name?", "What his name?"],
         "answer": "What’s his name?"
       },
       {
-        "question": "I work in the engine repair unit.",
+        "question": "She works in the masonry unit.",
         "options": [
-          "Where do you work?",
-          "Where you works?",
+          "Where does she work?",
+          "Where she works?",
           "Where does you work?"
         ],
-        "answer": "Where do you work?"
+        "answer": "Where does she work?"
       },
       {
-        "question": "I am checking brake fluid levels.",
+        "question": "I mix mortar for the walls.",
         "options": [
-          "What are you doing?",
-          "What you checking?",
-          "What do you check?"
+          "What do you mix?",
+          "What are you mixing the mortar?",
+          "What you mix mortar?"
         ],
-        "answer": "What are you doing?"
+        "answer": "What do you mix?"
       },
       {
-        "question": "I rotate tires, inspect brakes, and clean tools every day.",
+        "question": "I stack bricks, level pathways, and clean the tools every day.",
         "options": [
           "Tell me, what do you do every day?",
           "Tell me, what are you doing every day?",
@@ -135,29 +135,29 @@
       {
         "question": "No, he doesn’t.",
         "options": [
-          "Does Amal lubricate the engine parts on Fridays?",
-          "Is Amal lubricating the engine parts on Fridays?",
-          "When is Amal lubricating the engine parts?"
+          "Does Kamal plaster the walls on Thursday?",
+          "Is Kamal plastering the walls Thursday?",
+          "When is Kamal plastering the walls?"
         ],
-        "answer": "Does Amal lubricate the engine parts on Fridays?"
+        "answer": "Does Kamal plaster the walls on Thursday?"
       },
       {
-        "question": "He lubricates the engine parts on Tuesday.",
+        "question": "He plasters the walls on Monday.",
         "options": [
-          "When does he lubricate the engine parts?",
-          "Is he lubricating the engine parts Tuesdays?",
-          "What does he lubricate Tuesdays?"
+          "When does he plaster the walls?",
+          "Is he plastering the walls Mondays?",
+          "What is he plastering Mondays?"
         ],
-        "answer": "When does he lubricate the engine parts?"
+        "answer": "When does he plaster the walls?"
       },
       {
-        "question": "I tighten the bolts every morning.",
+        "question": "They sweep the site every evening.",
         "options": [
-          "How often do you tighten the bolts?",
-          "When are you tighten the bolts?",
-          "Why do you tighten the bolts every morning?"
+          "How often do they sweep the site?",
+          "When are you sweeping the site?",
+          "Why they sweep the site?"
         ],
-        "answer": "How often do you tighten the bolts?"
+        "answer": "How often do they sweep the site?"
       }
     ]
   },
@@ -171,108 +171,103 @@
     "content": [
       {
         "id": 1,
-        "question": "They ______ the tyres every month.",
-        "options": ["rotate", "rotates", "rotating", "are rotating"],
-        "answer": "rotate"
+        "question": "They ______ the scaffolding every month.",
+        "options": ["inspect", "inspects", "inspecting", "are inspecting"],
+        "answer": "inspect"
       },
       {
         "id": 2,
-        "question": "He ______ the spark plugs yesterday.",
+        "question": "He ______ the damaged tiles yesterday.",
         "options": ["replaced", "replaces", "was replacing", "were replaced"],
         "answer": "replaced"
       },
       {
         "id": 3,
-        "question": "The mechanic ______ the engine sensors once a week.",
-        "options": [
-          "calibrates",
-          "calibrate",
-          "are calibrating",
-          "was calibrated"
-        ],
-        "answer": "calibrates"
+        "question": "The site supervisor ______ the safety checklist once a week.",
+        "options": ["reviews", "review", "are reviewing", "was reviewed"],
+        "answer": "reviews"
       },
       {
         "id": 4,
-        "question": "They ______ the wheel nuts now.",
+        "question": "They ______ the formwork now.",
         "options": [
-          "are tightening",
-          "will be tightening",
-          "tightened",
-          "tighten"
+          "are assembling",
+          "will be assemble",
+          "assembled",
+          "assemble"
         ],
-        "answer": "are tightening"
+        "answer": "are assembling"
       },
       {
         "id": 5,
-        "question": "She ______ to test the battery voltage later.",
-        "options": ["is going", "are going", "will goes", "went"],
+        "question": "She ______ to measure the floor level later.",
+        "options": ["is going", "are going", "will goes", "goes"],
         "answer": "is going"
       },
       {
         "id": 6,
-        "question": "The engine ______ very noisy today.",
+        "question": "The concrete ______ very wet today.",
         "options": ["is", "are", "was being", "were"],
         "answer": "is"
       },
       {
         "id": 7,
-        "question": "I ______ install any parts without permission.",
+        "question": "I ______ operate heavy machinery without training.",
         "options": ["don’t", "wasn’t", "doesn’t", "isn’t"],
         "answer": "don’t"
       },
       {
         "id": 8,
-        "question": "Where ______ he store the faulty motor?",
+        "question": "Where ______ he store the extra cement bags?",
         "options": ["did", "do", "is", "was"],
         "answer": "did"
       },
       {
         "id": 9,
-        "question": "When ______ we ______ to calibrate the sensors?",
-        "options": ["are/going", "is/going", "are/gone", "will/going"],
-        "answer": "are/going"
+        "question": "When ______ we ______ to pour the concrete slab?",
+        "options": ["are / going", "is / going", "are / gone", "will / going"],
+        "answer": "are / going"
       },
       {
         "id": 10,
-        "question": "Did you ______ the oil pressure this morning?",
+        "question": "Did you ______ the wall thickness this morning?",
         "options": ["measure", "measures", "measuring", "measured"],
         "answer": "measure"
       },
       {
         "id": 11,
-        "question": "We ______ lift the car using the hydraulic jack.",
+        "question": "We ______ lift the steel beams using a crane.",
         "options": ["can", "are", "does", "is"],
         "answer": "can"
       },
       {
         "id": 12,
-        "question": "The technician ______ the radiator cap carefully whenever he refills.",
+        "question": "The mason ______ the brick alignment carefully whenever he builds walls.",
         "options": ["checks", "is checking", "was checked", "is checks"],
         "answer": "checks"
       },
       {
         "id": 13,
-        "question": "She ______ the serpentine belt yesterday.",
-        "options": [
-          "inspected",
-          "inspects",
-          "were inspecting",
-          "is inspecting"
-        ],
-        "answer": "inspected"
+        "question": "She ______ the site drawings yesterday.",
+        "options": ["reviewed", "reviews", "were reviewing", "is reviewing"],
+        "answer": "reviewed"
       },
       {
         "id": 14,
-        "question": "The technician ______ the bolts on the suspension arm at the moment.",
-        "options": ["is loosening", "are loosening", "was loosening", "looses"],
-        "answer": "is loosening"
+        "question": "The worker ______ the bolts on the steel frame at the moment.",
+        "options": [
+          "is tightening",
+          "are tightening",
+          "was tightening",
+          "tightens"
+        ],
+        "answer": "is tightening"
       },
       {
         "id": 15,
-        "question": "______ you ______ the voltage battery this morning?",
-        "options": ["Did/test", "was/tested", "are/test", "do/testing"],
-        "answer": "Did/test"
+        "question": "______ you ______ the concrete strength this morning?",
+        "options": ["Did / test", "was / tested", "are / test", "do / testing"],
+        "answer": "Did / test"
       }
     ]
   },
@@ -286,41 +281,33 @@
     "content": [
       {
         "words": [
-          "Mechanics",
+          "Builders",
+          "always",
           "torque",
-          "wheel",
+          "the",
           "nuts",
-          "before",
-          "lowering",
-          "cars",
+          "on",
+          "scaffoldings",
           "."
         ],
-        "sentence": "Mechanics torque wheel nuts before lowering cars."
+        "sentence": "Builders always torque the nuts on scaffoldings."
       },
       {
         "words": [
           "They",
-          "recalibrated",
+          "underpinned",
           "the",
-          "sensor",
-          "unit",
+          "unstable",
+          "boundary",
+          "wall",
           "yesterday",
           "."
         ],
-        "sentence": "They recalibrated the sensor unit yesterday."
+        "sentence": "They underpinned the unstable boundary wall yesterday."
       },
       {
-        "words": [
-          "The",
-          "technician",
-          "is",
-          "dismantling",
-          "the",
-          "steering",
-          "rack",
-          "."
-        ],
-        "sentence": "The technician is dismantling the steering rack."
+        "words": ["The", "mason", "is", "applying", "fresh", "plaster", "."],
+        "sentence": "The mason is applying fresh plaster."
       },
       {
         "words": [
@@ -328,71 +315,95 @@
           "are",
           "going",
           "to",
-          "refit",
+          "grout",
           "the",
-          "alternator",
+          "floor",
+          "joints",
           "."
         ],
-        "sentence": "We are going to refit the alternator."
+        "sentence": "We are going to grout the floor joints."
       },
       {
         "words": [
           "The",
-          "diagnostic",
-          "module",
+          "scaffolding",
+          "frame",
           "was",
           "unstable",
           "this",
           "morning",
           "."
         ],
-        "sentence": "The diagnostic module was unstable this morning."
+        "sentence": "The scaffolding frame was unstable this morning."
       },
       {
         "words": [
-          "Senior",
-          "mechanics",
+          "Skilled",
+          "workers",
           "can",
-          "depressurise",
-          "systems",
-          "very",
-          "safely",
+          "brace",
+          "roof",
+          "trusses",
+          "quickly",
           "."
         ],
-        "sentence": "Senior mechanics can depressurise systems very safely."
+        "sentence": "Skilled workers can brace roof trusses quickly."
       },
       {
-        "words": ["The", "trainee", "purged", "the", "brake", "lines", "."],
-        "sentence": "The trainee purged the brake lines."
+        "words": [
+          "Skilled",
+          "workers",
+          "can",
+          "quickly",
+          "brace",
+          "roof",
+          "trusses",
+          "."
+        ],
+        "sentence": "Skilled workers can quickly brace roof trusses."
+      },
+      {
+        "words": ["The", "trainee", "didn’t", "level", "the", "slab", "."],
+        "sentence": "The trainee didn’t level the slab."
       },
       {
         "words": [
           "Why",
           "did",
+          "they",
+          "hoist",
+          "materials",
+          "so",
+          "early",
+          "?"
+        ],
+        "sentence": "Why did they hoist materials so early?"
+      },
+      {
+        "words": [
+          "Are",
+          "they",
+          "waterproofing",
           "the",
-          "engine",
-          "synchronise",
-          "incorrectly",
+          "retaining",
+          "wall",
           "today",
           "?"
         ],
-        "sentence": "Why did the engine synchronise incorrectly today?"
-      },
-      {
-        "words": ["Are", "they", "inspecting", "the", "fuel", "pump", "?"],
-        "sentence": "Are they inspecting the fuel pump?"
+        "sentence": "Are they waterproofing the retaining wall today?"
       },
       {
         "words": [
           "We",
-          "dismantled",
-          "components",
-          "and",
-          "anchored",
-          "transmissions",
+          "fixed",
+          "scaffolding",
+          "for",
+          "the",
+          "upper",
+          "floor",
           "."
         ],
-        "sentence": "We dismantled components and anchored transmissions."
+        "sentence": "We fixed scaffolding for the upper floor."
       }
     ]
   },
@@ -568,62 +579,62 @@
       {
         "question": "Why was the applicant shortlisted for the interview?",
         "options": [
-          "Because he had a strong management record in an electric-vehicle plant.",
-          "Because he had the highest test score in the region.",
-          "Because his technical background and diagnostic experience looked strong.",
-          "Because he personally visited all the company branches."
+          "Because he supervised a solid team of 50 workers on highway projects.",
+          "Because he had a solid management record in his previous company.",
+          "Because his construction-site experience and safety background looked solid.",
+          "Because he had previously worked for this company."
         ],
-        "answer": "Because his technical background and diagnostic experience looked strong."
+        "answer": "Because his construction-site experience and safety background looked solid."
       },
       {
         "question": "What does the company highlight about its operations?",
         "options": [
-          "It mainly repairs motorcycles and small engines.",
-          "It has only one service centre but a large training program.",
-          "It focuses on low-cost repairs rather than advanced diagnostics.",
-          "It operates several branches and uses advanced diagnostic systems."
+          "It manages many projects without using modern technology.",
+          "It avoids using modern equipment to reduce costs.",
+          "It has only one site and no long-term projects.",
+          "It manages several major projects and uses modern construction technology."
         ],
-        "answer": "It operates several branches and uses advanced diagnostic systems."
+        "answer": "It manages several major projects and uses modern construction technology."
       },
       {
         "question": "How does the applicant describe his past job tasks?",
         "options": [
-          "He mostly handled customer billing and office paperwork.",
-          "He inspected engines, replaced components, and assisted with major repairs.",
-          "He only worked with electric vehicles and hybrid systems.",
-          "He supervised a team of ten senior technicians."
+          "He checked and monitored payroll and administrative billing.",
+          "He handled heavy-vehicle driving throughout the project.",
+          "He checked formwork, monitored curing, and supported structural inspections.",
+          "He worked only on landscaping and painting."
         ],
-        "answer": "He inspected engines, replaced components, and assisted with major repairs."
+        "answer": "He checked formwork, monitored curing, and supported structural inspections."
       },
       {
-        "question": "What is the applicant’s attitude toward learning new skills like ECU programming?",
+        "question": "What is the applicant’s attitude toward learning new surveying skills?",
         "options": [
-          "He is unsure and prefers not to learn advanced tasks.",
-          "He already considers himself an expert in ECU programming.",
-          "He has limited experience but is very willing to learn.",
-          "He has limited experience and is not willing to learn."
+          "He has some knowledge and is not willing to improve.",
+          "He has basic knowledge and is eager to improve.",
+          "He refuses to learn because the tools are too complex.",
+          "He already considers himself a senior surveyor."
         ],
-        "answer": "He has limited experience but is very willing to learn."
+        "answer": "He has basic knowledge and is eager to improve."
       },
       {
-        "question": "Which ability does the applicant mention when asked about handling pressure?",
+        "question": "How does the applicant say he performs under pressure?",
         "options": [
-          "His ability not to ask for clarification when needed",
-          "He prefers to work alone and avoids asking for help.",
-          "He refuses to work on urgent vehicles because it is stressful.",
-          "He stays focused, follows procedures, and asks for clarification when needed."
+          "He avoids asking questions even when instructions are unclear.",
+          "He refuses to work when deadlines are tight.",
+          "He remains calm and doesn’t ask for clarification even when needed.",
+          "He stays calm, follows safety rules, and asks for clarification when needed."
         ],
-        "answer": "He stays focused, follows procedures, and asks for clarification when needed."
+        "answer": "He stays calm, follows safety rules, and asks for clarification when needed."
       },
       {
-        "question": "What will happen before the company makes a final hiring decision?",
+        "question": "What will the company do before making a final hiring decision?",
         "options": [
-          "They will send him a written exam on vehicle electronics.",
-          "They will contact his references and request him to complete two trial repair jobs.",
-          "They will contact his references and verify past employment.",
-          "They will invite him to meet all 700 employees."
+          "Contact his referees and ask him to complete two weeks of unpaid work.",
+          "Invite him to meet all employees on each site.",
+          "Verify his employment history and contact his references.",
+          "Send him for a medical test at their own clinic."
         ],
-        "answer": "They will contact his references and verify past employment."
+        "answer": "Verify his employment history and contact his references."
       }
     ]
   },
