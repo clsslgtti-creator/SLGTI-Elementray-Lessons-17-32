@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": "32 - Test",
     "level": "Elementary",
-    "section": "Automobile Technology",
+    "section": "Electrical Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -15,43 +15,43 @@
     "content": [
       {
         "id": "n_4_a_1",
-        "item_a": "flush",
-        "item_b": "to force a cleaning fluid through a system to remove old oil, dirt, or contaminants"
+        "item_a": "terminate",
+        "item_b": "to securely end a cable or wire by attaching it to a connector, terminal block, or device"
       },
       {
         "id": "n_4_a_2",
-        "item_a": "inflate",
-        "item_b": "to fill a tyre with air until it reaches the recommended pressure"
+        "item_a": "ground (earth)",
+        "item_b": "to connect electrical equipment to the earth for safety so excess current can safely flow away"
       },
       {
         "id": "n_4_a_3",
-        "item_a": "verify",
-        "item_b": "to check carefully that a measurement, part, or system is correct and meets the required specifications"
+        "item_a": "isolate",
+        "item_b": "to disconnect a circuit or device from the power supply to ensure it is completely safe to work on"
       },
       {
         "id": "n_4_a_4",
-        "item_a": "lubricate",
-        "item_b": "to apply oil or grease to moving parts to reduce friction and wear"
+        "item_a": "insulate",
+        "item_b": "to cover wires or components with protective material to prevent electrical shock or short circuits"
       },
       {
         "id": "n_4_a_5",
-        "item_a": "stack",
-        "item_b": "to pile objects, generally in a neat and orderly manner"
+        "item_a": "configure",
+        "item_b": "to set up electrical devices or systems with the correct settings so they operate as required"
       },
       {
         "id": "n_4_a_6",
-        "item_a": "bleed",
-        "item_b": "to remove trapped air from a hydraulic system, such as brakes or a clutch line"
+        "item_a": "strip",
+        "item_b": "to remove the outer insulation from a wire so that the copper conductor can be connected"
       },
       {
         "id": "n_4_a_7",
-        "item_a": "torque",
-        "item_b": "to tighten a bolt or nut to a specific force using a torque wrench"
+        "item_a": "verify",
+        "item_b": "to check that an electrical connection, measurement, or system is correct and meets the required standards"
       },
       {
         "id": "n_4_a_8",
-        "item_a": "weld",
-        "item_b": "to join metal parts together using heat or pressure to create a strong bond"
+        "item_a": "discharge",
+        "item_b": "to release stored electrical energy from a component, such as a capacitor or battery, until it is safe"
       },
       {
         "id": "n_4_a_9",
@@ -60,8 +60,8 @@
       },
       {
         "id": "n_4_a_10",
-        "item_a": "steer",
-        "item_b": "to control the direction of a vehicle using the steering wheel"
+        "item_a": "torque",
+        "item_b": "to tighten a bolt or nut to a specific force using a torque wrench"
       }
     ]
   },
@@ -74,39 +74,39 @@
     },
     "content": [
       {
-        "question": "Yes, there is. There is a new car jack in the service bay.",
+        "question": "Yes, there is. There is a new voltage tester on the workbench.",
         "options": [
-          "Is there a car jack in the service bay?",
-          "Is there car jacks in the service bay?",
-          "Was there any car jack in the service bay?"
+          "Is there a voltage tester on the workbench?",
+          "Are there voltage testers on the workbench?",
+          "Was there any voltage tester on the workbench?"
         ],
-        "answer": "Is there a car jack in the service bay?"
+        "answer": "Is there a voltage tester on the workbench?"
       },
       {
-        "question": "No, there isn’t. Actually, there isn’t any engine oil in the storage room.",
+        "question": "No, there isn’t. Actually, there isn’t any insulated screwdriver in the toolbox.",
         "options": [
-          "Is there any engine oil in the storage room?",
-          "Is there engine oils in the storage room?",
-          "Why was the engine oil in the storage room?"
+          "Is there an insulated screwdriver in the toolbox?",
+          "Are the insulated screwdrivers in the toolbox?",
+          "Why were the insulated screwdrivers in the toolbox?"
         ],
-        "answer": "Is there any engine oil in the storage room?"
+        "answer": "Is there an insulated screwdriver in the toolbox?"
       },
       {
         "question": "No, they weren’t. They were loose.",
         "options": [
-          "Were the wheel nuts tight yesterday?",
-          "Was the wheel nut tight yesterday?",
-          "Were the tight wheel nuts yesterday?"
+          "Were the wire terminals tight yesterday?",
+          "Was the wire terminal tight yesterday?",
+          "Were the tight terminals yesterday?"
         ],
-        "answer": "Were the wheel nuts tight yesterday?"
+        "answer": "Were the wire terminals tight yesterday?"
       },
       {
-        "question": "His name is Ruwan.",
-        "options": ["What’s his name?", "Whats’ her name?", "What his  name?"],
+        "question": "His name is Nimal.",
+        "options": ["What’s his name?", "Whats’ your name?", "What his name?"],
         "answer": "What’s his name?"
       },
       {
-        "question": "I work in the engine repair unit.",
+        "question": "I work in the solar installation unit.",
         "options": [
           "Where do you work?",
           "Where you works?",
@@ -115,16 +115,16 @@
         "answer": "Where do you work?"
       },
       {
-        "question": "I am checking brake fluid levels.",
+        "question": "He installs circuit breakers.",
         "options": [
-          "What are you doing?",
-          "What you checking?",
-          "What do you check?"
+          "What does he install?",
+          "What are you installing circuit breakers?",
+          "What he install circuit breakers?"
         ],
-        "answer": "What are you doing?"
+        "answer": "What does he install?"
       },
       {
-        "question": "I rotate tires, inspect brakes, and clean tools every day.",
+        "question": "I connect wires, test circuits, and clean my tools every day.",
         "options": [
           "Tell me, what do you do every day?",
           "Tell me, what are you doing every day?",
@@ -135,29 +135,29 @@
       {
         "question": "No, he doesn’t.",
         "options": [
-          "Does Amal lubricate the engine parts on Fridays?",
-          "Is Amal lubricating the engine parts on Fridays?",
-          "When is Amal lubricating the engine parts?"
+          "Does Ruwan repair the control panels on Friday?",
+          "Is Ruwan repairing the control panels on Friday?",
+          "When is Ruwan repairing the control panels?"
         ],
-        "answer": "Does Amal lubricate the engine parts on Fridays?"
+        "answer": "Does Ruwan repair the control panels on Friday?"
       },
       {
-        "question": "He lubricates the engine parts on Tuesday.",
+        "question": "He repairs the control panels on Tuesday.",
         "options": [
-          "When does he lubricate the engine parts?",
-          "Is he lubricating the engine parts Tuesdays?",
-          "What does he lubricate Tuesdays?"
+          "When does he repair the control panels?",
+          "Is he repairing the control panels Tuesdays?",
+          "What does he repair Tuesdays?"
         ],
-        "answer": "When does he lubricate the engine parts?"
+        "answer": "When does he repair the control panels?"
       },
       {
-        "question": "I tighten the bolts every morning.",
+        "question": "They test the voltage every morning.",
         "options": [
-          "How often do you tighten the bolts?",
-          "When are you tighten the bolts?",
-          "Why do you tighten the bolts every morning?"
+          "How often do they test the voltage?",
+          "When are you testing the voltage?",
+          "Why do they test the voltage?"
         ],
-        "answer": "How often do you tighten the bolts?"
+        "answer": "How often do they test the voltage?"
       }
     ]
   },
@@ -171,108 +171,98 @@
     "content": [
       {
         "id": 1,
-        "question": "They ______ the tyres every month.",
-        "options": ["rotate", "rotates", "rotating", "are rotating"],
-        "answer": "rotate"
+        "question": "They ______ the circuit breakers every month.",
+        "options": ["inspect", "inspects", "inspecting", "are inspecting"],
+        "answer": "inspect"
       },
       {
         "id": 2,
-        "question": "He ______ the spark plugs yesterday.",
-        "options": ["replaced", "replaces", "was replacing", "were replaced"],
+        "question": "He ______ the damaged cable yesterday.",
+        "options": ["replaced", "replaces", "were replacing", "were replaced"],
         "answer": "replaced"
       },
       {
         "id": 3,
-        "question": "The mechanic ______ the engine sensors once a week.",
-        "options": [
-          "calibrates",
-          "calibrate",
-          "are calibrating",
-          "was calibrated"
-        ],
-        "answer": "calibrates"
+        "question": "The electrician ______ the control panel once a week.",
+        "options": ["checks", "check", "are checking", "was checked"],
+        "answer": "checks"
       },
       {
         "id": 4,
-        "question": "They ______ the wheel nuts now.",
-        "options": [
-          "are tightening",
-          "will be tightening",
-          "tightened",
-          "tighten"
-        ],
-        "answer": "are tightening"
+        "question": "They ______ the distribution board now.",
+        "options": ["are wiring", "will be wiring", "wired", "wire"],
+        "answer": "are wiring"
       },
       {
         "id": 5,
-        "question": "She ______ to test the battery voltage later.",
-        "options": ["is going", "are going", "will goes", "went"],
+        "question": "She ______ to test the insulation resistance later.",
+        "options": ["is going", "are going", "will goes", "goes"],
         "answer": "is going"
       },
       {
         "id": 6,
-        "question": "The engine ______ very noisy today.",
+        "question": "The transformer ______ very hot today.",
         "options": ["is", "are", "was being", "were"],
         "answer": "is"
       },
       {
         "id": 7,
-        "question": "I ______ install any parts without permission.",
+        "question": "I ______ connect live wires without isolation.",
         "options": ["don’t", "wasn’t", "doesn’t", "isn’t"],
         "answer": "don’t"
       },
       {
         "id": 8,
-        "question": "Where ______ he store the faulty motor?",
+        "question": "Where ______ he store the faulty fuse?",
         "options": ["did", "do", "is", "was"],
         "answer": "did"
       },
       {
         "id": 9,
-        "question": "When ______ we ______ to calibrate the sensors?",
-        "options": ["are/going", "is/going", "are/gone", "will/going"],
-        "answer": "are/going"
+        "question": "When ______ we ______ to test the backup generator?",
+        "options": ["are / going", "is / going", "are / gone", "will / going"],
+        "answer": "are / going"
       },
       {
         "id": 10,
-        "question": "Did you ______ the oil pressure this morning?",
+        "question": "Did you ______ the voltage level this morning?",
         "options": ["measure", "measures", "measuring", "measured"],
         "answer": "measure"
       },
       {
         "id": 11,
-        "question": "We ______ lift the car using the hydraulic jack.",
+        "question": "We ______ shut down the system during maintenance.",
         "options": ["can", "are", "does", "is"],
         "answer": "can"
       },
       {
         "id": 12,
-        "question": "The technician ______ the radiator cap carefully whenever he refills.",
+        "question": "The technician ______ the terminal connections carefully whenever he installs equipment.",
         "options": ["checks", "is checking", "was checked", "is checks"],
         "answer": "checks"
       },
       {
         "id": 13,
-        "question": "She ______ the serpentine belt yesterday.",
-        "options": [
-          "inspected",
-          "inspects",
-          "were inspecting",
-          "is inspecting"
-        ],
-        "answer": "inspected"
+        "question": "She ______ the wiring diagram yesterday.",
+        "options": ["reviewed", "reviews", "were reviewing", "is reviewing"],
+        "answer": "reviewed"
       },
       {
         "id": 14,
-        "question": "The technician ______ the bolts on the suspension arm at the moment.",
-        "options": ["is loosening", "are loosening", "was loosening", "looses"],
-        "answer": "is loosening"
+        "question": "The electrician ______ the screws on the switchboard at the moment.",
+        "options": [
+          "is tightening",
+          "are tightening",
+          "was tightening",
+          "tightens"
+        ],
+        "answer": "is tightening"
       },
       {
         "id": 15,
-        "question": "______ you ______ the voltage battery this morning?",
-        "options": ["Did/test", "was/tested", "are/test", "do/testing"],
-        "answer": "Did/test"
+        "question": "______ you ______ the earth resistance this morning?",
+        "options": ["Did / test", "was / tested", "are / test", "do / testing"],
+        "answer": "Did / test"
       }
     ]
   },
@@ -286,113 +276,123 @@
     "content": [
       {
         "words": [
-          "Mechanics",
-          "torque",
-          "wheel",
-          "nuts",
+          "Electricians",
+          "always",
+          "splice",
+          "cables",
           "before",
-          "lowering",
-          "cars",
+          "final",
+          "testing",
           "."
         ],
-        "sentence": "Mechanics torque wheel nuts before lowering cars."
+        "sentence": "Electricians always splice cables before final testing."
       },
       {
         "words": [
           "They",
-          "recalibrated",
+          "terminated",
           "the",
-          "sensor",
-          "unit",
+          "damaged",
+          "circuit",
           "yesterday",
           "."
         ],
-        "sentence": "They recalibrated the sensor unit yesterday."
+        "sentence": "They terminated the damaged circuit yesterday."
       },
       {
         "words": [
           "The",
           "technician",
           "is",
-          "dismantling",
+          "calibrating",
           "the",
-          "steering",
-          "rack",
+          "voltage",
+          "regulator",
           "."
         ],
-        "sentence": "The technician is dismantling the steering rack."
+        "sentence": "The technician is calibrating the voltage regulator."
       },
       {
         "words": [
           "We",
-          "are",
-          "going",
+          "plan",
           "to",
-          "refit",
-          "the",
-          "alternator",
+          "reroute",
+          "those",
+          "feeder",
+          "lines",
           "."
         ],
-        "sentence": "We are going to refit the alternator."
+        "sentence": "We plan to reroute those feeder lines."
       },
       {
         "words": [
           "The",
-          "diagnostic",
-          "module",
+          "main",
+          "control",
+          "panel",
           "was",
+          "completely",
           "unstable",
-          "this",
-          "morning",
           "."
         ],
-        "sentence": "The diagnostic module was unstable this morning."
+        "sentence": "The main control panel was completely unstable."
       },
       {
         "words": [
-          "Senior",
-          "mechanics",
+          "Skilled",
+          "electricians",
           "can",
-          "depressurise",
-          "systems",
+          "insulate",
+          "connectors",
           "very",
-          "safely",
+          "neatly",
           "."
         ],
-        "sentence": "Senior mechanics can depressurise systems very safely."
+        "sentence": "Skilled electricians can insulate connectors very neatly."
       },
       {
-        "words": ["The", "trainee", "purged", "the", "brake", "lines", "."],
-        "sentence": "The trainee purged the brake lines."
+        "words": ["The", "trainee", "didn’t", "earth", "the", "casing", "."],
+        "sentence": "The trainee didn’t earth the casing."
       },
       {
         "words": [
           "Why",
           "did",
+          "they",
+          "rewire",
+          "everything",
+          "so",
+          "quickly",
+          "?"
+        ],
+        "sentence": "Why did they rewire everything so quickly?"
+      },
+      {
+        "words": [
+          "Are",
+          "they",
+          "relocking",
           "the",
-          "engine",
-          "synchronise",
-          "incorrectly",
+          "distribution",
+          "board",
           "today",
           "?"
         ],
-        "sentence": "Why did the engine synchronise incorrectly today?"
-      },
-      {
-        "words": ["Are", "they", "inspecting", "the", "fuel", "pump", "?"],
-        "sentence": "Are they inspecting the fuel pump?"
+        "sentence": "Are they relocking the distribution board today?"
       },
       {
         "words": [
           "We",
-          "dismantled",
-          "components",
+          "soldered",
+          "terminals",
           "and",
-          "anchored",
-          "transmissions",
+          "regulated",
+          "current",
+          "flow",
           "."
         ],
-        "sentence": "We dismantled components and anchored transmissions."
+        "sentence": "We soldered terminals and regulated current flow."
       }
     ]
   },
@@ -568,62 +568,62 @@
       {
         "question": "Why was the applicant shortlisted for the interview?",
         "options": [
-          "Because he had a strong management record in an electric-vehicle plant.",
-          "Because he had the highest test score in the region.",
-          "Because his technical background and diagnostic experience looked strong.",
-          "Because he personally visited all the company branches."
+          "Because he had strong experience in mechanical engineering.",
+          "Because he managed a team of 200 technicians.",
+          "Because his electrical maintenance and diagnostic background looked strong.",
+          "Because he previously worked in the HR department."
         ],
-        "answer": "Because his technical background and diagnostic experience looked strong."
+        "answer": "Because his electrical maintenance and diagnostic background looked strong."
       },
       {
         "question": "What does the company highlight about its operations?",
         "options": [
-          "It mainly repairs motorcycles and small engines.",
-          "It has only one service centre but a large training program.",
-          "It focuses on low-cost repairs rather than advanced diagnostics.",
-          "It operates several branches and uses advanced diagnostic systems."
+          "It works with large facilities without using modern technology.",
+          "It avoids using any modern tools or technology.",
+          "It operates one small workshop with limited staff.",
+          "It services large facilities, uses modern systems, and focuses on energy-efficient technology."
         ],
-        "answer": "It operates several branches and uses advanced diagnostic systems."
+        "answer": "It services large facilities, uses modern systems, and focuses on energy-efficient technology."
       },
       {
-        "question": "How does the applicant describe his past job tasks?",
+        "question": "How does the applicant describe his previous tasks?",
         "options": [
-          "He mostly handled customer billing and office paperwork.",
-          "He inspected engines, replaced components, and assisted with major repairs.",
-          "He only worked with electric vehicles and hybrid systems.",
-          "He supervised a team of ten senior technicians."
+          "He carried out insulation testing as a vehicle mechanic.",
+          "He installed distribution boards, terminated cables, and carried out insulation testing.",
+          "He only handled basic office work and customer billing.",
+          "He supervised design engineers on multiple projects."
         ],
-        "answer": "He inspected engines, replaced components, and assisted with major repairs."
+        "answer": "He installed distribution boards, terminated cables, and carried out insulation testing."
       },
       {
-        "question": "What is the applicant’s attitude toward learning new skills like ECU programming?",
+        "question": "What is the applicant’s attitude toward learning advanced electrical skills like PLCs?",
         "options": [
-          "He is unsure and prefers not to learn advanced tasks.",
-          "He already considers himself an expert in ECU programming.",
-          "He has limited experience but is very willing to learn.",
-          "He has limited experience and is not willing to learn."
+          "He refuses to learn because the systems are too complicated.",
+          "He has some knowledge and doesn’t need more learning.",
+          "He has basic knowledge and is eager to learn more.",
+          "He prefers manual work and avoids digital systems."
         ],
-        "answer": "He has limited experience but is very willing to learn."
+        "answer": "He has basic knowledge and is eager to learn more."
       },
       {
-        "question": "Which ability does the applicant mention when asked about handling pressure?",
+        "question": "How does the applicant say he performs under pressure?",
         "options": [
-          "His ability not to ask for clarification when needed",
-          "He prefers to work alone and avoids asking for help.",
-          "He refuses to work on urgent vehicles because it is stressful.",
-          "He stays focused, follows procedures, and asks for clarification when needed."
+          "He works quickly without following safety rules.",
+          "He remains calm and avoids asking questions even when instructions are unclear.",
+          "He refuses to handle urgent breakdowns.",
+          "He stays calm, follows procedures, and asks for clarification when needed."
         ],
-        "answer": "He stays focused, follows procedures, and asks for clarification when needed."
+        "answer": "He stays calm, follows procedures, and asks for clarification when needed."
       },
       {
-        "question": "What will happen before the company makes a final hiring decision?",
+        "question": "What will the company do before making a final hiring decision?",
         "options": [
-          "They will send him a written exam on vehicle electronics.",
-          "They will contact his references and request him to complete two trial repair jobs.",
-          "They will contact his references and verify past employment.",
-          "They will invite him to meet all 700 employees."
+          "Ask him to design a new electrical substation.",
+          "Check with his referees and ask him to attend a 2 week training period.",
+          "Verify his employment history and contact his references.",
+          "Invite him to attend a company party for evaluation."
         ],
-        "answer": "They will contact his references and verify past employment."
+        "answer": "Verify his employment history and contact his references."
       }
     ]
   },
