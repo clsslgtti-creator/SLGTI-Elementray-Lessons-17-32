@@ -18,15 +18,27 @@ const createHeading = (context = {}) => {
   return "Activity";
 };
 
-const createResultText = (correct, total) => {
+const getMarksPerQuestion = (context) => {
+  const markValue = Number(context?.marksPerQuestion);
+  return Number.isFinite(markValue) && markValue > 0 ? markValue : 1;
+};
+
+const createMarksSummary = (total, marksPerQuestion) => {
+  const summary = document.createElement("p");
+  summary.className = "assessment-marks-summary";
+  summary.textContent = `(${total} x ${marksPerQuestion} = ${total * marksPerQuestion} marks)`;
+  return summary;
+};
+
+const createResultText = (correct, total, marksPerQuestion) => {
   if (!total) {
     return "";
   }
-  return `Score: ${correct} / ${total}`;
+  return `Marks: ${correct * marksPerQuestion} / ${total * marksPerQuestion}`;
 };
 
-const resultMessage = (element, correct, total, tone = "neutral") => {
-  element.textContent = createResultText(correct, total);
+const resultMessage = (element, correct, total, marksPerQuestion, tone = "neutral") => {
+  element.textContent = createResultText(correct, total, marksPerQuestion);
   element.classList.remove(
     "assessment-result--error",
     "assessment-result--success"
@@ -77,6 +89,7 @@ export const buildListeningParaSlides = (
   const segments = normalizeSegments(activityData?.content);
   const blanks = segments.filter((segment) => segment.type === "blank");
   const audioSrc = normalizeText(activityData?.audio);
+  const marksPerQuestion = getMarksPerQuestion(context);
   const maxPlays = 2;
   const secondPlaybackDelaySeconds = 15;
   let secondPlaybackTimer = null;
@@ -90,6 +103,9 @@ export const buildListeningParaSlides = (
   const heading = document.createElement("h2");
   heading.textContent = createHeading(context);
   slide.appendChild(heading);
+
+  const marksSummary = createMarksSummary(blanks.length, marksPerQuestion);
+  slide.appendChild(marksSummary);
 
   const controls = document.createElement("div");
   controls.className = "slide__controls";
@@ -207,7 +223,7 @@ export const buildListeningParaSlides = (
     submitBtn.disabled = true;
   }
 
-  registerActivity({ total: blankEntries.length });
+  registerActivity({ total: blankEntries.length, marksPerQuestion });
 
   let audioElement = audioSrc ? new Audio(audioSrc) : null;
   let playCount = Number.isFinite(savedDetail?.playbackCount)
@@ -439,6 +455,7 @@ export const buildListeningParaSlides = (
     submitResult({
       total: blankEntries.length,
       correct: correctCount,
+      marksPerQuestion,
       detail,
       timestamp: new Date().toISOString(),
     });
@@ -447,6 +464,7 @@ export const buildListeningParaSlides = (
       resultEl,
       correctCount,
       blankEntries.length,
+      marksPerQuestion,
       correctCount === blankEntries.length ? "success" : "neutral"
     );
   };
@@ -474,7 +492,7 @@ export const buildListeningParaSlides = (
     refreshAnswerInteractivity();
     submitBtn.textContent = "Submitted";
     updatePlaybackStatus();
-    resultMessage(resultEl, correctCount, blankEntries.length);
+    resultMessage(resultEl, correctCount, blankEntries.length, savedState?.marksPerQuestion || marksPerQuestion);
   };
 
   if (savedState?.submitted) {
@@ -530,3 +548,5 @@ export const buildListeningParaSlides = (
     },
   ];
 };
+
+
