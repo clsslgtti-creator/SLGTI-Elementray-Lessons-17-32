@@ -15,53 +15,53 @@
     "content": [
       {
         "id": "n_4_a_1",
-        "item_a": "flush",
-        "item_b": "to force a cleaning fluid through a system to remove old oil, dirt, or contaminants"
+        "item_a": "filter",
+        "item_b": "to pass a liquid or mixture through a material to remove unwanted particles or fibres"
       },
       {
         "id": "n_4_a_2",
-        "item_a": "inflate",
-        "item_b": "to fill a tyre with air until it reaches the recommended pressure"
+        "item_a": "ferment",
+        "item_b": "to allow food or liquids to undergo a controlled chemical change caused by microorganisms, producing new flavours or textures"
       },
       {
         "id": "n_4_a_3",
-        "item_a": "verify",
-        "item_b": "to check carefully that a measurement, part, or system is correct and meets the required specifications"
+        "item_a": "knead",
+        "item_b": "to work and fold dough with your hands to develop gluten and make it smooth and elastic"
       },
       {
         "id": "n_4_a_4",
-        "item_a": "lubricate",
-        "item_b": "to apply oil or grease to moving parts to reduce friction and wear"
+        "item_a": "simmer",
+        "item_b": "to cook food gently in liquid just below the boiling point"
       },
       {
         "id": "n_4_a_5",
-        "item_a": "stack",
-        "item_b": "to pile objects, generally in a neat and orderly manner"
+        "item_a": "steam",
+        "item_b": "to cook food using hot vapour without direct contact with water"
       },
       {
         "id": "n_4_a_6",
-        "item_a": "bleed",
-        "item_b": "to remove trapped air from a hydraulic system, such as brakes or a clutch line"
+        "item_a": "dice",
+        "item_b": "to cut food into small, uniform cube-shaped pieces"
       },
       {
         "id": "n_4_a_7",
-        "item_a": "torque",
-        "item_b": "to tighten a bolt or nut to a specific force using a torque wrench"
+        "item_a": "pulp",
+        "item_b": "to crush or grind food into a soft, mushy mass"
       },
       {
         "id": "n_4_a_8",
-        "item_a": "weld",
-        "item_b": "to join metal parts together using heat or pressure to create a strong bond"
+        "item_a": "puree",
+        "item_b": "to blend or mash food until it becomes a smooth, thick liquid"
       },
       {
         "id": "n_4_a_9",
-        "item_a": "tag",
-        "item_b": "to label equipment or parts—often for safety or identification—before repair or maintenance"
+        "item_a": "glaze",
+        "item_b": "to coat food with a thin, shiny layer of icing, egg wash, or syrup"
       },
       {
         "id": "n_4_a_10",
-        "item_a": "steer",
-        "item_b": "to control the direction of a vehicle using the steering wheel"
+        "item_a": "boil",
+        "item_b": "to cook food in liquid heated to its boiling point, where large bubbles rise rapidly"
       }
     ]
   },
@@ -74,39 +74,39 @@
     },
     "content": [
       {
-        "question": "Yes, there is. There is a new car jack in the service bay.",
+        "question": "Yes, there is. There is a new digital scale in the bakery lab.",
         "options": [
-          "Is there a car jack in the service bay?",
-          "Is there car jacks in the service bay?",
-          "Was there any car jack in the service bay?"
+          "Is there a digital scale in the bakery lab?",
+          "Are there digital scales in the bakery lab?",
+          "Was there any digital scale in the bakery lab?"
         ],
-        "answer": "Is there a car jack in the service bay?"
+        "answer": "Is there a digital scale in the bakery lab?"
       },
       {
-        "question": "No, there isn’t. Actually, there isn’t any engine oil in the storage room.",
+        "question": "No, there isn’t. Actually, there isn’t any sugar thermometer in the kitchen.",
         "options": [
-          "Is there any engine oil in the storage room?",
-          "Is there engine oils in the storage room?",
-          "Why was the engine oil in the storage room?"
+          "Is there a sugar thermometer in the kitchen?",
+          "Are the sugar thermometers in the kitchen?",
+          "Why were the sugar thermometers in the kitchen?"
         ],
-        "answer": "Is there any engine oil in the storage room?"
+        "answer": "Is there a sugar thermometer in the kitchen?"
       },
       {
-        "question": "No, they weren’t. They were loose.",
+        "question": "No, they weren’t. They were too soft.",
         "options": [
-          "Were the wheel nuts tight yesterday?",
-          "Was the wheel nut tight yesterday?",
-          "Were the tight wheel nuts yesterday?"
+          "Were the dough balls firm yesterday?",
+          "Was the dough ball firm yesterday?",
+          "Were the firm dough balls yesterday?"
         ],
-        "answer": "Were the wheel nuts tight yesterday?"
+        "answer": "Were the dough balls firm yesterday?"
       },
       {
-        "question": "His name is Ruwan.",
-        "options": ["What’s his name?", "Whats’ her name?", "What his  name?"],
-        "answer": "What’s his name?"
+        "question": "Her name is Anjali.",
+        "options": ["What’s her name?", "Whats’ your name?", "What her name?"],
+        "answer": "What’s her name?"
       },
       {
-        "question": "I work in the engine repair unit.",
+        "question": "I work in the testing laboratory.",
         "options": [
           "Where do you work?",
           "Where you works?",
@@ -115,16 +115,16 @@
         "answer": "Where do you work?"
       },
       {
-        "question": "I am checking brake fluid levels.",
+        "question": "I measure sugar levels in fruit juice.",
         "options": [
-          "What are you doing?",
-          "What you checking?",
-          "What do you check?"
+          "What do you measure?",
+          "What are you measuring sugar levels?",
+          "What you measure sugar levels?"
         ],
-        "answer": "What are you doing?"
+        "answer": "What do you measure?"
       },
       {
-        "question": "I rotate tires, inspect brakes, and clean tools every day.",
+        "question": "I mix ingredients, check samples, and clean equipment every day.",
         "options": [
           "Tell me, what do you do every day?",
           "Tell me, what are you doing every day?",
@@ -133,31 +133,31 @@
         "answer": "Tell me, what do you do every day?"
       },
       {
-        "question": "No, he doesn’t.",
+        "question": "No, she doesn’t.",
         "options": [
-          "Does Amal lubricate the engine parts on Fridays?",
-          "Is Amal lubricating the engine parts on Fridays?",
-          "When is Amal lubricating the engine parts?"
+          "Does Meera bake bread on Friday?",
+          "Is Meera baking bread on Friday?",
+          "When is Meera baking bread?"
         ],
-        "answer": "Does Amal lubricate the engine parts on Fridays?"
+        "answer": "Does Meera bake bread on Friday?"
       },
       {
-        "question": "He lubricates the engine parts on Tuesday.",
+        "question": "She bakes bread on Tuesday.",
         "options": [
-          "When does he lubricate the engine parts?",
-          "Is he lubricating the engine parts Tuesdays?",
-          "What does he lubricate Tuesdays?"
+          "When does she bake bread?",
+          "Is she baking bread Tuesdays?",
+          "What does she bake Tuesdays?"
         ],
-        "answer": "When does he lubricate the engine parts?"
+        "answer": "When does she bake bread?"
       },
       {
-        "question": "I tighten the bolts every morning.",
+        "question": "I clean the mixer every morning.",
         "options": [
-          "How often do you tighten the bolts?",
-          "When are you tighten the bolts?",
-          "Why do you tighten the bolts every morning?"
+          "How often do you clean the mixer?",
+          "When are you cleaning the mixer?",
+          "Why do you clean the mixer?"
         ],
-        "answer": "How often do you tighten the bolts?"
+        "answer": "How often do you clean the mixer?"
       }
     ]
   },
@@ -171,108 +171,93 @@
     "content": [
       {
         "id": 1,
-        "question": "They ______ the tyres every month.",
-        "options": ["rotate", "rotates", "rotating", "are rotating"],
-        "answer": "rotate"
+        "question": "They ______ the storage temperature every month.",
+        "options": ["check", "checks", "checking", "are checking"],
+        "answer": "check"
       },
       {
         "id": 2,
-        "question": "He ______ the spark plugs yesterday.",
+        "question": "He ______ the damaged packaging yesterday.",
         "options": ["replaced", "replaces", "was replacing", "were replaced"],
         "answer": "replaced"
       },
       {
         "id": 3,
-        "question": "The mechanic ______ the engine sensors once a week.",
-        "options": [
-          "calibrates",
-          "calibrate",
-          "are calibrating",
-          "was calibrated"
-        ],
-        "answer": "calibrates"
+        "question": "The quality officer ______ the hygiene log once a week.",
+        "options": ["reviews", "review", "are reviewing", "was reviewed"],
+        "answer": "reviews"
       },
       {
         "id": 4,
-        "question": "They ______ the wheel nuts now.",
-        "options": [
-          "are tightening",
-          "will be tightening",
-          "tightened",
-          "tighten"
-        ],
-        "answer": "are tightening"
+        "question": "They ______ the ingredients now.",
+        "options": ["are weighing", "will be weighing", "weighed", "weigh"],
+        "answer": "are weighing"
       },
       {
         "id": 5,
-        "question": "She ______ to test the battery voltage later.",
-        "options": ["is going", "are going", "will goes", "went"],
+        "question": "She ______ to test the product sample later.",
+        "options": ["is going", "are going", "will goes", "were going"],
         "answer": "is going"
       },
       {
         "id": 6,
-        "question": "The engine ______ very noisy today.",
+        "question": "The milk ______ very fresh today.",
         "options": ["is", "are", "was being", "were"],
         "answer": "is"
       },
       {
         "id": 7,
-        "question": "I ______ install any parts without permission.",
+        "question": "I ______ handle food without gloves.",
         "options": ["don’t", "wasn’t", "doesn’t", "isn’t"],
         "answer": "don’t"
       },
       {
         "id": 8,
-        "question": "Where ______ he store the faulty motor?",
+        "question": "Where ______ he store the frozen meat?",
         "options": ["did", "do", "is", "was"],
         "answer": "did"
       },
       {
         "id": 9,
-        "question": "When ______ we ______ to calibrate the sensors?",
-        "options": ["are/going", "is/going", "are/gone", "will/going"],
-        "answer": "are/going"
+        "question": "When ______ we ______ to pasteurize the juice?",
+        "options": ["are / going", "is / going", "are / gone", "will / going"],
+        "answer": "are / going"
       },
       {
         "id": 10,
-        "question": "Did you ______ the oil pressure this morning?",
+        "question": "Did you ______ the sugar level this morning?",
         "options": ["measure", "measures", "measuring", "measured"],
         "answer": "measure"
       },
       {
         "id": 11,
-        "question": "We ______ lift the car using the hydraulic jack.",
+        "question": "We ______ clean the equipment before production.",
         "options": ["can", "are", "does", "is"],
         "answer": "can"
       },
       {
         "id": 12,
-        "question": "The technician ______ the radiator cap carefully whenever he refills.",
-        "options": ["checks", "is checking", "was checked", "is checks"],
+        "question": "The technician ______ the expiry dates carefully whenever he packs products.",
+        "options": ["checks", "is checked", "was checked", "is checks"],
         "answer": "checks"
       },
       {
         "id": 13,
-        "question": "She ______ the serpentine belt yesterday.",
-        "options": [
-          "inspected",
-          "inspects",
-          "were inspecting",
-          "is inspecting"
-        ],
-        "answer": "inspected"
+        "question": "She ______ the food samples yesterday.",
+        "options": ["tested", "tests", "were testing", "is testing"],
+        "answer": "tested"
       },
       {
         "id": 14,
-        "question": "The technician ______ the bolts on the suspension arm at the moment.",
-        "options": ["is loosening", "are loosening", "was loosening", "looses"],
-        "answer": "is loosening"
+        "question": "The operator ______ the lids on the containers at the moment.",
+        "options": ["is sealing", "are sealing", "was sealing", "seals"],
+        "answer": "is sealing"
       },
       {
         "id": 15,
-        "question": "______ you ______ the voltage battery this morning?",
-        "options": ["Did/test", "was/tested", "are/test", "do/testing"],
-        "answer": "Did/test"
+        "question": "______ you ______ the oil temperature this morning?",
+        "options": ["Did / test", "was / tested", "are / test", "do / testing"],
+        "answer": "Did / test"
       }
     ]
   },
@@ -286,113 +271,124 @@
     "content": [
       {
         "words": [
-          "Mechanics",
-          "torque",
-          "wheel",
-          "nuts",
+          "Chefs",
+          "always",
+          "marinate",
+          "meat",
           "before",
-          "lowering",
-          "cars",
+          "slow",
+          "roasting",
           "."
         ],
-        "sentence": "Mechanics torque wheel nuts before lowering cars."
+        "sentence": "Chefs always marinate meat before slow roasting."
       },
       {
         "words": [
           "They",
-          "recalibrated",
-          "the",
-          "sensor",
-          "unit",
+          "tempered",
+          "chocolate",
+          "for",
+          "truffles",
           "yesterday",
           "."
         ],
-        "sentence": "They recalibrated the sensor unit yesterday."
+        "sentence": "They tempered chocolate for truffles yesterday."
       },
       {
         "words": [
           "The",
-          "technician",
+          "cook",
           "is",
-          "dismantling",
-          "the",
-          "steering",
-          "rack",
+          "blanching",
+          "vegetables",
+          "for",
+          "salad",
           "."
         ],
-        "sentence": "The technician is dismantling the steering rack."
+        "sentence": "The cook is blanching vegetables for salad."
       },
       {
-        "words": [
-          "We",
-          "are",
-          "going",
-          "to",
-          "refit",
-          "the",
-          "alternator",
-          "."
-        ],
-        "sentence": "We are going to refit the alternator."
+        "words": ["We", "are", "going", "to", "deglaze", "the", "pan", "."],
+        "sentence": "We are going to deglaze the pan."
       },
       {
         "words": [
           "The",
-          "diagnostic",
-          "module",
+          "fermentation",
+          "chamber",
           "was",
           "unstable",
           "this",
-          "morning",
+          "afternoon",
           "."
         ],
-        "sentence": "The diagnostic module was unstable this morning."
+        "sentence": "The fermentation chamber was unstable this afternoon."
       },
       {
         "words": [
           "Senior",
-          "mechanics",
+          "bakers",
           "can",
-          "depressurise",
-          "systems",
-          "very",
-          "safely",
+          "proof",
+          "dough",
+          "consistently",
           "."
         ],
-        "sentence": "Senior mechanics can depressurise systems very safely."
-      },
-      {
-        "words": ["The", "trainee", "purged", "the", "brake", "lines", "."],
-        "sentence": "The trainee purged the brake lines."
+        "sentence": "Senior bakers can proof dough consistently."
       },
       {
         "words": [
-          "Why",
-          "did",
-          "the",
-          "engine",
-          "synchronise",
-          "incorrectly",
-          "today",
-          "?"
+          "Senior",
+          "bakers",
+          "can",
+          "consistently",
+          "proof",
+          "dough",
+          "."
         ],
-        "sentence": "Why did the engine synchronise incorrectly today?"
+        "sentence": "Senior bakers can consistently proof dough."
       },
       {
-        "words": ["Are", "they", "inspecting", "the", "fuel", "pump", "?"],
-        "sentence": "Are they inspecting the fuel pump?"
+        "words": [
+          "The",
+          "trainee",
+          "folded",
+          "the",
+          "batter",
+          "incorrectly",
+          "."
+        ],
+        "sentence": "The trainee folded the batter incorrectly."
+      },
+      {
+        "words": ["Why", "did", "they", "slice", "berries", "so", "early", "?"],
+        "sentence": "Why did they slice berries so early?"
+      },
+      {
+        "words": [
+          "Are",
+          "they",
+          "caramelising",
+          "sugar",
+          "for",
+          "the",
+          "topping",
+          "?"
+        ],
+        "sentence": "Are they caramelising sugar for the topping?"
       },
       {
         "words": [
           "We",
-          "dismantled",
-          "components",
-          "and",
-          "anchored",
-          "transmissions",
+          "sprinkled",
+          "crushed",
+          "cinnamon",
+          "over",
+          "the",
+          "crumble",
           "."
         ],
-        "sentence": "We dismantled components and anchored transmissions."
+        "sentence": "We sprinkled crushed cinnamon over the crumble."
       }
     ]
   },
@@ -568,62 +564,62 @@
       {
         "question": "Why was the applicant shortlisted for the interview?",
         "options": [
-          "Because he had a strong management record in an electric-vehicle plant.",
-          "Because he had the highest test score in the region.",
-          "Because his technical background and diagnostic experience looked strong.",
-          "Because he personally visited all the company branches."
+          "Because she previously managed a chain of restaurants.",
+          "Because she had strong experience in management and maintenance.",
+          "Because her food-processing and quality-control background looked strong.",
+          "Because she had already worked for this company before."
         ],
-        "answer": "Because his technical background and diagnostic experience looked strong."
+        "answer": "Because her food-processing and quality-control background looked strong."
       },
       {
         "question": "What does the company highlight about its operations?",
         "options": [
-          "It mainly repairs motorcycles and small engines.",
-          "It has only one service centre but a large training program.",
-          "It focuses on low-cost repairs rather than advanced diagnostics.",
-          "It operates several branches and uses advanced diagnostic systems."
+          "It operates many processing plants and home-based food products.",
+          "It avoids using automated packaging systems.",
+          "It focuses on food safety without using modern technology.",
+          "It runs several processing plants and focuses on food safety and technology."
         ],
-        "answer": "It operates several branches and uses advanced diagnostic systems."
+        "answer": "It runs several processing plants and focuses on food safety and technology."
       },
       {
-        "question": "How does the applicant describe his past job tasks?",
+        "question": "How does the applicant describe her previous tasks?",
         "options": [
-          "He mostly handled customer billing and office paperwork.",
-          "He inspected engines, replaced components, and assisted with major repairs.",
-          "He only worked with electric vehicles and hybrid systems.",
-          "He supervised a team of ten senior technicians."
+          "She only worked on office billing and customer service.",
+          "She monitored temperatures in prepared restaurant food and cooked meals.",
+          "She tested samples, monitored temperatures, inspected packaging, and supported audits.",
+          "She tested samples and supervised a team of 20 food safety inspectors."
         ],
-        "answer": "He inspected engines, replaced components, and assisted with major repairs."
+        "answer": "She tested samples, monitored temperatures, inspected packaging, and supported audits."
       },
       {
-        "question": "What is the applicant’s attitude toward learning new skills like ECU programming?",
+        "question": "What is the applicant’s attitude toward learning advanced systems?",
         "options": [
-          "He is unsure and prefers not to learn advanced tasks.",
-          "He already considers himself an expert in ECU programming.",
-          "He has limited experience but is very willing to learn.",
-          "He has limited experience and is not willing to learn."
+          "She refuses to work with digital tools.",
+          "She has some knowledge and doesn’t need further training.",
+          "She has basic knowledge and is eager to improve.",
+          "She prefers manual work and avoids software."
         ],
-        "answer": "He has limited experience but is very willing to learn."
+        "answer": "She has basic knowledge and is eager to improve."
       },
       {
-        "question": "Which ability does the applicant mention when asked about handling pressure?",
+        "question": "How does the applicant say she performs under pressure?",
         "options": [
-          "His ability not to ask for clarification when needed",
-          "He prefers to work alone and avoids asking for help.",
-          "He refuses to work on urgent vehicles because it is stressful.",
-          "He stays focused, follows procedures, and asks for clarification when needed."
+          "She ignores protocols to finish work faster.",
+          "She stops work completely when something unexpected happens.",
+          "She remains calm and avoids asking for help even when unsure.",
+          "She stays calm, follows safety rules, and asks for clarification when needed."
         ],
-        "answer": "He stays focused, follows procedures, and asks for clarification when needed."
+        "answer": "She stays calm, follows safety rules, and asks for clarification when needed."
       },
       {
-        "question": "What will happen before the company makes a final hiring decision?",
+        "question": "What will the company do before making a final hiring decision?",
         "options": [
-          "They will send him a written exam on vehicle electronics.",
-          "They will contact his references and request him to complete two trial repair jobs.",
-          "They will contact his references and verify past employment.",
-          "They will invite him to meet all 700 employees."
+          "Check with her referees and ask her to prepare a full-day’s menu.",
+          "Invite her to visit all production plants.",
+          "Verify her employment history and contact her references.",
+          "Send her to a two-week trial shift without pay."
         ],
-        "answer": "They will contact his references and verify past employment."
+        "answer": "Verify her employment history and contact her references."
       }
     ]
   },
