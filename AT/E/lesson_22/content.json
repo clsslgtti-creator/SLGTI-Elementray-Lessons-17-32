@@ -212,7 +212,7 @@
     "type": "INTERACTIVE-4",
     "instructions": {
       "activity_a": {
-        "text": "Put the words in the correct order. The first word in each sentence is in bold.\nවචන නිවැරදි අනුපිළිවෙලට තබන්න. සෑම වාක්‍යයකම පළමු වචනය තද අකුරින් ලියවා ඇත.\nசொற்களை சரியான வரிசையில் வைக்கவும். ஒவ்வொரு வாக்கியத்திலும் முதல் வார்த்தை திட எழுத்தில் உள்ளது.",
+        "text": "Put the words in the correct order. The first word in each sentence is in bold.\nවචන නිවැරදි අනුපිළිවෙලට සකසන්න. සෑම වාක්‍යයකම පළමු වචනය තද අකුරින් පෙන්වනු ඇත.\nசொற்களைச் சரியான வரிசையில் வரிசைப்படுத்தவும். ஒவ்வொரு வாக்கியத்தின் முதல் சொல்லும் தடித்த எழுத்துக்களில் (bold) கொடுக்கப்பட்டுள்ளது.",
         "audio": "assets/audio/a_3_i_c.mp3"
       },
       "activity_b": {
