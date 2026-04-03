@@ -41,9 +41,9 @@
       },
       {
         "id": "p_2",
-        "word_text": "'p'rogramme",
+        "word_text": "'p'rogram",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Write a simple 'p'rogramme in C.",
+        "sentence_text": "Write a simple 'p'rogram in C.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
