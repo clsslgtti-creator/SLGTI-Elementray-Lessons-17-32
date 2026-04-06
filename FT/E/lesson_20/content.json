@@ -32,6 +32,14 @@
     },
     "content": [
       {
+        "id": "p_3",
+        "word_text": "cu'b'e",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Are they going to cut the butter into cu'b'es?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.jpeg"
+      },
+      {
         "id": "p_1",
         "word_text": "'b'owl",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
@@ -46,14 +54,6 @@
         "sentence_text": "She is going to clean the 'b'ottle thoroughly before each use.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
-      },
-      {
-        "id": "p_3",
-        "word_text": "cu'b'e",
-        "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Are they going to cut the butter into cu'b'es?",
-        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
