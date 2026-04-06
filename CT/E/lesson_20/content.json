@@ -32,12 +32,12 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "'b'rick",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mason is going to lay each 'b'rick in the kitchen very neatly.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "id": "p_3",
+        "word_text": "'b'ar",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Are you both going to use a steel 'b'ar for support?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_2",
@@ -48,20 +48,20 @@
         "image": "assets/img/a_1_p_2.png"
       },
       {
-        "id": "p_3",
-        "word_text": "'b'ar",
-        "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Are you both going to use a steel 'b'ar for support?",
-        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
-      },
-      {
         "id": "p_4",
         "word_text": "ca'b'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "Is the worker going to wait in the ca'b' for over half an hour?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "'b'rick",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The mason is going to lay each 'b'rick in the kitchen very neatly.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       }
     ]
   },
