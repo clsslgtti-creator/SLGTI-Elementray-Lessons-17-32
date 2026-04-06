@@ -32,14 +32,6 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "'b'olt",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "I am going to remove the old 'b'olt from the frame and leave it on the desk.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "'b'earing",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
@@ -47,6 +39,14 @@
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
+      {
+        "id": "p_1",
+        "word_text": "'b'olt",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "I am going to remove the old 'b'olt from the frame and leave it on the desk.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      }, 
       {
         "id": "p_3",
         "word_text": "tu'b'e",
