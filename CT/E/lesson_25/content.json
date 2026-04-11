@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "K",
+    "focus": "G",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -175,7 +175,7 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Did your coworkers shift the sand buckets to the mason’s area yesterday evening?",
+        "text_a": "Did your coworker shift the sand buckets to the mason’s area yesterday evening?",
         "text_b": "No, he didn’t. He was too sick.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
