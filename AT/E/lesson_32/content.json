@@ -69,8 +69,8 @@
     "marks_for_each_q": 1,
     "type": "MCQ",
     "instruction": {
-      "text": "Read the following answers and click on the correct question. \nපහත සඳහන් පිළිතුරු කියවා නිවැරදි ප්‍රශ්නය ක්ලික් කරන්න.\nபின்வரும் பதில்களைப் படித்து சரியான கேள்வியைக் கிளிக் செய்யவும்.",
-      "audio": "assets/audio/a_2_a_i.mp3"
+      "text": "Read the following sentences and click on the correct response. \nපහත වාක්‍ය කියවන්න. නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசிக்கவும். சரியான பதிலைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i_x.mp3"
     },
     "content": [
       {
