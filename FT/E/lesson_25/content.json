@@ -134,7 +134,7 @@
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
         "text_a": "Did your coworker fine-tune the oven settings in the instructor’s kitchen yesterday evening?",
-        "text_b": "No, he didn’t. He was too sick.",
+        "text_b": "No, she didn’t. She was too sick.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
