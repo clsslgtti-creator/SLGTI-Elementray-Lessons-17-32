@@ -208,10 +208,10 @@
         "options": [
           "He played cricket all day yesterday.",
           "He is carrying heavy cement bags yesterday.",
-          "He carried heavy cement bags yesterday.",
+          "He carry heavy cement bags yesterday.",
           "He did carried heavy cement bags yesterday."
         ],
-        "answer": "He carried heavy cement bags yesterday."
+        "answer": "He played cricket all day yesterday."
       },
       {
         "question": "How did Saman get a headache?",
