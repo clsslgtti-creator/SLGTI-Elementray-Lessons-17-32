@@ -439,46 +439,6 @@
           "id": "g_b_8_a",
           "text": "Where were your friends at six yesterday?",
           "audio": "assets/audio/g_b_8_a.mp3"
-        },
-        {
-          "id": "g_b_9",
-          "text": "The trainees practiced several complex safety drills last Tuesday afternoon.",
-          "audio": "assets/audio/g_b_9.mp3"
-        },
-        {
-          "id": "g_b_9_a",
-          "text": "What did the trainees practice last Tuesday afternoon?",
-          "audio": "assets/audio/g_b_9_a.mp3"
-        },
-        {
-          "id": "g_b_10",
-          "text": "He usually writes his weekly progress reports on Mondays before lunch.",
-          "audio": "assets/audio/g_b_10.mp3"
-        },
-        {
-          "id": "g_b_10_a",
-          "text": "When does he write his weekly progress reports?",
-          "audio": "assets/audio/g_b_10_a.mp3"
-        },
-        {
-          "id": "g_b_11",
-          "text": "We were in the small meeting room at ten yesterday morning.",
-          "audio": "assets/audio/g_b_11.mp3"
-        },
-        {
-          "id": "g_b_11_a",
-          "text": "Where were you at ten yesterday morning?",
-          "audio": "assets/audio/g_b_11_a.mp3"
-        },
-        {
-          "id": "g_b_12",
-          "text": "I am going to help my younger brother with homework tonight.",
-          "audio": "assets/audio/g_b_12.mp3"
-        },
-        {
-          "id": "g_b_12_a",
-          "text": "Who are you going to help tonight?",
-          "audio": "assets/audio/g_b_12_a.mp3"
         }
       ]
     }
