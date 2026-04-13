@@ -32,22 +32,6 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "ca's'e",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "When did the trainees open the ca's'e?",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
-        "id": "p_2",
-        "word_text": "pul's'e",
-        "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Why was the pul's'e weak when the current passed through the wire?",
-        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.jpeg"
-      },
-      {
         "id": "p_3",
         "word_text": "tran's'mission",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
@@ -59,9 +43,25 @@
         "id": "p_4",
         "word_text": "'s'witch",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Where can I find the emergency  's'witch?",
+        "sentence_text": "Where can I find the emergency 's'witch?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "pul's'e",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Why was the pul's'e weak when the current passed through the wire?",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.jpeg"
+      },
+      {
+        "id": "p_1",
+        "word_text": "ca's'e",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "When did the trainees open the ca's'e?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       }
     ]
   },
