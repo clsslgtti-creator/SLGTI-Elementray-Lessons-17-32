@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "K",
+    "focus": "G",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -175,7 +175,7 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Did your coworkers shift the sand buckets to the mason’s area yesterday evening?",
+        "text_a": "Did your coworker shift the sand buckets to the mason’s area yesterday evening?",
         "text_b": "No, he didn’t. He was too sick.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
@@ -529,11 +529,6 @@
       },
       "activity_c": [
         {
-          "id": "t_26_1",
-          "text": "Good morning, everyone. I’m glad you’re all here on time.",
-          "audio": "assets/audio/t_26_1.mp3"
-        },
-        {
           "id": "t_26_2",
           "text": "Today, I want to talk to you about handling some of the more serious emergencies that can occur on the workshop floor.",
           "audio": "assets/audio/t_26_2.mp3"
@@ -542,16 +537,6 @@
           "id": "t_26_3",
           "text": "These situations are not meant to scare you, but to help you stay safe and confident while you work.",
           "audio": "assets/audio/t_26_3.mp3"
-        },
-        {
-          "id": "t_26_4",
-          "text": "A few of these incidents happened last term, so it’s good for us to learn from them and do better next time.",
-          "audio": "assets/audio/t_26_4.mp3"
-        },
-        {
-          "id": "t_26_5",
-          "text": "Let’s start with the industrial steamers.",
-          "audio": "assets/audio/t_26_5.mp3"
         },
         {
           "id": "t_26_6",
@@ -564,21 +549,6 @@
           "audio": "assets/audio/t_26_7.mp3"
         },
         {
-          "id": "t_26_8",
-          "text": "No one was seriously hurt, but it created a lot of stress.",
-          "audio": "assets/audio/t_26_8.mp3"
-        },
-        {
-          "id": "t_26_9",
-          "text": "So please follow the checklist, watch the gauge, and let someone know if you hear anything unusual.",
-          "audio": "assets/audio/t_26_9.mp3"
-        },
-        {
-          "id": "t_26_10",
-          "text": "Early warning signs are important.",
-          "audio": "assets/audio/t_26_10.mp3"
-        },
-        {
           "id": "t_26_11",
           "text": "This morning, we noticed a possible gas leak, so the maintenance team is working on it right now.",
           "audio": "assets/audio/t_26_11.mp3"
@@ -589,39 +559,9 @@
           "audio": "assets/audio/t_26_12.mp3"
         },
         {
-          "id": "t_26_13",
-          "text": "Then inform a supervisor as soon as you can.",
-          "audio": "assets/audio/t_26_13.mp3"
-        },
-        {
-          "id": "t_26_14",
-          "text": "Gas leaks can be risky, but when we respond calmly and quickly, everything stays under control.",
-          "audio": "assets/audio/t_26_14.mp3"
-        },
-        {
-          "id": "t_26_15",
-          "text": "Another point I want to highlight is the safe handling of chemicals.",
-          "audio": "assets/audio/t_26_15.mp3"
-        },
-        {
-          "id": "t_26_16",
-          "text": "Sometimes students mix cleaning products without realising how strong they are.",
-          "audio": "assets/audio/t_26_16.mp3"
-        },
-        {
           "id": "t_26_17",
           "text": "Last week, someone accidentally mixed two powerful sanitisers, and the fumes irritated people’s eyes.",
           "audio": "assets/audio/t_26_17.mp3"
-        },
-        {
-          "id": "t_26_18",
-          "text": "So when you’re working with chemicals, wear gloves, open the windows, and follow the instructions on the label.",
-          "audio": "assets/audio/t_26_18.mp3"
-        },
-        {
-          "id": "t_26_19",
-          "text": "These simple steps keep everyone comfortable and safe.",
-          "audio": "assets/audio/t_26_19.mp3"
         },
         {
           "id": "t_26_20",
@@ -634,44 +574,9 @@
           "audio": "assets/audio/t_26_21.mp3"
         },
         {
-          "id": "t_26_22",
-          "text": "It’s an easy thing to miss, but exposed wires can become serious very quickly.",
-          "audio": "assets/audio/t_26_22.mp3"
-        },
-        {
-          "id": "t_26_23",
-          "text": "If you ever see something like that, just switch off the machine, move back, and inform the instructor.",
-          "audio": "assets/audio/t_26_23.mp3"
-        },
-        {
           "id": "t_26_24",
           "text": "A quick report can prevent a big problem.",
           "audio": "assets/audio/t_26_24.mp3"
-        },
-        {
-          "id": "t_26_25",
-          "text": "While some of you are practising with the large mixer today, please remember to keep your hands away from the moving parts and use the safety guard.",
-          "audio": "assets/audio/t_26_25.mp3"
-        },
-        {
-          "id": "t_26_26",
-          "text": "The guard may seem small, but it does an important job.",
-          "audio": "assets/audio/t_26_26.mp3"
-        },
-        {
-          "id": "t_26_27",
-          "text": "In any emergency—fire, chemical spill, injury, or equipment trouble—try to stay calm, help each other, and look for the evacuation path immediately.",
-          "audio": "assets/audio/t_26_27.mp3"
-        },
-        {
-          "id": "t_26_28",
-          "text": "We’re here to learn, but we’re also here to look out for one another.",
-          "audio": "assets/audio/t_26_28.mp3"
-        },
-        {
-          "id": "t_26_29",
-          "text": "That’s what makes a workshop safe and supportive.",
-          "audio": "assets/audio/t_26_29.mp3"
         }
       ],
       "activity_d": [
@@ -724,11 +629,6 @@
           "id": "t_26_24",
           "text": "A quick report can prevent a big problem.",
           "audio": "assets/audio/t_26_24.mp3"
-        },
-        {
-          "id": "t_26_25",
-          "text": "While some of you are practising with the large mixer today, please remember to keep your hands away from the moving parts and use the safety guard.",
-          "audio": "assets/audio/t_26_25.mp3"
         }
       ],
       "activity_e": [
@@ -781,11 +681,6 @@
           "id": "t_26_24",
           "text": "A quick report can prevent a big problem.",
           "audio": "assets/audio/t_26_24.mp3"
-        },
-        {
-          "id": "t_26_25",
-          "text": "While some of you are practising with the large mixer today, please remember to keep your hands away from the moving parts and use the safety guard.",
-          "audio": "assets/audio/t_26_25.mp3"
         }
       ]
     }

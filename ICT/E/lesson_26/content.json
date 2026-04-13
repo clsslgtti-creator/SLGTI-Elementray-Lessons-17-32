@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "proce'ss'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "How did they decide on the proce'ss' to recruit new trainees? ",
+        "sentence_text": "How did they decide on the proce'ss' to recruit new students? ",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -429,56 +429,6 @@
           "id": "g_b_7_a",
           "text": "Where was her supervisor at noon today?",
           "audio": "assets/audio/g_b_7_a.mp3"
-        },
-        {
-          "id": "g_b_8",
-          "text": "My friends were at the crowded bus stop at six yesterday.",
-          "audio": "assets/audio/g_b_8.mp3"
-        },
-        {
-          "id": "g_b_8_a",
-          "text": "Where were your friends at six yesterday?",
-          "audio": "assets/audio/g_b_8_a.mp3"
-        },
-        {
-          "id": "g_b_9",
-          "text": "The trainees practiced several complex safety drills last Tuesday afternoon.",
-          "audio": "assets/audio/g_b_9.mp3"
-        },
-        {
-          "id": "g_b_9_a",
-          "text": "What did the trainees practice last Tuesday afternoon?",
-          "audio": "assets/audio/g_b_9_a.mp3"
-        },
-        {
-          "id": "g_b_10",
-          "text": "He usually writes his weekly progress reports on Mondays before lunch.",
-          "audio": "assets/audio/g_b_10.mp3"
-        },
-        {
-          "id": "g_b_10_a",
-          "text": "When does he write his weekly progress reports?",
-          "audio": "assets/audio/g_b_10_a.mp3"
-        },
-        {
-          "id": "g_b_11",
-          "text": "We were in the small meeting room at ten yesterday morning.",
-          "audio": "assets/audio/g_b_11.mp3"
-        },
-        {
-          "id": "g_b_11_a",
-          "text": "Where were you at ten yesterday morning?",
-          "audio": "assets/audio/g_b_11_a.mp3"
-        },
-        {
-          "id": "g_b_12",
-          "text": "I am going to help my younger brother with homework tonight.",
-          "audio": "assets/audio/g_b_12.mp3"
-        },
-        {
-          "id": "g_b_12_a",
-          "text": "Who are you going to help tonight?",
-          "audio": "assets/audio/g_b_12_a.mp3"
         }
       ]
     }

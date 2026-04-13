@@ -167,7 +167,7 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "When is Ruwan going to minimise the open applications on the server PC?",
+        "text_a": "When is Ruwan going to minimise the open applications?",
         "text_b": "He might minimise them this morning, or he might minimise them this afternoon. He really doesn't know.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
@@ -183,7 +183,7 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "When are you and Kasun going to connect the new Wi-Fi access point?",
+        "text_a": "When are you and Ravindu going to connect the new Wi-Fi access point?",
         "text_b": "We might connect it tomorrow afternoon, or we might connect it tomorrow evening. We really don't know.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
