@@ -104,8 +104,8 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Why did you oil the machine’s guide rails with the long-neck oil can this morning?",
-        "text_b": "I oiled them with the long-neck oil can to reduce the friction.",
+        "text_a": "Why did you oil the machine’s guide rails with special oil this morning?",
+        "text_b": "I oiled them with special oil to reduce the friction.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
