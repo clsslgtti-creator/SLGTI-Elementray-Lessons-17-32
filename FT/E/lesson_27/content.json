@@ -53,7 +53,7 @@
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "The sugar delivered this morning was drier than the container of 's'ugar we received last month.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_4.png"
       },
       {
         "id": "p_4",
@@ -61,7 +61,7 @@
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
         "sentence_text": "The potato ma'sh' yesterday was much softer than today’s batch.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_3.png"
       }
     ]
   },
@@ -250,7 +250,7 @@
               "Gas oven B is hotter than industrial oven A."
             ],
             "answer": "Industrial oven A is hotter than the gas oven B.",
-            "image": "assets/img/g_b_1.jpeg"
+            "image": "assets/img/g_b_1.png"
           },
           {
             "id": "g_b_2",
@@ -259,7 +259,7 @@
               "Cloth apron B is heavier than leather apron A."
             ],
             "answer": "Leather apron A is heavier than cloth apron B.",
-            "image": "assets/img/g_b_2.jpeg"
+            "image": "assets/img/g_b_2.png"
           },
           {
             "id": "g_b_3",
@@ -268,7 +268,7 @@
               "Hand mixer B is faster than electric mixer A"
             ],
             "answer": "Electric mixer A is faster than hand mixer B.",
-            "image": "assets/img/g_b_3.jpeg"
+            "image": "assets/img/g_b_3.png"
           },
           {
             "id": "g_b_4",
@@ -277,7 +277,7 @@
               "Plastic mixing bowl B is sturdier than ceramic mixing bowl A."
             ],
             "answer": "Ceramic mixing bowl A is sturdier than plastic mixing bowl B.",
-            "image": "assets/img/g_b_4.jpeg"
+            "image": "assets/img/g_b_4.png"
           },
           {
             "id": "g_b_5",
@@ -286,7 +286,7 @@
               "Spice jars B are larger than flour bins A."
             ],
             "answer": "Flour bins A are larger than spice jars B.",
-            "image": "assets/img/g_b_5.jpeg"
+            "image": "assets/img/g_b_5.png"
           },
           {
             "id": "g_b_6",
@@ -295,7 +295,7 @@
               "Percolator B is bigger than coffee machine A."
             ],
             "answer": "Coffee machine A is bigger than percolator B.",
-            "image": "assets/img/g_b_6.jpeg"
+            "image": "assets/img/g_b_6.png"
           },
           {
             "id": "g_b_7",
@@ -304,7 +304,7 @@
               "Ladle B is lighter than tablespoon A."
             ],
             "answer": "Tablespoon A is lighter than ladle B.",
-            "image": "assets/img/g_b_7.jpeg"
+            "image": "assets/img/g_b_7.png"
           },
           {
             "id": "g_b_8",
@@ -313,7 +313,7 @@
               "Frying B is oilier than baking A."
             ],
             "answer": "Frying B is oilier than baking A.",
-            "image": "assets/img/g_b_8.jpeg"
+            "image": "assets/img/g_b_8.png"
           }
         ]
       },
