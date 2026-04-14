@@ -276,7 +276,7 @@
               "Safety boots are daintier than ladies’ shoes.",
               "Ladies’ shoes are daintier than safety boots."
             ],
-            "answer": "Safety boots are daintier than ladies’ shoes.",
+            "answer": "Ladies’ shoes are daintier than safety boots.",
             "image": "assets/img/g_b_4.png"
           },
           {
@@ -285,7 +285,7 @@
               "Nail A is slimmer than nail B.",
               "Nail B is slimmer than nail A."
             ],
-            "answer": "Nail A is slimmer than nail B.",
+            "answer": "Nail B is slimmer than nail A.",
             "image": "assets/img/g_b_5.png"
           },
           {
