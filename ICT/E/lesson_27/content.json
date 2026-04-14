@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "ca'ch'e",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The browser ca'ch'e was a little emptier than what we saw 3 days ago.",
+        "sentence_text": "The browser ca'ch'e was a little emptier than what we saw three days ago.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -273,10 +273,10 @@
           {
             "id": "g_b_4",
             "options": [
-              "Transformer A is quieter than the router B.",
+              "Transformer A is quieter than router B.",
               "The router B is quieter than transformer A."
             ],
-            "answer": "Transformer A is quieter than the router B.",
+            "answer": "Transformer A is quieter than router B.",
             "image": "assets/img/g_b_4.png"
           },
           {
@@ -335,7 +335,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "Transformer A is quieter than the router B.",
+          "text": "Transformer A is quieter than router B.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
