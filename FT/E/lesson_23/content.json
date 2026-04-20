@@ -525,8 +525,8 @@
             "question": "Why did Saman need the tweezers?",
             "answer": "He had a splinter in his finger.",
             "options": [
-              "He had a splinter in his finger.",
               "He had a splinter in his arm.",
+              "He had a splinter in his finger.",
               "He had a bruise on his arm."
             ]
           },
@@ -535,9 +535,9 @@
             "question": "Why was the eye drop bottle empty?",
             "answer": "Abdul used it after getting dust in his eye.",
             "options": [
-              "Abdul used it after getting dust in his eye.",
               "Amal used it after cutting his finger.",
-              "Abdul used it to help his friend remove dust from his eye."
+              "Abdul used it to help his friend remove dust from his eye.",
+              "Abdul used it after getting dust in his eye."
             ]
           },
           {
@@ -555,8 +555,8 @@
             "question": "What is the trainee going to request today?",
             "answer": "A new box of gloves.",
             "options": [
-              "A new box of gloves.",
               "A new box of aprons.",
+              "A new box of gloves.",
               "A new pair of gloves."
             ]
           }

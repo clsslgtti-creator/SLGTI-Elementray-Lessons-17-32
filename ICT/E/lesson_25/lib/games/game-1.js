@@ -604,7 +604,7 @@ export const createGameScene = (config) => {
       this.updateTimerText("Time: 20.0s");
 
       const sentenceCardWidth = 980;
-      const sentenceCardHeight = 280;
+      const sentenceCardHeight = 300;
       this.sentenceCardWidth = sentenceCardWidth;
       this.sentenceCardHeight = sentenceCardHeight;
       const sentencePanel = createRoundedPanel(
@@ -622,7 +622,7 @@ export const createGameScene = (config) => {
       });
       this.sentencePanel = sentencePanel;
       this.sentenceImageMaxWidth = 150;
-      this.sentenceImageMaxHeight = 150;
+      this.sentenceImageMaxHeight = 180;
       this.sentenceImagePadding = 10;
       this.sentenceTextGap = 24;
       this.sentenceImage = this.add.image(0, -30, "");
@@ -632,7 +632,7 @@ export const createGameScene = (config) => {
       this.sentenceText = this.add
         .text(0, 0, "", {
           fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
-          fontSize: 34,
+          fontSize: 30,
           color: "#111827",
           align: "center",
           wordWrap: { width: sentenceCardWidth - 40 },
