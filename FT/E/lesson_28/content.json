@@ -168,26 +168,6 @@
     ],
     "dialogues": [
       {
-        "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
-        "text_a": "I bought a new sofa for my flat yesterday.",
-        "text_b": "Really? But I liked your old sofa. It was modern.",
-        "text_c": "That’s true. But my new sofa is more modern.",
-        "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "audio_c": "assets/audio/a_2_d_4_c.mp3"
-      },
-      {
-        "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
-        "text_a": "I bought a new smart watch for myself yesterday.",
-        "text_b": "Really? But I liked your old smart watch. It was attractive.",
-        "text_c": "That’s true. But my new watch is more attractive.",
-        "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "audio_c": "assets/audio/a_2_d_5_c.mp3"
-      },
-      {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
         "text_a": "I bought a new oven for my kitchen yesterday.",
@@ -216,6 +196,26 @@
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "I bought a new sofa for my flat yesterday.",
+        "text_b": "Really? But I liked your old sofa. It was modern.",
+        "text_c": "That’s true. But my new sofa is more modern.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "I bought a new smart watch for myself yesterday.",
+        "text_b": "Really? But I liked your old smart watch. It was attractive.",
+        "text_c": "That’s true. But my new watch is more attractive.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
       },
       {
         "id": "d_9",
