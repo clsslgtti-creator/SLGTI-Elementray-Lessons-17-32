@@ -168,26 +168,6 @@
     ],
     "dialogues": [
       {
-        "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
-        "text_a": "I bought a new sofa for my flat yesterday.",
-        "text_b": "Really? But I liked your old sofa. It was modern.",
-        "text_c": "That’s true. But my new sofa is more modern.",
-        "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "audio_c": "assets/audio/a_2_d_4_c.mp3"
-      },
-      {
-        "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
-        "text_a": "I bought a new smart watch for myself yesterday.",
-        "text_b": "Really? But I liked your old smart watch. It was attractive.",
-        "text_c": "That’s true. But my new watch is more attractive.",
-        "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "audio_c": "assets/audio/a_2_d_5_c.mp3"
-      },
-      {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
         "text_a": "I bought a new oven for my kitchen yesterday.",
@@ -216,6 +196,26 @@
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "I bought a new sofa for my flat yesterday.",
+        "text_b": "Really? But I liked your old sofa. It was modern.",
+        "text_c": "That’s true. But my new sofa is more modern.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "I bought a new smart watch for myself yesterday.",
+        "text_b": "Really? But I liked your old smart watch. It was attractive.",
+        "text_c": "That’s true. But my new watch is more attractive.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
       },
       {
         "id": "d_9",
@@ -443,34 +443,9 @@
       },
       "activity_b": [
         {
-          "id": "t_35_1",
-          "text": "Good morning, Mevan. I need to check today’s material report.",
-          "audio": "assets/audio/t_35_1.mp3"
-        },
-        {
-          "id": "t_35_2",
-          "text": "What are you doing now?",
-          "audio": "assets/audio/t_35_2.mp3"
-        },
-        {
-          "id": "t_35_3",
-          "text": "Good morning, sir. I’m reviewing the delivery notes from yesterday.",
-          "audio": "assets/audio/t_35_3.mp3"
-        },
-        {
           "id": "t_35_4",
           "text": "We ran out of some of the construction tools during the foundation work.",
           "audio": "assets/audio/t_35_4.mp3"
-        },
-        {
-          "id": "t_35_5",
-          "text": "Yes, the team worked fast yesterday.",
-          "audio": "assets/audio/t_35_5.mp3"
-        },
-        {
-          "id": "t_35_6",
-          "text": "Did you see which items are missing?",
-          "audio": "assets/audio/t_35_6.mp3"
         },
         {
           "id": "t_35_7",
@@ -478,29 +453,9 @@
           "audio": "assets/audio/t_35_7.mp3"
         },
         {
-          "id": "t_35_8",
-          "text": "The grey-handled trowel worked well, but the orange one felt weaker.",
-          "audio": "assets/audio/t_35_8.mp3"
-        },
-        {
           "id": "t_35_9",
           "text": "I remember those. The grey-handled trowel is definitely better.",
           "audio": "assets/audio/t_35_9.mp3"
-        },
-        {
-          "id": "t_35_10",
-          "text": "We are going to order more of that brand.",
-          "audio": "assets/audio/t_35_10.mp3"
-        },
-        {
-          "id": "t_35_11",
-          "text": "What about the reinforced measuring tapes?",
-          "audio": "assets/audio/t_35_11.mp3"
-        },
-        {
-          "id": "t_35_12",
-          "text": "We finished the 10-meter ones.",
-          "audio": "assets/audio/t_35_12.mp3"
         },
         {
           "id": "t_35_13",
@@ -508,29 +463,9 @@
           "audio": "assets/audio/t_35_13.mp3"
         },
         {
-          "id": "t_35_14",
-          "text": "The thin cords kept stretching.",
-          "audio": "assets/audio/t_35_14.mp3"
-        },
-        {
-          "id": "t_35_15",
-          "text": "I agree. We will order thicker cords.",
-          "audio": "assets/audio/t_35_15.mp3"
-        },
-        {
-          "id": "t_35_16",
-          "text": "Did you check the carbon-steel chisels?",
-          "audio": "assets/audio/t_35_16.mp3"
-        },
-        {
           "id": "t_35_17",
           "text": "Last week, the supplier said the latest batch was more reliable than the older one.",
           "audio": "assets/audio/t_35_17.mp3"
-        },
-        {
-          "id": "t_35_18",
-          "text": "Yes, sir. I tested them.",
-          "audio": "assets/audio/t_35_18.mp3"
         },
         {
           "id": "t_35_19",
@@ -538,34 +473,9 @@
           "audio": "assets/audio/t_35_19.mp3"
         },
         {
-          "id": "t_35_20",
-          "text": "I reported it to the supplier yesterday.",
-          "audio": "assets/audio/t_35_20.mp3"
-        },
-        {
-          "id": "t_35_21",
-          "text": "Good. We must avoid low-quality tools on site.",
-          "audio": "assets/audio/t_35_21.mp3"
-        },
-        {
-          "id": "t_35_22",
-          "text": "Now, I’m going to prepare a new purchase list.",
-          "audio": "assets/audio/t_35_22.mp3"
-        },
-        {
-          "id": "t_35_23",
-          "text": "What quantities do we need?",
-          "audio": "assets/audio/t_35_23.mp3"
-        },
-        {
           "id": "t_35_24",
           "text": "Order twelve masonry trowels, ten carbon-steel chisels because they are lighter and easier to control, and six thicker brick alignment cords.",
           "audio": "assets/audio/t_35_24.mp3"
-        },
-        {
-          "id": "t_35_25",
-          "text": "Excellent. What about concrete levelling screeds?",
-          "audio": "assets/audio/t_35_25.mp3"
         },
         {
           "id": "t_35_26",
@@ -573,49 +483,14 @@
           "audio": "assets/audio/t_35_26.mp3"
         },
         {
-          "id": "t_35_27",
-          "text": "Yes, sir. I compared them yesterday.",
-          "audio": "assets/audio/t_35_27.mp3"
-        },
-        {
-          "id": "t_35_28",
-          "text": "The aluminium screed produced smoother surfaces.",
-          "audio": "assets/audio/t_35_28.mp3"
-        },
-        {
           "id": "t_35_29",
           "text": "The wooden screed was slower and less stable.",
           "audio": "assets/audio/t_35_29.mp3"
         },
         {
-          "id": "t_35_30",
-          "text": "Then we will switch to aluminium.",
-          "audio": "assets/audio/t_35_30.mp3"
-        },
-        {
-          "id": "t_35_31",
-          "text": "Anything else?",
-          "audio": "assets/audio/t_35_31.mp3"
-        },
-        {
-          "id": "t_35_32",
-          "text": "Yes, sir. We also need rebar tying pliers.",
-          "audio": "assets/audio/t_35_32.mp3"
-        },
-        {
           "id": "t_35_33",
           "text": "The adjustable model is stronger and more practical than the fixed one.",
           "audio": "assets/audio/t_35_33.mp3"
-        },
-        {
-          "id": "t_35_34",
-          "text": "And maybe 100 bags of cement.",
-          "audio": "assets/audio/t_35_34.mp3"
-        },
-        {
-          "id": "t_35_35",
-          "text": "Good suggestion. I’ll add them.",
-          "audio": "assets/audio/t_35_35.mp3"
         },
         {
           "id": "t_35_36",
