@@ -32,14 +32,6 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "b'r'ick",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mason carefully laid each b'r'ick for the foundation last week.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "'r'oof",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
@@ -54,6 +46,14 @@
         "sentence_text": "The carpenter is going to 'r'epai'r' the old door tomorrow.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "b'r'ick",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The mason carefully laid each b'r'ick for the foundation last week.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_4",
