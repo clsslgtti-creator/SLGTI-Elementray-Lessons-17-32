@@ -447,36 +447,6 @@
       },
       "activity_b": [
         {
-          "id": "t_38_1",
-          "text": "Good morning, Tharun. I need to finalise our hardware request for this week.",
-          "audio": "assets/audio/t_38_1.mp3"
-        },
-        {
-          "id": "t_38_2",
-          "text": "What are you doing now?",
-          "audio": "assets/audio/t_38_2.mp3"
-        },
-        {
-          "id": "t_38_3",
-          "text": "Good morning, sir. I’m checking the system maintenance notes from yesterday.",
-          "audio": "assets/audio/t_38_3.mp3"
-        },
-        {
-          "id": "t_38_4",
-          "text": "Several ICT tools ran out during the network testing and system upgrades.",
-          "audio": "assets/audio/t_38_4.mp3"
-        },
-        {
-          "id": "t_38_5",
-          "text": "Yes, we handled many tasks yesterday.",
-          "audio": "assets/audio/t_38_5.mp3"
-        },
-        {
-          "id": "t_38_6",
-          "text": "Did you identify which items are missing?",
-          "audio": "assets/audio/t_38_6.mp3"
-        },
-        {
           "id": "t_38_7",
           "text": "Yes, sir. We used many new fibre-optic cleaning pens, but one brand was more effective and more durable than the other.",
           "audio": "assets/audio/t_38_7.mp3"
@@ -485,26 +455,6 @@
           "id": "t_38_8",
           "text": "The green cleaning pen worked well, but the grey one left marks on the connectors.",
           "audio": "assets/audio/t_38_8.mp3"
-        },
-        {
-          "id": "t_38_9",
-          "text": "I agree. The green pen is definitely better.",
-          "audio": "assets/audio/t_38_9.mp3"
-        },
-        {
-          "id": "t_38_10",
-          "text": "We are going to order more of that brand.",
-          "audio": "assets/audio/t_38_10.mp3"
-        },
-        {
-          "id": "t_38_11",
-          "text": "What about the anti-static wrist straps?",
-          "audio": "assets/audio/t_38_11.mp3"
-        },
-        {
-          "id": "t_38_12",
-          "text": "We finished the last batch.",
-          "audio": "assets/audio/t_38_12.mp3"
         },
         {
           "id": "t_38_13",
@@ -517,49 +467,14 @@
           "audio": "assets/audio/t_38_14.mp3"
         },
         {
-          "id": "t_38_15",
-          "text": "Good point. We will order the digital ones.",
-          "audio": "assets/audio/t_38_15.mp3"
-        },
-        {
-          "id": "t_38_16",
-          "text": "Did you also check the portable SSD diagnostic units?",
-          "audio": "assets/audio/t_38_16.mp3"
-        },
-        {
           "id": "t_38_17",
           "text": "The supplier said the latest units were more reliable than the previous version.",
           "audio": "assets/audio/t_38_17.mp3"
         },
         {
-          "id": "t_38_18",
-          "text": "Yes, sir. I tested them.",
-          "audio": "assets/audio/t_38_18.mp3"
-        },
-        {
           "id": "t_38_19",
           "text": "The new diagnostic units had a better interface, but two units froze during data analysis.",
           "audio": "assets/audio/t_38_19.mp3"
-        },
-        {
-          "id": "t_38_20",
-          "text": "I sent them back to the supplier yesterday.",
-          "audio": "assets/audio/t_38_20.mp3"
-        },
-        {
-          "id": "t_38_21",
-          "text": "Good decision. Faulty diagnostic tools slow down the whole process.",
-          "audio": "assets/audio/t_38_21.mp3"
-        },
-        {
-          "id": "t_38_22",
-          "text": "Now, I’m going to create a new purchase request.",
-          "audio": "assets/audio/t_38_22.mp3"
-        },
-        {
-          "id": "t_38_23",
-          "text": "What quantities do we need?",
-          "audio": "assets/audio/t_38_23.mp3"
         },
         {
           "id": "t_38_24",
@@ -577,11 +492,6 @@
           "audio": "assets/audio/t_38_26.mp3"
         },
         {
-          "id": "t_38_27",
-          "text": "Yes, sir. I compared them yesterday.",
-          "audio": "assets/audio/t_38_27.mp3"
-        },
-        {
           "id": "t_38_28",
           "text": "The blue tester gave clearer results.",
           "audio": "assets/audio/t_38_28.mp3"
@@ -592,39 +502,14 @@
           "audio": "assets/audio/t_38_29.mp3"
         },
         {
-          "id": "t_38_30",
-          "text": "Then we will change to the blue model.",
-          "audio": "assets/audio/t_38_30.mp3"
-        },
-        {
-          "id": "t_38_31",
-          "text": "Anything else?",
-          "audio": "assets/audio/t_38_31.mp3"
-        },
-        {
-          "id": "t_38_32",
-          "text": "Yes, sir. We also need modular crimping stations.",
-          "audio": "assets/audio/t_38_32.mp3"
-        },
-        {
           "id": "t_38_33",
           "text": "The new fold-out design is stronger and more practical than the old fixed frame.",
           "audio": "assets/audio/t_38_33.mp3"
         },
         {
-          "id": "t_38_34",
-          "text": "Excellent. I’ll add them to the list.",
-          "audio": "assets/audio/t_38_34.mp3"
-        },
-        {
           "id": "t_38_35",
           "text": "You are getting better at selecting professional ICT tools.",
           "audio": "assets/audio/t_38_35.mp3"
-        },
-        {
-          "id": "t_38_36",
-          "text": "Thank you, sir. I enjoy learning more about ICT system maintenance.",
-          "audio": "assets/audio/t_38_36.mp3"
         }
       ],
       "activity_c": [

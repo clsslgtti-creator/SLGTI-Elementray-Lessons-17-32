@@ -447,34 +447,9 @@
       },
       "activity_b": [
         {
-          "id": "t_34_1",
-          "text": "Good morning, Ashfaq. I need to check our stock levels.",
-          "audio": "assets/audio/t_34_1.mp3"
-        },
-        {
-          "id": "t_34_2",
-          "text": "What are you doing now?",
-          "audio": "assets/audio/t_34_2.mp3"
-        },
-        {
           "id": "t_34_3",
           "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
           "audio": "assets/audio/t_34_3.mp3"
-        },
-        {
-          "id": "t_34_4",
-          "text": "Some items ran out after the suspension service.",
-          "audio": "assets/audio/t_34_4.mp3"
-        },
-        {
-          "id": "t_34_5",
-          "text": "I see. Yesterday was busy.",
-          "audio": "assets/audio/t_34_5.mp3"
-        },
-        {
-          "id": "t_34_6",
-          "text": "Did you notice which tools were missing?",
-          "audio": "assets/audio/t_34_6.mp3"
         },
         {
           "id": "t_34_7",
@@ -482,49 +457,9 @@
           "audio": "assets/audio/t_34_7.mp3"
         },
         {
-          "id": "t_34_8",
-          "text": "The blue model worked well, but the red one felt weak.",
-          "audio": "assets/audio/t_34_8.mp3"
-        },
-        {
-          "id": "t_34_9",
-          "text": "Yes, the blue model is definitely better.",
-          "audio": "assets/audio/t_34_9.mp3"
-        },
-        {
-          "id": "t_34_10",
-          "text": "We are going to order more of those.",
-          "audio": "assets/audio/t_34_10.mp3"
-        },
-        {
-          "id": "t_34_11",
-          "text": "What about the rubber-coated impact sockets?",
-          "audio": "assets/audio/t_34_11.mp3"
-        },
-        {
-          "id": "t_34_12",
-          "text": "We finished the medium sizes.",
-          "audio": "assets/audio/t_34_12.mp3"
-        },
-        {
           "id": "t_34_13",
           "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
           "audio": "assets/audio/t_34_13.mp3"
-        },
-        {
-          "id": "t_34_14",
-          "text": "The plastic clips kept bending.",
-          "audio": "assets/audio/t_34_14.mp3"
-        },
-        {
-          "id": "t_34_15",
-          "text": "I agree. Let’s order the metal ones.",
-          "audio": "assets/audio/t_34_15.mp3"
-        },
-        {
-          "id": "t_34_16",
-          "text": "Did you also check the EV-safe insulated spanners?",
-          "audio": "assets/audio/t_34_16.mp3"
         },
         {
           "id": "t_34_17",
@@ -532,24 +467,9 @@
           "audio": "assets/audio/t_34_17.mp3"
         },
         {
-          "id": "t_34_18",
-          "text": "Yes, sir. I checked them.",
-          "audio": "assets/audio/t_34_18.mp3"
-        },
-        {
           "id": "t_34_19",
           "text": "The new series had a better grip, but the coating on two spanners was damaged.",
           "audio": "assets/audio/t_34_19.mp3"
-        },
-        {
-          "id": "t_34_20",
-          "text": "I returned them to the supplier yesterday.",
-          "audio": "assets/audio/t_34_20.mp3"
-        },
-        {
-          "id": "t_34_21",
-          "text": "Good. We must keep safety standards.",
-          "audio": "assets/audio/t_34_21.mp3"
         },
         {
           "id": "t_34_22",
@@ -557,19 +477,9 @@
           "audio": "assets/audio/t_34_22.mp3"
         },
         {
-          "id": "t_34_23",
-          "text": "What quantities do we need?",
-          "audio": "assets/audio/t_34_23.mp3"
-        },
-        {
           "id": "t_34_24",
           "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
           "audio": "assets/audio/t_34_24.mp3"
-        },
-        {
-          "id": "t_34_25",
-          "text": "Perfect. What about diagnostic probe leads?",
-          "audio": "assets/audio/t_34_25.mp3"
         },
         {
           "id": "t_34_26",
@@ -577,49 +487,14 @@
           "audio": "assets/audio/t_34_26.mp3"
         },
         {
-          "id": "t_34_27",
-          "text": "Yes, sir. Yesterday I compared them.",
-          "audio": "assets/audio/t_34_27.mp3"
-        },
-        {
           "id": "t_34_28",
           "text": "The green brand gave clearer readings.",
           "audio": "assets/audio/t_34_28.mp3"
         },
         {
-          "id": "t_34_29",
-          "text": "The yellow brand was slower.",
-          "audio": "assets/audio/t_34_29.mp3"
-        },
-        {
-          "id": "t_34_30",
-          "text": "Then we will switch to the green brand.",
-          "audio": "assets/audio/t_34_30.mp3"
-        },
-        {
-          "id": "t_34_31",
-          "text": "Anything else?",
-          "audio": "assets/audio/t_34_31.mp3"
-        },
-        {
-          "id": "t_34_32",
-          "text": "Yes, sir. We also need oil-filter pliers.",
-          "audio": "assets/audio/t_34_32.mp3"
-        },
-        {
           "id": "t_34_33",
           "text": "The adjustable model is stronger and more practical than the fixed one.",
           "audio": "assets/audio/t_34_33.mp3"
-        },
-        {
-          "id": "t_34_34",
-          "text": "And maybe 10 cans of oil.",
-          "audio": "assets/audio/t_34_34.mp3"
-        },
-        {
-          "id": "t_34_35",
-          "text": "Good point. I’ll add them.",
-          "audio": "assets/audio/t_34_35.mp3"
         },
         {
           "id": "t_34_36",
