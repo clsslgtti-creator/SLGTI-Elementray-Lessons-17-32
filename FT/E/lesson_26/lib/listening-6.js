@@ -192,6 +192,7 @@ const normalizeMatchingPairs = (raw = []) => {
         id,
         itemA,
         itemB,
+        matchValue: normalizeValue(itemB),
       };
     })
     .filter(Boolean);
@@ -321,6 +322,7 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     const zone = document.createElement("div");
     zone.className = "word-match-dropzone";
     zone.dataset.expectedId = entry.id;
+    zone.dataset.expectedValue = entry.matchValue;
     zone.dataset.zoneId = entry.id;
 
     const placeholder = document.createElement("span");
@@ -341,6 +343,7 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     const card = document.createElement("div");
     card.className = "word-match-card";
     card.dataset.itemId = entry.id;
+    card.dataset.matchValue = entry.matchValue;
     card.dataset.assignedZone = "";
     card.textContent = entry.itemA;
     return card;
@@ -366,13 +369,15 @@ const buildMatchingSlide = (data = {}, context = {}) => {
     if (!zone) {
       return false;
     }
-    const expectedId = zone.dataset.expectedId;
+    const expectedValue = zone.dataset.expectedValue;
     zone.classList.remove("is-correct", "is-incorrect");
     cardEl?.classList.remove("is-correct", "is-incorrect");
     if (!cardEl) {
       return false;
     }
-    const isMatch = cardEl.dataset.itemId === expectedId;
+    const isMatch = expectedValue
+      ? cardEl.dataset.matchValue === expectedValue
+      : cardEl.dataset.itemId === zone.dataset.expectedId;
     if (isMatch) {
       zone.classList.add("is-correct");
       cardEl.classList.add("is-correct");

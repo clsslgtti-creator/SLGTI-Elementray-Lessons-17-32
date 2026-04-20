@@ -49,6 +49,11 @@ const waitMs = (duration, { signal } = {}) =>
 const trimString = (value) =>
   typeof value === "string" ? value.trim() : "";
 
+const normalizeValue = (value) => {
+  const trimmed = trimString(value);
+  return trimmed ? trimmed.toLowerCase() : "";
+};
+
 const createStatus = () => {
   const status = document.createElement("p");
   status.className = "playback-status";
@@ -165,6 +170,7 @@ const normalizeWordSentencePairs = (raw = []) => {
         id,
         word,
         definition,
+        matchValue: normalizeValue(definition),
       };
     })
     .filter(Boolean);
@@ -430,6 +436,7 @@ const buildWordSentenceMatchingSlide = (pairs, context = {}) => {
     const zone = document.createElement("div");
     zone.className = "word-match-dropzone";
     zone.dataset.expectedId = entry.id;
+    zone.dataset.expectedValue = entry.matchValue;
     zone.dataset.zoneId = entry.id;
 
     const placeholder = document.createElement("span");
@@ -450,6 +457,7 @@ const buildWordSentenceMatchingSlide = (pairs, context = {}) => {
     const card = document.createElement("div");
     card.className = "word-match-card";
     card.dataset.itemId = entry.id;
+    card.dataset.matchValue = entry.matchValue;
     card.dataset.assignedZone = "";
     card.textContent = entry.word;
     return card;
@@ -474,13 +482,15 @@ const buildWordSentenceMatchingSlide = (pairs, context = {}) => {
     if (!zone) {
       return false;
     }
-    const expectedId = zone.dataset.expectedId;
+    const expectedValue = zone.dataset.expectedValue;
     zone.classList.remove("is-correct", "is-incorrect");
     cardEl?.classList.remove("is-correct", "is-incorrect");
     if (!cardEl) {
       return false;
     }
-    const isMatch = cardEl.dataset.itemId === expectedId;
+    const isMatch = expectedValue
+      ? cardEl.dataset.matchValue === expectedValue
+      : cardEl.dataset.itemId === zone.dataset.expectedId;
     if (isMatch) {
       zone.classList.add("is-correct");
       cardEl.classList.add("is-correct");
