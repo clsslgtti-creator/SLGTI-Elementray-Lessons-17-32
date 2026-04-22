@@ -224,11 +224,11 @@
             "sentence": "He supervises the trainees, he instructs the assistants and he checks hygiene and safety compliance.",
             "audio": "assets/audio/g_b_ex.mp3",
             "options": [
-              "What does the chief instructor do everyday?",
+              "What does the chief instructor do every day?",
               "What is the chief instructor doing?",
               "Is the chief instructor supervising?"
             ],
-            "answer": "What does the chief instructor do everyday?"
+            "answer": "What does the chief instructor do every day?"
           }
         ],
         "content": [
@@ -267,14 +267,14 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "He is very punctual everyday.",
+            "sentence": "He is very punctual every day.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
-              "Is your instructor on time everyday?",
+              "Is your instructor on time every day?",
               "Who is your instructor?",
               "Are the instructors coming on time?"
             ],
-            "answer": "Is your instructor on time everyday?"
+            "answer": "Is your instructor on time every day?"
           },
           {
             "id": "g_b_5",
@@ -289,14 +289,14 @@
           },
           {
             "id": "g_b_6",
-            "sentence": "They work in 3 different sections everyday.",
+            "sentence": "They work in 3 different sections every day.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
-              "Do the trainees work in the same section everyday?",
+              "Do the trainees work in the same section every day?",
               "What are the trainees do every day?",
               "Is the schedule for the trainees every day?"
             ],
-            "answer": "Do the trainees work in the same section everyday?"
+            "answer": "Do the trainees work in the same section every day?"
           },
           {
             "id": "g_b_7",
@@ -330,7 +330,7 @@
         },
         {
           "id": "g_b_ex_a",
-          "text": "What does the chief instructor do everyday?",
+          "text": "What does the chief instructor do every day?",
           "audio": "assets/audio/g_b_ex_a.mp3"
         },
         {
@@ -365,12 +365,12 @@
         },
         {
           "id": "g_b_4",
-          "text": "He is very punctual everyday.",
+          "text": "He is very punctual every day.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_4_a",
-          "text": "Is your instructor on time everyday?",
+          "text": "Is your instructor on time every day?",
           "audio": "assets/audio/g_b_4_a.mp3"
         },
         {
@@ -385,12 +385,12 @@
         },
         {
           "id": "g_b_6",
-          "text": "They work in 3 different sections everyday.",
+          "text": "They work in 3 different sections every day.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_6_a",
-          "text": "Do the trainees work in the same section everyday?",
+          "text": "Do the trainees work in the same section every day?",
           "audio": "assets/audio/g_b_6_a.mp3"
         },
         {
