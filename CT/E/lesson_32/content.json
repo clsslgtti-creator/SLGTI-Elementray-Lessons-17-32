@@ -703,7 +703,7 @@
         },
         { "blank": "confirmed", "id": "7" },
         { "text": " their dates so things feel more " },
-        { "blank": "organised", "id": "8" },
+        { "blank": "organised", "id": "8", "alternative": ["organized "] },
         {
           "text": " than last week. After graduation, I will apply for an industrial "
         },
