@@ -83,7 +83,7 @@
         "answer": "Is there a digital caliper on the workbench?"
       },
       {
-        "question": "No, there isn’t. Actually, there isn’t any torque wrench in the tool cabinet.",
+        "question": "No, there aren't. Actually, there aren't any torque wrenches in the tool cabinet.",
         "options": [
           "Is there a torque wrench in the tool cabinet?",
           "Are the torque wrenches in the tool cabinet?",
@@ -419,7 +419,7 @@
           "Why didn’t Susan place an order for industrial boots?",
           "What was the correct size of the gloves?"
         ],
-        "answer": "Why didn’t Susan place an order for industrial boots?"
+        "answer": "Did Susan fill in the request form for industrial boots yesterday morning?"
       },
       {
         "question": "Yes, she was. She came on time last night.",
@@ -603,16 +603,6 @@
         "answer": "He serviced hydraulic presses, aligned rotating equipment, and replaced bearings."
       },
       {
-        "question": "What is the applicant’s attitude toward learning advanced skills like CNC calibration?",
-        "options": [
-          "He is not willing to learn because it is too complex.",
-          "He has some knowledge and doesn’t need more training.",
-          "He has basic knowledge and is eager to improve.",
-          "He prefers not to work with CNC machines."
-        ],
-        "answer": "He has basic knowledge and is eager to improve."
-      },
-      {
         "question": "How does the applicant say he performs under pressure?",
         "options": [
           "He ignores safety procedures to work faster.",
@@ -621,6 +611,16 @@
           "He stays focused, follows safety rules, and asks for clarification when needed."
         ],
         "answer": "He stays focused, follows safety rules, and asks for clarification when needed."
+      },
+      {
+        "question": "What is the applicant’s attitude toward learning advanced skills like CNC calibration?",
+        "options": [
+          "He is not willing to learn because it is too complex.",
+          "He has some knowledge and doesn’t need more training.",
+          "He has basic knowledge and is eager to improve.",
+          "He prefers not to work with CNC machines."
+        ],
+        "answer": "He has basic knowledge and is eager to improve."
       },
       {
         "question": "What will the company do before making a final hiring decision?",
