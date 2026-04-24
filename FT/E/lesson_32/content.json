@@ -83,7 +83,7 @@
         "answer": "Is there a digital scale in the bakery lab?"
       },
       {
-        "question": "No, there isn’t. Actually, there isn’t any sugar thermometer in the kitchen.",
+        "question": "No, there aren't. Actually, there aren't any sugar thermometers in the kitchen.",
         "options": [
           "Is there a sugar thermometer in the kitchen?",
           "Are the sugar thermometers in the kitchen?",
@@ -408,7 +408,7 @@
           "Why didn’t Susan place an order for industrial boots?",
           "What was the correct size of the gloves?"
         ],
-        "answer": "Why didn’t Susan place an order for industrial boots?"
+        "answer": "Did Susan fill in the request form for industrial boots yesterday morning?"
       },
       {
         "question": "Yes, she was. She came on time last night.",
@@ -592,16 +592,6 @@
         "answer": "She tested samples, monitored temperatures, inspected packaging, and supported audits."
       },
       {
-        "question": "What is the applicant’s attitude toward learning advanced systems?",
-        "options": [
-          "She refuses to work with digital tools.",
-          "She has some knowledge and doesn’t need further training.",
-          "She has basic knowledge and is eager to improve.",
-          "She prefers manual work and avoids software."
-        ],
-        "answer": "She has basic knowledge and is eager to improve."
-      },
-      {
         "question": "How does the applicant say she performs under pressure?",
         "options": [
           "She ignores protocols to finish work faster.",
@@ -610,6 +600,16 @@
           "She stays calm, follows safety rules, and asks for clarification when needed."
         ],
         "answer": "She stays calm, follows safety rules, and asks for clarification when needed."
+      },
+      {
+        "question": "What is the applicant’s attitude toward learning advanced systems?",
+        "options": [
+          "She refuses to work with digital tools.",
+          "She has some knowledge and doesn’t need further training.",
+          "She has basic knowledge and is eager to improve.",
+          "She prefers manual work and avoids software."
+        ],
+        "answer": "She has basic knowledge and is eager to improve."
       },
       {
         "question": "What will the company do before making a final hiring decision?",

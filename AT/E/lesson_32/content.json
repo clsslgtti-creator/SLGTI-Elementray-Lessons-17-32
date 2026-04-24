@@ -412,7 +412,7 @@
           "Why didn’t Susan place an order for industrial boots?",
           "What was the correct size of the gloves?"
         ],
-        "answer": "Why didn’t Susan place an order for industrial boots?"
+        "answer": "Did Susan fill in the request form for industrial boots yesterday morning?"
       },
       {
         "question": "Yes, she was. She came on time last night.",
@@ -596,16 +596,6 @@
         "answer": "He inspected engines, replaced components, and assisted with major repairs."
       },
       {
-        "question": "What is the applicant’s attitude toward learning new skills like ECU programming?",
-        "options": [
-          "He is unsure and prefers not to learn advanced tasks.",
-          "He already considers himself an expert in ECU programming.",
-          "He has limited experience but is very willing to learn.",
-          "He has limited experience and is not willing to learn."
-        ],
-        "answer": "He has limited experience but is very willing to learn."
-      },
-      {
         "question": "Which ability does the applicant mention when asked about handling pressure?",
         "options": [
           "His ability not to ask for clarification when needed",
@@ -614,6 +604,16 @@
           "He stays focused, follows procedures, and asks for clarification when needed."
         ],
         "answer": "He stays focused, follows procedures, and asks for clarification when needed."
+      },
+      {
+        "question": "What is the applicant’s attitude toward learning new skills like ECU programming?",
+        "options": [
+          "He is unsure and prefers not to learn advanced tasks.",
+          "He already considers himself an expert in ECU programming.",
+          "He has limited experience but is very willing to learn.",
+          "He has limited experience and is not willing to learn."
+        ],
+        "answer": "He has limited experience but is very willing to learn."
       },
       {
         "question": "What will happen before the company makes a final hiring decision?",
