@@ -11,6 +11,22 @@ const normalizeId = (raw, index, prefix) => {
 
 const normalizeAnswer = (value) => normalizeText(value).toLowerCase();
 
+const normalizeAcceptedAnswers = (answer, alternatives = []) => {
+  const seen = new Set();
+  return [answer, ...(Array.isArray(alternatives) ? alternatives : [])]
+    .map((value) => normalizeAnswer(value))
+    .filter((value) => {
+      if (!value || seen.has(value)) {
+        return false;
+      }
+      seen.add(value);
+      return true;
+    });
+};
+
+const isAcceptedAnswer = (valueNormalized, segment) =>
+  (segment?.acceptedAnswers || []).includes(valueNormalized);
+
 const createHeading = (context = {}) => {
   if (context.activityNumber) {
     return `Activity ${context.activityNumber}`;
@@ -77,6 +93,10 @@ const normalizeSegments = (raw = []) =>
         id: normalizeId(entry?.id, index, "listening_para"),
         answer,
         answerNormalized: normalizeAnswer(answer),
+        acceptedAnswers: normalizeAcceptedAnswers(
+          answer,
+          entry?.alternative ?? entry?.alternative_answers ?? entry?.alternatives
+        ),
       };
     })
     .filter(Boolean);
@@ -432,7 +452,7 @@ export const buildListeningParaSlides = (
     blankEntries.forEach((entry) => {
       entry.value = entry.input.value;
       entry.valueNormalized = normalizeAnswer(entry.input.value);
-      const isCorrect = entry.valueNormalized === entry.segment.answerNormalized;
+      const isCorrect = isAcceptedAnswer(entry.valueNormalized, entry.segment);
       if (isCorrect) {
         correctCount += 1;
       }
@@ -481,7 +501,7 @@ export const buildListeningParaSlides = (
         entry.valueNormalized = normalizeAnswer(storedAnswer);
       }
 
-      const isCorrect = entry.valueNormalized === entry.segment.answerNormalized;
+      const isCorrect = isAcceptedAnswer(entry.valueNormalized, entry.segment);
       if (isCorrect) {
         correctCount += 1;
       }
