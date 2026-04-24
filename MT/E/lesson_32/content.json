@@ -69,8 +69,8 @@
     "marks_for_each_q": 1,
     "type": "MCQ",
     "instruction": {
-      "text": "Read the following sentences and click on the correct response. \nපහත වාක්‍ය කියවන්න. නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசிக்கவும். சரியான பதிலைக் கிளிக் செய்யவும்.",
-      "audio": "assets/audio/a_2_a_i_x.mp3"
+      "text": "Read the following sentences and click on the correct question. \nපහත වාක්‍ය කියවන්න. නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசித்து, சரியான கேள்வியைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i_y.mp3"
     },
     "content": [
       {
@@ -685,8 +685,8 @@
       "marks_for_each_q": 1,
       "type": "LISTENING-PARA",
       "instruction": {
-        "text": "Listen to the audio which will be played twice and fill in the blanks. Read the questions first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යය අසා බලන්න. පසුව හිස්තැන පිරවන්න. ප්‍රශ්න පළමුව කියවන්න.\nஇருமுறை ஒலிக்கப்படும் ஆடியோவை கேட்கவும். பின்னர் வெற்றிடத்தை நிரப்பவும். முதலில் கேள்விகளைப் படியுங்கள்.",
-        "audio": "assets/audio/a_4_i_x.mp3"
+        "text": "Listen to the audio which will be played twice and fill in the blanks. Read the passage first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී හිස්තැන් පුරවන්න. පළමුව ඡේදය කියවන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், அதைக் கேட்டு கோடிட்ட இடங்களை நிரப்பவும். முதலில் அந்தப் பத்தியை வாசிக்கவும்.",
+        "audio": "assets/audio/a_4_i_y.mp3"
       },
       "audio": "assets/audio/a_7_b_q.mp3",
       "content": [
