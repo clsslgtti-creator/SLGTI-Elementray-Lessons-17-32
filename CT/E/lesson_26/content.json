@@ -434,25 +434,25 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-7",
+    "type": "LISTENING-2",
     "instructions": {
       "activity_a": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
         "audio": "assets/audio/a_4_i_a.mp3"
       },
-      "activity_b": {
+      "activity_xxx": {
         "text": "You will hear each recording twice. Listen and mark who says the following sentences.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. පහත වාක්‍ය කියන්නේ කව්දැයි සලකුණු කරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கீழே உள்ள வாக்கியங்களை யார் கூறுகிறார்கள் என்பதை கேட்டு குறியிடுங்கள்.",
         "audio": "assets/audio/a_4_i_f.mp3"
       },
-      "activity_c": {
+      "activity_b": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
         "audio": "assets/audio/a_2_i_b.mp3"
       },
-      "activity_d": {
+      "activity_c": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       },
-      "activity_e": {
+      "activity_d": {
         "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
         "audio": "assets/audio/a_2_i_d.mp3"
       }
@@ -513,7 +513,7 @@
           }
         ]
       },
-      "activity_b": [
+      "activity_xxx": [
         {
           "id": "l_1_1",
           "question_audio": "assets/audio/t_31_36.mp3",
@@ -587,7 +587,7 @@
           "options": ["Haran", "Latha", "Instructor Suresh"]
         }
       ],
-      "activity_c": [
+      "activity_b": [
         {
           "id": "t_31_1",
           "text": "Haran and Latha walked up to Mr. Suresh after the morning safety briefing.",
@@ -784,7 +784,7 @@
           "audio": "assets/audio/t_31_39.mp3"
         }
       ],
-      "activity_d": [
+      "activity_c": [
         {
           "id": "t_31_36",
           "text": "I’m going to follow the block-laying sequence properly, check the plumb after each block, and use the newer trowel.",
@@ -846,7 +846,7 @@
           "audio": "assets/audio/t_31_5.mp3"
         }
       ],
-      "activity_e": [
+      "activity_d": [
         {
           "id": "t_31_1",
           "text": "Haran and Latha walked up to Mr. Suresh after the morning safety briefing.",
