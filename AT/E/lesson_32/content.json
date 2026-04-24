@@ -722,63 +722,75 @@
     }
   },
   "activity_8": {
-    "marks_for_each_q": 1,
-    "type": "MATCHING-WORDS",
-    "instruction": {
-      "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන යා කරන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
-      "audio": "assets/audio/a_1_a_i_x.mp3"
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "MATCHING-WORDS",
+      "instruction": {
+        "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන යා කරන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
+        "audio": "assets/audio/a_1_a_i_x.mp3"
+      },
+      "content": [
+        {
+          "id": "m_1_1",
+          "item_a": "diagnose",
+          "item_b": "faults"
+        },
+        {
+          "id": "m_1_2",
+          "item_a": "estimate",
+          "item_b": "costs"
+        },
+        {
+          "id": "m_1_3",
+          "item_a": "report",
+          "item_b": "issues"
+        },
+        {
+          "id": "m_1_4",
+          "item_a": "update",
+          "item_b": "logs"
+        },
+        {
+          "id": "m_1_5",
+          "item_a": "wear",
+          "item_b": "protective gloves"
+        }
+      ]
     },
-    "content": [
-      {
-        "id": "m_1_1",
-        "item_a": "diagnose",
-        "item_b": "faults"
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "MATCHING-WORDS",
+      "instruction": {
+        "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන යා කරන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
+        "audio": "assets/audio/a_1_a_i_x.mp3"
       },
-      {
-        "id": "m_1_2",
-        "item_a": "estimate",
-        "item_b": "costs"
-      },
-      {
-        "id": "m_1_3",
-        "item_a": "report",
-        "item_b": "issues"
-      },
-      {
-        "id": "m_1_4",
-        "item_a": "update",
-        "item_b": "logs"
-      },
-      {
-        "id": "m_1_5",
-        "item_a": "wear",
-        "item_b": "protective gloves"
-      },
-      {
-        "id": "m_2_1",
-        "item_a": "start",
-        "item_b": "work"
-      },
-      {
-        "id": "m_2_2",
-        "item_a": "report",
-        "item_b": "issues"
-      },
-      {
-        "id": "m_2_3",
-        "item_a": "order",
-        "item_b": "spare parts"
-      },
-      {
-        "id": "m_2_4",
-        "item_a": "record",
-        "item_b": "data"
-      },
-      {
-        "id": "m_2_5",
-        "item_a": "follow",
-        "item_b": "instructions"
-      }
-    ]
+      "content": [
+        {
+          "id": "m_2_1",
+          "item_a": "start",
+          "item_b": "work"
+        },
+        {
+          "id": "m_2_2",
+          "item_a": "report",
+          "item_b": "issues"
+        },
+        {
+          "id": "m_2_3",
+          "item_a": "order",
+          "item_b": "spare parts"
+        },
+        {
+          "id": "m_2_4",
+          "item_a": "record",
+          "item_b": "data"
+        },
+        {
+          "id": "m_2_5",
+          "item_a": "follow",
+          "item_b": "instructions"
+        }
+      ]
+    }
   }
 }
