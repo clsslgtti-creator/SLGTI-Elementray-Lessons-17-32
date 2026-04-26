@@ -219,7 +219,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Read the questions and choose an answer according to your level of skill. \nප්‍රශ්න කියවන්න සහ ඔබේ කුසලතා මට්ටමට අනුව පිළිතුරක් තෝරන්න.\nகேள்விகளைப் படியுங்கள் மற்றும் உங்கள் திறன் நிலைக்கு ஏற்ப பதிலைத் தேர்ந்தெடுங்கள்.",
+        "text": "Read the questions and choose an answer according to your level of skill. \nප්‍රශ්න කියවා ඔබේ කුසලතා මට්ටම අනුව පිළිතුරක් තෝරන්න.\nகேள்விகளைப் படியுங்கள் மற்றும் உங்கள் திறன் நிலைக்கு ஏற்ப பதிலைத் தேர்ந்தெடுங்கள்.",
         "audio": "assets/audio/a_3_i_f.mp3"
       },
       "activity_b": {
@@ -411,7 +411,7 @@
     "type": "LISTENING-2",
     "instructions": {
       "activity_a": {
-        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nදෙවරක් වාදනය වන පටිගත කිරීමට සවන් දී නිවැරදි පිළිතුර මත ක්ලික් කරන්න. පටිගත කිරීමට සවන් දීමට පෙර, ප්‍රශ්න කියවීම ඉතා වැදගත් වේ.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
         "audio": "assets/audio/a_4_i_a.mp3"
       },
       "activity_b": {
