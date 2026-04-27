@@ -168,8 +168,8 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Can you cook wheat flour string hoppers?",
-        "text_b": "No, I can’t. But I can cook red rice kiribath.",
+        "text_a": "Can you make wheat flour string hoppers?",
+        "text_b": "No, I can’t. But I can make red rice kiribath.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
