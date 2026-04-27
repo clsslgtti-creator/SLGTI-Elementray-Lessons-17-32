@@ -168,8 +168,8 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Can you cook wheat flour string hoppers?",
-        "text_b": "No, I can’t. But I can cook red rice kiribath.",
+        "text_a": "Can you make wheat flour string hoppers?",
+        "text_b": "No, I can’t. But I can make red rice kiribath.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
@@ -239,7 +239,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
@@ -251,7 +251,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
@@ -263,7 +263,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
@@ -275,7 +275,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
@@ -287,19 +287,19 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
           {
             "id": "g_b_6",
-            "sentence": "Can you work early in the morning when orders are high?",
+            "sentence": "Can you handle a high volume of orders?",
             "audio": "assets/audio/a_3_b_g_6.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
@@ -311,7 +311,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
@@ -323,7 +323,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
@@ -335,7 +335,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           },
@@ -347,7 +347,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.png"
           }
@@ -381,7 +381,7 @@
         },
         {
           "id": "n_3_6",
-          "text": "Can you work early in the morning when orders are high?",
+          "text": "Can you handle a high volume of orders?",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
@@ -434,10 +434,10 @@
           {
             "id": "l_7_1",
             "question": "Can you handle complex laboratory testing or large-scale quality control systems?",
-            "answer": "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
+            "answer": "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
             "options": [
               "Yes, I can. Actually, I can do it quite well.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "No, I can’t. But I am sure I can learn quickly."
             ]
           },
@@ -454,9 +454,9 @@
           {
             "id": "l_7_3",
             "question": "Can you work in hot or cold areas in the production line?",
-            "answer": "Yes, I am. Actually, I am very good at it.",
+            "answer": "Yes, I can. Actually, I am very good at it.",
             "options": [
-              "Yes, I am. Actually, I am very good at it.",
+              "Yes, I can. Actually, I am very good at it.",
               "No, I can’t. But I am sure I can learn quickly.",
               "I can do it, but not very well. But I am willing to learn."
             ]
@@ -511,7 +511,7 @@
         },
         {
           "id": "t_6_6",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_6_6.mp3"
         },
         {
@@ -563,7 +563,7 @@
         },
         {
           "id": "t_6_6",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_6_6.mp3"
         },
         {
@@ -615,7 +615,7 @@
         },
         {
           "id": "t_6_6",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_6_6.mp3"
         },
         {
