@@ -454,9 +454,9 @@
           {
             "id": "l_9_3",
             "question": "Can you work with heavy equipment or oily surfaces?",
-            "answer": "Yes, I am. Actually, I am very good at it.",
+            "answer": "Yes, I can. Actually, I am very good at it.",
             "options": [
-              "Yes, I am. Actually, I am very good at it.",
+              "Yes, I can. Actually, I am very good at it.",
               "No, I can’t. But I am sure I can learn quickly.",
               "I can do it, but not very well. But I am willing to learn."
             ]
@@ -511,7 +511,7 @@
         },
         {
           "id": "t_8_6",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_8_6.mp3"
         },
         {
@@ -563,7 +563,7 @@
         },
         {
           "id": "t_8_6",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_8_6.mp3"
         },
         {
@@ -615,7 +615,7 @@
         },
         {
           "id": "t_8_6",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_8_6.mp3"
         },
         {

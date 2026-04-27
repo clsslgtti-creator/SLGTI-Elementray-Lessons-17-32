@@ -444,9 +444,9 @@
           {
             "id": "l_5_2",
             "question": "Are you comfortable working at heights or outdoors on scaffolding?",
-            "answer": "Yes, I am. Actually, I am very good at it.",
+            "answer": "Yes, I can. Actually, I am very good at it.",
             "options": [
-              "Yes, I am. Actually, I am very good at it.",
+              "Yes, I can. Actually, I am very good at it.",
               "No, I can’t. But I am sure I can learn quickly.",
               "I can do it, but not very well. But I am willing to learn."
             ]
@@ -501,7 +501,7 @@
         },
         {
           "id": "t_4_4",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_4_4.mp3"
         },
         {
@@ -553,7 +553,7 @@
         },
         {
           "id": "t_4_4",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_4_4.mp3"
         },
         {
@@ -605,7 +605,7 @@
         },
         {
           "id": "t_4_4",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_4_4.mp3"
         },
         {

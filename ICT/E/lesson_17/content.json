@@ -464,9 +464,9 @@
           {
             "id": "l_8_4",
             "question": "Can you work long hours at the computer or in server rooms configuring computers?",
-            "answer": "Yes, I am. Actually, I am very good at it.",
+            "answer": "Yes, I can. Actually, I am very good at it.",
             "options": [
-              "Yes, I am. Actually, I am very good at it.",
+              "Yes, I can. Actually, I am very good at it.",
               "No, I can’t. But I am sure I can learn quickly.",
               "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance."
             ]
@@ -521,7 +521,7 @@
         },
         {
           "id": "t_7_8",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_7_8.mp3"
         },
         {
@@ -573,7 +573,7 @@
         },
         {
           "id": "t_7_8",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_7_8.mp3"
         },
         {
@@ -625,7 +625,7 @@
         },
         {
           "id": "t_7_8",
-          "text": "Yes, I am. Actually, I am very good at it.",
+          "text": "Yes, I can. Actually, I am very good at it.",
           "audio": "assets/audio/t_7_8.mp3"
         },
         {
