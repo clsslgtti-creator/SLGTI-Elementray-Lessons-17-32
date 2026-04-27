@@ -239,7 +239,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -251,7 +251,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -263,7 +263,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -275,7 +275,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -287,7 +287,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -299,7 +299,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -311,7 +311,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -323,7 +323,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -335,7 +335,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           },
@@ -347,7 +347,7 @@
               "Yes, I can. Actually I can do it very well.",
               "Yes, I can. Not very well, but I am willing to learn.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. No, not at all, but I am sure I can learn in no time."
+              "No, I can’t. Not at all, but I am sure I can learn in no time."
             ],
             "image": "assets/img/a_3.jpeg"
           }
@@ -444,9 +444,9 @@
           {
             "id": "l_8_2",
             "question": "Can you handle advanced cybersecurity or large-scale database administration?",
-            "answer": "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
+            "answer": "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
             "options": [
-              "No, I can’t. No, not at all, but I am sure I can learn in no time under good guidance.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "No, I can’t. But I am sure I can learn quickly.",
               "I can do it, but not very well. But I am willing to learn."
             ]
