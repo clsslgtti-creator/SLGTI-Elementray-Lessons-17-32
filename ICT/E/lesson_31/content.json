@@ -685,16 +685,6 @@
           "id": "t_58_32",
           "text": "What are you doing about equipment inventory?",
           "audio": "assets/audio/t_58_32.mp3"
-        },
-        {
-          "id": "t_58_33",
-          "text": "I am updating the cable and device register every day.",
-          "audio": "assets/audio/t_58_33.mp3"
-        },
-        {
-          "id": "t_58_37",
-          "text": "Yes, we can keep printed ICT safety checklists.",
-          "audio": "assets/audio/t_58_37.mp3"
         }
       ],
       "activity_e": [
@@ -757,16 +747,6 @@
           "id": "t_58_32",
           "text": "What are you doing about equipment inventory?",
           "audio": "assets/audio/t_58_32.mp3"
-        },
-        {
-          "id": "t_58_33",
-          "text": "I am updating the cable and device register every day.",
-          "audio": "assets/audio/t_58_33.mp3"
-        },
-        {
-          "id": "t_58_37",
-          "text": "Yes, we can keep printed ICT safety checklists.",
-          "audio": "assets/audio/t_58_37.mp3"
         }
       ]
     }

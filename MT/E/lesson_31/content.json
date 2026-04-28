@@ -685,21 +685,6 @@
           "id": "t_57_23",
           "text": "I was too busy with the milling-machine calibration.",
           "audio": "assets/audio/t_57_23.mp3"
-        },
-        {
-          "id": "t_57_32",
-          "text": "What are you doing about tool inventory?",
-          "audio": "assets/audio/t_57_32.mp3"
-        },
-        {
-          "id": "t_57_33",
-          "text": "I am updating the spanner and cutter register every day.",
-          "audio": "assets/audio/t_57_33.mp3"
-        },
-        {
-          "id": "t_57_37",
-          "text": "Yes, we can keep printed mechanical safety checklists.",
-          "audio": "assets/audio/t_57_37.mp3"
         }
       ],
       "activity_e": [
@@ -762,21 +747,6 @@
           "id": "t_57_23",
           "text": "I was too busy with the milling-machine calibration.",
           "audio": "assets/audio/t_57_23.mp3"
-        },
-        {
-          "id": "t_57_32",
-          "text": "What are you doing about tool inventory?",
-          "audio": "assets/audio/t_57_32.mp3"
-        },
-        {
-          "id": "t_57_33",
-          "text": "I am updating the spanner and cutter register every day.",
-          "audio": "assets/audio/t_57_33.mp3"
-        },
-        {
-          "id": "t_57_37",
-          "text": "Yes, we can keep printed mechanical safety checklists.",
-          "audio": "assets/audio/t_57_37.mp3"
         }
       ]
     }
