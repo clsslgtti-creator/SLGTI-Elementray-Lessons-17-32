@@ -32,20 +32,20 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "'f'lour",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'f'lour in yesterday’s order was softer than the flour we received before.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "'f'ruit",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "The 'f'ruit from the shop was sweeter than the ones from our garden.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "'f'lour",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The 'f'lour in yesterday’s order was softer than the flour we received before.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_3",
