@@ -420,11 +420,6 @@
       },
       "activity_c": [
         {
-          "id": "t_57_1",
-          "text": "Good morning, Nimal.",
-          "audio": "assets/audio/t_57_1.mp3"
-        },
-        {
           "id": "t_57_2",
           "text": "Today I want to talk about how you are handling safety procedures and maintenance tasks in the mechanical workshop.",
           "audio": "assets/audio/t_57_2.mp3"
@@ -435,19 +430,9 @@
           "audio": "assets/audio/t_57_3.mp3"
         },
         {
-          "id": "t_57_4",
-          "text": "Good morning, madam. Things are going well, but I think some of our inspections can be faster.",
-          "audio": "assets/audio/t_57_4.mp3"
-        },
-        {
           "id": "t_57_5",
           "text": "For example, the lathe-machine check took longer than expected.",
           "audio": "assets/audio/t_57_5.mp3"
-        },
-        {
-          "id": "t_57_6",
-          "text": "Why did it take longer?",
-          "audio": "assets/audio/t_57_6.mp3"
         },
         {
           "id": "t_57_7",
@@ -465,16 +450,6 @@
           "audio": "assets/audio/t_57_9.mp3"
         },
         {
-          "id": "t_57_10",
-          "text": "I see.",
-          "audio": "assets/audio/t_57_10.mp3"
-        },
-        {
-          "id": "t_57_11",
-          "text": "When you check the lathe today, what are you going to do first?",
-          "audio": "assets/audio/t_57_11.mp3"
-        },
-        {
           "id": "t_57_12",
           "text": "I’m going to inspect the tool post and test the emergency stop button.",
           "audio": "assets/audio/t_57_12.mp3"
@@ -485,144 +460,14 @@
           "audio": "assets/audio/t_57_13.mp3"
         },
         {
-          "id": "t_57_14",
-          "text": "Good.",
-          "audio": "assets/audio/t_57_14.mp3"
-        },
-        {
-          "id": "t_57_15",
-          "text": "You have to be systematic.",
-          "audio": "assets/audio/t_57_15.mp3"
-        },
-        {
-          "id": "t_57_16",
-          "text": "What about the hydraulic press?",
-          "audio": "assets/audio/t_57_16.mp3"
-        },
-        {
-          "id": "t_57_17",
-          "text": "Can you handle the pressure-gauge adjustment?",
-          "audio": "assets/audio/t_57_17.mp3"
-        },
-        {
-          "id": "t_57_18",
-          "text": "Yes, I can, but the new gauge is more sensitive than the old one, so I have to be careful.",
-          "audio": "assets/audio/t_57_18.mp3"
-        },
-        {
-          "id": "t_57_19",
-          "text": "The old gauge was slower, but it was easier than this new digital model.",
-          "audio": "assets/audio/t_57_19.mp3"
-        },
-        {
           "id": "t_57_20",
           "text": "Are you checking the PPE rack regularly?",
           "audio": "assets/audio/t_57_20.mp3"
         },
         {
-          "id": "t_57_21",
-          "text": "Yes, I am.",
-          "audio": "assets/audio/t_57_21.mp3"
-        },
-        {
           "id": "t_57_22",
           "text": "I check it every evening, but yesterday I wasn’t able to finish the face-shield sanitizing step.",
           "audio": "assets/audio/t_57_22.mp3"
-        },
-        {
-          "id": "t_57_23",
-          "text": "I was too busy with the milling-machine calibration.",
-          "audio": "assets/audio/t_57_23.mp3"
-        },
-        {
-          "id": "t_57_24",
-          "text": "You must not skip sanitizing.",
-          "audio": "assets/audio/t_57_24.mp3"
-        },
-        {
-          "id": "t_57_25",
-          "text": "It is more important than small adjustments.",
-          "audio": "assets/audio/t_57_25.mp3"
-        },
-        {
-          "id": "t_57_26",
-          "text": "What happened with the milling machine?",
-          "audio": "assets/audio/t_57_26.mp3"
-        },
-        {
-          "id": "t_57_27",
-          "text": "The display panel was brighter than normal, so I checked the calibration sensor.",
-          "audio": "assets/audio/t_57_27.mp3"
-        },
-        {
-          "id": "t_57_28",
-          "text": "It was dusty.",
-          "audio": "assets/audio/t_57_28.mp3"
-        },
-        {
-          "id": "t_57_29",
-          "text": "I cleaned it and reset the system.",
-          "audio": "assets/audio/t_57_29.mp3"
-        },
-        {
-          "id": "t_57_30",
-          "text": "Now it is working properly.",
-          "audio": "assets/audio/t_57_30.mp3"
-        },
-        {
-          "id": "t_57_31",
-          "text": "Good.",
-          "audio": "assets/audio/t_57_31.mp3"
-        },
-        {
-          "id": "t_57_32",
-          "text": "What are you doing about tool inventory?",
-          "audio": "assets/audio/t_57_32.mp3"
-        },
-        {
-          "id": "t_57_33",
-          "text": "I am updating the spanner and cutter register every day.",
-          "audio": "assets/audio/t_57_33.mp3"
-        },
-        {
-          "id": "t_57_34",
-          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
-          "audio": "assets/audio/t_57_34.mp3"
-        },
-        {
-          "id": "t_57_35",
-          "text": "That happens.",
-          "audio": "assets/audio/t_57_35.mp3"
-        },
-        {
-          "id": "t_57_36",
-          "text": "Do you think we need a backup system?",
-          "audio": "assets/audio/t_57_36.mp3"
-        },
-        {
-          "id": "t_57_37",
-          "text": "Yes, we can keep printed mechanical safety checklists.",
-          "audio": "assets/audio/t_57_37.mp3"
-        },
-        {
-          "id": "t_57_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_57_38.mp3"
-        },
-        {
-          "id": "t_57_39",
-          "text": "That sounds practical.",
-          "audio": "assets/audio/t_57_39.mp3"
-        },
-        {
-          "id": "t_57_40",
-          "text": "Keep improving your methods.",
-          "audio": "assets/audio/t_57_40.mp3"
-        },
-        {
-          "id": "t_57_41",
-          "text": "It will make the whole workshop more efficient than last month.",
-          "audio": "assets/audio/t_57_41.mp3"
         }
       ],
       "activity_d": [
@@ -667,11 +512,6 @@
           "audio": "assets/audio/t_57_13.mp3"
         },
         {
-          "id": "t_57_16",
-          "text": "What about the hydraulic press?",
-          "audio": "assets/audio/t_57_16.mp3"
-        },
-        {
           "id": "t_57_20",
           "text": "Are you checking the PPE rack regularly?",
           "audio": "assets/audio/t_57_20.mp3"
@@ -680,11 +520,6 @@
           "id": "t_57_22",
           "text": "I check it every evening, but yesterday I wasn’t able to finish the face-shield sanitizing step.",
           "audio": "assets/audio/t_57_22.mp3"
-        },
-        {
-          "id": "t_57_23",
-          "text": "I was too busy with the milling-machine calibration.",
-          "audio": "assets/audio/t_57_23.mp3"
         }
       ],
       "activity_e": [
@@ -729,11 +564,6 @@
           "audio": "assets/audio/t_57_13.mp3"
         },
         {
-          "id": "t_57_16",
-          "text": "What about the hydraulic press?",
-          "audio": "assets/audio/t_57_16.mp3"
-        },
-        {
           "id": "t_57_20",
           "text": "Are you checking the PPE rack regularly?",
           "audio": "assets/audio/t_57_20.mp3"
@@ -742,11 +572,6 @@
           "id": "t_57_22",
           "text": "I check it every evening, but yesterday I wasn’t able to finish the face-shield sanitizing step.",
           "audio": "assets/audio/t_57_22.mp3"
-        },
-        {
-          "id": "t_57_23",
-          "text": "I was too busy with the milling-machine calibration.",
-          "audio": "assets/audio/t_57_23.mp3"
         }
       ]
     }

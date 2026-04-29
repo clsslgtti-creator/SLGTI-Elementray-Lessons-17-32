@@ -420,24 +420,9 @@
       },
       "activity_c": [
         {
-          "id": "t_55_1",
-          "text": "Good morning, Nimal.",
-          "audio": "assets/audio/t_55_1.mp3"
-        },
-        {
           "id": "t_55_2",
           "text": "Today I want to talk about how you are handling safety equipment and procedures in the electrical workshop.",
           "audio": "assets/audio/t_55_2.mp3"
-        },
-        {
-          "id": "t_55_3",
-          "text": "How are things going?",
-          "audio": "assets/audio/t_55_3.mp3"
-        },
-        {
-          "id": "t_55_4",
-          "text": "Good morning, madam. Things are going well, but I think some of our testing procedures can be faster.",
-          "audio": "assets/audio/t_55_4.mp3"
         },
         {
           "id": "t_55_5",
@@ -445,34 +430,9 @@
           "audio": "assets/audio/t_55_5.mp3"
         },
         {
-          "id": "t_55_6",
-          "text": "Why did it take longer?",
-          "audio": "assets/audio/t_55_6.mp3"
-        },
-        {
           "id": "t_55_7",
           "text": "Yesterday the main breaker was weaker than usual, and I had to test the terminals twice.",
           "audio": "assets/audio/t_55_7.mp3"
-        },
-        {
-          "id": "t_55_8",
-          "text": "The wiring layout was also more complex than I thought.",
-          "audio": "assets/audio/t_55_8.mp3"
-        },
-        {
-          "id": "t_55_9",
-          "text": "I wasn’t expecting that.",
-          "audio": "assets/audio/t_55_9.mp3"
-        },
-        {
-          "id": "t_55_10",
-          "text": "I see.",
-          "audio": "assets/audio/t_55_10.mp3"
-        },
-        {
-          "id": "t_55_11",
-          "text": "When you check the distribution board today, what are you going to do first?",
-          "audio": "assets/audio/t_55_11.mp3"
         },
         {
           "id": "t_55_12",
@@ -485,34 +445,9 @@
           "audio": "assets/audio/t_55_13.mp3"
         },
         {
-          "id": "t_55_14",
-          "text": "Good.",
-          "audio": "assets/audio/t_55_14.mp3"
-        },
-        {
-          "id": "t_55_15",
-          "text": "You have to be systematic.",
-          "audio": "assets/audio/t_55_15.mp3"
-        },
-        {
           "id": "t_55_16",
           "text": "What about the new digital multimeter?",
           "audio": "assets/audio/t_55_16.mp3"
-        },
-        {
-          "id": "t_55_17",
-          "text": "Can you handle the range-selection calibration?",
-          "audio": "assets/audio/t_55_17.mp3"
-        },
-        {
-          "id": "t_55_18",
-          "text": "Yes, I can, but the new multimeter is more sensitive than the old one, so I have to be careful.",
-          "audio": "assets/audio/t_55_18.mp3"
-        },
-        {
-          "id": "t_55_19",
-          "text": "The old multimeter was slower, but it was easier than this new model.",
-          "audio": "assets/audio/t_55_19.mp3"
         },
         {
           "id": "t_55_20",
@@ -520,59 +455,9 @@
           "audio": "assets/audio/t_55_20.mp3"
         },
         {
-          "id": "t_55_21",
-          "text": "Yes, I am.",
-          "audio": "assets/audio/t_55_21.mp3"
-        },
-        {
           "id": "t_55_22",
           "text": "I check it every evening, but yesterday I wasn’t able to finish the insulating-glove test.",
           "audio": "assets/audio/t_55_22.mp3"
-        },
-        {
-          "id": "t_55_23",
-          "text": "I was too busy with the transformer-winding tester repair.",
-          "audio": "assets/audio/t_55_23.mp3"
-        },
-        {
-          "id": "t_55_24",
-          "text": "You must not skip glove testing.",
-          "audio": "assets/audio/t_55_24.mp3"
-        },
-        {
-          "id": "t_55_25",
-          "text": "It is more important than small adjustments.",
-          "audio": "assets/audio/t_55_25.mp3"
-        },
-        {
-          "id": "t_55_26",
-          "text": "What happened with the tester?",
-          "audio": "assets/audio/t_55_26.mp3"
-        },
-        {
-          "id": "t_55_27",
-          "text": "The reading panel was brighter than normal, so I checked the calibration points.",
-          "audio": "assets/audio/t_55_27.mp3"
-        },
-        {
-          "id": "t_55_28",
-          "text": "They were dusty.",
-          "audio": "assets/audio/t_55_28.mp3"
-        },
-        {
-          "id": "t_55_29",
-          "text": "I cleaned them and reset the panel.",
-          "audio": "assets/audio/t_55_29.mp3"
-        },
-        {
-          "id": "t_55_30",
-          "text": "Now it is working properly.",
-          "audio": "assets/audio/t_55_30.mp3"
-        },
-        {
-          "id": "t_55_31",
-          "text": "Good.",
-          "audio": "assets/audio/t_55_31.mp3"
         },
         {
           "id": "t_55_32",
@@ -580,49 +465,9 @@
           "audio": "assets/audio/t_55_32.mp3"
         },
         {
-          "id": "t_55_33",
-          "text": "I am updating the cable and tool register every day.",
-          "audio": "assets/audio/t_55_33.mp3"
-        },
-        {
-          "id": "t_55_34",
-          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
-          "audio": "assets/audio/t_55_34.mp3"
-        },
-        {
-          "id": "t_55_35",
-          "text": "That happens.",
-          "audio": "assets/audio/t_55_35.mp3"
-        },
-        {
-          "id": "t_55_36",
-          "text": "Do you think we need a backup system?",
-          "audio": "assets/audio/t_55_36.mp3"
-        },
-        {
           "id": "t_55_37",
           "text": "Yes, we can keep printed electrical safety checklists.",
           "audio": "assets/audio/t_55_37.mp3"
-        },
-        {
-          "id": "t_55_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_55_38.mp3"
-        },
-        {
-          "id": "t_55_39",
-          "text": "That sounds practical.",
-          "audio": "assets/audio/t_55_39.mp3"
-        },
-        {
-          "id": "t_55_40",
-          "text": "Keep improving your methods.",
-          "audio": "assets/audio/t_55_40.mp3"
-        },
-        {
-          "id": "t_55_41",
-          "text": "It will make the whole workshop more efficient than last month.",
-          "audio": "assets/audio/t_55_41.mp3"
         }
       ],
       "activity_d": [
@@ -667,19 +512,9 @@
           "audio": "assets/audio/t_55_22.mp3"
         },
         {
-          "id": "t_55_23",
-          "text": "I was too busy with the transformer-winding tester repair.",
-          "audio": "assets/audio/t_55_23.mp3"
-        },
-        {
           "id": "t_55_32",
           "text": "What are you doing about equipment inventory?",
           "audio": "assets/audio/t_55_32.mp3"
-        },
-        {
-          "id": "t_55_33",
-          "text": "I am updating the cable and tool register every day.",
-          "audio": "assets/audio/t_55_33.mp3"
         },
         {
           "id": "t_55_37",
@@ -729,19 +564,9 @@
           "audio": "assets/audio/t_55_22.mp3"
         },
         {
-          "id": "t_55_23",
-          "text": "I was too busy with the transformer-winding tester repair.",
-          "audio": "assets/audio/t_55_23.mp3"
-        },
-        {
           "id": "t_55_32",
           "text": "What are you doing about equipment inventory?",
           "audio": "assets/audio/t_55_32.mp3"
-        },
-        {
-          "id": "t_55_33",
-          "text": "I am updating the cable and tool register every day.",
-          "audio": "assets/audio/t_55_33.mp3"
         },
         {
           "id": "t_55_37",

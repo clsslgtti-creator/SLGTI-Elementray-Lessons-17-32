@@ -420,21 +420,6 @@
       },
       "activity_c": [
         {
-          "id": "t_56_1",
-          "text": "Good morning, Nimal.",
-          "audio": "assets/audio/t_56_1.mp3"
-        },
-        {
-          "id": "t_56_2",
-          "text": "Today I want to talk about how you are handling repairs and maintenance in the bakery section.",
-          "audio": "assets/audio/t_56_2.mp3"
-        },
-        {
-          "id": "t_56_3",
-          "text": "How are things going?",
-          "audio": "assets/audio/t_56_3.mp3"
-        },
-        {
           "id": "t_56_4",
           "text": "Good morning, madam. Things are going well, but I think some of our processes can be faster.",
           "audio": "assets/audio/t_56_4.mp3"
@@ -443,11 +428,6 @@
           "id": "t_56_5",
           "text": "For example, the dough mixer repair took longer than expected.",
           "audio": "assets/audio/t_56_5.mp3"
-        },
-        {
-          "id": "t_56_6",
-          "text": "Why did it take longer?",
-          "audio": "assets/audio/t_56_6.mp3"
         },
         {
           "id": "t_56_7",
@@ -460,49 +440,9 @@
           "audio": "assets/audio/t_56_8.mp3"
         },
         {
-          "id": "t_56_9",
-          "text": "I wasn’t expecting that.",
-          "audio": "assets/audio/t_56_9.mp3"
-        },
-        {
-          "id": "t_56_10",
-          "text": "I see.",
-          "audio": "assets/audio/t_56_10.mp3"
-        },
-        {
-          "id": "t_56_11",
-          "text": "When you check the mixer today, what are you going to do first?",
-          "audio": "assets/audio/t_56_11.mp3"
-        },
-        {
-          "id": "t_56_12",
-          "text": "I’m going to inspect the belt and test the speed controller.",
-          "audio": "assets/audio/t_56_12.mp3"
-        },
-        {
           "id": "t_56_13",
           "text": "I must also record everything in the maintenance log because the administration team needs clear reports.",
           "audio": "assets/audio/t_56_13.mp3"
-        },
-        {
-          "id": "t_56_14",
-          "text": "Good.",
-          "audio": "assets/audio/t_56_14.mp3"
-        },
-        {
-          "id": "t_56_15",
-          "text": "You have to be systematic.",
-          "audio": "assets/audio/t_56_15.mp3"
-        },
-        {
-          "id": "t_56_16",
-          "text": "What about the commercial oven?",
-          "audio": "assets/audio/t_56_16.mp3"
-        },
-        {
-          "id": "t_56_17",
-          "text": "Can you handle the temperature sensor adjustment?",
-          "audio": "assets/audio/t_56_17.mp3"
         },
         {
           "id": "t_56_18",
@@ -515,109 +455,14 @@
           "audio": "assets/audio/t_56_19.mp3"
         },
         {
-          "id": "t_56_20",
-          "text": "Are you cleaning the proofing cabinet regularly?",
-          "audio": "assets/audio/t_56_20.mp3"
-        },
-        {
-          "id": "t_56_21",
-          "text": "Yes, I am.",
-          "audio": "assets/audio/t_56_21.mp3"
-        },
-        {
-          "id": "t_56_22",
-          "text": "I clean it every evening, but yesterday I wasn’t able to finish the sanitizing step.",
-          "audio": "assets/audio/t_56_22.mp3"
-        },
-        {
-          "id": "t_56_23",
-          "text": "I was too busy with the packaging machine repair.",
-          "audio": "assets/audio/t_56_23.mp3"
-        },
-        {
-          "id": "t_56_24",
-          "text": "You must not skip sanitizing.",
-          "audio": "assets/audio/t_56_24.mp3"
-        },
-        {
           "id": "t_56_25",
           "text": "It is more important than small adjustments.",
           "audio": "assets/audio/t_56_25.mp3"
         },
         {
-          "id": "t_56_26",
-          "text": "What happened with the packaging machine?",
-          "audio": "assets/audio/t_56_26.mp3"
-        },
-        {
-          "id": "t_56_27",
-          "text": "The sealing arm was hotter than normal, so I checked the thermostat.",
-          "audio": "assets/audio/t_56_27.mp3"
-        },
-        {
-          "id": "t_56_28",
-          "text": "It was dirty.",
-          "audio": "assets/audio/t_56_28.mp3"
-        },
-        {
-          "id": "t_56_29",
-          "text": "I cleaned it and reset it.",
-          "audio": "assets/audio/t_56_29.mp3"
-        },
-        {
-          "id": "t_56_30",
-          "text": "Now it is working properly.",
-          "audio": "assets/audio/t_56_30.mp3"
-        },
-        {
-          "id": "t_56_31",
-          "text": "Good.",
-          "audio": "assets/audio/t_56_31.mp3"
-        },
-        {
-          "id": "t_56_32",
-          "text": "What are you doing about stock control?",
-          "audio": "assets/audio/t_56_32.mp3"
-        },
-        {
-          "id": "t_56_33",
-          "text": "I am updating the ingredient register every day.",
-          "audio": "assets/audio/t_56_33.mp3"
-        },
-        {
           "id": "t_56_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
           "audio": "assets/audio/t_56_34.mp3"
-        },
-        {
-          "id": "t_56_35",
-          "text": "That happens.",
-          "audio": "assets/audio/t_56_35.mp3"
-        },
-        {
-          "id": "t_56_36",
-          "text": "Do you think we need a backup system?",
-          "audio": "assets/audio/t_56_36.mp3"
-        },
-        {
-          "id": "t_56_37",
-          "text": "Yes, we can keep printed checklists.",
-          "audio": "assets/audio/t_56_37.mp3"
-        },
-        {
-          "id": "t_56_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_56_38.mp3"
-        },
-        {
-          "id": "t_56_39",
-          "text": "That sounds practical.",
-          "audio": "assets/audio/t_56_39.mp3"
-        },
-        {
-          "id": "t_56_40",
-          "text": "Keep improving your methods.",
-          "audio": "assets/audio/t_56_40.mp3"
         },
         {
           "id": "t_56_41",
@@ -667,19 +512,9 @@
           "audio": "assets/audio/t_56_25.mp3"
         },
         {
-          "id": "t_56_27",
-          "text": "The sealing arm was hotter than normal, so I checked the thermostat.",
-          "audio": "assets/audio/t_56_27.mp3"
-        },
-        {
           "id": "t_56_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
           "audio": "assets/audio/t_56_34.mp3"
-        },
-        {
-          "id": "t_56_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_56_38.mp3"
         },
         {
           "id": "t_56_41",
@@ -729,19 +564,9 @@
           "audio": "assets/audio/t_56_25.mp3"
         },
         {
-          "id": "t_56_27",
-          "text": "The sealing arm was hotter than normal, so I checked the thermostat.",
-          "audio": "assets/audio/t_56_27.mp3"
-        },
-        {
           "id": "t_56_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
           "audio": "assets/audio/t_56_34.mp3"
-        },
-        {
-          "id": "t_56_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_56_38.mp3"
         },
         {
           "id": "t_56_41",

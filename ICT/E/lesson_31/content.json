@@ -387,16 +387,6 @@
             ]
           },
           {
-            "id": "l_6_3",
-            "question_audio": "assets/audio/l_6_3.mp3",
-            "answer": "They are simpler than digital forms during busy hours.",
-            "options": [
-              "They are simpler than digital forms during busy hours.",
-              "They are simple digital forms during busy hours.",
-              "They are simpler for digital forms during busy hours."
-            ]
-          },
-          {
             "id": "l_6_4",
             "question_audio": "assets/audio/l_6_4.mp3",
             "answer": "It is more important than small adjustments.",
@@ -404,6 +394,16 @@
               "It is more important than small adjustments.",
               "It is important more than small adjustments.",
               "It is more important for small adjustments."
+            ]
+          },
+          {
+            "id": "l_6_3",
+            "question_audio": "assets/audio/l_6_3.mp3",
+            "answer": "They are simpler than digital forms during busy hours.",
+            "options": [
+              "They are simpler than digital forms during busy hours.",
+              "They are simple digital forms during busy hours.",
+              "They are simpler for digital forms during busy hours."
             ]
           },
           {
@@ -420,11 +420,6 @@
       },
       "activity_c": [
         {
-          "id": "t_58_1",
-          "text": "Good morning, Nimal.",
-          "audio": "assets/audio/t_58_1.mp3"
-        },
-        {
           "id": "t_58_2",
           "text": "Today I want to talk about how you are handling safety procedures and maintenance work in the ICT lab.",
           "audio": "assets/audio/t_58_2.mp3"
@@ -435,19 +430,9 @@
           "audio": "assets/audio/t_58_3.mp3"
         },
         {
-          "id": "t_58_4",
-          "text": "Good morning, madam. Things are going well, but I think some of our system checks can be faster.",
-          "audio": "assets/audio/t_58_4.mp3"
-        },
-        {
           "id": "t_58_5",
           "text": "For example, the server-room inspection took longer than expected.",
           "audio": "assets/audio/t_58_5.mp3"
-        },
-        {
-          "id": "t_58_6",
-          "text": "Why did it take longer?",
-          "audio": "assets/audio/t_58_6.mp3"
         },
         {
           "id": "t_58_7",
@@ -460,21 +445,6 @@
           "audio": "assets/audio/t_58_8.mp3"
         },
         {
-          "id": "t_58_9",
-          "text": "I wasn’t expecting that.",
-          "audio": "assets/audio/t_58_9.mp3"
-        },
-        {
-          "id": "t_58_10",
-          "text": "I see.",
-          "audio": "assets/audio/t_58_10.mp3"
-        },
-        {
-          "id": "t_58_11",
-          "text": "When you check the servers today, what are you going to do first?",
-          "audio": "assets/audio/t_58_11.mp3"
-        },
-        {
           "id": "t_58_12",
           "text": "I’m going to inspect the cooling fans and test the UPS connection.",
           "audio": "assets/audio/t_58_12.mp3"
@@ -485,44 +455,14 @@
           "audio": "assets/audio/t_58_13.mp3"
         },
         {
-          "id": "t_58_14",
-          "text": "Good.",
-          "audio": "assets/audio/t_58_14.mp3"
-        },
-        {
-          "id": "t_58_15",
-          "text": "You have to be systematic.",
-          "audio": "assets/audio/t_58_15.mp3"
-        },
-        {
           "id": "t_58_16",
           "text": "What about the new firewall unit?",
           "audio": "assets/audio/t_58_16.mp3"
         },
         {
-          "id": "t_58_17",
-          "text": "Can you handle the configuration update?",
-          "audio": "assets/audio/t_58_17.mp3"
-        },
-        {
-          "id": "t_58_18",
-          "text": "Yes, I can, but the new firewall is more sensitive than the old one, so I have to be careful.",
-          "audio": "assets/audio/t_58_18.mp3"
-        },
-        {
-          "id": "t_58_19",
-          "text": "The old unit was slower, but it was easier than this new digital model.",
-          "audio": "assets/audio/t_58_19.mp3"
-        },
-        {
           "id": "t_58_20",
           "text": "Are you checking the PPE shelf regularly?",
           "audio": "assets/audio/t_58_20.mp3"
-        },
-        {
-          "id": "t_58_21",
-          "text": "Yes, I am.",
-          "audio": "assets/audio/t_58_21.mp3"
         },
         {
           "id": "t_58_22",
@@ -533,96 +473,6 @@
           "id": "t_58_23",
           "text": "I was too busy with the router-firmware repair.",
           "audio": "assets/audio/t_58_23.mp3"
-        },
-        {
-          "id": "t_58_24",
-          "text": "You must not skip safety testing.",
-          "audio": "assets/audio/t_58_24.mp3"
-        },
-        {
-          "id": "t_58_25",
-          "text": "It is more important than small adjustments.",
-          "audio": "assets/audio/t_58_25.mp3"
-        },
-        {
-          "id": "t_58_26",
-          "text": "What happened with the router?",
-          "audio": "assets/audio/t_58_26.mp3"
-        },
-        {
-          "id": "t_58_27",
-          "text": "The status lights were brighter than normal, so I checked the firmware panel.",
-          "audio": "assets/audio/t_58_27.mp3"
-        },
-        {
-          "id": "t_58_28",
-          "text": "It was corrupted.",
-          "audio": "assets/audio/t_58_28.mp3"
-        },
-        {
-          "id": "t_58_29",
-          "text": "I reinstalled the software and reset the device.",
-          "audio": "assets/audio/t_58_29.mp3"
-        },
-        {
-          "id": "t_58_30",
-          "text": "Now it is working properly.",
-          "audio": "assets/audio/t_58_30.mp3"
-        },
-        {
-          "id": "t_58_31",
-          "text": "Good.",
-          "audio": "assets/audio/t_58_31.mp3"
-        },
-        {
-          "id": "t_58_32",
-          "text": "What are you doing about equipment inventory?",
-          "audio": "assets/audio/t_58_32.mp3"
-        },
-        {
-          "id": "t_58_33",
-          "text": "I am updating the cable and device register every day.",
-          "audio": "assets/audio/t_58_33.mp3"
-        },
-        {
-          "id": "t_58_34",
-          "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
-          "audio": "assets/audio/t_58_34.mp3"
-        },
-        {
-          "id": "t_58_35",
-          "text": "That happens.",
-          "audio": "assets/audio/t_58_35.mp3"
-        },
-        {
-          "id": "t_58_36",
-          "text": "Do you think we need a backup system?",
-          "audio": "assets/audio/t_58_36.mp3"
-        },
-        {
-          "id": "t_58_37",
-          "text": "Yes, we can keep printed ICT safety checklists.",
-          "audio": "assets/audio/t_58_37.mp3"
-        },
-        {
-          "id": "t_58_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_58_38.mp3"
-        },
-        {
-          "id": "t_58_39",
-          "text": "That sounds practical.",
-          "audio": "assets/audio/t_58_39.mp3"
-        },
-        {
-          "id": "t_58_40",
-          "text": "Keep improving your methods.",
-          "audio": "assets/audio/t_58_40.mp3"
-        },
-        {
-          "id": "t_58_41",
-          "text": "It will make the whole lab more efficient than last month.",
-          "audio": "assets/audio/t_58_41.mp3"
         }
       ],
       "activity_d": [
@@ -680,11 +530,6 @@
           "id": "t_58_23",
           "text": "I was too busy with the router-firmware repair.",
           "audio": "assets/audio/t_58_23.mp3"
-        },
-        {
-          "id": "t_58_32",
-          "text": "What are you doing about equipment inventory?",
-          "audio": "assets/audio/t_58_32.mp3"
         }
       ],
       "activity_e": [
@@ -742,11 +587,6 @@
           "id": "t_58_23",
           "text": "I was too busy with the router-firmware repair.",
           "audio": "assets/audio/t_58_23.mp3"
-        },
-        {
-          "id": "t_58_32",
-          "text": "What are you doing about equipment inventory?",
-          "audio": "assets/audio/t_58_32.mp3"
         }
       ]
     }

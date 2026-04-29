@@ -415,21 +415,6 @@
       },
       "activity_c": [
         {
-          "id": "t_53_1",
-          "text": "Good morning, Nimal.",
-          "audio": "assets/audio/t_53_1.mp3"
-        },
-        {
-          "id": "t_53_2",
-          "text": "Today I want to talk about how you are handling safety equipment and procedures in the automobile workshop.",
-          "audio": "assets/audio/t_53_2.mp3"
-        },
-        {
-          "id": "t_53_3",
-          "text": "How are things going?",
-          "audio": "assets/audio/t_53_3.mp3"
-        },
-        {
           "id": "t_53_4",
           "text": "Good morning, madam. Things are going well, but I think some of our safety checks can be faster.",
           "audio": "assets/audio/t_53_4.mp3"
@@ -438,11 +423,6 @@
           "id": "t_53_5",
           "text": "For example, the wheel-lift inspection took longer than expected.",
           "audio": "assets/audio/t_53_5.mp3"
-        },
-        {
-          "id": "t_53_6",
-          "text": "Why did it take longer?",
-          "audio": "assets/audio/t_53_6.mp3"
         },
         {
           "id": "t_53_7",
@@ -455,49 +435,9 @@
           "audio": "assets/audio/t_53_8.mp3"
         },
         {
-          "id": "t_53_9",
-          "text": "I wasn’t expecting that.",
-          "audio": "assets/audio/t_53_9.mp3"
-        },
-        {
-          "id": "t_53_10",
-          "text": "I see.",
-          "audio": "assets/audio/t_53_10.mp3"
-        },
-        {
-          "id": "t_53_11",
-          "text": "When you check the lift today, what are you going to do first?",
-          "audio": "assets/audio/t_53_11.mp3"
-        },
-        {
           "id": "t_53_12",
           "text": "I’m going to inspect the safety locks and test the emergency shut-off switch.",
           "audio": "assets/audio/t_53_12.mp3"
-        },
-        {
-          "id": "t_53_13",
-          "text": "I must also record everything in the safety logbook, because the administration team needs clear reports.",
-          "audio": "assets/audio/t_53_13.mp3"
-        },
-        {
-          "id": "t_53_14",
-          "text": "Good.",
-          "audio": "assets/audio/t_53_14.mp3"
-        },
-        {
-          "id": "t_53_15",
-          "text": "You have to be systematic.",
-          "audio": "assets/audio/t_53_15.mp3"
-        },
-        {
-          "id": "t_53_16",
-          "text": "What about the fume extractor?",
-          "audio": "assets/audio/t_53_16.mp3"
-        },
-        {
-          "id": "t_53_17",
-          "text": "Can you handle the airflow adjustment?",
-          "audio": "assets/audio/t_53_17.mp3"
         },
         {
           "id": "t_53_18",
@@ -510,69 +450,9 @@
           "audio": "assets/audio/t_53_19.mp3"
         },
         {
-          "id": "t_53_20",
-          "text": "Are you checking the PPE cabinet regularly?",
-          "audio": "assets/audio/t_53_20.mp3"
-        },
-        {
-          "id": "t_53_21",
-          "text": "Yes, I am.",
-          "audio": "assets/audio/t_53_21.mp3"
-        },
-        {
-          "id": "t_53_22",
-          "text": "I check it every evening, but yesterday I wasn’t able to finish the glove-sanitizing step.",
-          "audio": "assets/audio/t_53_22.mp3"
-        },
-        {
-          "id": "t_53_23",
-          "text": "I was too busy with the headlight-alignment tool repair.",
-          "audio": "assets/audio/t_53_23.mp3"
-        },
-        {
-          "id": "t_53_24",
-          "text": "You must not skip sanitizing.",
-          "audio": "assets/audio/t_53_24.mp3"
-        },
-        {
           "id": "t_53_25",
           "text": "It is more important than small adjustments.",
           "audio": "assets/audio/t_53_25.mp3"
-        },
-        {
-          "id": "t_53_26",
-          "text": "What happened with the alignment tool?",
-          "audio": "assets/audio/t_53_26.mp3"
-        },
-        {
-          "id": "t_53_27",
-          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
-          "audio": "assets/audio/t_53_27.mp3"
-        },
-        {
-          "id": "t_53_28",
-          "text": "They were dusty.",
-          "audio": "assets/audio/t_53_28.mp3"
-        },
-        {
-          "id": "t_53_29",
-          "text": "I cleaned them and reset the panel.",
-          "audio": "assets/audio/t_53_29.mp3"
-        },
-        {
-          "id": "t_53_30",
-          "text": "Now it is working properly.",
-          "audio": "assets/audio/t_53_30.mp3"
-        },
-        {
-          "id": "t_53_31",
-          "text": "Good.",
-          "audio": "assets/audio/t_53_31.mp3"
-        },
-        {
-          "id": "t_53_32",
-          "text": "What are you doing about inventory control?",
-          "audio": "assets/audio/t_53_32.mp3"
         },
         {
           "id": "t_53_33",
@@ -583,41 +463,6 @@
           "id": "t_53_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
           "audio": "assets/audio/t_53_34.mp3"
-        },
-        {
-          "id": "t_53_35",
-          "text": "That happens.",
-          "audio": "assets/audio/t_53_35.mp3"
-        },
-        {
-          "id": "t_53_36",
-          "text": "Do you think we need a backup system?",
-          "audio": "assets/audio/t_53_36.mp3"
-        },
-        {
-          "id": "t_53_37",
-          "text": "Yes, we can keep printed safety checklists.",
-          "audio": "assets/audio/t_53_37.mp3"
-        },
-        {
-          "id": "t_53_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_53_38.mp3"
-        },
-        {
-          "id": "t_53_39",
-          "text": "That sounds practical.",
-          "audio": "assets/audio/t_53_39.mp3"
-        },
-        {
-          "id": "t_53_40",
-          "text": "Keep improving your methods.",
-          "audio": "assets/audio/t_53_40.mp3"
-        },
-        {
-          "id": "t_53_41",
-          "text": "It will make the whole workshop more efficient than last month.",
-          "audio": "assets/audio/t_53_41.mp3"
         }
       ],
       "activity_d": [
@@ -662,11 +507,6 @@
           "audio": "assets/audio/t_53_25.mp3"
         },
         {
-          "id": "t_53_27",
-          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
-          "audio": "assets/audio/t_53_27.mp3"
-        },
-        {
           "id": "t_53_33",
           "text": "I am updating the tool register every day.",
           "audio": "assets/audio/t_53_33.mp3"
@@ -675,11 +515,6 @@
           "id": "t_53_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
           "audio": "assets/audio/t_53_34.mp3"
-        },
-        {
-          "id": "t_53_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_53_38.mp3"
         }
       ],
       "activity_e": [
@@ -724,11 +559,6 @@
           "audio": "assets/audio/t_53_25.mp3"
         },
         {
-          "id": "t_53_27",
-          "text": "The sensor panel was brighter than normal, so I checked the calibration settings.",
-          "audio": "assets/audio/t_53_27.mp3"
-        },
-        {
           "id": "t_53_33",
           "text": "I am updating the tool register every day.",
           "audio": "assets/audio/t_53_33.mp3"
@@ -737,11 +567,6 @@
           "id": "t_53_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
           "audio": "assets/audio/t_53_34.mp3"
-        },
-        {
-          "id": "t_53_38",
-          "text": "They are simpler than digital forms during busy hours.",
-          "audio": "assets/audio/t_53_38.mp3"
         }
       ]
     }
