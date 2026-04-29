@@ -144,7 +144,7 @@
         "text_a": "What’s the matter?",
         "text_b": "Sunil is not feeling very well. He has back pain.",
         "text_c": "Back pain? How did he get it?",
-        "text_d": "He lifted a heavy gearbox all day yesterday.",
+        "text_d": "He lifted heavy gearboxes all day yesterday.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3",
