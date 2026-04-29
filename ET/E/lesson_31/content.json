@@ -143,7 +143,7 @@
         "id": "d_5",
         "text_a": "What’s the matter?",
         "text_b": "Sunil is not feeling very well. He has a pain in his arm.",
-        "text_c": "Pain in his arm pain? How did he get it?",
+        "text_c": "Pain in his arm? How did he get it?",
         "text_d": "He pulled heavy cables through the conduit all day yesterday.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
