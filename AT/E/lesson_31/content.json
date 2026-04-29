@@ -370,8 +370,8 @@
             "id": "l_1_1",
             "answer": "The new extractor is more sensitive than the old one, so I have to be careful.",
             "options": [
-              "The new extractor is more sensitive than the old one, so I have to be careful.",
               "The new extractor is sensitive more than the old one, so I have to be careful.",
+              "The new extractor is more sensitive than the old one, so I have to be careful.",
               "The new extractor is more sensitive from the old one, so I have to be careful."
             ]
           },
@@ -388,9 +388,9 @@
             "id": "l_1_3",
             "answer": "They are simpler than digital forms during busy hours.",
             "options": [
-              "They are simpler than digital forms during busy hours.",
               "They are simple digital forms during busy hours.",
-              "They are simpler for digital forms during busy hours."
+              "They are simpler for digital forms during busy hours.",
+              "They are simpler than digital forms during busy hours."
             ]
           },
           {
@@ -406,8 +406,8 @@
             "id": "l_1_5",
             "answer": "It will make the whole workshop more efficient than last month.",
             "options": [
-              "It will make the whole workshop more efficient than last month.",
               "It will make the whole workshop efficienter than last month.",
+              "It will make the whole workshop more efficient than last month.",
               "It will make the whole workshop more efficient from last month."
             ]
           }

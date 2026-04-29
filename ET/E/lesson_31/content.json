@@ -371,8 +371,8 @@
             "question_audio": "assets/audio/l_3_1.mp3",
             "answer": "The new multimeter is more sensitive than the old one, so I have to be careful.",
             "options": [
-              "The new multimeter is more sensitive than the old one, so I have to be careful.",
               "The new multimeter is sensitive more than the old one, so I have to be careful.",
+              "The new multimeter is more sensitive than the old one, so I have to be careful.",
               "The new multimeter is more sensitive from the old one, so I have to be careful."
             ]
           },
@@ -391,8 +391,8 @@
             "question_audio": "assets/audio/l_3_3.mp3",
             "answer": "They are simpler than digital forms during busy hours.",
             "options": [
-              "They are simpler than digital forms during busy hours.",
               "They are simple digital forms during busy hours.",
+              "They are simpler than digital forms during busy hours.",
               "They are simpler for digital forms during busy hours."
             ]
           },
@@ -401,9 +401,9 @@
             "question_audio": "assets/audio/l_3_4.mp3",
             "answer": "It is more important than small adjustments.",
             "options": [
-              "It is more important than small adjustments.",
               "It is important more than small adjustments.",
-              "It is more important for small adjustments."
+              "It is more important for small adjustments.",
+              "It is more important than small adjustments."
             ]
           },
           {

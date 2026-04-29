@@ -381,9 +381,9 @@
             "question_audio": "assets/audio/l_4_2.mp3",
             "answer": "The old sensor was slower, but it was easier than this new digital one.",
             "options": [
-              "The old sensor was slower, but it was easier than this new digital one.",
               "The old sensor was more slow, but it was more easy than this new digital one.",
-              "The old sensor was slower and it was easier from this new digital one."
+              "The old sensor was slower and it was easier from this new digital one.",
+              "The old sensor was slower, but it was easier than this new digital one."
             ]
           },
           {
@@ -401,8 +401,8 @@
             "question_audio": "assets/audio/l_4_4.mp3",
             "answer": "It is more important than small adjustments.",
             "options": [
-              "It is more important than small adjustments.",
               "It is important more than small adjustments.",
+              "It is more important than small adjustments.",
               "It is more important for small adjustments."
             ]
           },

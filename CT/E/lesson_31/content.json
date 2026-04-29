@@ -381,8 +381,8 @@
             "question_audio": "assets/audio/l_2_2.mp3",
             "answer": "The old mixer was slower, but it was easier than this new digital model.",
             "options": [
-              "The old mixer was slower, but it was easier than this new digital model.",
               "The old mixer was more slow, but it was more easy than this new digital model.",
+              "The old mixer was slower, but it was easier than this new digital model.",
               "The old mixer was slower and it was easier from this new digital model."
             ]
           },
@@ -391,9 +391,9 @@
             "question_audio": "assets/audio/l_2_3.mp3",
             "answer": "They are simpler than digital forms during busy hours.",
             "options": [
-              "They are simpler than digital forms during busy hours.",
               "They are simple digital forms during busy hours.",
-              "They are simpler for digital forms during busy hours."
+              "They are simpler for digital forms during busy hours.",
+              "They are simpler than digital forms during busy hours."
             ]
           },
           {
@@ -401,8 +401,8 @@
             "question_audio": "assets/audio/l_2_4.mp3",
             "answer": "It is more important than small adjustments.",
             "options": [
-              "It is more important than small adjustments.",
               "It is important more than small adjustments.",
+              "It is more important than small adjustments.",
               "It is more important for small adjustments."
             ]
           },
