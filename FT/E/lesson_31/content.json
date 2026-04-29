@@ -20,73 +20,73 @@
           {
             "id": "g_b_1",
             "sentence": "The dough ________ too soft in the early morning batch.",
-            "options": ["is", "was", "are", "were"],
+            "options": ["is", "was", "were"],
             "answer": "was"
           },
           {
             "id": "g_b_2",
             "sentence": "The trainees ________ the preparation tables now.",
-            "options": ["are cleaning", "is cleaning", "is clean", "cleans"],
+            "options": ["are cleaning", "is cleaning", "cleans"],
             "answer": "are cleaning"
           },
           {
             "id": "g_b_3",
             "sentence": "We ________ the temperature of the chiller every day.",
-            "options": ["are checking", "checked", "check", "was checking"],
+            "options": ["are checking", "checked", "check"],
             "answer": "check"
           },
           {
             "id": "g_b_4",
             "sentence": "________ they measure the flour before mixing it?",
-            "options": ["Were", "Are", "Is", "Do"],
+            "options": ["Were", "Are", "Do"],
             "answer": "Do"
           },
           {
             "id": "g_b_5",
             "sentence": "________ the butter melting on the workstation?",
-            "options": ["Is", "Are", "Was", "Can"],
+            "options": ["Is", "Are", "Can"],
             "answer": "Is"
           },
           {
             "id": "g_b_6",
             "sentence": "________ the driver repair the engine?",
-            "options": ["Is", "Can", "Was", "When"],
+            "options": ["Is", "Can", "Was"],
             "answer": "Can"
           },
           {
             "id": "g_b_7",
             "sentence": "Why ________ the sugar level too high last week?",
-            "options": ["is", "was", "were", "are"],
+            "options": ["is", "was", "are"],
             "answer": "was"
           },
           {
             "id": "g_b_8",
             "sentence": "She ________ operate the new digital weighing scale next week.",
-            "options": ["is going to", "must go to", "have to", "will be"],
+            "options": ["is going to", "must go to", "will be"],
             "answer": "is going to"
           },
           {
             "id": "g_b_9",
             "sentence": "You ________ wear gloves in the production area.",
-            "options": ["haven’t", "are", "must", "are"],
+            "options": ["haven’t", "are", "must"],
             "answer": "must"
           },
           {
             "id": "g_b_10",
             "sentence": "They ________ wash the jars before filling them.",
-            "options": ["must have", "have to", "can have", "should do"],
+            "options": ["must have", "have to", "can have"],
             "answer": "have to"
           },
           {
             "id": "g_b_11",
             "sentence": "He ________ to test the new batch of yoghurt this afternoon.",
-            "options": ["went", "are going", "goes", "is going"],
+            "options": ["went", "are going", "is going"],
             "answer": "is going"
           },
           {
             "id": "g_b_12",
             "sentence": "They ________ store the dry ingredients carefully and they got spoilt.",
-            "options": ["didn’t", "don’t", "mustn’t", "aren’t"],
+            "options": ["didn’t", "don’t", "mustn’t"],
             "answer": "didn’t"
           }
         ]
@@ -167,8 +167,8 @@
       {
         "id": "d_8",
         "text_a": "I bought a new apron for my kitchen work yesterday.",
-        "text_b": "Really? But I liked your old apron. It was clean.",
-        "text_c": "That’s true. But my new apron is cleaner.",
+        "text_b": "Really? But I liked your old apron. It was practical.",
+        "text_c": "That’s true. But my new apron is more practical.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
@@ -217,7 +217,7 @@
     "type": "LISTENING-5",
     "instructions": {
       "activity_a": {
-        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nகீழே உள்ள வினைச்சொற்களின் பொருளை கேட்கவும், பின்னர் அவற்றை சரியான பெட்டியில் இழுக்கவும்.",
+        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nஇரண்டு முறை ஒலிக்கப்படும் ஒலிப்பதிவைக் கேட்டு, அதில் சொல்லப்படும் வினைச்சொற்களின் விளக்கங்களுக்கு ஏற்ப, அந்த வினைச்சொற்களைச் சரியான எண்கள் கொண்ட பெட்டிகளுடன் பொருத்துக.",
         "audio": "assets/audio/a_4_i_l.mp3"
       }
     },

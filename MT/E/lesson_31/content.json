@@ -217,7 +217,7 @@
     "type": "LISTENING-5",
     "instructions": {
       "activity_a": {
-        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nகீழே உள்ள வினைச்சொற்களின் பொருளை கேட்கவும், பின்னர் அவற்றை சரியான பெட்டியில் இழுக்கவும்.",
+        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nஇரண்டு முறை ஒலிக்கப்படும் ஒலிப்பதிவைக் கேட்டு, அதில் சொல்லப்படும் வினைச்சொற்களின் விளக்கங்களுக்கு ஏற்ப, அந்த வினைச்சொற்களைச் சரியான எண்கள் கொண்ட பெட்டிகளுடன் பொருத்துக.",
         "audio": "assets/audio/a_4_i_l.mp3"
       }
     },
