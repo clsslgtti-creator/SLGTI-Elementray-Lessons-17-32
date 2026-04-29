@@ -107,24 +107,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why are you adjusting the fan belt right now?",
-        "text_b": "I’m adjusting the fan belt right now because I adjusted one yesterday but I wasn’t satisfied. I am going to take the car for a test run this afternoon and I might take this belt with me.",
+        "text_a": "Why are you leveling the foundation right now?",
+        "text_b": "I’m leveling the foundation right now because I leveled one yesterday but I wasn’t satisfied. I am going to inspect the site this afternoon and I might take the level with me.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why are you aligning the wheel bearings right now?",
-        "text_b": "I’m aligning the wheel bearings right now because I aligned some yesterday but I wasn’t satisfied. I am going to meet a customer this afternoon and I might take these with me.",
+        "text_a": "Why are you aligning the steel beams right now?",
+        "text_b": "I’m aligning the steel beams right now because I aligned some yesterday but I wasn’t satisfied. I am going to check the structure this afternoon and I might take these beams with me.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why are you cleaning the throttle body right now?",
-        "text_b": "I’m cleaning the throttle body right now because I cleaned one yesterday but I wasn’t satisfied. I am going to check the engine response this afternoon and I might take this with me.",
+        "text_a": "Why are you mixing the mortar right now?",
+        "text_b": "I’m mixing the mortar right now because I mixed some yesterday but I wasn’t satisfied. I am going to lay bricks this afternoon and I might take this mortar with me.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -133,80 +133,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.png",
-        "word": "grinding the metal plate"
+        "word": "compacting the soil"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.png",
-        "word": "mixing a concrete sampl"
+        "word": "cutting the concrete blocks"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.png",
-        "word": "cutting the steel bars"
+        "word": "fixing the scaffolding"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.png",
-        "word": "plumbing the door frame"
+        "word": "measuring the column spacing"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "calibrating the torque wrench"
+        "word": "pouring the concrete slab"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "tightening the bolts"
+        "word": "installing the wall tiles"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why are you grinding the metal plate right now?",
-        "text_b": "I’m grinding the metal plate right now because I ground one yesterday but I wasn’t satisfied. I am going to check the fitting this afternoon and I might take this plate with me.",
+        "text_a": "Why are you compacting the soil right now?",
+        "text_b": "I’m compacting the soil right now because I compacted some yesterday but I wasn’t satisfied. I am going to prepare the ground this afternoon and I might take the compactor with me.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why are you mixing a concrete sample right now?",
-        "text_b": "I’m mixing a sample right now because I mixed some yesterday but I wasn’t satisfied. I am going to inspect the slab this afternoon and I might take this sample with me.",
+        "text_a": "Why are you cutting the concrete blocks right now?",
+        "text_b": "I’m cutting the concrete blocks right now because I cut some yesterday but I wasn’t satisfied. I am going to build the wall this afternoon and I might take these blocks with me.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why are you cutting the steel bars right now?",
-        "text_b": "I’m cutting the steel bars right now because I cut some yesterday but I wasn’t satisfied. I am going to visit the site this afternoon and I might take these bars with me.",
+        "text_a": "Why are you fixing the scaffolding right now?",
+        "text_b": "I’m fixing the scaffolding right now because I fixed some yesterday but I wasn’t satisfied. I am going to continue the upper floor work this afternoon and I might take the scaffold parts with me.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
-        "text_a": "Why are you plumbing the door frame right now?",
-        "text_b": "I’m plumbing the door frame right now because I plumbed it yesterday but I wasn’t satisfied. I am going to inspect the opening this afternoon and I might adjust the frame again.",
+        "text_a": "Why are you measuring the column spacing right now?",
+        "text_b": "I’m measuring the column spacing right now because I measured it yesterday but I wasn’t satisfied. I am going to mark the layout this afternoon and I might take the measuring tape with me.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "Why are you calibrating the torque wrench right now?",
-        "text_b": "I’m calibrating the torque wrench right now because I calibrated it yesterday but I wasn’t satisfied. I am going to repair a gearbox this afternoon and I might take it with me.",
+        "text_a": "Why are you pouring the concrete slab right now?",
+        "text_b": "I’m pouring the concrete slab right now because I poured one yesterday but I wasn’t satisfied. I am going to check the curing process this afternoon and I might take this mix with me.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Why are you tightening the bolts right now?",
-        "text_b": "I’m tightening these bolts right now because I tightened them yesterday but I wasn’t satisfied. I am going to inspect the assembly this afternoon and I might check them again with a torque wrench.",
+        "text_a": "Why are you installing the wall tiles right now?",
+        "text_b": "I’m installing the wall tiles right now because I installed some yesterday but I wasn’t satisfied. I am going to finish the bathroom this afternoon and I might take these tiles with me.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }

@@ -217,7 +217,7 @@
     "type": "LISTENING-5",
     "instructions": {
       "activity_a": {
-        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nகீழே உள்ள வினைச்சொற்களின் பொருளை கேட்கவும், பின்னர் அவற்றை சரியான பெட்டியில் இழுக்கவும்.",
+        "text": "Drag and drop the following verbs into the correct number of the box as you hear the audio, played twice, giving the definition of the verb.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. ක්‍රියා පදයේ අර්ථය දක්වන පටිගත කිරීම ඇසීමත් සමඟ පහත ක්‍රියා පදයන් නිවැරදි කොටසේ ඇද දැමීමට උත්සාහ කරන්න.\nஇரண்டு முறை ஒலிக்கப்படும் ஒலிப்பதிவைக் கேட்டு, அதில் சொல்லப்படும் வினைச்சொற்களின் விளக்கங்களுக்கு ஏற்ப, அந்த வினைச்சொற்களைச் சரியான எண்கள் கொண்ட பெட்டிகளுடன் பொருத்துக.",
         "audio": "assets/audio/a_4_i_l.mp3"
       }
     },
@@ -381,8 +381,8 @@
             "question_audio": "assets/audio/l_2_2.mp3",
             "answer": "The old mixer was slower, but it was easier than this new digital model.",
             "options": [
-              "The old mixer was slower, but it was easier than this new digital model.",
               "The old mixer was more slow, but it was more easy than this new digital model.",
+              "The old mixer was slower, but it was easier than this new digital model.",
               "The old mixer was slower and it was easier from this new digital model."
             ]
           },
@@ -391,9 +391,9 @@
             "question_audio": "assets/audio/l_2_3.mp3",
             "answer": "They are simpler than digital forms during busy hours.",
             "options": [
-              "They are simpler than digital forms during busy hours.",
               "They are simple digital forms during busy hours.",
-              "They are simpler for digital forms during busy hours."
+              "They are simpler for digital forms during busy hours.",
+              "They are simpler than digital forms during busy hours."
             ]
           },
           {
@@ -401,8 +401,8 @@
             "question_audio": "assets/audio/l_2_4.mp3",
             "answer": "It is more important than small adjustments.",
             "options": [
-              "It is more important than small adjustments.",
               "It is important more than small adjustments.",
+              "It is more important than small adjustments.",
               "It is more important for small adjustments."
             ]
           },
@@ -420,19 +420,9 @@
       },
       "activity_c": [
         {
-          "id": "t_54_1",
-          "text": "Good morning, Nimal.",
-          "audio": "assets/audio/t_54_1.mp3"
-        },
-        {
           "id": "t_54_2",
           "text": "Today I want to talk about how you are handling safety procedures and equipment on the construction site.",
           "audio": "assets/audio/t_54_2.mp3"
-        },
-        {
-          "id": "t_54_3",
-          "text": "How are things going?",
-          "audio": "assets/audio/t_54_3.mp3"
         },
         {
           "id": "t_54_4",
@@ -445,11 +435,6 @@
           "audio": "assets/audio/t_54_5.mp3"
         },
         {
-          "id": "t_54_6",
-          "text": "Why did it take longer?",
-          "audio": "assets/audio/t_54_6.mp3"
-        },
-        {
           "id": "t_54_7",
           "text": "Yesterday the support brackets were weaker than usual, and I had to tighten the bolts twice.",
           "audio": "assets/audio/t_54_7.mp3"
@@ -458,51 +443,6 @@
           "id": "t_54_8",
           "text": "The alignment was also more uneven than I thought.",
           "audio": "assets/audio/t_54_8.mp3"
-        },
-        {
-          "id": "t_54_9",
-          "text": "I wasn’t expecting that.",
-          "audio": "assets/audio/t_54_9.mp3"
-        },
-        {
-          "id": "t_54_10",
-          "text": "I see.",
-          "audio": "assets/audio/t_54_10.mp3"
-        },
-        {
-          "id": "t_54_11",
-          "text": "When you check the scaffolding today, what are you going to do first?",
-          "audio": "assets/audio/t_54_11.mp3"
-        },
-        {
-          "id": "t_54_12",
-          "text": "I’m going to inspect the base plates and test the safety rails.",
-          "audio": "assets/audio/t_54_12.mp3"
-        },
-        {
-          "id": "t_54_13",
-          "text": "I must also record everything in the site safety log, because the administration team needs clear reports.",
-          "audio": "assets/audio/t_54_13.mp3"
-        },
-        {
-          "id": "t_54_14",
-          "text": "Good.",
-          "audio": "assets/audio/t_54_14.mp3"
-        },
-        {
-          "id": "t_54_15",
-          "text": "You have to be systematic.",
-          "audio": "assets/audio/t_54_15.mp3"
-        },
-        {
-          "id": "t_54_16",
-          "text": "What about the concrete mixer?",
-          "audio": "assets/audio/t_54_16.mp3"
-        },
-        {
-          "id": "t_54_17",
-          "text": "Can you handle the rotation-speed adjustment?",
-          "audio": "assets/audio/t_54_17.mp3"
         },
         {
           "id": "t_54_18",
@@ -515,74 +455,9 @@
           "audio": "assets/audio/t_54_19.mp3"
         },
         {
-          "id": "t_54_20",
-          "text": "Are you checking the PPE station regularly?",
-          "audio": "assets/audio/t_54_20.mp3"
-        },
-        {
-          "id": "t_54_21",
-          "text": "Yes, I am.",
-          "audio": "assets/audio/t_54_21.mp3"
-        },
-        {
-          "id": "t_54_22",
-          "text": "I check it every evening, but yesterday I wasn’t able to finish the helmet-sanitizing step.",
-          "audio": "assets/audio/t_54_22.mp3"
-        },
-        {
-          "id": "t_54_23",
-          "text": "I was too busy with the laser-level calibration.",
-          "audio": "assets/audio/t_54_23.mp3"
-        },
-        {
-          "id": "t_54_24",
-          "text": "You must not skip sanitizing.",
-          "audio": "assets/audio/t_54_24.mp3"
-        },
-        {
           "id": "t_54_25",
           "text": "It is more important than small adjustments.",
           "audio": "assets/audio/t_54_25.mp3"
-        },
-        {
-          "id": "t_54_26",
-          "text": "What happened with the laser level?",
-          "audio": "assets/audio/t_54_26.mp3"
-        },
-        {
-          "id": "t_54_27",
-          "text": "The sensor beam was brighter than normal, so I checked the calibration window.",
-          "audio": "assets/audio/t_54_27.mp3"
-        },
-        {
-          "id": "t_54_28",
-          "text": "It was dusty.",
-          "audio": "assets/audio/t_54_28.mp3"
-        },
-        {
-          "id": "t_54_29",
-          "text": "I cleaned it and reset the system.",
-          "audio": "assets/audio/t_54_29.mp3"
-        },
-        {
-          "id": "t_54_30",
-          "text": "Now it is working properly.",
-          "audio": "assets/audio/t_54_30.mp3"
-        },
-        {
-          "id": "t_54_31",
-          "text": "Good.",
-          "audio": "assets/audio/t_54_31.mp3"
-        },
-        {
-          "id": "t_54_32",
-          "text": "What are you doing about material inventory?",
-          "audio": "assets/audio/t_54_32.mp3"
-        },
-        {
-          "id": "t_54_33",
-          "text": "I am updating the cement and timber register every day.",
-          "audio": "assets/audio/t_54_33.mp3"
         },
         {
           "id": "t_54_34",
@@ -590,39 +465,9 @@
           "audio": "assets/audio/t_54_34.mp3"
         },
         {
-          "id": "t_54_35",
-          "text": "That happens.",
-          "audio": "assets/audio/t_54_35.mp3"
-        },
-        {
-          "id": "t_54_36",
-          "text": "Do you think we need a backup system?",
-          "audio": "assets/audio/t_54_36.mp3"
-        },
-        {
-          "id": "t_54_37",
-          "text": "Yes, we can keep printed daily safety checklists.",
-          "audio": "assets/audio/t_54_37.mp3"
-        },
-        {
           "id": "t_54_38",
           "text": "They are simpler than digital forms during busy hours.",
           "audio": "assets/audio/t_54_38.mp3"
-        },
-        {
-          "id": "t_54_39",
-          "text": "That sounds practical.",
-          "audio": "assets/audio/t_54_39.mp3"
-        },
-        {
-          "id": "t_54_40",
-          "text": "Keep improving your methods.",
-          "audio": "assets/audio/t_54_40.mp3"
-        },
-        {
-          "id": "t_54_41",
-          "text": "It will make the whole site more efficient than last month.",
-          "audio": "assets/audio/t_54_41.mp3"
         }
       ],
       "activity_d": [
@@ -667,11 +512,6 @@
           "audio": "assets/audio/t_54_25.mp3"
         },
         {
-          "id": "t_54_27",
-          "text": "The sensor beam was brighter than normal, so I checked the calibration window.",
-          "audio": "assets/audio/t_54_27.mp3"
-        },
-        {
           "id": "t_54_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
           "audio": "assets/audio/t_54_34.mp3"
@@ -680,11 +520,6 @@
           "id": "t_54_38",
           "text": "They are simpler than digital forms during busy hours.",
           "audio": "assets/audio/t_54_38.mp3"
-        },
-        {
-          "id": "t_54_41",
-          "text": "It will make the whole site more efficient than last month.",
-          "audio": "assets/audio/t_54_41.mp3"
         }
       ],
       "activity_e": [
@@ -729,11 +564,6 @@
           "audio": "assets/audio/t_54_25.mp3"
         },
         {
-          "id": "t_54_27",
-          "text": "The sensor beam was brighter than normal, so I checked the calibration window.",
-          "audio": "assets/audio/t_54_27.mp3"
-        },
-        {
           "id": "t_54_34",
           "text": "The new system is more accurate than the old notebook method, but it is also slower when the Wi-Fi drops.",
           "audio": "assets/audio/t_54_34.mp3"
@@ -742,11 +572,6 @@
           "id": "t_54_38",
           "text": "They are simpler than digital forms during busy hours.",
           "audio": "assets/audio/t_54_38.mp3"
-        },
-        {
-          "id": "t_54_41",
-          "text": "It will make the whole site more efficient than last month.",
-          "audio": "assets/audio/t_54_41.mp3"
         }
       ]
     }
