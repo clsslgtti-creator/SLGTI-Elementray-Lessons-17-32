@@ -62,8 +62,8 @@
           {
             "id": "g_b_8",
             "sentence": "He ________ upload the revised database files tomorrow.",
-            "options": ["is going to", "must go", "has to"],
-            "answer": "is going to"
+            "options": ["are going to", "must go", "has to"],
+            "answer": "has to"
           },
           {
             "id": "g_b_9",
@@ -191,7 +191,7 @@
         "id": "d_11",
         "text_a": "What are you doing?",
         "text_b": "I’m checking the printer settings.",
-        "text_c": "That’s unusual. Do you usually check the printer settings now?",
+        "text_c": "That’s unusual. Do you usually check the printer settings?",
         "text_d": "No, I usually check them after installation, but I am checking them now.",
         "text_e": "Why are you doing that?",
         "text_f": "Because the printer is not responding.",
