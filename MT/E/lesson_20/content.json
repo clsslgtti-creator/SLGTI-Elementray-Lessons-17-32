@@ -504,14 +504,14 @@
           {
             "id": "l_11_2",
             "question": "How much lubricating oil is left?",
-            "answer": "Four litres.",
-            "options": ["Two litres.", "Four litres.", "Six litres."]
+            "answer": "Four litres",
+            "options": ["Two litres", "Four litres", "Six litres"]
           },
           {
             "id": "l_11_3",
             "question": "How many bearings remain?",
-            "answer": "Eight bearings.",
-            "options": ["Five bearings.", "Eight bearings.", "Twelve bearings."]
+            "answer": "Eight bearings",
+            "options": ["Five bearings", "Eight bearings", "Twelve bearings"]
           },
           {
             "id": "l_11_4",

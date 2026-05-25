@@ -504,17 +504,17 @@
           {
             "id": "l_11_2",
             "question": "How much engine oil is left?",
-            "answer": "Six litres.",
-            "options": ["Ten litres.", "Six litres.", "Four litres."]
+            "answer": "Six litres",
+            "options": ["Ten litres", "Six litres", "Four litres"]
           },
           {
             "id": "l_11_3",
             "question": "How many oil filters are available?",
-            "answer": "Three oil filters.",
+            "answer": "Three oil filters",
             "options": [
-              "Three oil filters.",
-              "Five oil filters.",
-              "Thirteen oil filters."
+              "Three oil filters",
+              "Five oil filters",
+              "Thirteen oil filters"
             ]
           },
           {

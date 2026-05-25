@@ -504,14 +504,14 @@
           {
             "id": "l_11_2",
             "question": "How many cement bags are left?",
-            "answer": "Nine bags.",
-            "options": ["Fifteen bags.", "Nine bags.", "Twelve bags."]
+            "answer": "Nine bags",
+            "options": ["Fifteen bags", "Nine bags", "Twelve bags"]
           },
           {
             "id": "l_11_3",
             "question": "How much timber do they currently have?",
-            "answer": "Six planks.",
-            "options": ["Ten planks.", "Six planks.", "Four planks."]
+            "answer": "Six planks",
+            "options": ["Ten planks", "Six planks", "Four planks"]
           },
           {
             "id": "l_11_4",

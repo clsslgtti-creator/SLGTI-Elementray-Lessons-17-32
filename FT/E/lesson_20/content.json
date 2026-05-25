@@ -504,14 +504,14 @@
           {
             "id": "l_11_2",
             "question": "How much flour is left?",
-            "answer": "6 kilos.",
-            "options": ["6 kilos.", "10 kilos.", "1 kilo."]
+            "answer": "6 kilos",
+            "options": ["6 kilos", "10 kilos", "1 kilo"]
           },
           {
             "id": "l_11_3",
             "question": "How many spoons do they currently have?",
-            "answer": "Eight spoons.",
-            "options": ["Eight spoons.", "Twenty spoons.", "Two spoons."]
+            "answer": "Eight spoons",
+            "options": ["Eight spoons", "Twenty spoons", "Two spoons"]
           },
           {
             "id": "l_11_4",
