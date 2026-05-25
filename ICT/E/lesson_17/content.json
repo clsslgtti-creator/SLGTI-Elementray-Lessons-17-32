@@ -432,26 +432,6 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_8_1",
-            "question": "Can you use cloud-based systems and network servers?",
-            "answer": "No, I can’t. But I am sure I can learn quickly.",
-            "options": [
-              "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well."
-            ]
-          },
-          {
-            "id": "l_8_2",
-            "question": "Can you handle advanced cybersecurity or large-scale database administration?",
-            "answer": "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-            "options": [
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "No, I can’t. But I am sure I can learn quickly.",
-              "I can do it, but not very well. But I am willing to learn."
-            ]
-          },
-          {
             "id": "l_8_3",
             "question": "Can you install and maintain computer systems in offices?",
             "answer": "Yes, I can. Actually, I can do it quite well.",
@@ -459,6 +439,26 @@
               "Yes, I can. Actually, I can do it quite well.",
               "No, I can’t. But I am sure I can learn quickly.",
               "I can do it, but not very well. But I am willing to learn."
+            ]
+          },
+          {
+            "id": "l_8_5",
+            "question": "Can you do network cable installations and software troubleshooting?",
+            "answer": "I can do it, but not very well. But I am willing to learn.",
+            "options": [
+              "I can do it, but not very well. But I am willing to learn.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance."
+            ]
+          },
+          {
+            "id": "l_8_1",
+            "question": "Can you use cloud-based systems and network servers?",
+            "answer": "No, I can’t. But I am sure I can learn quickly.",
+            "options": [
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well."
             ]
           },
           {
@@ -472,13 +472,13 @@
             ]
           },
           {
-            "id": "l_8_5",
-            "question": "Can you do network cable installations and software troubleshooting?",
-            "answer": "I can do it, but not very well. But I am willing to learn.",
+            "id": "l_8_2",
+            "question": "Can you handle advanced cybersecurity or large-scale database administration?",
+            "answer": "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
             "options": [
-              "I can do it, but not very well. But I am willing to learn.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance."
+              "I can do it, but not very well. But I am willing to learn."
             ]
           }
         ]

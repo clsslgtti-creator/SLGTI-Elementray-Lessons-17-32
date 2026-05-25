@@ -432,6 +432,26 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
+            "id": "l_4_5",
+            "question": "Can you manage checking engine systems and wiring in different types of vehicles?",
+            "answer": "Yes, I can. Actually, I can do it quite well.",
+            "options": [
+              "Yes, I can. Actually, I can do it quite well.",
+              "I can do it, but not very well. But I am willing to learn.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance."
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "Can you help with engine overhauls and brake system repairs?",
+            "answer": "I can do it, but not very well. But I am willing to learn.",
+            "options": [
+              "I can do it, but not very well. But I am willing to learn.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well."
+            ]
+          },
+          {
             "id": "l_4_1",
             "question": "Can you handle the use of diagnostic scanners and electronic fuel injector systems?",
             "answer": "No, I can’t. But I am sure I can learn quickly.",
@@ -459,26 +479,6 @@
               "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "Yes, I can. Actually, I can do it quite well.",
               "I can do it, but not very well. But I am willing to learn."
-            ]
-          },
-          {
-            "id": "l_4_4",
-            "question": "Can you help with engine overhauls and brake system repairs?",
-            "answer": "I can do it, but not very well. But I am willing to learn.",
-            "options": [
-              "I can do it, but not very well. But I am willing to learn.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well."
-            ]
-          },
-          {
-            "id": "l_4_5",
-            "question": "Can you manage checking engine systems and wiring in different types of vehicles?",
-            "answer": "Yes, I can. Actually, I can do it quite well.",
-            "options": [
-              "Yes, I can. Actually, I can do it quite well.",
-              "I can do it, but not very well. But I am willing to learn.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance."
             ]
           }
         ]

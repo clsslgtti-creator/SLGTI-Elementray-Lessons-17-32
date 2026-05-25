@@ -432,36 +432,6 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_5_1",
-            "question": "Can you handle large-scale concrete work or heavy machinery operations?",
-            "answer": "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-            "options": [
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well.",
-              "No, I can’t. But I am sure I can learn quickly."
-            ]
-          },
-          {
-            "id": "l_5_2",
-            "question": "Are you comfortable working at heights or outdoors on scaffolding?",
-            "answer": "Yes, I can. Actually, I am very good at it.",
-            "options": [
-              "Yes, I can. Actually, I am very good at it.",
-              "No, I can’t. But I am sure I can learn quickly.",
-              "I can do it, but not very well. But I am willing to learn."
-            ]
-          },
-          {
-            "id": "l_5_3",
-            "question": "Can you handle modern tools like laser levels and digital measuring devices?",
-            "answer": "No, I can’t. But I am sure I can learn quickly.",
-            "options": [
-              "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well."
-            ]
-          },
-          {
             "id": "l_5_4",
             "question": "Can you read building plans and measure materials at construction sites?",
             "answer": "Yes, I can. Actually, I can do it quite well.",
@@ -477,6 +447,36 @@
             "answer": "I can do it, but not very well. But I am willing to learn.",
             "options": [
               "I can do it, but not very well. But I am willing to learn.",
+              "Yes, I can. Actually, I can do it quite well.",
+              "No, I can’t. But I am sure I can learn quickly."
+            ]
+          },
+          {
+            "id": "l_5_3",
+            "question": "Can you handle modern tools like laser levels and digital measuring devices?",
+            "answer": "No, I can’t. But I am sure I can learn quickly.",
+            "options": [
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well."
+            ]
+          },
+          {
+            "id": "l_5_2",
+            "question": "Are you comfortable working at heights or outdoors on scaffolding?",
+            "answer": "Yes, I can. Actually, I am very good at it.",
+            "options": [
+              "Yes, I can. Actually, I am very good at it.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "I can do it, but not very well. But I am willing to learn."
+            ]
+          },
+          {
+            "id": "l_5_1",
+            "question": "Can you handle large-scale concrete work or heavy machinery operations?",
+            "answer": "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+            "options": [
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "Yes, I can. Actually, I can do it quite well.",
               "No, I can’t. But I am sure I can learn quickly."
             ]
