@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Simple Present, regular verbs",
+    "focus": "Simple Past regular verbs",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -504,7 +504,7 @@
           },
           {
             "id": "l_13_2",
-            "question": "Why is the dough proofer door not closing properly?",
+            "question": "Why was the dough proofer door not closing properly?",
             "answer": "A hinge was bent.",
             "options": [
               "Some hinges were bent.",

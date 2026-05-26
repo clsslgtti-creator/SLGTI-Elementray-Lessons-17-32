@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Simple Present, regular verbs",
+    "focus": "Simple Past regular verbs",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -504,7 +504,7 @@
           },
           {
             "id": "l_13_2",
-            "question": "Why is the breaker cabinet door not closing properly?",
+            "question": "Why was the breaker cabinet door not closing properly?",
             "answer": "A hinge was bent.",
             "options": [
               "The lock jammed.",
@@ -524,7 +524,7 @@
           },
           {
             "id": "l_13_4",
-            "question": "Why is the stabilizer display still unclear?",
+            "question": "Why is the stabiliser display still unclear?",
             "answer": "The internal bulb might be failing.",
             "options": [
               "The fuse blew.",
@@ -622,7 +622,7 @@
         },
         {
           "id": "t_13_16",
-          "text": "Another thing, the voltage stabilizer display was blurry last night.",
+          "text": "Another thing, the voltage stabiliser display was blurry last night.",
           "audio": "assets/audio/t_13_16.mp3"
         },
         {
@@ -714,7 +714,7 @@
         },
         {
           "id": "t_13_16",
-          "text": "Another thing, the voltage stabilizer display was blurry last night.",
+          "text": "Another thing, the voltage stabiliser display was blurry last night.",
           "audio": "assets/audio/t_13_16.mp3"
         },
         {
@@ -776,7 +776,7 @@
         },
         {
           "id": "t_13_16",
-          "text": "Another thing, the voltage stabilizer display was blurry last night.",
+          "text": "Another thing, the voltage stabiliser display was blurry last night.",
           "audio": "assets/audio/t_13_16.mp3"
         },
         {
