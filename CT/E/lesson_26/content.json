@@ -213,8 +213,8 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_3_i_d.mp3"
+        "text": "Which question refers to the underlined part of the sentence?\n වාක්‍යයේ ඉරි ඇඳ ඇති කොටසට ගැළපෙන ප්‍රශ්නය කුමක්ද?\n வாக்கியத்தில் அடிக்கோடிடப்பட்ட பகுதிக்குரிய வினா எது?",
+        "audio": "assets/audio/a_3_i_j.mp3"
       },
       "activity_b": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
@@ -227,7 +227,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "My teacher patiently explained the difficult lesson in class yesterday afternoon.",
+            "sentence": "My teacher patiently explained <u>the difficult lesson</u> in class yesterday afternoon.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "What did your teacher explain yesterday afternoon?",
@@ -238,7 +238,7 @@
           },
           {
             "id": "g_b_2",
-            "sentence": "They clean the large workshop area twice a week.",
+            "sentence": "They clean the large workshop area <u>twice a week</u>.",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
               "How often do they clean the large workshop area?",
@@ -249,7 +249,7 @@
           },
           {
             "id": "g_b_3",
-            "sentence": "His relatives spoke to him about his career choices last week.",
+            "sentence": "His relatives spoke to him about his career choices <u>last week</u>.",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
               "When did his relatives speak to him about his career choices?",
@@ -260,7 +260,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "She arrives at the busy campus at eight every morning.",
+            "sentence": "She arrives at the busy campus <u>at eight every morning</u>.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "When does she arrive at the busy campus?",
@@ -271,7 +271,7 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "We are going to start the practical session later this evening.",
+            "sentence": "We are going to start the practical session <u>later this evening</u>.",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
               "When are you going to start the practical session?",
@@ -282,7 +282,7 @@
           },
           {
             "id": "g_b_6",
-            "sentence": "I am going to meet my cousin in town tomorrow morning.",
+            "sentence": "I am going to meet <u>my cousin</u> in town tomorrow morning.",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
               "Who are you going to meet tomorrow morning?",
@@ -293,7 +293,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "Her supervisor was in the noisy workshop at noon today.",
+            "sentence": "Her supervisor was <u>in the noisy workshop</u> at noon today.",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "Where was her supervisor at noon today?",
@@ -304,7 +304,7 @@
           },
           {
             "id": "g_b_8",
-            "sentence": "My friends were at the crowded bus stop at six yesterday.",
+            "sentence": "My friends were <u>at the crowded bus stop</u> at six yesterday.",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
               "Where were your friends at six yesterday?",
@@ -315,7 +315,7 @@
           },
           {
             "id": "g_b_9",
-            "sentence": "The trainees practiced several complex safety drills last Tuesday afternoon.",
+            "sentence": "The trainees practiced <u>several complex safety drills</u> last Tuesday afternoon.",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
               "What did the trainees practice last Tuesday afternoon?",
@@ -326,7 +326,7 @@
           },
           {
             "id": "g_b_10",
-            "sentence": "He usually writes his weekly progress reports on Mondays before lunch.",
+            "sentence": "He usually writes his weekly progress reports <u>on Mondays before lunch</u>.",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
               "When does he write his weekly progress reports?",
@@ -337,7 +337,7 @@
           },
           {
             "id": "g_b_11",
-            "sentence": "We were in the small meeting room at ten yesterday morning.",
+            "sentence": "We were <u>in the small meeting room</u> at ten yesterday morning.",
             "audio": "assets/audio/g_b_11.mp3",
             "options": [
               "Where were you at ten yesterday morning?",
@@ -348,7 +348,7 @@
           },
           {
             "id": "g_b_12",
-            "sentence": "I am going to help my younger brother with homework tonight.",
+            "sentence": "I am going to help <u>my younger brother</u> with homework tonight.",
             "audio": "assets/audio/g_b_12.mp3",
             "options": [
               "Who are you going to help tonight?",
@@ -403,12 +403,12 @@
         {
           "id": "g_b_5",
           "text": "We are going to start the practical session later this evening.",
-          "audio": "assets/audio/g_b_5_a.mp3"
+          "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_5_a",
           "text": "When are you going to start the practical session?",
-          "audio": "assets/audio/g_b_5.mp3"
+          "audio": "assets/audio/g_b_5_a.mp3"
         },
         {
           "id": "g_b_6",
@@ -429,6 +429,16 @@
           "id": "g_b_7_a",
           "text": "Where was her supervisor at noon today?",
           "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "My friends were at the crowded bus stop at six yesterday.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "Where were your friends at six yesterday?",
+          "audio": "assets/audio/g_b_8_a.mp3"
         }
       ]
     }
