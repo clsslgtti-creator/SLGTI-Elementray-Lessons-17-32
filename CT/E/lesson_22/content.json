@@ -435,7 +435,7 @@
     "type": "LISTENING-9",
     "instructions": {
       "activity_a": {
-        "text": "Listen to the recording and match the words to the  pictures. \nපටිගත කිරීම අසන්න සහ වචන පින්තූර සමඟ ගැලපෙන්න.\nபதிவை கேட்டு, சொற்களை படங்களுடன் பொருத்துங்கள்.",
+        "text": "Listen to the recording and match the words to the  pictures. \nපටිගත කිරීමට සවන් දී වචන පින්තූරවලට ගලපන්න.\nபதிவை கேட்டு, சொற்களை படங்களுடன் பொருத்துங்கள்.",
         "audio": "assets/audio/a_4_i_i.mp3"
       },
       "activity_b": {
@@ -461,32 +461,32 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "word": "Bent hinges",
+            "word": "bent hinges",
             "image": "assets/img/a_4_1_1.png"
           },
           {
             "id": "n_4_a_2",
-            "word": "Blurry display",
+            "word": "blurry display",
             "image": "assets/img/a_4_1_2.png"
           },
           {
             "id": "n_4_a_3",
-            "word": "Loose belt",
+            "word": "loose belt",
             "image": "assets/img/a_4_1_3.png"
           },
           {
             "id": "n_4_a_4",
-            "word": "Missing screw",
+            "word": "missing screw",
             "image": "assets/img/a_4_1_4.png"
           },
           {
             "id": "n_4_a_5",
-            "word": "Unstable rack",
+            "word": "unstable rack",
             "image": "assets/img/a_4_1_5.png"
           },
           {
             "id": "n_4_a_6",
-            "word": "Dusty motor",
+            "word": "dusty motor",
             "image": "assets/img/a_4_1_6.png"
           }
         ]
@@ -830,12 +830,12 @@
       {
         "id": "v_1",
         "audio": "assets/videos/1A.mp4",
-        "instrction": "instrction_q"
+        "instrction": "instrction_a"
       },
       {
         "id": "v_2",
         "audio": "assets/videos/2A.mp4",
-        "instrction": "instrction_q"
+        "instrction": "instrction_a"
       }
     ]
   }

@@ -765,14 +765,14 @@
           "audio": "assets/audio/t_7_23.mp3"
         },
         {
-          "id": "t_7_24",
-          "text": "And two bottles of lime juice concentrate.",
-          "audio": "assets/audio/t_7_24.mp3"
-        },
-        {
           "id": "t_7_25",
           "text": "I’m going to add eight packs to your list.",
           "audio": "assets/audio/t_7_25.mp3"
+        },
+        {
+          "id": "t_7_24",
+          "text": "And two bottles of lime juice concentrate.",
+          "audio": "assets/audio/t_7_24.mp3"
         },
         {
           "id": "t_7_26",

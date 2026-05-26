@@ -432,36 +432,6 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
-            "id": "l_9_1",
-            "question": "Can you use CNC machines and automated systems?",
-            "answer": "No, I can’t. But I am sure I can learn quickly.",
-            "options": [
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "Yes, I can. Actually, I can do it quite well.",
-              "No, I can’t. But I am sure I can learn quickly."
-            ]
-          },
-          {
-            "id": "l_9_2",
-            "question": "Can you handle hydraulic system repairs or industrial machine maintenance?",
-            "answer": "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-            "options": [
-              "No, I can’t. But I am sure I can learn quickly.",
-              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
-              "I can do it, but not very well. But I am willing to learn."
-            ]
-          },
-          {
-            "id": "l_9_3",
-            "question": "Can you work with heavy equipment or oily surfaces?",
-            "answer": "Yes, I can. Actually, I am very good at it.",
-            "options": [
-              "Yes, I can. Actually, I am very good at it.",
-              "No, I can’t. But I am sure I can learn quickly.",
-              "I can do it, but not very well. But I am willing to learn."
-            ]
-          },
-          {
             "id": "l_9_4",
             "question": "Can you assemble and repair machines in workshops or factories?",
             "answer": "Yes, I can. Actually, I can do it quite well.",
@@ -479,6 +449,36 @@
               "I can do it, but not very well. But I am willing to learn.",
               "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
               "No, I can’t. But I am sure I can learn quickly."
+            ]
+          },
+          {
+            "id": "l_9_1",
+            "question": "Can you use CNC machines and automated systems?",
+            "answer": "No, I can’t. But I am sure I can learn quickly.",
+            "options": [
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "Yes, I can. Actually, I can do it quite well.",
+              "No, I can’t. But I am sure I can learn quickly."
+            ]
+          },
+          {
+            "id": "l_9_3",
+            "question": "Can you work with heavy equipment or oily surfaces?",
+            "answer": "Yes, I can. Actually, I am very good at it.",
+            "options": [
+              "Yes, I can. Actually, I am very good at it.",
+              "No, I can’t. But I am sure I can learn quickly.",
+              "I can do it, but not very well. But I am willing to learn."
+            ]
+          },
+          {
+            "id": "l_9_2",
+            "question": "Can you handle hydraulic system repairs or industrial machine maintenance?",
+            "answer": "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+            "options": [
+              "No, I can’t. But I am sure I can learn quickly.",
+              "No, I can’t. Not at all, but I am sure I can learn in no time under good guidance.",
+              "I can do it, but not very well. But I am willing to learn."
             ]
           }
         ]

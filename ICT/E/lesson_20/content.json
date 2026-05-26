@@ -504,17 +504,17 @@
           {
             "id": "l_11_2",
             "question": "How many network cables are left?",
-            "answer": "Four cables.",
-            "options": ["Six cables.", "Four cables.", "Two cables."]
+            "answer": "Four cables",
+            "options": ["Six cables", "Four cables", "Two cables"]
           },
           {
             "id": "l_11_3",
             "question": "How many USB drives remain?",
-            "answer": "Five USB drives.",
+            "answer": "Five USB drives",
             "options": [
-              "Three USB drives.",
-              "Seven USB drives.",
-              "Five USB drives."
+              "Three USB drives",
+              "Seven USB drives",
+              "Five USB drives"
             ]
           },
           {

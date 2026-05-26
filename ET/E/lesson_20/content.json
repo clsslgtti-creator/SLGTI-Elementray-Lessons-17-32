@@ -504,21 +504,21 @@
           {
             "id": "l_11_2",
             "question": "How many full rolls of PVC cable are left?",
-            "answer": "One full roll.",
+            "answer": "One full roll",
             "options": [
-              "Two full rolls.",
-              "One full roll.",
-              "Three full rolls."
+              "Two full rolls",
+              "One full roll",
+              "Three full rolls"
             ]
           },
           {
             "id": "l_11_3",
             "question": "How many circuit breakers remain?",
-            "answer": "Four circuit breakers.",
+            "answer": "Four circuit breakers",
             "options": [
-              "Six circuit breakers.",
-              "Two circuit breakers.",
-              "Four circuit breakers."
+              "Six circuit breakers",
+              "Two circuit breakers",
+              "Four circuit breakers"
             ]
           },
           {
@@ -556,7 +556,7 @@
         },
         {
           "id": "t_3_3",
-          "text": "Sure, sir.",
+          "text": "Sure, Sir.",
           "audio": "assets/audio/t_3_3.mp3"
         },
         {
@@ -586,7 +586,7 @@
         },
         {
           "id": "t_3_9",
-          "text": "So we don’t have enough, sir.",
+          "text": "So we don’t have enough, Sir.",
           "audio": "assets/audio/t_3_9.mp3"
         },
         {
@@ -607,17 +607,17 @@
         {
           "id": "t_3_13",
           "text": "That’s not good.",
-          "audio": "assets/audio/t_3_13.mp3"
+          "audio": "assets/audio/t_3_15.mp3"
         },
         {
           "id": "t_3_14",
           "text": "What about junction boxes?",
-          "audio": "assets/audio/t_3_14.mp3"
+          "audio": "assets/audio/t_3_13.mp3"
         },
         {
           "id": "t_3_15",
           "text": "We use a lot of them for ceiling work.",
-          "audio": "assets/audio/t_3_15.mp3"
+          "audio": "assets/audio/t_3_14.mp3"
         },
         {
           "id": "t_3_16",
@@ -656,7 +656,7 @@
         },
         {
           "id": "t_3_23",
-          "text": "Insulation tape is almost finished, sir.",
+          "text": "Insulation tape is almost finished, Sir.",
           "audio": "assets/audio/t_3_23.mp3"
         },
         {
@@ -676,7 +676,7 @@
         },
         {
           "id": "t_3_27",
-          "text": "No, sir.",
+          "text": "No, Sir.",
           "audio": "assets/audio/t_3_27.mp3"
         },
         {
@@ -733,7 +733,7 @@
         },
         {
           "id": "t_3_9",
-          "text": "So we don’t have enough, sir.",
+          "text": "So we don’t have enough, Sir.",
           "audio": "assets/audio/t_3_9.mp3"
         },
         {
@@ -744,7 +744,7 @@
         {
           "id": "t_3_15",
           "text": "We use a lot of them for ceiling work.",
-          "audio": "assets/audio/t_3_15.mp3"
+          "audio": "assets/audio/t_3_14.mp3"
         },
         {
           "id": "t_3_16",
@@ -763,7 +763,7 @@
         },
         {
           "id": "t_3_23",
-          "text": "Insulation tape is almost finished, sir.",
+          "text": "Insulation tape is almost finished, Sir.",
           "audio": "assets/audio/t_3_23.mp3"
         },
         {
@@ -790,7 +790,7 @@
         },
         {
           "id": "t_3_9",
-          "text": "So we don’t have enough, sir.",
+          "text": "So we don’t have enough, Sir.",
           "audio": "assets/audio/t_3_9.mp3"
         },
         {
@@ -801,7 +801,7 @@
         {
           "id": "t_3_15",
           "text": "We use a lot of them for ceiling work.",
-          "audio": "assets/audio/t_3_15.mp3"
+          "audio": "assets/audio/t_3_14.mp3"
         },
         {
           "id": "t_3_16",
@@ -820,7 +820,7 @@
         },
         {
           "id": "t_3_23",
-          "text": "Insulation tape is almost finished, sir.",
+          "text": "Insulation tape is almost finished, Sir.",
           "audio": "assets/audio/t_3_23.mp3"
         },
         {

@@ -221,7 +221,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Make the following sentences negative.\nනිවැරදි පිළිතුර තෝරන්න.\nசரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "text": "Choose the correct answer that has the sentence in the negative form.\nනිශේධාර්ථ ස්වරූපයෙන් ඇති වාක්‍යය සහිත නිවැරදි පිළිතුර තෝරන්න.\nஎதிர்மறை வடிவில் உள்ள வாக்கியத்தைக் கொண்ட சரியான விடையைத் தேர்ந்தெடுக்கவும்.",
         "audio": "assets/audio/a_3_i_g.mp3"
       },
       "activity_b": {
