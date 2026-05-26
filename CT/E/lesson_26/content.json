@@ -227,7 +227,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "My teacher patiently explained the <u>difficult lesson</u> in class yesterday afternoon.",
+            "sentence": "My teacher patiently explained the difficult lesson in class yesterday afternoon.",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "What did your teacher explain yesterday afternoon?",

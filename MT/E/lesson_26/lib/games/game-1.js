@@ -252,6 +252,244 @@ const createButtonShadow = (scene, width, height, radius, offset = 6) => {
   return shadow;
 };
 
+const UNDERLINE_TAG_PATTERN = /<\/?u>/gi;
+
+const parseSentenceMarkup = (sentence = "") => {
+  if (typeof sentence !== "string" || !sentence.length) {
+    return [];
+  }
+
+  const segments = [];
+  let lastIndex = 0;
+  let underline = false;
+
+  sentence.replace(/<(\/?)u>/gi, (match, closing, offset) => {
+    if (offset > lastIndex) {
+      segments.push({
+        text: sentence.slice(lastIndex, offset),
+        underline,
+      });
+    }
+    underline = closing !== "/";
+    lastIndex = offset + match.length;
+    return match;
+  });
+
+  if (lastIndex < sentence.length) {
+    segments.push({
+      text: sentence.slice(lastIndex),
+      underline,
+    });
+  }
+
+  return segments.filter((segment) => segment.text.length > 0);
+};
+
+const tokenizeSentenceSegments = (segments = []) => {
+  const tokens = [];
+
+  segments.forEach((segment) => {
+    String(segment.text)
+      .split(/(\n|\s+)/)
+      .forEach((part) => {
+        if (!part) {
+          return;
+        }
+        if (part === "\n") {
+          tokens.push({ type: "newline" });
+          return;
+        }
+        tokens.push({
+          text: part,
+          underline: Boolean(segment.underline),
+          whitespace: /^\s+$/.test(part),
+        });
+      });
+  });
+
+  return tokens;
+};
+
+const extractFontSizePx = (fontSize) => {
+  if (typeof fontSize === "number" && Number.isFinite(fontSize)) {
+    return fontSize;
+  }
+  if (typeof fontSize === "string") {
+    const parsed = Number.parseFloat(fontSize);
+    if (Number.isFinite(parsed)) {
+      return parsed;
+    }
+  }
+  return 34;
+};
+
+const buildCanvasFont = (style = {}) => {
+  const fontSize =
+    typeof style.fontSize === "number"
+      ? `${style.fontSize}px`
+      : style.fontSize || "34px";
+  const fontStyle =
+    typeof style.fontStyle === "string" && style.fontStyle.trim().length
+      ? style.fontStyle.trim()
+      : "normal";
+  const fontFamily =
+    typeof style.fontFamily === "string" && style.fontFamily.trim().length
+      ? style.fontFamily
+      : "sans-serif";
+  return `${fontStyle} ${fontSize} ${fontFamily}`;
+};
+
+const measureSentenceToken = (context, cache, tokenText) => {
+  if (cache.has(tokenText)) {
+    return cache.get(tokenText);
+  }
+  const width = context.measureText(tokenText).width;
+  cache.set(tokenText, width);
+  return width;
+};
+
+const trimTrailingWhitespace = (line) => {
+  while (line.length && line[line.length - 1].whitespace) {
+    line.pop();
+  }
+};
+
+const renderSentenceMarkup = (
+  scene,
+  container,
+  sentence,
+  textStyle,
+  maxWidth
+) => {
+  container.removeAll(true);
+
+  const graphics = scene.add.graphics();
+  container.add(graphics);
+
+  const safeSentence =
+    typeof sentence === "string" ? sentence.replace(UNDERLINE_TAG_PATTERN, "") : "";
+  if (!safeSentence.trim().length) {
+    return;
+  }
+
+  const segments = parseSentenceMarkup(sentence);
+  const tokens = tokenizeSentenceSegments(
+    segments.length ? segments : [{ text: safeSentence, underline: false }]
+  );
+  const canvas = document.createElement("canvas");
+  const context = canvas.getContext("2d");
+
+  if (!context) {
+    const fallbackText = scene.add.text(0, 0, safeSentence, {
+      ...textStyle,
+      align: "center",
+      wordWrap: { width: maxWidth },
+    });
+    fallbackText.setOrigin(0.5, 0);
+    container.add(fallbackText);
+    return;
+  }
+
+  context.font = buildCanvasFont(textStyle);
+  const fontSize = extractFontSizePx(textStyle?.fontSize);
+  const lineHeight = Math.round(fontSize * 1.35);
+  const underlineOffset = Math.max(2, Math.round(fontSize * 0.12));
+  const measureCache = new Map();
+  const lines = [];
+  let currentLine = [];
+  let currentWidth = 0;
+
+  const pushLine = () => {
+    trimTrailingWhitespace(currentLine);
+    const width = currentLine.reduce(
+      (sum, token) => sum + measureSentenceToken(context, measureCache, token.text),
+      0
+    );
+    lines.push({ tokens: currentLine, width });
+    currentLine = [];
+    currentWidth = 0;
+  };
+
+  tokens.forEach((token) => {
+    if (token.type === "newline") {
+      pushLine();
+      return;
+    }
+
+    let tokenText = token.text;
+    if (!currentLine.length && token.whitespace) {
+      return;
+    }
+
+    if (!currentLine.length) {
+      tokenText = tokenText.replace(/^\s+/, "");
+      if (!tokenText.length) {
+        return;
+      }
+    }
+
+    let tokenWidth = measureSentenceToken(context, measureCache, tokenText);
+
+    if (
+      currentLine.length &&
+      !token.whitespace &&
+      currentWidth + tokenWidth > maxWidth
+    ) {
+      pushLine();
+      tokenText = tokenText.replace(/^\s+/, "");
+      if (!tokenText.length) {
+        return;
+      }
+      tokenWidth = measureSentenceToken(context, measureCache, tokenText);
+    } else if (
+      currentLine.length &&
+      token.whitespace &&
+      currentWidth + tokenWidth > maxWidth
+    ) {
+      pushLine();
+      return;
+    }
+
+    currentLine.push({
+      text: tokenText,
+      underline: token.underline,
+      whitespace: /^\s+$/.test(tokenText),
+    });
+    currentWidth += tokenWidth;
+  });
+
+  if (currentLine.length || !lines.length) {
+    pushLine();
+  }
+
+  graphics.lineStyle(Math.max(2, Math.round(fontSize * 0.06)), 0x111827, 1);
+
+  lines.forEach((line, lineIndex) => {
+    const lineY = lineIndex * lineHeight;
+    let cursorX = -line.width / 2;
+
+    line.tokens.forEach((token) => {
+      const tokenWidth = measureSentenceToken(context, measureCache, token.text);
+      const chunk = scene.add.text(cursorX, lineY, token.text, {
+        ...textStyle,
+        align: "left",
+      });
+      chunk.setOrigin(0, 0);
+      container.add(chunk);
+
+      if (token.underline && token.text.trim().length) {
+        const underlineY = lineY + fontSize + underlineOffset;
+        graphics.beginPath();
+        graphics.moveTo(cursorX, underlineY);
+        graphics.lineTo(cursorX + tokenWidth, underlineY);
+        graphics.strokePath();
+      }
+
+      cursorX += tokenWidth;
+    });
+  });
+};
+
 const shuffleArray = (array) => {
   const shuffled = [...array];
   for (let i = shuffled.length - 1; i > 0; i--) {
@@ -625,19 +863,16 @@ export const createGameScene = (config) => {
       this.sentenceImageMaxHeight = 150;
       this.sentenceImagePadding = 10;
       this.sentenceTextGap = 24;
+      this.sentenceTextStyle = {
+        fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
+        fontSize: 34,
+        color: "#111827",
+      };
+      this.sentenceTextWrapWidth = sentenceCardWidth - 40;
       this.sentenceImage = this.add.image(0, -30, "");
       this.sentenceImage.setVisible(false);
       this.sentenceImage.setActive(false);
-
-      this.sentenceText = this.add
-        .text(0, 0, "", {
-          fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
-          fontSize: 34,
-          color: "#111827",
-          align: "center",
-          wordWrap: { width: sentenceCardWidth - 40 },
-        })
-        .setOrigin(0.5, 0);
+      this.sentenceText = this.add.container(0, 0);
 
       this.sentenceCard = this.add.container(-sentenceCardWidth, height / 2 - 50, [
         sentencePanel.graphics,
@@ -1619,7 +1854,7 @@ export const createGameScene = (config) => {
       this.setTopHudVisible(true);
       this.sentenceCard.x = -width;
       this.sentenceCard.setAlpha(1);
-      this.sentenceText.setText(entry.sentence);
+      this.renderSentenceText(entry.sentence);
       this.updateSentenceMedia(entry);
       const optionLabels =
         Array.isArray(entry?.options) && entry.options.length
@@ -1700,6 +1935,16 @@ export const createGameScene = (config) => {
       this.sentenceImage.setY(imageY);
       const textGap = this.sentenceTextGap ?? 24;
       this.sentenceText.setY(imageY + displayHeight / 2 + textGap);
+    }
+
+    renderSentenceText(sentence) {
+      renderSentenceMarkup(
+        this,
+        this.sentenceText,
+        sentence,
+        this.sentenceTextStyle,
+        this.sentenceTextWrapWidth
+      );
     }
 
     playSentenceAudio(entry, options = {}) {
