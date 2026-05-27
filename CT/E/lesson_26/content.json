@@ -528,79 +528,79 @@
           "id": "l_1_1",
           "question_audio": "assets/audio/t_31_36.mp3",
           "answer": "Latha",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_2",
           "question_audio": "assets/audio/t_31_17.mp3",
-          "answer": "Instructor Suresh",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "answer": "Instructor Fernando",
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_3",
           "question_audio": "assets/audio/t_31_18.mp3",
           "answer": "Haran",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_4",
           "question_audio": "assets/audio/t_31_20.mp3",
-          "answer": "Instructor Suresh",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "answer": "Instructor Fernando",
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_5",
           "question_audio": "assets/audio/t_31_34.mp3",
           "answer": "Latha",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_6",
           "question_audio": "assets/audio/t_31_38.mp3",
-          "answer": "Instructor Suresh",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "answer": "Instructor Fernando",
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_7",
           "question_audio": "assets/audio/t_31_21.mp3",
           "answer": "Haran",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_8",
           "question_audio": "assets/audio/t_31_29.mp3",
-          "answer": "Instructor Suresh",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "answer": "Instructor Fernando",
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_9",
           "question_audio": "assets/audio/t_31_30.mp3",
           "answer": "Latha",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_10",
           "question_audio": "assets/audio/t_31_35.mp3",
-          "answer": "Instructor Suresh",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "answer": "Instructor Fernando",
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_11",
           "question_audio": "assets/audio/t_31_4.mp3",
           "answer": "Haran",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         },
         {
           "id": "l_1_12",
           "question_audio": "assets/audio/t_31_5.mp3",
-          "answer": "Instructor Suresh",
-          "options": ["Haran", "Latha", "Instructor Suresh"]
+          "answer": "Instructor Fernando",
+          "options": ["Haran", "Latha", "Instructor Fernando"]
         }
       ],
       "activity_b": [
         {
           "id": "t_31_1",
-          "text": "Haran and Latha walked up to Mr. Suresh after the morning safety briefing.",
+          "text": "Haran and Latha walked up to Mr. Fernando after the morning safety briefing.",
           "audio": "assets/audio/t_31_1.mp3"
         },
         {
@@ -859,7 +859,7 @@
       "activity_d": [
         {
           "id": "t_31_1",
-          "text": "Haran and Latha walked up to Mr. Suresh after the morning safety briefing.",
+          "text": "Haran and Latha walked up to Mr. Fernando after the morning safety briefing.",
           "audio": "assets/audio/t_31_1.mp3"
         },
         {
