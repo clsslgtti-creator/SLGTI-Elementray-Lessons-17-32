@@ -527,80 +527,80 @@
         {
           "id": "l_1_1",
           "question_audio": "assets/audio/t_30_37.mp3",
-          "answer": "Instructor Nadee",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "answer": "Instructor Brown",
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_2",
           "question_audio": "assets/audio/t_30_33.mp3",
           "answer": "Thenu",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_3",
           "question_audio": "assets/audio/t_30_21.mp3",
           "answer": "Farhan",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_4",
           "question_audio": "assets/audio/t_30_13.mp3",
-          "answer": "Instructor Nadee",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "answer": "Instructor Brown",
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_5",
           "question_audio": "assets/audio/t_30_15.mp3",
           "answer": "Farhan",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_6",
           "question_audio": "assets/audio/t_30_28.mp3",
-          "answer": "Instructor Nadee",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "answer": "Instructor Brown",
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_7",
           "question_audio": "assets/audio/t_30_18.mp3",
           "answer": "Farhan",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_8",
           "question_audio": "assets/audio/t_30_20.mp3",
-          "answer": "Instructor Nadee",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "answer": "Instructor Brown",
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_9",
           "question_audio": "assets/audio/t_30_29.mp3",
           "answer": "Thenu",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_10",
           "question_audio": "assets/audio/t_30_5.mp3",
-          "answer": "Instructor Nadee",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "answer": "Instructor Brown",
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_11",
           "question_audio": "assets/audio/t_30_4.mp3",
           "answer": "Farhan",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         },
         {
           "id": "l_1_12",
           "question_audio": "assets/audio/t_30_35.mp3",
           "answer": "Thenu",
-          "options": ["Farhan", "Thenu", "Instructor Nadee"]
+          "options": ["Farhan", "Thenu", "Instructor Brown"]
         }
       ],
       "activity_b": [
         {
           "id": "t_30_1",
-          "text": "Farhan and Thenu walked up to Ms. Nadee after the morning safety briefing.",
+          "text": "Farhan and Thenu walked up to Ms. Brown after the morning safety briefing.",
           "audio": "assets/audio/t_30_1.mp3"
         },
         {
@@ -854,7 +854,7 @@
       "activity_d": [
         {
           "id": "t_30_1",
-          "text": "Farhan and Thenu walked up to Ms. Nadee after the morning safety briefing.",
+          "text": "Farhan and Thenu walked up to Ms. Brown after the morning safety briefing.",
           "audio": "assets/audio/t_30_1.mp3"
         },
         {
