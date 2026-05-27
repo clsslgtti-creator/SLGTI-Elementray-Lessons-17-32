@@ -528,79 +528,79 @@
           "id": "l_1_1",
           "question_audio": "assets/audio/t_28_35.mp3",
           "answer": "Kavin",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_2",
           "question_audio": "assets/audio/t_28_6.mp3",
-          "answer": "Instructor Dilan",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "answer": "Instructor Smith",
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_3",
           "question_audio": "assets/audio/t_28_15.mp3",
           "answer": "Imran",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_4",
           "question_audio": "assets/audio/t_28_17.mp3",
-          "answer": "Instructor Dilan",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "answer": "Instructor Smith",
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_5",
           "question_audio": "assets/audio/t_28_18.mp3",
           "answer": "Imran",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_6",
           "question_audio": "assets/audio/t_28_33.mp3",
           "answer": "Kavin",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_7",
           "question_audio": "assets/audio/t_28_21.mp3",
           "answer": "Imran",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_8",
           "question_audio": "assets/audio/t_28_28.mp3",
-          "answer": "Instructor Dilan",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "answer": "Instructor Smith",
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_9",
           "question_audio": "assets/audio/t_28_4.mp3",
           "answer": "Imran",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_10",
           "question_audio": "assets/audio/t_28_34.mp3",
-          "answer": "Instructor Dilan",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "answer": "Instructor Smith",
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_11",
           "question_audio": "assets/audio/t_28_29.mp3",
           "answer": "Kavin",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         },
         {
           "id": "l_1_12",
           "question_audio": "assets/audio/t_28_37.mp3",
-          "answer": "Instructor Dilan",
-          "options": ["Kavin", "Instructor Dilan", "Imran"]
+          "answer": "Instructor Smith",
+          "options": ["Kavin", "Instructor Smith", "Imran"]
         }
       ],
       "activity_b": [
         {
           "id": "t_28_1",
-          "text": "Imran and Kavin walked up to Mr. Dilan after the morning maintenance briefing.",
+          "text": "Imran and Kavin walked up to Mr. Smith after the morning maintenance briefing.",
           "audio": "assets/audio/t_28_1.mp3"
         },
         {
@@ -854,7 +854,7 @@
       "activity_d": [
         {
           "id": "t_28_1",
-          "text": "Imran and Kavin walked up to Mr. Dilan after the morning maintenance briefing.",
+          "text": "Imran and Kavin walked up to Mr. Smith after the morning maintenance briefing.",
           "audio": "assets/audio/t_28_1.mp3"
         },
         {
