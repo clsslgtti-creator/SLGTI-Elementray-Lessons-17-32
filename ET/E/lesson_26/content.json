@@ -179,7 +179,7 @@
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "Why did you clean the fuse holder with a small brush yesterday?",
-        "text_b": "I cleaned it with a brush to remove the carbon dust.",
+        "text_b": "I cleaned it with a small brush to remove the carbon dust.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
