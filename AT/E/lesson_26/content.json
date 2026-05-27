@@ -104,8 +104,8 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why did you wipe the dashboard with a microfiber cloth this morning?",
-        "text_b": "I wiped it with a microfiber cloth to remove the fine dust.",
+        "text_a": "Why did you wipe the dashboard with a microfibre cloth this morning?",
+        "text_b": "I wiped it with a microfibre cloth to remove the fine dust.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
@@ -528,79 +528,79 @@
           "id": "l_1_1",
           "question_audio": "assets/audio/t_27_4.mp3",
           "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_2",
           "question_audio": "assets/audio/t_27_6.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "answer": "Instructor De Silva",
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_3",
           "question_audio": "assets/audio/t_27_30.mp3",
           "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_4",
           "question_audio": "assets/audio/t_27_39.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "answer": "Instructor De Silva",
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_5",
           "question_audio": "assets/audio/t_27_17.mp3",
           "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_6",
           "question_audio": "assets/audio/t_27_43.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "answer": "Instructor De Silva",
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_7",
           "question_audio": "assets/audio/t_27_38.mp3",
           "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_8",
           "question_audio": "assets/audio/t_27_20.mp3",
           "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_9",
           "question_audio": "assets/audio/t_27_39.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "answer": "Instructor De Silva",
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_10",
           "question_audio": "assets/audio/t_27_34.mp3",
           "answer": "Niyas",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_11",
           "question_audio": "assets/audio/t_27_33.mp3",
-          "answer": "Instructor Ranjith",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "answer": "Instructor De Silva",
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         },
         {
           "id": "l_1_12",
           "question_audio": "assets/audio/t_27_24.mp3",
           "answer": "Rafiq",
-          "options": ["Rafiq", "Instructor Ranjith", "Niyas"]
+          "options": ["Rafiq", "Instructor De Silva", "Niyas"]
         }
       ],
       "activity_b": [
         {
           "id": "t_27_1",
-          "text": "Rafiq and Niyas walked up to Mr. Ranjith after the morning toolbox meeting.",
+          "text": "Rafiq and Niyas walked up to Mr. De Silva after the morning toolbox meeting.",
           "audio": "assets/audio/t_27_1.mp3"
         },
         {
@@ -884,7 +884,7 @@
       "activity_d": [
         {
           "id": "t_27_1",
-          "text": "Rafiq and Niyas walked up to Mr. Ranjith after the morning toolbox meeting.",
+          "text": "Rafiq and Niyas walked up to Mr. De Silva after the morning toolbox meeting.",
           "audio": "assets/audio/t_27_1.mp3"
         },
         {
