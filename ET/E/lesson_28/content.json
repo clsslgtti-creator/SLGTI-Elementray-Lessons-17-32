@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "/k/",
+    "focus": "/f/",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -413,9 +413,9 @@
           },
           {
             "id": "l_18_2",
-            "question": "Which voltage calibration meter was better?",
-            "answer": "Silver meter.",
-            "options": ["Black meter.", "Silver meter.", "Red meter."]
+            "question": "Which voltage calibration metre was better?",
+            "answer": "Silver metre.",
+            "options": ["Black metre.", "Silver metre.", "Red metre."]
           },
           {
             "id": "l_18_3",
@@ -444,17 +444,17 @@
       "activity_b": [
         {
           "id": "t_36_7",
-          "text": "Yes, sir. We used many new voltage calibration meters, but one brand was more accurate and more durable than the other.",
+          "text": "Yes, sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
           "audio": "assets/audio/t_36_7.mp3"
         },
         {
           "id": "t_36_8",
-          "text": "The silver meter worked well, but the black one gave weaker readings.",
+          "text": "The silver metre worked well, but the black one gave weaker readings.",
           "audio": "assets/audio/t_36_8.mp3"
         },
         {
           "id": "t_36_9",
-          "text": "I see. The silver meter is definitely better.",
+          "text": "I see. The silver metre is definitely better.",
           "audio": "assets/audio/t_36_9.mp3"
         },
         {
@@ -474,7 +474,7 @@
         },
         {
           "id": "t_36_24",
-          "text": "Order eight voltage calibration meters, twelve insulated wire strippers because they are lighter and easier to use, and six fiberglass fish tapes.",
+          "text": "Order eight voltage calibration metres, twelve insulated wire strippers because they are lighter and easier to use, and six fiberglass fish tapes.",
           "audio": "assets/audio/t_36_24.mp3"
         },
         {
@@ -506,17 +506,17 @@
       "activity_c": [
         {
           "id": "t_36_7",
-          "text": "Yes, sir. We used many new voltage calibration meters, but one brand was more accurate and more durable than the other.",
+          "text": "Yes, sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
           "audio": "assets/audio/t_36_7.mp3"
         },
         {
           "id": "t_36_8",
-          "text": "The silver meter worked well, but the black one gave weaker readings.",
+          "text": "The silver metre worked well, but the black one gave weaker readings.",
           "audio": "assets/audio/t_36_8.mp3"
         },
         {
           "id": "t_36_9",
-          "text": "I see. The silver meter is definitely better.",
+          "text": "I see. The silver metre is definitely better.",
           "audio": "assets/audio/t_36_9.mp3"
         },
         {
@@ -536,7 +536,7 @@
         },
         {
           "id": "t_36_24",
-          "text": "Order eight voltage calibration meters, twelve insulated wire strippers because they are lighter and easier to use, and six fiberglass fish tapes.",
+          "text": "Order eight voltage calibration metres, twelve insulated wire strippers because they are lighter and easier to use, and six fiberglass fish tapes.",
           "audio": "assets/audio/t_36_24.mp3"
         },
         {
@@ -568,17 +568,17 @@
       "activity_d": [
         {
           "id": "t_36_7",
-          "text": "Yes, sir. We used many new voltage calibration meters, but one brand was more accurate and more durable than the other.",
+          "text": "Yes, sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
           "audio": "assets/audio/t_36_7.mp3"
         },
         {
           "id": "t_36_8",
-          "text": "The silver meter worked well, but the black one gave weaker readings.",
+          "text": "The silver metre worked well, but the black one gave weaker readings.",
           "audio": "assets/audio/t_36_8.mp3"
         },
         {
           "id": "t_36_9",
-          "text": "I see. The silver meter is definitely better.",
+          "text": "I see. The silver metre is definitely better.",
           "audio": "assets/audio/t_36_9.mp3"
         },
         {
@@ -598,7 +598,7 @@
         },
         {
           "id": "t_36_24",
-          "text": "Order eight voltage calibration meters, twelve insulated wire strippers because they are lighter and easier to use, and six fiberglass fish tapes.",
+          "text": "Order eight voltage calibration metres, twelve insulated wire strippers because they are lighter and easier to use, and six fiberglass fish tapes.",
           "audio": "assets/audio/t_36_24.mp3"
         },
         {

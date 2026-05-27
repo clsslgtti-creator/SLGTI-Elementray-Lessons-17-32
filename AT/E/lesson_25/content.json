@@ -49,9 +49,9 @@
       },
       {
         "id": "p_3",
-        "word_text": "en'g'ine",
+        "word_text": "'g'rease",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did they check each en'g'ine carefully last week?",
+        "sentence_text": "Did they 'g'rease battery terminals last week?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
@@ -478,7 +478,7 @@
           {
             "id": "l_15_1",
             "question": "What caused the steam incident last month?",
-            "answer": "The students didn’t follow the checklist.",
+            "answer": "The students partly followed the checklist.",
             "options": [
               "The students did not check the temperature carefully.",
               "The students partly followed the checklist.",

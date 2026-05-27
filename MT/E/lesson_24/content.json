@@ -9,7 +9,7 @@
     "marks_for_each_q": 1,
     "type": "MATCHING-WORDS",
     "instruction": {
-      "text": "Match the words with their definitions.\nවචන ඒවායේ අර්ථයන් සමඟ යා කරන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
+      "text": "Match the words with their definitions.\nවචන, ඒවායේ අර්ථ දැක්වීම් සමඟ ගලපන්න.\n  சொற்களை அவற்றின் விளக்கங்களுடன் பொருத்துக.",
       "audio": "assets/audio/a_1_a_i.mp3"
     },
     "content": [
@@ -69,7 +69,7 @@
     "marks_for_each_q": 1,
     "type": "MCQ",
     "instruction": {
-      "text": "Read the following sentences and click on the correct response. \nපහත වාක්‍ය කියවන්න. නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசிக்கவும். சரியான பதிலைக் கிளிக் செய்யவும்.",
+      "text": "Read the following sentences and click on the correct response. \nපහත වාක්‍ය කියවා නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசிக்கவும். சரியான பதிலைக் கிளிக் செய்யவும்.",
       "audio": "assets/audio/a_2_a_i_x.mp3"
     },
     "content": [
@@ -208,10 +208,10 @@
         "options": [
           "He played cricket all day yesterday.",
           "He is carrying heavy cement bags yesterday.",
-          "He carry heavy cement bags yesterday.",
+          "He carried heavy cement bags yesterday.",
           "He did carried heavy cement bags yesterday."
         ],
-        "answer": "He played cricket all day yesterday."
+        "answer": "He carried heavy cement bags yesterday."
       },
       {
         "question": "How did Saman get a headache?",
@@ -258,7 +258,7 @@
         "options": [
           "this afternoon",
           "yesterday",
-          "this morning",
+          "yesterday morning",
           "last night"
         ],
         "answer": "this afternoon"
@@ -270,7 +270,7 @@
       },
       {
         "question": "He can’t repair gearboxes ______ he can replace bearings.",
-        "options": ["also", "and", "but", "as well as"],
+        "options": ["also", "and", "but", "because"],
         "answer": "but"
       },
       {
@@ -291,7 +291,7 @@
     ]
   },
   "activity_4": {
-    "marks_for_each_q": 2,
+    "marks_for_each_q": 1,
     "type": "LISTENING",
     "instruction": {
       "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nපළමුව ප්‍රශ්න කියවන්න. පසුව දෙවරක් වාදනය වන දෙබසට සවන් දෙන්න. ඉන්පසු නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், கவனமாகக் கேளுங்கள். பிறகு சரியான பதிலைக் கிளிக் செய்யவும். முதலில் கேள்விகளை வாசிக்கவும்.",

@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Simple Present, regular verbs",
+    "focus": "Simple Past regular verbs",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -503,7 +503,7 @@
           },
           {
             "id": "l_13_2",
-            "question": "Why is the tool cabinet door not closing properly?",
+            "question": "Why was the tool cabinet door not closing properly?",
             "answer": "One of the hinges was bent.",
             "options": [
               "The lock was new.",

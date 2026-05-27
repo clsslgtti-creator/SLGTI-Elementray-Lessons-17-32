@@ -96,7 +96,7 @@
     },
     "tables": [
       [["I eat rice every day."], ["I ate rice yesterday."]],
-      [["I go to the gym every day."], ["I ate rice yesterday."]],
+      [["I go to the gym every day."], ["I went to the gym yesterday."]],
       [["I meet my friends every day."], ["I met my friends yesterday."]]
     ],
     "example_dialogues": [

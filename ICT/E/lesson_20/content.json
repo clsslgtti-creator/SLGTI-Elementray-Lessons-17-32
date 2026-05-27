@@ -246,9 +246,9 @@
             "options": [
               "He is going submit it tomorrow.",
               "He submit them next week.",
-              "He is going to submit it on the 30th March."
+              "He is going to submit it on the 30th of March."
             ],
-            "answer": "He is going to submit it on the 30th March.",
+            "answer": "He is going to submit it on the 30th of March.",
             "image": "assets/img/a_3.png"
           }
         ],
@@ -330,7 +330,7 @@
             "sentence": "When is the receptionist going to print trainee attendance sheets?",
             "audio": "assets/audio/a_3_b_7.mp3",
             "options": [
-              "She printed them last night.",
+              "They printed them last night.",
               "She prints them every Saturday.",
               "She is going to print them now."
             ],
@@ -463,7 +463,7 @@
           },
           {
             "id": "n_4_e_2",
-            "item_a": "Software",
+            "item_a": "RAM",
             "item_b": "How much __________ do we have?"
           },
           {
