@@ -492,16 +492,6 @@
             ]
           },
           {
-            "id": "l_16_3",
-            "question": "What caused Niyas’s readings to become inaccurate?",
-            "answer": "Placing the scanner on an unstable stool.",
-            "options": [
-              "Using the wrong fuel type.",
-              "Placing the scanner on an unstable desk.",
-              "Placing the scanner on an unstable stool."
-            ]
-          },
-          {
             "id": "l_16_4",
             "question": "When did Niyas’s mistake occur?",
             "answer": "Thursday at 3.00 p.m.",
@@ -512,12 +502,22 @@
             ]
           },
           {
+            "id": "l_16_3",
+            "question": "What caused Niyas’s readings to become inaccurate?",
+            "answer": "Placing the scanner on an unstable stool.",
+            "options": [
+              "Using the wrong fuel type.",
+              "Placing the scanner on an unstable desk.",
+              "Placing the scanner on an unstable stool."
+            ]
+          },
+          {
             "id": "l_16_5",
             "question": "What did both trainees admit?",
             "answer": "They rushed their work.",
             "options": [
               "They forgot to clean the tools.",
-              "They rushed their work.",
+              "They skipped a safety procedure.",
               "They rushed their work."
             ]
           }
@@ -630,7 +630,7 @@
         },
         {
           "id": "t_27_7",
-          "text": "Rafiq, tell me then , what happened?",
+          "text": "Rafiq, tell me then, what happened?",
           "audio": "assets/audio/t_27_7.mp3"
         },
         {
@@ -695,7 +695,7 @@
         },
         {
           "id": "t_27_20",
-          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
+          "text": "Honestly, Sir, I assumed the settings were still correct from the previous job.",
           "audio": "assets/audio/t_27_20.mp3"
         },
         {
@@ -780,7 +780,7 @@
         },
         {
           "id": "t_27_37",
-          "text": "I was trying to save time, sir.",
+          "text": "I was trying to save time, Sir.",
           "audio": "assets/audio/t_27_37.mp3"
         },
         {
@@ -831,39 +831,24 @@
           "audio": "assets/audio/t_27_6.mp3"
         },
         {
-          "id": "t_27_30",
-          "text": "I was near the engine-bay workbench, right beside the diagnostic scanner.",
-          "audio": "assets/audio/t_27_30.mp3"
-        },
-        {
-          "id": "t_27_39",
-          "text": "So, how are you going to avoid these problems next time?",
-          "audio": "assets/audio/t_27_39.mp3"
-        },
-        {
           "id": "t_27_17",
           "text": "I should have checked the torque settings first, but I didn’t.",
           "audio": "assets/audio/t_27_17.mp3"
         },
         {
-          "id": "t_27_43",
-          "text": "These are small mistakes—not disasters—but they matter.",
-          "audio": "assets/audio/t_27_43.mp3"
-        },
-        {
-          "id": "t_27_38",
-          "text": "I check it most of the time, but this time I rushed because another vehicle was waiting.",
-          "audio": "assets/audio/t_27_38.mp3"
-        },
-        {
           "id": "t_27_20",
-          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
+          "text": "Honestly, Sir, I assumed the settings were still correct from the previous job.",
           "audio": "assets/audio/t_27_20.mp3"
         },
         {
-          "id": "t_27_39",
-          "text": "So, how are you going to avoid these problems next time?",
-          "audio": "assets/audio/t_27_39.mp3"
+          "id": "t_27_24",
+          "text": "I’m going to check the torque settings every morning and note them in the maintenance sheet.",
+          "audio": "assets/audio/t_27_24.mp3"
+        },
+        {
+          "id": "t_27_30",
+          "text": "I was near the engine-bay workbench, right beside the diagnostic scanner.",
+          "audio": "assets/audio/t_27_30.mp3"
         },
         {
           "id": "t_27_34",
@@ -876,9 +861,19 @@
           "audio": "assets/audio/t_27_33.mp3"
         },
         {
-          "id": "t_27_24",
-          "text": "I’m going to check the torque settings every morning and note them in the maintenance sheet.",
-          "audio": "assets/audio/t_27_24.mp3"
+          "id": "t_27_38",
+          "text": "I check it most of the time, but this time I rushed because another vehicle was waiting.",
+          "audio": "assets/audio/t_27_38.mp3"
+        },
+        {
+          "id": "t_27_39",
+          "text": "So, how are you going to avoid these problems next time?",
+          "audio": "assets/audio/t_27_39.mp3"
+        },
+        {
+          "id": "t_27_43",
+          "text": "These are small mistakes—not disasters—but they matter.",
+          "audio": "assets/audio/t_27_43.mp3"
         }
       ],
       "activity_d": [
@@ -914,7 +909,7 @@
         },
         {
           "id": "t_27_7",
-          "text": "Rafiq, tell me then , what happened?",
+          "text": "Rafiq, tell me then, what happened?",
           "audio": "assets/audio/t_27_7.mp3"
         },
         {
@@ -979,7 +974,7 @@
         },
         {
           "id": "t_27_20",
-          "text": "Honestly, sir, I assumed the settings were still correct from the previous job.",
+          "text": "Honestly, Sir, I assumed the settings were still correct from the previous job.",
           "audio": "assets/audio/t_27_20.mp3"
         },
         {
@@ -1064,7 +1059,7 @@
         },
         {
           "id": "t_27_37",
-          "text": "I was trying to save time, sir.",
+          "text": "I was trying to save time, Sir.",
           "audio": "assets/audio/t_27_37.mp3"
         },
         {
