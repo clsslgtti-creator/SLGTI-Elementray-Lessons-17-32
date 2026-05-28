@@ -269,7 +269,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "Can you adjust the air pressure in tires according to the manufacturer’s recommendation?",
+            "sentence": "Can you adjust the air pressure in tyres according to the manufacturer’s recommendation?",
             "audio": "assets/audio/a_3_b_g_4.mp3",
             "options": [
               "Yes, I can. Actually I can do it very well.",
@@ -371,7 +371,7 @@
         },
         {
           "id": "n_3_4",
-          "text": "Can you adjust the air pressure in tires according to the manufacturer’s recommendation?",
+          "text": "Can you adjust the air pressure in tyres according to the manufacturer’s recommendation?",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
