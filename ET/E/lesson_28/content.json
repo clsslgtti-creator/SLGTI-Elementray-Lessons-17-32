@@ -158,7 +158,7 @@
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "new desk organizer  is more practical"
+        "word": "new desk organiser  is more practical"
       },
       {
         "id": "k_6",
@@ -190,9 +190,9 @@
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "I bought a new desk organizer for my workstation yesterday.",
-        "text_b": "Really? But I liked your old desk organizer. It was practical.",
-        "text_c": "That’s true. But my new desk organizer is more practical.",
+        "text_a": "I bought a new desk organiser for my workstation yesterday.",
+        "text_b": "Really? But I liked your old desk organiser. It was practical.",
+        "text_c": "That’s true. But my new desk organiser is more practical.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
@@ -414,8 +414,8 @@
           {
             "id": "l_18_2",
             "question": "Which voltage calibration metre was better?",
-            "answer": "Silver metre.",
-            "options": ["Black metre.", "Silver metre.", "Red metre."]
+            "answer": "Silver metre",
+            "options": ["Black metre", "Silver metre", "Red metre"]
           },
           {
             "id": "l_18_3",
@@ -436,15 +436,15 @@
           {
             "id": "l_18_5",
             "question": "Which phase-rotation indicator was more accurate?",
-            "answer": "Orange.",
-            "options": ["Blue.", "Green.", "Orange."]
+            "answer": "Orange",
+            "options": ["Blue", "Green", "Orange"]
           }
         ]
       },
       "activity_b": [
         {
           "id": "t_36_7",
-          "text": "Yes, sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
+          "text": "Yes, Sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
           "audio": "assets/audio/t_36_7.mp3"
         },
         {
@@ -499,14 +499,14 @@
         },
         {
           "id": "t_36_36",
-          "text": "Thank you, sir. I like learning about equipment selection and safety.",
+          "text": "Thank you, Sir. I like learning about equipment selection and safety.",
           "audio": "assets/audio/t_36_36.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_36_7",
-          "text": "Yes, sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
+          "text": "Yes, Sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
           "audio": "assets/audio/t_36_7.mp3"
         },
         {
@@ -561,14 +561,14 @@
         },
         {
           "id": "t_36_36",
-          "text": "Thank you, sir. I like learning about equipment selection and safety.",
+          "text": "Thank you, Sir. I like learning about equipment selection and safety.",
           "audio": "assets/audio/t_36_36.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_36_7",
-          "text": "Yes, sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
+          "text": "Yes, Sir. We used many new voltage calibration metres, but one brand was more accurate and more durable than the other.",
           "audio": "assets/audio/t_36_7.mp3"
         },
         {
@@ -623,7 +623,7 @@
         },
         {
           "id": "t_36_36",
-          "text": "Thank you, sir. I like learning about equipment selection and safety.",
+          "text": "Thank you, Sir. I like learning about equipment selection and safety.",
           "audio": "assets/audio/t_36_36.mp3"
         }
       ]
