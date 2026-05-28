@@ -504,11 +504,6 @@
           "audio": "assets/audio/t_50_2.mp3"
         },
         {
-          "id": "t_50_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_50_3.mp3"
-        },
-        {
           "id": "t_50_4",
           "text": "Good morning, madam. How are you today?",
           "audio": "assets/audio/t_50_4.mp3"
