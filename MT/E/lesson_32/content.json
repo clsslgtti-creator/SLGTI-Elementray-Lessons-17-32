@@ -83,7 +83,7 @@
         "answer": "Is there a digital caliper on the workbench?"
       },
       {
-        "question": "No, there aren't. Actually, there aren't any torque wrenches in the tool cabinet.",
+        "question": "No, there isn't. Actually, there aren't any torque wrenches in the tool cabinet.",
         "options": [
           "Is there a torque wrench in the tool cabinet?",
           "Are the torque wrenches in the tool cabinet?",
@@ -294,13 +294,14 @@
           "Machinists",
           "always",
           "smoothen",
+          "the",
           "components",
           "after",
           "precision",
           "milling",
           "."
         ],
-        "sentence": "Machinists always smoothen components after precision milling."
+        "sentence": "Machinists always smoothen the components after precision milling."
       },
       {
         "words": [
@@ -523,7 +524,7 @@
         "answer": "Were the fire extinguishers checked?"
       },
       {
-        "question": "We don’t store them near the main doorway.",
+        "question": "Usually under the staircase. We never store them near the main doorway.",
         "options": [
           "Where are the chemicals stored?",
           "Are the stored chemical near the main entrance?",
@@ -750,8 +751,8 @@
         },
         {
           "id": "m_1_3",
-          "item_a": "report",
-          "item_b": "issues"
+          "item_a": "meet",
+          "item_b": "deadlines"
         },
         {
           "id": "m_1_4",

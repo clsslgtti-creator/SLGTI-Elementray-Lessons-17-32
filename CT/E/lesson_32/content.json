@@ -83,10 +83,10 @@
         "answer": "Is there a cement mixer on the site?"
       },
       {
-        "question": "No, there aren't. Actually, there aren't any protective helmets in the storage room.",
+        "question": "No, there isn't. Actually, there aren't any protective helmets in the storage room.",
         "options": [
           "Is there a protective helmet in the storage room?",
-          "Are the protective helmets in the storage room?",
+          "Are the protective helmet in the storage room?",
           "Why were the helmets in the storage room?"
         ],
         "answer": "Is there a protective helmet in the storage room?"
@@ -514,7 +514,7 @@
         "answer": "Were the fire extinguishers checked?"
       },
       {
-        "question": "We don’t store them near the main doorway.",
+        "question": "Usually under the staircase. We never store them near the main doorway.",
         "options": [
           "Where are the chemicals stored?",
           "Are the stored chemical near the main entrance?",
@@ -741,8 +741,8 @@
         },
         {
           "id": "m_1_3",
-          "item_a": "report",
-          "item_b": "issues"
+          "item_a": "meet",
+          "item_b": "deadlines"
         },
         {
           "id": "m_1_4",

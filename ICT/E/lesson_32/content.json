@@ -528,7 +528,7 @@
         "answer": "Were the fire extinguishers checked?"
       },
       {
-        "question": "We don’t store them near the main doorway.",
+        "question": "Usually under the staircase. We never store them near the main doorway.",
         "options": [
           "Where are the chemicals stored?",
           "Are the stored chemical near the main entrance?",
@@ -755,8 +755,8 @@
         },
         {
           "id": "m_1_3",
-          "item_a": "report",
-          "item_b": "issues"
+          "item_a": "meet",
+          "item_b": "deadlines"
         },
         {
           "id": "m_1_4",

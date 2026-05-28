@@ -83,13 +83,13 @@
         "answer": "Is there a digital scale in the bakery lab?"
       },
       {
-        "question": "No, there aren't. Actually, there aren't any sugar thermometers in the kitchen.",
+        "question": "No, there isn't. Actually, there aren't any sugar thermometres in the kitchen.",
         "options": [
-          "Is there a sugar thermometer in the kitchen?",
-          "Are the sugar thermometers in the kitchen?",
-          "Why were the sugar thermometers in the kitchen?"
+          "Is there a sugar thermometre in the kitchen?",
+          "Are the sugar thermometre in the kitchen?",
+          "Why were the sugar thermometre in the kitchen?"
         ],
-        "answer": "Is there a sugar thermometer in the kitchen?"
+        "answer": "Is there a sugar thermometre in the kitchen?"
       },
       {
         "question": "No, they weren’t. They were too soft.",
@@ -219,7 +219,7 @@
       },
       {
         "id": 9,
-        "question": "When ______ we ______ to pasteurize the juice?",
+        "question": "When ______ we ______ to pasteurise the juice?",
         "options": ["are / going", "is / going", "are / gone", "will / going"],
         "answer": "are / going"
       },
@@ -351,8 +351,18 @@
         "alternative_answers": ["The trainee incorrectly folded the batter."]
       },
       {
-        "words": ["Why", "did", "they", "slice", "berries", "so", "early", "?"],
-        "sentence": "Why did they slice berries so early?"
+        "words": [
+          "Why",
+          "did",
+          "they",
+          "slice",
+          "the",
+          "berries",
+          "so",
+          "early",
+          "?"
+        ],
+        "sentence": "Why did they slice the berries so early?"
       },
       {
         "words": [
@@ -501,7 +511,7 @@
         "answer": "Were the fire extinguishers checked?"
       },
       {
-        "question": "We don’t store them near the main doorway.",
+        "question": "Usually under the staircase. We never store them near the main doorway.",
         "options": [
           "Where are the chemicals stored?",
           "Are the stored chemical near the main entrance?",
@@ -728,8 +738,8 @@
         },
         {
           "id": "m_1_3",
-          "item_a": "report",
-          "item_b": "issues"
+          "item_a": "meet",
+          "item_b": "deadlines"
         },
         {
           "id": "m_1_4",

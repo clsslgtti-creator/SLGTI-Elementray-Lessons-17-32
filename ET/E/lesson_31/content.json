@@ -62,8 +62,8 @@
           {
             "id": "g_b_8",
             "sentence": "He ________ connect the transformer cables next Tuesday.",
-            "options": ["is going to", "must go", "has to"],
-            "answer": "is going to"
+            "options": ["is going", "must go", "has to"],
+            "answer": "has to"
           },
           {
             "id": "g_b_9",

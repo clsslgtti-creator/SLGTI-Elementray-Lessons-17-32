@@ -83,10 +83,10 @@
         "answer": "Is there a voltage tester on the workbench?"
       },
       {
-        "question": "No, there aren't. Actually, there aren't any insulated screwdrivers in the toolbox.",
+        "question": "No, there isn't. Actually, there aren't any insulated screwdrivers in the toolbox.",
         "options": [
           "Is there an insulated screwdriver in the toolbox?",
-          "Are the insulated screwdrivers in the toolbox?",
+          "Are the insulated screwdriver in the toolbox?",
           "Why were the insulated screwdrivers in the toolbox?"
         ],
         "answer": "Is there an insulated screwdriver in the toolbox?"
@@ -516,7 +516,7 @@
         "answer": "Were the fire extinguishers checked?"
       },
       {
-        "question": "We don’t store them near the main doorway.",
+        "question": "Usually under the staircase. We never store them near the main doorway.",
         "options": [
           "Where are the chemicals stored?",
           "Are the stored chemical near the main entrance?",
@@ -743,8 +743,8 @@
         },
         {
           "id": "m_1_3",
-          "item_a": "report",
-          "item_b": "issues"
+          "item_a": "meet",
+          "item_b": "deadlines"
         },
         {
           "id": "m_1_4",
