@@ -472,6 +472,26 @@
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
+            "id": "l_16_4",
+            "question": "What caused Latha’s blocks to become misaligned?",
+            "answer": "Not checking the plumb line regularly.",
+            "options": [
+              "Using the wrong type of cement.",
+              "Mixing the mortar too thin.",
+              "Not checking the plumb line regularly."
+            ]
+          },
+          {
+            "id": "l_16_5",
+            "question": "What did both trainees admit?",
+            "answer": "They were rushing their work.",
+            "options": [
+              "They were new to the task.",
+              "They misplaced their tools.",
+              "They were rushing their work."
+            ]
+          },
+          {
             "id": "l_16_1",
             "question": "Where was Haran when his mistake happened?",
             "answer": "Near the scaffolding tower.",
@@ -499,26 +519,6 @@
               "Near the concrete pump.",
               "Near the bricklaying section.",
               "Near the site office."
-            ]
-          },
-          {
-            "id": "l_16_4",
-            "question": "What caused Latha’s blocks to become misaligned?",
-            "answer": "Not checking the plumb line regularly.",
-            "options": [
-              "Using the wrong type of cement.",
-              "Mixing the mortar too thin.",
-              "Not checking the plumb line regularly."
-            ]
-          },
-          {
-            "id": "l_16_5",
-            "question": "What did both trainees admit?",
-            "answer": "They were rushing their work.",
-            "options": [
-              "They were new to the task.",
-              "They misplaced their tools.",
-              "They were rushing their work."
             ]
           }
         ]
@@ -630,7 +630,7 @@
         },
         {
           "id": "t_31_7",
-          "text": "Haran, tell me then , what happened?",
+          "text": "Haran, tell me then, what happened?",
           "audio": "assets/audio/t_31_7.mp3"
         },
         {
@@ -685,7 +685,7 @@
         },
         {
           "id": "t_31_18",
-          "text": "Honestly, sir, I thought the level was still accurate from the previous day.",
+          "text": "Honestly, Sir, I thought the level was still accurate from the previous day.",
           "audio": "assets/audio/t_31_18.mp3"
         },
         {
@@ -760,7 +760,7 @@
         },
         {
           "id": "t_31_33",
-          "text": "I was rushing, sir.",
+          "text": "I was rushing, Sir.",
           "audio": "assets/audio/t_31_33.mp3"
         },
         {
@@ -796,9 +796,14 @@
       ],
       "activity_c": [
         {
-          "id": "t_31_36",
-          "text": "I’m going to follow the block-laying sequence properly, check the plumb after each block, and use the newer trowel.",
-          "audio": "assets/audio/t_31_36.mp3"
+          "id": "t_31_4",
+          "text": "We realised we made a few mistakes last week, and we want to explain them properly.",
+          "audio": "assets/audio/t_31_4.mp3"
+        },
+        {
+          "id": "t_31_5",
+          "text": "Vanakkam, both of you. Thank you for coming to me directly.",
+          "audio": "assets/audio/t_31_5.mp3"
         },
         {
           "id": "t_31_17",
@@ -807,23 +812,13 @@
         },
         {
           "id": "t_31_18",
-          "text": "Honestly, sir, I thought the level was still accurate from the previous day.",
+          "text": "Honestly, Sir, I thought the level was still accurate from the previous day.",
           "audio": "assets/audio/t_31_18.mp3"
         },
         {
           "id": "t_31_20",
           "text": "Good. So how will you prevent this from happening again?",
           "audio": "assets/audio/t_31_20.mp3"
-        },
-        {
-          "id": "t_31_34",
-          "text": "I check it most of the time, but that day I tried to finish the row fast because the next batch of blocks was arriving.",
-          "audio": "assets/audio/t_31_34.mp3"
-        },
-        {
-          "id": "t_31_38",
-          "text": "Good. These are small mistakes, not big failures, but they matter.",
-          "audio": "assets/audio/t_31_38.mp3"
         },
         {
           "id": "t_31_21",
@@ -841,19 +836,24 @@
           "audio": "assets/audio/t_31_30.mp3"
         },
         {
+          "id": "t_31_34",
+          "text": "I check it most of the time, but that day I tried to finish the row fast because the next batch of blocks was arriving.",
+          "audio": "assets/audio/t_31_34.mp3"
+        },
+        {
           "id": "t_31_35",
           "text": "So how will you avoid these issues next time?",
           "audio": "assets/audio/t_31_35.mp3"
         },
         {
-          "id": "t_31_4",
-          "text": "We realised we made a few mistakes last week, and we want to explain them properly.",
-          "audio": "assets/audio/t_31_4.mp3"
+          "id": "t_31_36",
+          "text": "I’m going to follow the block-laying sequence properly, check the plumb after each block, and use the newer trowel.",
+          "audio": "assets/audio/t_31_36.mp3"
         },
         {
-          "id": "t_31_5",
-          "text": "Vanakkam, both of you. Thank you for coming to me directly.",
-          "audio": "assets/audio/t_31_5.mp3"
+          "id": "t_31_38",
+          "text": "Good. These are small mistakes, not big failures, but they matter.",
+          "audio": "assets/audio/t_31_38.mp3"
         }
       ],
       "activity_d": [
@@ -889,7 +889,7 @@
         },
         {
           "id": "t_31_7",
-          "text": "Haran, tell me then , what happened?",
+          "text": "Haran, tell me then, what happened?",
           "audio": "assets/audio/t_31_7.mp3"
         },
         {
@@ -944,7 +944,7 @@
         },
         {
           "id": "t_31_18",
-          "text": "Honestly, sir, I thought the level was still accurate from the previous day.",
+          "text": "Honestly, Sir, I thought the level was still accurate from the previous day.",
           "audio": "assets/audio/t_31_18.mp3"
         },
         {
@@ -1019,7 +1019,7 @@
         },
         {
           "id": "t_31_33",
-          "text": "I was rushing, sir.",
+          "text": "I was rushing, Sir.",
           "audio": "assets/audio/t_31_33.mp3"
         },
         {
