@@ -443,11 +443,11 @@
           {
             "id": "l_20_1",
             "question": "What did Mala read about on the Internet?",
-            "answer": "A dairy-processing line expanded in Anuradhapura.",
+            "answer": "An expanded dairy processing line in Anuradhapura.",
             "options": [
               "A new rice-processing project in Galle.",
-              "A dairy-processing line expanded in Anuradhapura.",
-              "A dairy-processing line expanded in Ampara."
+              "An expanded dairy processing line in Anuradhapura.",
+              "An expanded dairy processing line in Ampara."
             ]
           },
           {
@@ -504,13 +504,8 @@
           "audio": "assets/audio/t_50_2.mp3"
         },
         {
-          "id": "t_50_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_50_3.mp3"
-        },
-        {
           "id": "t_50_4",
-          "text": "Good morning, madam. How are you today?",
+          "text": "Good morning, Madam. How are you today?",
           "audio": "assets/audio/t_50_4.mp3"
         },
         {
@@ -555,7 +550,7 @@
         },
         {
           "id": "t_50_13",
-          "text": "Honestly, madam, I like seeing consistent results.",
+          "text": "Honestly, Madam, I like seeing consistent results.",
           "audio": "assets/audio/t_50_13.mp3"
         },
         {
@@ -615,7 +610,7 @@
         },
         {
           "id": "t_50_25",
-          "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_50_25.mp3"
         },
         {
@@ -647,7 +642,7 @@
       "activity_c": [
         {
           "id": "t_50_4",
-          "text": "Good morning, madam. How are you today?",
+          "text": "Good morning, Madam. How are you today?",
           "audio": "assets/audio/t_50_4.mp3"
         },
         {
@@ -672,7 +667,7 @@
         },
         {
           "id": "t_50_13",
-          "text": "Honestly, madam, I like seeing consistent results.",
+          "text": "Honestly, Madam, I like seeing consistent results.",
           "audio": "assets/audio/t_50_13.mp3"
         },
         {
@@ -707,7 +702,7 @@
         },
         {
           "id": "t_50_25",
-          "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_50_25.mp3"
         },
         {
@@ -734,7 +729,7 @@
       "activity_d": [
         {
           "id": "t_50_4",
-          "text": "Good morning, madam. How are you today?",
+          "text": "Good morning, Madam. How are you today?",
           "audio": "assets/audio/t_50_4.mp3"
         },
         {
@@ -759,7 +754,7 @@
         },
         {
           "id": "t_50_13",
-          "text": "Honestly, madam, I like seeing consistent results.",
+          "text": "Honestly, Madam, I like seeing consistent results.",
           "audio": "assets/audio/t_50_13.mp3"
         },
         {
@@ -794,7 +789,7 @@
         },
         {
           "id": "t_50_25",
-          "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_50_25.mp3"
         },
         {

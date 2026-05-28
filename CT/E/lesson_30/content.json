@@ -504,13 +504,8 @@
           "audio": "assets/audio/t_48_2.mp3"
         },
         {
-          "id": "t_48_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_48_3.mp3"
-        },
-        {
           "id": "t_48_4",
-          "text": "Good morning, sir. How are you today?",
+          "text": "Good morning, Sir. How are you today?",
           "audio": "assets/audio/t_48_4.mp3"
         },
         {
@@ -555,7 +550,7 @@
         },
         {
           "id": "t_48_13",
-          "text": "Honestly, sir, I like seeing real progress every day.",
+          "text": "Honestly, Sir, I like seeing real progress every day.",
           "audio": "assets/audio/t_48_13.mp3"
         },
         {
@@ -615,7 +610,7 @@
         },
         {
           "id": "t_48_25",
-          "text": "I am not familiar with them, sir, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Sir, but I can read about them on the Internet.",
           "audio": "assets/audio/t_48_25.mp3"
         },
         {
@@ -647,7 +642,7 @@
       "activity_c": [
         {
           "id": "t_48_4",
-          "text": "Good morning, sir. How are you today?",
+          "text": "Good morning, Sir. How are you today?",
           "audio": "assets/audio/t_48_4.mp3"
         },
         {
@@ -672,7 +667,7 @@
         },
         {
           "id": "t_48_13",
-          "text": "Honestly, sir, I like seeing real progress every day.",
+          "text": "Honestly, Sir, I like seeing real progress every day.",
           "audio": "assets/audio/t_48_13.mp3"
         },
         {
@@ -707,7 +702,7 @@
         },
         {
           "id": "t_48_25",
-          "text": "I am not familiar with them, sir, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Sir, but I can read about them on the Internet.",
           "audio": "assets/audio/t_48_25.mp3"
         },
         {
@@ -724,7 +719,7 @@
       "activity_d": [
         {
           "id": "t_48_4",
-          "text": "Good morning, sir. How are you today?",
+          "text": "Good morning, Sir. How are you today?",
           "audio": "assets/audio/t_48_4.mp3"
         },
         {
@@ -749,7 +744,7 @@
         },
         {
           "id": "t_48_13",
-          "text": "Honestly, sir, I like seeing real progress every day.",
+          "text": "Honestly, Sir, I like seeing real progress every day.",
           "audio": "assets/audio/t_48_13.mp3"
         },
         {
@@ -784,7 +779,7 @@
         },
         {
           "id": "t_48_25",
-          "text": "I am not familiar with them, sir, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Sir, but I can read about them on the Internet.",
           "audio": "assets/audio/t_48_25.mp3"
         },
         {

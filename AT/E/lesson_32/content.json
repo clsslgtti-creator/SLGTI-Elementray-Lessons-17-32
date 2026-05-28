@@ -124,7 +124,7 @@
         "answer": "What are you doing?"
       },
       {
-        "question": "I rotate tires, inspect brakes, and clean tools every day.",
+        "question": "I rotate tyres, inspect brakes, and clean tools every day.",
         "options": [
           "Tell me, what do you do every day?",
           "Tell me, what are you doing every day?",
@@ -277,10 +277,10 @@
     ]
   },
   "activity_4": {
-    "marks_for_each_q": 2,
+    "marks_for_each_q": 1.5,
     "type": "JUMBLED",
     "instruction": {
-      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍ය නිවැරදි අනුපිළිවෙලට සකස් කරන්න. සෑම වාක්‍යයකම පළමු වචනය ලොකු අකුරකින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
       "audio": "assets/audio/a_3_i.mp3"
     },
     "content": [
@@ -515,7 +515,7 @@
         "answer": "Were the fire extinguishers checked?"
       },
       {
-        "question": "We don’t store them near the main doorway.",
+        "question": "Usually under the staircase. We never store them near the main doorway.",
         "options": [
           "Where are the chemicals stored?",
           "Are the stored chemical near the main entrance?",
@@ -678,7 +678,7 @@
       "marks_for_each_q": 1,
       "type": "LISTENING-PARA",
       "instruction": {
-        "text": "Listen to the audio which will be played twice and fill in the blanks. Read the passage first. \nදෙවරක් වාදනය වන ශ්‍රව්‍යයට සවන් දී හිස්තැන් පුරවන්න. පළමුව ඡේදය කියවන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், அதைக் கேட்டு கோடிட்ட இடங்களை நிரப்பவும். முதலில் அந்தப் பத்தியை வாசிக்கவும்.",
+        "text": "Listen to the audio which will be played twice and fill in the blanks. Read the passage first. \nදෙවරක් වාදනය වන පටිගත කිරීමට සවන් දී හිස්තැන් පුරවන්න. පළමුව ඡේදය කියවන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், அதைக் கேட்டு கோடிட்ட இடங்களை நிரப்பவும். முதலில் அந்தப் பத்தியை வாசிக்கவும்.",
         "audio": "assets/audio/a_4_i_y.mp3"
       },
       "audio": "assets/audio/a_7_b_q.mp3",
@@ -726,7 +726,7 @@
       "marks_for_each_q": 1,
       "type": "MATCHING-WORDS",
       "instruction": {
-        "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන යා කරන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
+        "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන ගලපන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
         "audio": "assets/audio/a_1_a_i_x.mp3"
       },
       "content": [
@@ -742,8 +742,8 @@
         },
         {
           "id": "m_1_3",
-          "item_a": "report",
-          "item_b": "issues"
+          "item_a": "meet",
+          "item_b": "deadlines"
         },
         {
           "id": "m_1_4",
@@ -761,7 +761,7 @@
       "marks_for_each_q": 1,
       "type": "MATCHING-WORDS",
       "instruction": {
-        "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන යා කරන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
+        "text": "Match the verbs to the nouns/collocations. \nක්‍රියා පදයන්ට නාම පද/සහයෝගී වචන ගලපන්න.\nவினைச்சொற்களை நாமவினய/கூட்டு சொற்களுடன் பொருத்துக.",
         "audio": "assets/audio/a_1_a_i_x.mp3"
       },
       "content": [

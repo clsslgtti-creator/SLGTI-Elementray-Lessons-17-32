@@ -485,7 +485,7 @@
             "question": "How does Nimal say he learns new things?",
             "answer": "By reading about them on the Internet.",
             "options": [
-              "By attending weekend training programs online.",
+              "By attending weekend training programmes online.",
               "By reading about them on the Internet.",
               "By watching special tutorials on the Internet."
             ]
@@ -504,13 +504,8 @@
           "audio": "assets/audio/t_49_2.mp3"
         },
         {
-          "id": "t_49_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_49_3.mp3"
-        },
-        {
           "id": "t_49_4",
-          "text": "Good morning, madam. How are you today?",
+          "text": "Good morning, Madam. How are you today?",
           "audio": "assets/audio/t_49_4.mp3"
         },
         {
@@ -555,7 +550,7 @@
         },
         {
           "id": "t_49_13",
-          "text": "Honestly, madam, I like diagnosing faults and restoring power.",
+          "text": "Honestly, Madam, I like diagnosing faults and restoring power.",
           "audio": "assets/audio/t_49_13.mp3"
         },
         {
@@ -615,7 +610,7 @@
         },
         {
           "id": "t_49_25",
-          "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_49_25.mp3"
         },
         {
@@ -647,7 +642,7 @@
       "activity_c": [
         {
           "id": "t_49_4",
-          "text": "Good morning, madam. How are you today?",
+          "text": "Good morning, Madam. How are you today?",
           "audio": "assets/audio/t_49_4.mp3"
         },
         {
@@ -672,7 +667,7 @@
         },
         {
           "id": "t_49_13",
-          "text": "Honestly, madam, I like diagnosing faults and restoring power.",
+          "text": "Honestly, Madam, I like diagnosing faults and restoring power.",
           "audio": "assets/audio/t_49_13.mp3"
         },
         {
@@ -707,7 +702,7 @@
         },
         {
           "id": "t_49_25",
-          "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_49_25.mp3"
         },
         {
@@ -724,7 +719,7 @@
       "activity_d": [
         {
           "id": "t_49_4",
-          "text": "Good morning, madam. How are you today?",
+          "text": "Good morning, Madam. How are you today?",
           "audio": "assets/audio/t_49_4.mp3"
         },
         {
@@ -749,7 +744,7 @@
         },
         {
           "id": "t_49_13",
-          "text": "Honestly, madam, I like diagnosing faults and restoring power.",
+          "text": "Honestly, Madam, I like diagnosing faults and restoring power.",
           "audio": "assets/audio/t_49_13.mp3"
         },
         {
@@ -784,7 +779,7 @@
         },
         {
           "id": "t_49_25",
-          "text": "I am not familiar with them, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_49_25.mp3"
         },
         {

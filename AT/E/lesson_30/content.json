@@ -115,7 +115,7 @@
         "id": "d_3",
         "img": "assets/img/a_2_d_3.png",
         "text_a": "Why are you tired?",
-        "text_b": "I am tired because I have to mount all the tires again. I always clean the rim edges before mounting but today I forgot and my feet already hurt after standing for so long.",
+        "text_b": "I am tired because I have to mount all the tyres again. I always clean the rim edges before mounting but today I forgot and my feet already hurt after standing for so long.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -504,13 +504,8 @@
           "audio": "assets/audio/t_47_2.mp3"
         },
         {
-          "id": "t_47_3",
-          "text": "How are you feeling today?",
-          "audio": "assets/audio/t_47_3.mp3"
-        },
-        {
           "id": "t_47_4",
-          "text": "Good morning, madam.",
+          "text": "Good morning, Madam.",
           "audio": "assets/audio/t_47_4.mp3"
         },
         {
@@ -565,7 +560,7 @@
         },
         {
           "id": "t_47_15",
-          "text": "Honestly, madam, I like solving real mechanical problems.",
+          "text": "Honestly, Madam, I like solving real mechanical problems.",
           "audio": "assets/audio/t_47_15.mp3"
         },
         {
@@ -625,7 +620,7 @@
         },
         {
           "id": "t_47_27",
-          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them yet, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_47_27.mp3"
         },
         {
@@ -657,7 +652,7 @@
       "activity_c": [
         {
           "id": "t_47_4",
-          "text": "Good morning, madam.",
+          "text": "Good morning, Madam.",
           "audio": "assets/audio/t_47_4.mp3"
         },
         {
@@ -682,7 +677,7 @@
         },
         {
           "id": "t_47_15",
-          "text": "Honestly, madam, I like solving real mechanical problems.",
+          "text": "Honestly, Madam, I like solving real mechanical problems.",
           "audio": "assets/audio/t_47_15.mp3"
         },
         {
@@ -717,7 +712,7 @@
         },
         {
           "id": "t_47_27",
-          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them yet, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_47_27.mp3"
         },
         {
@@ -734,7 +729,7 @@
       "activity_d": [
         {
           "id": "t_47_4",
-          "text": "Good morning, madam.",
+          "text": "Good morning, Madam.",
           "audio": "assets/audio/t_47_4.mp3"
         },
         {
@@ -759,7 +754,7 @@
         },
         {
           "id": "t_47_15",
-          "text": "Honestly, madam, I like solving real mechanical problems.",
+          "text": "Honestly, Madam, I like solving real mechanical problems.",
           "audio": "assets/audio/t_47_15.mp3"
         },
         {
@@ -794,7 +789,7 @@
         },
         {
           "id": "t_47_27",
-          "text": "I am not familiar with them yet, madam, but I can read about them on the Internet.",
+          "text": "I am not familiar with them yet, Madam, but I can read about them on the Internet.",
           "audio": "assets/audio/t_47_27.mp3"
         },
         {

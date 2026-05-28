@@ -62,7 +62,7 @@
           {
             "id": "g_b_8",
             "sentence": "He ________ calibrate the torque tester on Monday.",
-            "options": ["is going to", "must go", "has to"],
+            "options": ["is going", "must go", "has to"],
             "answer": "has to"
           },
           {
