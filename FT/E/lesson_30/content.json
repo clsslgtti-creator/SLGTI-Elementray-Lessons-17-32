@@ -278,7 +278,7 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "They are going to visit the modernized food laboratory in Kandy next Monday.",
+            "sentence": "They are going to visit the modernised food laboratory in Kandy next Monday.",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
               "Where are the trainees going next Monday?",
@@ -375,7 +375,7 @@
         },
         {
           "id": "g_b_5",
-          "text": "They are going to visit the modernized food laboratory in Kandy next Monday.",
+          "text": "They are going to visit the modernised food laboratory in Kandy next Monday.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
