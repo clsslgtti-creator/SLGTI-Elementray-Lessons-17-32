@@ -312,7 +312,7 @@
               "Safety vest A is dirtier than safety vest B.",
               "Safety vest B is dirtier than safety vest A."
             ],
-            "answer": "Safety vest A is dirtier than safety vest B.",
+            "answer": "Safety vest B is dirtier than safety vest A.",
             "image": "assets/img/g_b_8.png"
           }
         ]
@@ -355,7 +355,7 @@
         },
         {
           "id": "g_b_8",
-          "text": "Safety vest A is dirtier than safety vest B.",
+          "text": "Safety vest B is dirtier than safety vest A.",
           "audio": "assets/audio/g_b_8.mp3"
         }
       ]
