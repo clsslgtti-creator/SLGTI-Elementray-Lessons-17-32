@@ -470,16 +470,6 @@
             ]
           },
           {
-            "id": "l_19_3",
-            "question": "What new skill does he say he needs more guidance with?",
-            "answer": "Assembling scaffolding and reading site drawings.",
-            "options": [
-              "Measuring water pressure.",
-              "Assembling scaffolding and reading site drawings.",
-              "Measuring distances and reading site drawings."
-            ]
-          },
-          {
             "id": "l_19_4",
             "question": "What tool does he use to measure accurately?",
             "answer": "Tape and spirit level.",
@@ -487,6 +477,16 @@
               "Measuring tape.",
               "Tape and spirit level.",
               "Laser levels."
+            ]
+          },
+          {
+            "id": "l_19_3",
+            "question": "What new skill does he say he needs more guidance with?",
+            "answer": "Assembling scaffolding and reading site drawings.",
+            "options": [
+              "Measuring water pressure.",
+              "Assembling scaffolding and reading site drawings.",
+              "Measuring distances and reading site drawings."
             ]
           },
           {

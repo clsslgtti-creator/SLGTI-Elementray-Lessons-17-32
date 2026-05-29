@@ -312,7 +312,7 @@
               "Safety vest A is dirtier than safety vest B.",
               "Safety vest B is dirtier than safety vest A."
             ],
-            "answer": "Safety vest A is dirtier than safety vest B.",
+            "answer": "Safety vest B is dirtier than safety vest A.",
             "image": "assets/img/g_b_8.png"
           }
         ]
@@ -335,12 +335,12 @@
         },
         {
           "id": "g_b_4",
-          "text": "Safety boots are daintier than ladies’ shoes.",
+          "text": "Ladies’ shoes are daintier than safety boots.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "Nail A is slimmer than nail B.",
+          "text": "Nail B is slimmer than nail A.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
@@ -355,7 +355,7 @@
         },
         {
           "id": "g_b_8",
-          "text": "Safety vest A is dirtier than safety vest B.",
+          "text": "Safety vest B is dirtier than safety vest A.",
           "audio": "assets/audio/g_b_8.mp3"
         }
       ]

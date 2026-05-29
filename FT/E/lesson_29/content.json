@@ -276,7 +276,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "They are going to visit the modernized food laboratory next week.",
+            "sentence": "They are going to visit the modernised food laboratory next week.",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "Are the trainees going to visit a factory next week?",
@@ -374,7 +374,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "They are going to visit the modernized food laboratory next week.",
+          "text": "They are going to visit the modernised food laboratory next week.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {

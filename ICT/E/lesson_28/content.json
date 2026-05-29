@@ -158,7 +158,7 @@
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.png",
-        "word": "new desk organizer  is more practical"
+        "word": "new desk organiser  is more practical"
       },
       {
         "id": "k_6",
@@ -190,9 +190,9 @@
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.png",
-        "text_a": "I bought a new desk organizer for my workstation yesterday.",
-        "text_b": "Really? But I liked your old desk organizer. It was practical.",
-        "text_c": "That’s true. But my new desk organizer is more practical.",
+        "text_a": "I bought a new desk organiser for my workstation yesterday.",
+        "text_b": "Really? But I liked your old desk organiser. It was practical.",
+        "text_c": "That’s true. But my new desk organiser is more practical.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
@@ -406,7 +406,7 @@
             "question": "What was Tharun doing at the beginning of the dialogue?",
             "answer": "Checking the maintenance notes.",
             "options": [
-              "Finalizing the hardware request.",
+              "Finalising the hardware request.",
               "Cleaning fibre-optic cables.",
               "Checking the maintenance notes."
             ]
@@ -414,8 +414,8 @@
           {
             "id": "l_18_2",
             "question": "Which fibre-optic cleaning pen was better?",
-            "answer": "Green pen.",
-            "options": ["Grey pen.", "Yellow pen.", "Green pen."]
+            "answer": "Green pen",
+            "options": ["Grey pen", "Yellow pen", "Green pen"]
           },
           {
             "id": "l_18_3",
@@ -440,15 +440,15 @@
           {
             "id": "l_18_5",
             "question": "Which latency tester was more accurate?",
-            "answer": "Blue.",
-            "options": ["Silver.", "Black.", "Blue."]
+            "answer": "Blue",
+            "options": ["Silver", "Black", "Blue"]
           }
         ]
       },
       "activity_b": [
         {
           "id": "t_38_7",
-          "text": "Yes, sir. We used many new fibre-optic cleaning pens, but one brand was more effective and more durable than the other.",
+          "text": "Yes, Sir. We used many new fibre-optic cleaning pens, but one brand was more effective and more durable than the other.",
           "audio": "assets/audio/t_38_7.mp3"
         },
         {
@@ -458,12 +458,12 @@
         },
         {
           "id": "t_38_13",
-          "text": "We also need cable-mapping probes, but I think the digital probe is sturdier than the basic analog one.",
+          "text": "We also need cable-mapping probes, but I think the digital probe is sturdier than the basic analogue one.",
           "audio": "assets/audio/t_38_13.mp3"
         },
         {
           "id": "t_38_14",
-          "text": "The analog probes gave unstable readings during the test.",
+          "text": "The analogue probes gave unstable readings during the test.",
           "audio": "assets/audio/t_38_14.mp3"
         },
         {
@@ -515,7 +515,7 @@
       "activity_c": [
         {
           "id": "t_38_7",
-          "text": "Yes, sir. We used many new fibre-optic cleaning pens, but one brand was more effective and more durable than the other.",
+          "text": "Yes, Sir. We used many new fibre-optic cleaning pens, but one brand was more effective and more durable than the other.",
           "audio": "assets/audio/t_38_7.mp3"
         },
         {
@@ -525,12 +525,12 @@
         },
         {
           "id": "t_38_13",
-          "text": "We also need cable-mapping probes, but I think the digital probe is sturdier than the basic analog one.",
+          "text": "We also need cable-mapping probes, but I think the digital probe is sturdier than the basic analogue one.",
           "audio": "assets/audio/t_38_13.mp3"
         },
         {
           "id": "t_38_14",
-          "text": "The analog probes gave unstable readings during the test.",
+          "text": "The analogue probes gave unstable readings during the test.",
           "audio": "assets/audio/t_38_14.mp3"
         },
         {
@@ -582,7 +582,7 @@
       "activity_d": [
         {
           "id": "t_38_7",
-          "text": "Yes, sir. We used many new fibre-optic cleaning pens, but one brand was more effective and more durable than the other.",
+          "text": "Yes, Sir. We used many new fibre-optic cleaning pens, but one brand was more effective and more durable than the other.",
           "audio": "assets/audio/t_38_7.mp3"
         },
         {
@@ -592,12 +592,12 @@
         },
         {
           "id": "t_38_13",
-          "text": "We also need cable-mapping probes, but I think the digital probe is sturdier than the basic analog one.",
+          "text": "We also need cable-mapping probes, but I think the digital probe is sturdier than the basic analogue one.",
           "audio": "assets/audio/t_38_13.mp3"
         },
         {
           "id": "t_38_14",
-          "text": "The analog probes gave unstable readings during the test.",
+          "text": "The analogue probes gave unstable readings during the test.",
           "audio": "assets/audio/t_38_14.mp3"
         },
         {
