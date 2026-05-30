@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
-  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
-  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  identifier="MANIFEST-FT-E-LESSON-30 - Revision I" version="1.0"
-  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
-                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
-                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="MANIFEST-FT-E-LESSON-30 - Revision I" version="1.0" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd                       http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd                       http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -20,16 +13,14 @@
   </metadata>
   <organizations default="ORG-LESSON-30 - Revision I">
     <organization identifier="ORG-LESSON-30 - Revision I" structure="hierarchical">
-      <title>Lesson 01</title>
-      <item identifier="ITEM-LESSON-30 - Revision I" identifierref="RES-LESSON-30 - Revision I"
-        isvisible="true">
+      <title>Lesson 30 - Revision I</title>
+      <item identifier="ITEM-LESSON-30 - Revision I" identifierref="RES-LESSON-30 - Revision I" isvisible="true">
         <title>Lesson 30 - Revision I</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="RES-LESSON-30 - Revision I" type="webcontent" adlcp:scormtype="sco"
-      href="index.html">
+    <resource identifier="RES-LESSON-30 - Revision I" type="webcontent" adlcp:scormtype="sco" href="index.html">
       <file href="index.html" />
       <file href="assets/audio/a_1_i_a.mp3" />
       <file href="assets/audio/a_1_i_b.mp3" />
