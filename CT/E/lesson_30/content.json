@@ -499,14 +499,14 @@
           "audio": "assets/audio/t_48_1.mp3"
         },
         {
-          "id": "t_48_2",
-          "text": "Please relax and take a seat.",
-          "audio": "assets/audio/t_48_2.mp3"
-        },
-        {
           "id": "t_48_4",
           "text": "Good morning, Sir. How are you today?",
           "audio": "assets/audio/t_48_4.mp3"
+        },
+        {
+          "id": "t_48_2",
+          "text": "Please relax and take a seat.",
+          "audio": "assets/audio/t_48_2.mp3"
         },
         {
           "id": "t_48_5",

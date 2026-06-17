@@ -295,7 +295,7 @@
             "audio": "assets/audio/a_3_b_4.mp3",
             "options": [
               "He is going to send them before 3 p.m. today.",
-              "He sent them last week.",
+              "He sent it last week.",
               "He sends them every Sunday."
             ],
             "answer": "He is going to send them before 3 p.m. today.",
@@ -319,7 +319,7 @@
             "audio": "assets/audio/a_3_b_6.mp3",
             "options": [
               "They finalise it every afternoon.",
-              "They finalised it last month.",
+              "She finalised it last month.",
               "They are going to finalise it tomorrow morning."
             ],
             "answer": "They are going to finalise it tomorrow morning.",
@@ -356,7 +356,7 @@
             "options": [
               "She updates it every hour.",
               "She is going to update it after lunch.",
-              "She updated it yesterday."
+              "They updated it yesterday."
             ],
             "answer": "She is going to update it after lunch.",
             "image": "assets/img/a_3.png"
