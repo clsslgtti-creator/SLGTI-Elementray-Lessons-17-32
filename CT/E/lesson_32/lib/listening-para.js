@@ -169,6 +169,10 @@ export const buildListeningParaSlides = (
     typeof assessment?.submitResult === "function"
       ? assessment.submitResult
       : () => {};
+  const saveState =
+    typeof assessment?.saveState === "function"
+      ? assessment.saveState
+      : () => {};
   const getSavedState =
     typeof assessment?.getState === "function"
       ? assessment.getState
@@ -225,11 +229,12 @@ export const buildListeningParaSlides = (
         }
         entry.value = input.value;
         entry.valueNormalized = normalizeAnswer(input.value);
-        input.classList.remove("is-correct", "is-incorrect");
-        answerEl.hidden = true;
-        answerEl.textContent = "";
-        resultEl.classList.remove("assessment-result--error");
-      });
+      input.classList.remove("is-correct", "is-incorrect");
+      answerEl.hidden = true;
+      answerEl.textContent = "";
+      resultEl.classList.remove("assessment-result--error");
+      persistDraftState();
+    });
 
       blankEntries.push(entry);
       blankWrap.append(input, answerEl);
@@ -251,6 +256,27 @@ export const buildListeningParaSlides = (
     : 0;
   let isPlaying = false;
   let autoTriggered = false;
+
+  const createDraftDetail = () => ({
+    answers: blankEntries.reduce((acc, entry) => {
+      acc[entry.segment.id] = entry.input.value;
+      return acc;
+    }, {}),
+    playbackCount: playCount,
+  });
+
+  const persistDraftState = () => {
+    if (submissionLocked) {
+      return;
+    }
+    saveState({
+      total: blankEntries.length,
+      correct: 0,
+      marksPerQuestion,
+      detail: createDraftDetail(),
+      timestamp: new Date().toISOString(),
+    });
+  };
 
   const refreshAnswerInteractivity = () => {
     const disabled = instructionsLocked || submissionLocked;
@@ -371,6 +397,7 @@ export const buildListeningParaSlides = (
     if (playCount < maxPlays) {
       scheduleSecondPlayback();
     }
+    persistDraftState();
     updatePlaybackStatus();
     refreshAnswerInteractivity();
   };
@@ -464,13 +491,7 @@ export const buildListeningParaSlides = (
     submitBtn.textContent = "Submitted";
     updatePlaybackStatus();
 
-    const detail = {
-      answers: blankEntries.reduce((acc, entry) => {
-        acc[entry.segment.id] = entry.input.value;
-        return acc;
-      }, {}),
-      playbackCount: playCount,
-    };
+    const detail = createDraftDetail();
 
     submitResult({
       total: blankEntries.length,
@@ -489,18 +510,27 @@ export const buildListeningParaSlides = (
     );
   };
 
-  const applySavedState = () => {
+  const restoreAnswers = () => {
     const storedAnswers = savedDetail?.answers || {};
+    blankEntries.forEach((entry) => {
+      const storedAnswer = storedAnswers[entry.segment.id];
+      if (typeof storedAnswer !== "string") {
+        return;
+      }
+      entry.input.value = storedAnswer;
+      entry.value = storedAnswer;
+      entry.valueNormalized = normalizeAnswer(storedAnswer);
+    });
+  };
+
+  const applySavedState = () => {
+    restoreAnswers();
+    if (!savedState?.submitted) {
+      return;
+    }
     let correctCount = 0;
 
     blankEntries.forEach((entry) => {
-      const storedAnswer = storedAnswers[entry.segment.id];
-      if (typeof storedAnswer === "string") {
-        entry.input.value = storedAnswer;
-        entry.value = storedAnswer;
-        entry.valueNormalized = normalizeAnswer(storedAnswer);
-      }
-
       const isCorrect = isAcceptedAnswer(entry.valueNormalized, entry.segment);
       if (isCorrect) {
         correctCount += 1;
@@ -512,12 +542,18 @@ export const buildListeningParaSlides = (
     refreshAnswerInteractivity();
     submitBtn.textContent = "Submitted";
     updatePlaybackStatus();
-    resultMessage(resultEl, correctCount, blankEntries.length, savedState?.marksPerQuestion || marksPerQuestion);
+    resultMessage(
+      resultEl,
+      correctCount,
+      blankEntries.length,
+      savedState?.marksPerQuestion || marksPerQuestion
+    );
   };
 
   if (savedState?.submitted) {
     applySavedState();
   } else {
+    restoreAnswers();
     submitBtn.addEventListener("click", evaluate);
   }
 
@@ -539,6 +575,7 @@ export const buildListeningParaSlides = (
     isPlaying = false;
     autoTriggered = false;
     slide._autoTriggered = false;
+    persistDraftState();
     updatePlaybackStatus();
     refreshAnswerInteractivity();
   };
@@ -554,7 +591,7 @@ export const buildListeningParaSlides = (
       autoPlay: {
         button: playBtn,
         trigger: () => {
-          if (autoTriggered || isPlaying || playCount >= maxPlays) {
+          if (submissionLocked || autoTriggered || isPlaying || playCount >= maxPlays) {
             return;
           }
           autoTriggered = true;
