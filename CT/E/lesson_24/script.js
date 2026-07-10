@@ -291,6 +291,14 @@ const createActivityAssessmentHooks = (activityKey, context = {}) => {
         marksPerQuestion: result.marksPerQuestion ?? context.marksPerQuestion,
         ...result,
       }),
+    saveState: (result = {}) =>
+      recordAssessmentResult(activityKey, {
+        type: resolvedType,
+        label: result.label || resolvedLabel,
+        marksPerQuestion: result.marksPerQuestion ?? context.marksPerQuestion,
+        submitted: false,
+        ...result,
+      }),
     getState: () => getActivityAssessment(activityKey),
   };
 };
@@ -1105,7 +1113,7 @@ const startInstructionCountdown = (controller) => {
 
   const { slide: slideObj, indicator } = controller;
 
-  if (!slideObj.autoPlay?.trigger || slideObj._autoTriggered) {
+  if (!slideObj.autoPlay?.trigger || slideObj._instructionAutoPlayHandled) {
     slideObj._instructionComplete = true;
     const activeController = instructionPlayback;
     instructionPlayback = null;
@@ -1139,8 +1147,8 @@ const startInstructionCountdown = (controller) => {
     instructionPlayback = null;
     cleanupInstructionController(activeController, { preserveContent: true });
 
-    if (slideObj.autoPlay && !slideObj._autoTriggered) {
-      slideObj._autoTriggered = true;
+    if (slideObj.autoPlay && !slideObj._instructionAutoPlayHandled) {
+      slideObj._instructionAutoPlayHandled = true;
       slideObj.autoPlay.trigger?.();
     }
 
@@ -1642,7 +1650,7 @@ const showSlide = (nextIndex) => {
   nextSlide.onEnter?.();
 
   nextSlide._instructionComplete = false;
-  nextSlide._autoTriggered = false;
+  nextSlide._instructionAutoPlayHandled = false;
   handleInstructionForSlide(nextSlide);
   nextSlide.element.scrollTop = 0;
   nextSlide.element.querySelectorAll(".dialogue-grid").forEach((grid) => {
